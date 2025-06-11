@@ -1,0 +1,9 @@
+Copyright 2025 Sarah Hamer
+
+All rights reserved.
+
+You may view, read, and examine the contents of this repository for personal, non-commercial purposes only. 
+
+You may not copy, modify, distribute, publish, or use any part of this codebase for any purpose, commercial or otherwise, without explicit written permission from the author.
+
+For inquiries about usage rights, contact SarahHamer.
