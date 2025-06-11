@@ -1,0 +1,163 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: CroTechHub
+Title: CroTechHub
+Country: Croatia
+Description: (mission, scope, services provided)
+Mission of the hub is to promote digitalization of products as a key competitive factor of SMEs.
+
+DIH will provide multiple level of support for SMEs to enable them to transform their business and to create new products that are “digitalized”.
+
+Services to be provided will range from building and ecosystem of companies which have expertise in different fields and industries but who complement each other in creating high tech digitalized products and their innovative usage to networking through conferences, B2B events and workshops. In this context services provided will include development of company’s competences in managing product development, digital transformation of their business and investment cycles. DIH will also provide access to technology for prototyping and advanced research equipment for developing more advanced digital solutions. These services reflect the national development level of companies in the field of digitalization and their absorption rate of new technologies and skills.
+
+Fragmented economy and low technology based industry requires that more effort is put in education and support for creation of minimum viable products
+Contact Person(s): Perić Emil
+Phone: +385 92 3269 706
+Email: emil.peric@crotechhub.com
+Location: Bukovačka cesta 105, Zagreb, Croatia
+Type: DIH
+Website: http://crotechhub.com
+------------------------------------------------------------
+EDIH Name: Crowd in Motion
+Title: EDIH for crowd technology and AI for motion data analytics: Use of Internet of Things, FabLabs and access to finance for the green and digital transformation of the alpine tourism and sports industry
+Country: Austria
+Description: Crowd in Motion is an EDIH aiming to accelerate the use of crowd technology and AI for motion data analytics through Internet of Things (IoT), FabLabs and access to finance for the green and digital transformation of the alpine tourism and sports industry. It effectively meets the needs of digital transformation in these sectors, e.g. lack of SME capacity, technology-strategic and operational issues and difficulties of digitalisation (cf. EC study on digitalisation in tourism 2018). Crowd in Motion contributes to the EU twin green and digital transition approach explored with the help of the innovative power of startups, SMEs and creative citizens. Based on a bottom up innovation approach, it uses crowd intelligence to identify citizen and customer needs and future market potential. Crowd in Motion’s broad portfolio comprises 68 digital innovation services focusing on SMEs’ individual training requirements and digital innovation maturity. The EDIH provides five regional experimentation facilities in digital fabrication and IoT labs (data sandboxes) in order to develop and test the added value of data based solutions for sustainable tourism. It offers access to finance for SMEs by leveraging private funds e.g. through crowdfunding support, matching initiatives with green public investments and innovative public procurement. The Crowd in Motion consortium is composed of 7 complementary partners and 45 committed national and European networks and experts.
+Contact Person(s): Veronika Hornung-Prähauser
+Phone: 4.36622E+11
+Email: veronika.hornung@salzburgresearch.at
+Location: Jakob-Haringer-Strasse 5/3, 5020 Salzburg, Austria
+Type: EDIH
+Website: https://www.crowd-in-motion.eu
+Active Sectors: Travel and tourism (very high involvement), Community-Led Local Development (moderate involvement), Public administration (high involvement), Transport & Mobility (very high involvement), Smart City (high involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (high involvement), Innovation management (very high involvement), Public sector innovation (high involvement), Sme Business Development (moderate involvement), Prototyping (high involvement), Technological innovation (high involvement), Finance (low involvement)
+Technological Focus: Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Location-based applications (moderate involvement), Sensors & Vision Processing Systems (high involvement), Gamification (high involvement), Artificial Intelligence & Decision support (moderate involvement)
+------------------------------------------------------------
+EDIH Name: CYBER4All STAR
+Title: CYBERsecurity 4 All STAkeholdeRs
+Country: Bulgaria
+Description: Engaging Bulgarian (and European) SMEs, mid-caps and public sector organizations (PSOs) in wide-scale digital transformation has been a challenging endeavor over the past decade. Costs reduction, operations efficiency optimization, and citizens’ empowerment triggered deployment of diverse ICT technologies across the Union, however at disparate speed and penetration levels, and often in a fragmented mode.
+Imminent cybersecurity threats ranging from lower level impact attacks, e.g. script kiddies, malware, etc. to highly sophisticated operations launched by cyber terrorists or state-sponsored actors are major challenges, which seem to be equally ambiguously addressed across the Union, leaving some stakeholders significantly more vulnerable than others. Ca. 60% of Dutch and German SMEs maintain log files for analysis after security incidents,while only 16-20% of Romanian and Bulgarian SMEs find it important to analyze those. Likewise, a cybersecurity breach landmark event of occurred in 2019 when the Bulgarian National Revenues Agency database was hacked, and personal data of more than 70% of all Bulgarian nationals was released online. 
+To bridge the cybersecurity divide in Bulgaria and the EU, the Digital Innovation Hub "Trakia" was formed as an association in the South-Central Region of Bulgaria in 2021, and the "CYBER4AllSTAR" EDIH project was launched in early 2023, offering cybersecurity expertise, access to experimentation facilities and services, access to finance, and ecosystem networking with disruptive technology suppliers in line with the EDIH Trakia service proposition.
+The Hub, coordinated by the oldest business union in Bulgaria (UPEE, member of ECSO), in collaboration with other Cybersecurity EDIHs across Europe (via the European Corridor of Cybersecurity EDIHs, initiated in 2022 by ECSO), is intended to offer a full range of cybersecurity services to all stakeholders with a special focus on SMEs, mid-caps and PSOs. Additionally, AI and HPC services are foreseen to be channeled to end users using the EDIH Network DTA-assisted capabilities. 
+The ultimate goal is to make it easy, cost-efficient and technologically-friendly to learn about and to adopt cybersecurity solutions, powered by HPC and AI (among other technologies) on a mass and integrated scale.
+Contact Person(s): Hristian Daskalov
+Phone: 3.59898E+11
+Email: h.daskalov@dihtrakia.org
+Location: Osogovo str. 51, 1000 Sofia, Bulgaria
+Type: EDIH
+Website: Website
+Active Sectors: Security (very high involvement), Defence (high involvement), Public administration (high involvement), Regulation (high involvement), Education (high involvement), Manufacturing and processing (moderate involvement), Agricultural biotechnology and food biotechnology (moderate involvement), Transport & Mobility (low involvement)
+Provided Services: Ecosystem building (very high involvement), SME support (very high involvement), Vocational training (high involvement), Knowledge transfer (high involvement), Public sector innovation (high involvement), Technology transfer (moderate involvement), Innovation management (moderate involvement), Finance (moderate involvement)
+Technological Focus: Cybersecurity (very high involvement), Internet Services & Applications (high involvement), Communication network (high involvement), Artificial Intelligence & Decision support (moderate involvement), Simulation engineering and modelling (moderate involvement), Blockchain and Distributed Ledger Technology (DLT) (low involvement), High performance computing (very low involvement), Quantum Technologies (computing/communication) (very low involvement)
+------------------------------------------------------------
+EDIH Name: CyberDIH
+Title: Cybersecurity Innovation Hub
+Country: Spain
+Description: The Cyber DIH is the Spanish EDIH candidate specialised in Cybersecurity officially launched in February 2019 in the City of LeÃ³n, Spain. This candidacy is the result of a public-private initiative driven by common understanding of the industry and society needs in the field of Cybersecurity. CyberDIH will contribute to leverage a Cybersecurity oriented Network of EDIHs starting to deliver cybersecurity-oriented digital transformation services particularly to SMEs and small public entities. The consortium has a relevant degree of maturity since they accumulated a strong experience and presence at national and international level. Coordinated by the AEI Ciberseguridad with more than 15 years of background, INCIBE as the National institute purely dedicated to promote Cybersecurity since 2006 and ICE driving the participation and commitment of the Regional Government of Castilla & LeÃ³n (JCyL) congregates a unique capacity to stimulate innovation and capacity as a referent in Spain aiming to contribute widely to the forthcoming EDIHs Network. The candidacy is founded or based on a quality system-based methodology to ensure accessible, available, efficient and valuable services for SMEs, public entities and mid-caps. In such way, the whole portfolio of services will be structured and focused on the service delivery capacity, the exhibition of such capacity to support and validate existing and new cybersecurity solutions, processes and services pivoting around the wide networking capacity of the consortium. INCIBE has a national scope, ICE is the EEN node in the region with international collaboration background and AEI has national nature and has set up a network of regional collaborative nodes in Spain and is also co-founder and board member of ECSO, the leading cyber-association in Europe; moreover, AEI already reached three complementary agreements with other cyber oriented and non cyber EDIHs.
+Contact Person(s): Amelia Alonso Soto
+Phone: +34 630 952 770
+Email: secretaria@aeiciberseguridad.es
+Location: Avda de jose aguado 41, 24001 León León, Spain
+Type: Seal of Excellence
+Website: https://www.cyberdih.com/
+Active Sectors: Aeronautics (low involvement), Automotive (moderate involvement), Defence (low involvement), Energy (low involvement), Public administration (high involvement), Security (high involvement), Space (moderate involvement), Telecommunications (moderate involvement), Smart City (low involvement), Transport & Mobility (low involvement), Travel and tourism (low involvement)
+Provided Services: Field trial (high involvement), Prototyping (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Ecosystem building (high involvement)
+Technological Focus: Cybersecurity (very high involvement), Artificial Intelligence & Decision support (moderate involvement), Big data (moderate involvement), Cloud Services (high involvement), Communication network (high involvement), High performance computing (low involvement), Internet of Things (high involvement), Internet Services & Applications (high involvement), optoelectronics (low involvement), Mobility (moderate involvement), Software Architectures (moderate involvement), Semiconductors and Nanotechnology (very low involvement)
+------------------------------------------------------------
+EDIH Name: CyberSec
+Title: National Center for Secure Digital Transformation
+Country: Poland
+Description: (CyberSec) National Centre of Secure Digital Transformation is a specialised European Digital Innovation Hub (EDIH) in cybersecurity area. Its main objective is to offer small and medium enterprises (SMEs) as well as state and self-government institutions the whole range of services that allow their secure existence in fully digitalized environment, and (in case of SMEs) implementing their own solutions that are technically mature but also resistant to cyberattacks. The offered services will be available for practically all organization, for which the fact of increasing their technological skills would require to enter the area of public networks together with the Industry 4.0 area (industrial networks) and the inherent threats. Having taken into account the aforementioned statements, the Centre has planned the following basic group of services: - Advisory and consulting services that range a single IT infrastructure (belonging to the service user). The objective is assuring the possibly highest level of protection of the inspected IT infrastructure, such that the organisation operating in digital environment remained resistant against cyber threats - Services assuring that the software created by EDIH customers has high level of resistance to cyber attacks by giving support to embed Secure Development Life Cycle (SDLC) - Management and monitoring services and active prevention against unauthorized attempts of accessing the resources (SOC – Security Operations Centre) To carry out the afore mentioned services specialized knowledge in cybersecurity area is essential. The deficit of specialists in this area is notable and according to forecasts it will get deeper. Lower enterprises and public institutions as well as large distributed enterprises face difficulties in gaining and maintaining specialists with relevant skills. (CyberSec) EDIH is designed to directly fill this gap, sharing knowledge and expertise plus embedding them inside the customers' organizations.
+Contact Person(s): Norbert Meyer
+Phone: +48 61 858-20-01
+Email: meyer@man.poznan.pl
+Location: Noskowskiego 12-14, 61-704 Poznan, Poland
+Type: EDIH
+Website: https://cyber-sec.net.pl/
+Active Sectors: Aeronautics (low involvement), Automotive (low involvement), Defence (moderate involvement), Education (high involvement), Energy (moderate involvement), Environment (low involvement), Financial (moderate involvement), Food and beverages (very low involvement), Health care (moderate involvement), Life sciences (moderate involvement), Metal working and industrial production (low involvement), Personal services (low involvement), Public administration (high involvement), Real estate (low involvement), wholesale or distribution (moderate involvement), Security (very high involvement), Smart City (high involvement), Space (moderate involvement), Telecommunications (high involvement), Transport & Mobility (moderate involvement), Transport sector (moderate involvement), Travel and tourism (very low involvement)
+Provided Services: Field trial (low involvement), Innovation management (moderate involvement), Knowledge transfer (very high involvement), SME support (very high involvement), Public sector innovation (high involvement), Technological innovation (high involvement), Vocational training (low involvement)
+Technological Focus: Artificial Intelligence & Decision support (moderate involvement), Big data (moderate involvement), Cloud Services (moderate involvement), Communication network (high involvement), Cyber-physical systems (high involvement), Cybersecurity (very high involvement), High performance computing (moderate involvement), Internet of Things (high involvement), Internet Services & Applications (very high involvement), Software Architectures (moderate involvement)
+------------------------------------------------------------
+EDIH Name: CybersecRDI: Cybersecurity Research, Development and Innovation Hub
+Title: CybersecRDI: Cybersecurity Research, Development and Innovation Hub
+Country: Croatia
+Description: CybersecRDI: Cybersecurity Research, Development and Innovation Hub, hosted within Innovation Centre Nikola Tesla (ICENT), is the key Croatian facility to support companies to become more competitive by improving their cybersecurity as well as cybersecurity products and services by up-taking education, research, development & innovation activities.
+CybersecRDI acts as one-stop-shop, helping Croatian companies to improve their cybersecurity products through efficient orchestrating of various stakeholders in cybersecurity innovation ecosystem such as research institutions, business support institutions and businesses operating in the field of cybersecurity that may contribute to the development and application of advanced cybersecurity solutions. CybersecRDI also provides connections with investors, facilitates access to financing for digital transformations, helps connect users and suppliers of cybersecurity innovations across the value chain and foster synergies between cybersecurity and other key enabling technologies (such as machine learning).
+Contact Person(s): Groš Stjepan
+Phone: 3.85916E+11
+Email: stjepan.gros@icent.hr
+Location: Unska 3, Zagreb, Croatia
+Type: DIH
+Website: http://www.icent.hr/en/CybersecRDI/
+------------------------------------------------------------
+EDIH Name: CYBIAH
+Title: Cybersecurity and AI Hub | France
+Country: France
+Description: CYBIAH is an European Digital Innovation Hub (EDIH) based in the Paris Region, dedicated to advancing cybersecurity initiatives with the potential for national and European expansion. Incubated at the heart of Campus Cyber (CCYB), CYBIAH benefits from exclusive access to top-tier cybersecurity experts, enabling the delivery of cutting-edge services to its diverse range of beneficiaries.
+Recognizing the prohibitive costs associated with cybersecurity solutions, CYBIAH aims to bridge the gap by forming a consortium comprising highly specialized expertise tailored to address the needs of public administrations and SMEs across various sectors. Collaborating with external cyber providers familiar with real-world challenges, CYBIAH strives to achieve two key objectives:
+
+
+Firstly, CYBIAH seeks to make exceptional cybersecurity services accessible to SMEs and public administrations. 
+
+
+Secondly, the goal is to foster cybersecurity maturity and innovation within the Paris Region, both among service providers and clients. 
+
+
+To support these objectives, CYBIAH has developed customized support packages based on the size, sector, and digital maturity of its beneficiaries.
+The comprehensive offerings include actions to facilitate digitalization, encompassing training to enhance digital skills and guidance on implementing best practices to achieve and maintain a robust security posture that dissuades potential attackers. The program is structured into four distinct steps – Onboarding, Assessment, Services, and Sustainability. Notably, steps one and two are provided at no cost under specific conditions, while steps three and four are available at preferential rates.
+CYBIAH's solutions span awareness and anticipation, total protection, as well as detection and reaction. This holistic approach ensures a well-rounded cybersecurity strategy. In summary, CYBIAH's commitment to accessibility, innovation, and tailored support positions it as a key player in advancing cybersecurity resilience across the Paris Region and beyond.
+Contact Person(s): Anne-Sophie Colleaux
+Phone: +33 789216065
+Email: anne-sophie@campuscyber.fr
+Location: 5-7 rue bellini, 92800 Puteaux, France
+Type: EDIH
+Website: https://www.cybiah.eu/
+Active Sectors: Manufacturing and processing (very high involvement), Health care (very high involvement), Public administration (very high involvement), Travel and tourism (very high involvement), wholesale or distribution (very high involvement)
+Provided Services: SME support (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement)
+------------------------------------------------------------
+EDIH Name: DAMAS
+Title: Digital Hub for Automotive and Aerospace
+Country: Italy
+Description: DAMAS (Digital innovation hub for AutoMotive and AeroSpace) was designated as a candidate to become an EDIH by the Italian Ministry of Economic Development (MISE). DAMAS is focused on two digital key technologies indicated by the Digital Europe Programme (DEP): HPC and AI. It is then specialised along the following digital enablers: Cloud & Edge computing; Big Data Analytics, High Performance Data analytics; Computational Fluid Dynamics; Virtual Reality/Augmented reality; Fast Prototyping including 3D printing; Additive manufacturing; Digital Twin Simulation & Modelling; Space Technologies - Geo Information and Sustainable Computing. Cybersecurity, a further DEP key technology, can be found among the capabilities of DAMAS partners but it was decided to activate structured collaborations with other EDIHs, to offer a full set of services in this domain, optimising DAMAS budget and focusing on core competencies. DAMAS is designed to act as one stop shop for SMEs, Mid-Caps and Large Enterprises that belong to the AutoMotive and Aerospace supply chains along with those PAs that use their products, supporting overall digital and green transformation. DAMAS vision relies on the increasing synergy between Automotive and Aerospace market segments. In that regard good examples coming from the US are Tesla and SpaceX, which have important economies of scale on digital technologies. DAMAS is based on a network of powerful HPC infrastructures that links together some of major Italian HPC systems both in terms of processing capabilities and in terms of storage, including the Leonardo DAVINCI-1 HPC system, the CINECA HPC systems and  CRS4, CINI and e-GEOS HPC facilities. DAMAS will establish a unique national-wide full-service one-stop-shop Automotive and Aerospace Innovation Hub for maximum coverage, leverage, impact and long-term sustainability in order to accelerate the uptake of AI and HPC technologies by Italian industries and to boost competitiveness and to foster new business models.
+Contact Person(s): Davide Marini
+Phone: 3.93346E+11
+Email: davide.marini@leonardo.com
+Location: Piazza Monte Grappa 4, 00195 Roma RM, Italy
+Type: Seal of Excellence
+Website: https://edih-damas.it
+Active Sectors: Aeronautics (very high involvement), Automotive (very high involvement), Space (very high involvement)
+Provided Services: Technology transfer (very high involvement), Circular economy (high involvement), Ecosystem building (very high involvement), Prototyping (high involvement), Smart Specialisation strategies (high involvement), SME support (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (moderate involvement), Sme Business Development (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Vocational training (very high involvement)
+Technological Focus: High performance computing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Cloud Services (low involvement), Digital twins (very high involvement), Gamification (high involvement), Internet of Things (low involvement), Virtual Reality (high involvement), Additive manufacturing (high involvement), Location-based applications (high involvement), Cyber-physical systems (moderate involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (very high involvement), Software Architectures (high involvement), Virtual Reality (high involvement)
+------------------------------------------------------------
+EDIH Name: DANTE
+Title: Digital Solutions for a Healthy, Active and Smart Life
+Country: Italy
+Description: The actions of DANTE EDIH will be centered on Technologies for Living Environments (Smart Living) and on Technologies for Active & Healthy Aging and for Home Care, with Technological Trajectories transversal to the sectors of intervention: Wellness and Comfort, Inclusion, Assistance, Safety, Health. The convergence between Digital Technologies and Enabling Technologies constitutes the base for the development of systems and services that include sensors (Sensing), components that process data and information (Reasoning), man-machine interfaces (Interacting) and actuators (Acting) , components that must communicate with each other (Communicating) to provide the assistance service. The combination of these disciplines opens up new opportunities for the development of autonomous, adaptive and collaborative systems that combine and integrate Robotics, Artificial Intelligence and IoT in an inseparable way. The identified catchment area will be at national territory, covering different regions, in a networked structure that has the objective to interact with many stakeholders, starting from the more than 400 existing members in the National Technological Cluster SMILE and extending it to other public and private entities. The proposal focuses on the application of Artificial Intelligence, Cyber ​​Security and High Performance Computing to the Smart Living and Health and Active Life sectors. The target will consist of stakeholders operating in the different market segments, like: Smart Home, Smart Living Environments, Social Housing, Telemedicine, Remote Monitoring & Assistance, Tele-Care, Mobile Health, Internet of Things, Service-Assistive and Rehabilitation Robots, Big Data for Health, Sensors and Integrated Systems, Wearable Devices. Particularly relevant for DANTE is the theme of the "Silver Economy", understood as the production and dissemination of goods and services for the aging population.
+Contact Person(s): Pietro Aleardo Siciliano
+Phone: +39 3357982047
+Email: pietroaleardo.siciliano@cnr.it
+Location: Via Monteroni, Campus Universitario Ecotekne pal a/3, 73100 Lecce LE, Italy
+Type: EDIH
+Website: https://dante-edih.clustersmile.it
+Active Sectors: Health care (very high involvement), Life sciences (high involvement), Environment (moderate involvement), Personal services (very high involvement), Smart City (high involvement), Telecommunications (moderate involvement), Textiles (low involvement), Public administration (moderate involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (low involvement), Knowledge transfer (moderate involvement), Prototyping (low involvement), Public sector innovation (moderate involvement), Smart Specialisation strategies (moderate involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), Communication network (moderate involvement), High performance computing (high involvement), Human computer interaction (moderate involvement), Internet of Things (high involvement), optoelectronics (low involvement), Robotics (high involvement), Sensors & Vision Processing Systems (high involvement), Software Architectures (moderate involvement)
+------------------------------------------------------------
+EDIH Name: DAoL
+Title: Digital Accelerator of Latvia
+Country: Latvia
+Description: The objectives of Digital Accelerator of Latvia (DAoL) are to promote digital transformation and innovation, to improve the competitiveness of Latvian companies and the quality of public services through new digital solutions, to boost investments in research and development of ICT technology. The objectives for the first 3 years: to develop fully operational EDIH, to support at least 1236 companies and organizations, to invest 3.5 mil. EUR in digital transformation (DEP & RRF), to trigger at least 2.4 mil. EUR from other financial sources. Specialisation of DAoL: - AI with specialisation in R&D of new digital products and digital services. - 5G incl. application in IoT, Internet of Energy, Connectivity technologies, Autonomous and controlled vehicles, robots. - GovTech incl. Government as a platform, Cybersecurity, Quantum technologies and EdTech. DAoL is designed as a one-stop agency to help entities become more competitive regarding their digitalisation processes, products, or services. Project involves 20 partners that will provide access to extensive research and technological experience as well as support for entrepreneurship and innovation. Consortium includes 4 partners with DIH experience, 3 leading and 3 regional universities from Latvia, innovative NGOs with long-term experience in providing support in high technologies, green technologies, regional and technological development. DAoL will provide access to the latest digital skills and will support product innovation. During the project it is planned to test digital maturity and prepare digital transformation roadmaps of at least 1236 entities, ensure access to testing, prototyping, and experimenting for at least 128 entities, involve in trainings at least 360 entities, attract financing to at least 46 entities, and have at least 40 collaborations. Project activities are planned for 3 years, provisionally from July 2022 till June 2025, project budget is 3,5 mil EUR, co-financing from DEP – 1,765 milEUR
+Contact Person(s): Baiba Berovska
+Phone: +371 29489720
+Email: baiba.berovska@idejukapitals.lv
+Location: Eksporta street 5, Riga, LV-1010, Latvia
+Type: EDIH
+Website: Website
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement), Internet of Things (very high involvement), Laser-based manufacturing and materials processing (very high involvement), Mobility (very high involvement), Quantum Technologies (computing/communication) (very high involvement), Sensors & Vision Processing Systems (very high involvement), Virtual Reality (very high involvement), Big data (very high involvement)
+------------------------------------------------------------

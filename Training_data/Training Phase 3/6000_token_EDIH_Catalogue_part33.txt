@@ -1,0 +1,163 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: InnovationAmp
+Title: Boosting Digitalisation in SouthWest of Bulgaria
+Country: Bulgaria
+Description: InnovationAmp (Digital Innovation Hub for Data Science, HPC and AI) has been founded in Sofia, Bulgaria at the end of 2020 by 10 organizations, combining the perfect complementarity in terms of infrastructure, specialization, expertise and experience. The main objective of EDIH IA is to support on a large-scale digital transformation of the SMEs, mid-caps and public entities offering a comprehensive set of services aimed to meet the regional needs, developing and unleashing the innovative potential of SMEs, improving urban mobility, the environment and public services, in the SouthWest region of Bulgaria. The services offered are based upon strong technical and business expertise complemented with modern Artificial Intelligence, Big Data and High-Performance Computing infrastructure. The target customers are manufacturing companies working in the field of Automotive, Mechatronic and Pharma sectors prioritized in the Integrated Plan for Development of SouthWest region 2021-2027, and public entities from Sofia, Blagoevgrad, Pernik and Kyustendil municipalities. The InnovationAmp has ambition to offer 6 type of high quality services to at least 45 SMEs and public authorities by build a strong team of experts in digital and green transformation, offering access to modern infrastructure and expertise, supporting the most prominent projects with additional funding opportunities, and bridging the technology complementarities with other EDIH in a favor of regional digital and green transformation.
+Contact Person(s): Bogdana VATASHKA
+Phone: 3.5989E+11
+Email: b.vatashka@sofiatech.bg
+Location: 111, Tsarigradsko shose blvd., Sofia, 1784 Bulgaria, 1784 Sofia, Bulgaria
+Type: Seal of Excellence
+Website: https://innovationamp.com/
+Active Sectors: Construction & Assembly (moderate involvement), Energy (moderate involvement), Manufacturing and processing (high involvement), Smart City (high involvement), Telecommunications (high involvement)
+Provided Services: Innovation management (high involvement), Prototyping (high involvement), Regional development (very high involvement), SME support (very high involvement), Sme Business Development (high involvement), Technology transfer (moderate involvement), Technological innovation (moderate involvement)
+------------------------------------------------------------
+EDIH Name: InnovTourism DIH
+Title: InnovTourism DIH -  Gateway for Tourism innovation & digitalization, strengthening the sector ecosystem and enabling technology adoption in the industry
+Country: Portugal
+Description: InnovTourism DIH was designed to act as a key reference within the Portuguese and European digital innovation ecosystem, supporting SMEs, Start-ups, and PA in the sector to strive for their digital transformation processes, thus directly contributing to the Digital Europe Programme strategy of bringing digital technology to businesses, citizens and public administration.
+The HUB consists of a not-for-profit one-stop shop offering strategic services and tools aimed at increasing organizations digitalization, sustainability, competitiveness, production, and commercialization of products or services. A tourism industry-dedicated innovation HUB in Portugal is the ideal opportunity to generate regional, national, and European-level digital solutions through technological experimentation, finance and business advising, training, and skills development, supporting organizations developing inexistent solutions, in full alignment with the European Digital Innovation HUB spirit.The HUB action will strategically cover specific technological domains like Artificial Intelligence (AI), IoT, Biometrics, Virtual Assistants, Medium and Advances Digital skills, Gamification, AR/VR, Cloud Computing, Data Analytics, Predictable Modelling, Geolocation, Blockchain, and Cybersecurity. These topics will stand as a reference within the HUB services InnovTourism DIH is a non-profit, public-private cooperation between ten entities, coordinated by NEST  Tourism Innovation Center Portugal (Cluster), followed by UniNova (Technology Interface Center), IPLeiria - Instituto Politécnico de Leiria (Entrepreneurship Knowledge Center), Algarve STP (Technology Developer), Beta-i (Accelerator), Turismo de Portugal (Tourism National Promoter), ACIFCCIM - Associação Industrial e Comercial do Funchal & Camara de Comércio e Indústria da Madeira, TTC "The Tomorrow Company" (Technology Developers), FI Group and Deloitte (Consultants).
+Contact Person(s): Manuel Trindade
+Phone: 3.51935E+11
+Email: manuel.trindade@innovtourism.pt
+Location: Praça do Municipio, 6200-000 Covihã, Portugal
+Type: Seal of Excellence
+Active Sectors: Food and beverages (high involvement), Smart City (high involvement), Travel and tourism (very high involvement), Transport & Mobility (low involvement)
+Provided Services: Circular economy (moderate involvement), Ecosystem building (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Sme Business Development (high involvement), SME support (high involvement), Technology transfer (very high involvement), Technological innovation (high involvement), Vocational training (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Cloud Services (high involvement), Communication network (moderate involvement), Cybersecurity (moderate involvement), Digital twins (moderate involvement), Internet of Things (high involvement), Internet Services & Applications (high involvement), Virtual Reality (high involvement)
+------------------------------------------------------------
+EDIH Name: INOVACIJSKI CENTAR NIKOLA TESLA
+Title: INOVACIJSKI CENTAR NIKOLA TESLA
+Country: Croatia
+Contact Person(s): Moslavac Forjan Davorka
+Phone: -6630
+Email: davorka.moslavac@icent.hr
+Location: Unska 3, Zagreb, Croatia
+Type: DIH
+------------------------------------------------------------
+EDIH Name: Insomnia Digital Innovation Hub
+Title: Insomnia Digital Innovation Hub
+Country: Spain
+Description: Insomnia is a Business Accelerator, Incubator and Digital Hub located in Valencia, Spain, working to improve innovation in the region of Valencia and support SMEs, and in particular industrial SMEs, to uptake the use of ICT and face the challenges of digitisation.
+We are located in the business and startup ecosystem of Valencia “La Marina” and have our own collaborative space (+4.000 m2) where we work to increase innovation and access to finance capacities of SMEs, mid-caps, start-ups and other agents; to conduct a permanent scouting worldwide to identify the most innovative solutions and companies (start ups, spin offs, scale ups, etc.) to attract talent to the city of Valencia and Spain; and run Digitisation Programmes and Training for Entrepreneurs and High Executives to make them know the last innovation advances and make the appropriate decisions to grow in the new economy.
+Since 2017, we are “Digital Innovation Hub” in the frame of an approved project within H2020-FoF-12 Call (Factories of the Future) and the I4MS initiative called CloudiFacturing, coordinated by Fraunhofer Institute.
+Main sectors: industry, metalurgy, ceramics, agroindustry, agro-food, automotive, tourism, logistics, fintech, legalteh, insurtech, proptech, publictech.
+Main technologies: artificial intelligence, virtual reality, augmented reality, big data, IoT, Cloud, HPC, 5G, 3D printing, robotics, blockchain, etc.
+Main services for SMEs
+
+Digital Innovation Hub (DIH): support for manufacturing SMEs to promote their uptake of ICTs. Open call promotion for the selection of experiments to be funded under the I4MS H2020 cascade mechanism. More information: http://www.innsomnia.es/insomnia-digital-innovation-hub
+Fintech Digital Program: support for SMEs and startups developing technologies and innovative in the Fintech field. Open call promotion for the selection of the best startups to be accelerated by Insomnia DIH during a 4-7 month program. More information: http://www.innsomnia.es/iv-convocatoria-fintech
+Insurtech Digital Program: support for SMEs and startups developing technologies and innovative in the Insurtech field. Open call promotion for the selection of the best startups to be accelerated by Insomnia DIH during a 4-7 month program. More information: http://www.innsomnia.es/i-convocatoria-insurtech
+Industry 4.0 Digital Program: support for SMEs and startups developing technologies and innovative projects in the Industry 4.0 field. Open call promotion for the selection of the best startups to be accelerated by Insomnia DIH during a 2-4 month program. More information: http://www.innsomnia.es/convocatoria-startups-pymes-reto-industrial-gsk-aranda
+Digital Immersion Program: Training Program addressed at CEO and Executives from SMEs to help them face the challenges of the digitisation and industrialization. More information: http://www.innsomnia.es/programa-inmersion-digital-empresarial
+Digital Training School: Digital assessment for companies learning code. More information: http://www.innsomnia.es/digital-training-school
+Tufinanziacion: support for SMEs to access finance to carry put innovative and tech projects. More information: https://www.tufinanziacion.com/
+Contact Person(s): Estevan Francisco
+Phone: 0034 960 420 421
+Email: festevan@innsomnia.es
+Location: Calle travesía, 15b. marina de valencia,, Valencia, Spain
+Type: DIH
+Website: http://www.innsomnia.es/
+------------------------------------------------------------
+EDIH Name: IoT-SmartSantander DIH
+Title: IoT-SmartSantander DIH
+Country: Spain
+Description: Internet of Things-SmartSantander is aiming at fostering the digital transformation of the primary, secondary and tertiary sectors leveraging on the experiences and success of the Internet of Things initiatives in which University of Cantabria and Santander Municipality have been leading in the past. As such, this DIH aims at offering technical support and guidance as well access to a plethora of enablers, tools, APIs, and data for implementing and assessing concrete solutions fitting the corresponding requirements.
+The deployment of services and applications relying on the IoT paradigm has brought a new way to provide urban services. Hence, urban utilities such waste management, water management, street lighting and many others rely on the ability to monitor the required service parameters for optimizing it with the consequent impact at city level.
+Contact Person(s): Muñoz Luis
+Phone: 34942201497
+Email: luis@tlmat.unican.es
+Location: Av. de los castros, s/n, Santander, Spain
+Type: DIH
+Website: http://dih.smartsantander.eu/
+------------------------------------------------------------
+EDIH Name: IP4FVG
+Title: IP4FVG
+Country: Italy
+Description: AREA Science Park is a system based on innovation, digital transformation, research and the development of new high technology businesses.
+Physical presence
+AREA Science Park owns and manages two campuses in Friuli Venezia Giulia, both near Trieste http://en.areasciencepark.it/park/why-to-become-a-tenant/ hosting more than 80 companies http://en.areasciencepark.it/park/companies/ and research centers http://en.areasciencepark.it/park/research-centres/ with a total of 2400 employees.
+AREA SCIENCE PARK DIH
+From the beginning of 2017 AREA Science Parkis operatingas a DIH, adding new specific services to its set of established best practice methodologies to support innovation processes in SMEs www.areasciencepark.it/innovazione/. This has been realized thanks to the partnership with primary tech actors that are tenants in our campuses and thanks to a vast set of top end/frontier tech infrastructures (ex: AREA owns and run a Synchrotron light machine).
+The website dedicated to DIH and innovation services are
+https://www.areasciencepark.it/innovazione/modello-intervento/
+http://www.openinnovationsystem.it/it/home/
+https://www.areasciencepark.it/digital-innovation-hub-ip4fvg/ 
+and https://www.areasciencepark.it/innovazione/ 
+
+and these days contents are migrating on the brand new website of IP4FVG – Industry Platform for Friuli Venezia Giulia www.ip4fvg.it, the new regional Platform for the digital transformation of SMEs (read more in the LINK To Regional/National Initiatives)
+The R&D activities carried out in AREA Science Park focus on five clusters: Life Sciences; Information Science, Electronics and Telecommunications; Physics, Materials, Nanotechnologies; Energy and the Environment; Qualified Services.
+Non profit Organization status
+Area Science Park is a public national research organization that promotes the development of innovation processes. Thus, AREA Science Park is a non profit public body that operates under direct control of the MIUR - Ministry of Education, Research and University.
+Statute: www.areasciencepark.it/chi-siamo/statuto-e-regolamenti/
+AREA’s mission is to contribute to the development of the business sector through innovation, technological research and digital transformation.
+Contact Person(s): Govetti Monica
+Phone: +39 349 4941833
+Email: monica.govetti@areasciencepark.it
+Location: Padriciano, 99, Trieste, Italy
+Type: DIH
+Website: http://www.ip4fvg.it
+------------------------------------------------------------
+EDIH Name: IP4FVG - EDIH
+Title: IP4FVG EDIH - Industry Platform for Friuli Venezia Giulia EDIH
+Country: Italy
+Description: Industry Platform 4 FVG - EDIH is the European DIH for Friuli Venezia Giulia (FVG) Region, Italy. Although the Region ranks among the top national innovators, its economy needs support to boost the benefits of digital & green transformation for SMEs & Public Administrations. Due to its geographical position on the border with Slovenia, Austria, Croatia, its activities acquire a transnational value, especially for Central Eastern Europe. In line with S4 priorities, it promotes the use of AI, HPC and Cybersecurity capacities and in 3 relevant sectors for FVG economy: Manufacturing, Agrobiotech and Energy&Environment. IP4FVG EDIH represents the evolution and scale-up of the regional DIH IP4FVG, fully operational since 2018 (supported by Sistema ARGO, an Institutional Protocol by the National Ministers of University and Research, Economic Development and Friuli Venezia Giulia Region) by a novel set of technologically specialized support services to boost adoption of digital and green technologies by regional SMEs and PAs and by granting access to the existing technological infrastructures for test-before-invest and skills building activities. It will also enable the outreach to complementary services and infrastructures provided by other EDIHs. Actions will be developed to support digitalization policies and stimulate the deployment of e-Government solutions. IP4FVG EDIH engages an ecosystem for digital innovation players, provides services for testing before investing, supports finding investments, financial and fiscal incentives, offers training and upskills services on digital capacities and fosters exchanges and enables local and extra regional SMEs and PAs to get access to the services and infrastructures by the European network of EDIH. A partnership composed by the main regional players representative of the quadruple helix ecosystem ensures competences and commitment to move towards the twin transition.
+Contact Person(s): Martina Terconi
+Phone: +39 040 3755258
+Email: martina.terconi@areasciencepark.it
+Location: Padriciano, 99, 34149 Trieste TS, Italy
+Type: Seal of Excellence
+Website: https://www.ip4fvg.it/
+Active Sectors: Manufacturing and processing (very high involvement), Agricultural biotechnology and food biotechnology (high involvement), Energy (very high involvement), Environment (high involvement), Construction & Assembly (high involvement), Cultural and creative economy (high involvement), Health care (moderate involvement), Life sciences (very high involvement), Public administration (moderate involvement), Metal working and industrial production (low involvement), Smart City (low involvement), Public administration (moderate involvement)
+Provided Services: Innovation management (very high involvement), Knowledge transfer (very high involvement), SME support (very high involvement), Circular economy (high involvement), Ecosystem building (moderate involvement), Prototyping (moderate involvement), Public sector innovation (moderate involvement), Sme Business Development (high involvement), Technological innovation (very high involvement), Smart Specialisation strategies (moderate involvement), Regional development (low involvement), Field trial (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Internet of Things (very high involvement), High performance computing (high involvement), Cybersecurity (high involvement), Simulation engineering and modelling (very high involvement), Additive manufacturing (high involvement), Mobility (moderate involvement), Virtual Reality (high involvement), Sensors & Vision Processing Systems (high involvement), Digital twins (high involvement), Cyber-physical systems (moderate involvement), Quantum Technologies (computing/communication) (moderate involvement), Robotics (moderate involvement), New technologies for Audio-Visual sector - Media (high involvement), Industrial biotechnology (moderate involvement), Big data (moderate involvement), Human computer interaction (moderate involvement)
+------------------------------------------------------------
+EDIH Name: IRIS
+Title: European Digital Innovation Hub of Navarre
+Country: Spain
+Description: European Digital Innovation Hub of Navarre (IRIS) is Navarre’s digital transformation accelerator, providing companies and public sector with high added-value services for experimentation, access to training, technological infrastructures and financial support, through a dynamic and interconnected ecosystem with access to best practices and technological players at national and European levels, strongly committed to becoming a relevant player in the EDIH network, expanding its collaboration outreach to other European regions. IRIS, with full support from the Regional Government of Navarre, is coordinated by ADItech and participated by the Region’s most relevant innovation ecosystem players, including Universities, RTOs, ICT providers, professional organizations and sectoral clusters, with an already ongoing track record of collaborations, and as a seamless space to address challenges, with Artificial Intelligence and High Performance Computing as clear driving technologies, and a focus on the Region’s main economic sectors i.e., automotive and mechatronic, agri-food, renewable energies, healthcare, and public sector, a reason for which Personalized Precision Medicine is one of its key performing areas. Fully aligned with its S4 strategy, IRIS is part of a major ambitious project under development along the 2020-2026 period aimed to improve the region’s digital innovation setup and capabilities.
+Contact Person(s): Andrea Urrecho
+Phone: +34 948293130
+Email: andrea.urrecho.bujo@aditech.com
+Location: Calle tajonar 20, 31006 Pamplona Navarra, Spain
+Type: EDIH
+Website: https://www.irisnavarra.com/edih/
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Food and beverages (very high involvement), Life sciences (very high involvement), Health care (very high involvement), Manufacturing and processing (high involvement), Public administration (high involvement), wholesale or distribution (moderate involvement), Transport & Mobility (high involvement), Energy (moderate involvement), Travel and tourism (low involvement), Automotive (moderate involvement), Environment (low involvement), Cultural and creative economy (very low involvement)
+Provided Services: Ecosystem building (high involvement), Finance (moderate involvement), Innovation management (high involvement), Knowledge transfer (moderate involvement), Prototyping (high involvement), Public sector innovation (moderate involvement), Smart Specialisation strategies (very high involvement), Technological innovation (high involvement), SME support (very high involvement), Vocational training (high involvement), Field trial (moderate involvement), Regional development (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), High performance computing (very high involvement), Industrial biotechnology (low involvement), optoelectronics (moderate involvement), Sensors & Vision Processing Systems (moderate involvement), Semiconductors and Nanotechnology (moderate involvement), Digital twins (moderate involvement), Virtual Reality (low involvement), Simulation engineering and modelling (high involvement), Additive manufacturing (low involvement), Internet of Things (high involvement), Cybersecurity (low involvement), Blockchain and Distributed Ledger Technology (DLT) (low involvement)
+------------------------------------------------------------
+EDIH Name: ITI Data Hub (The Data Cycle Hub)
+Title: ITI Data Hub (The Data Cycle Hub)
+Country: Spain
+Description: The mission of the Data Cycle Hub is to be a reference one-stop shop DIH in the Valencia region to foster data driven and artificial intelligence based innovation. The objective is to bridge the gap between research and industry, specifically SMEs, providing innovative solutions and services that require advanced data analytics, automatic learning and artificial intelligence.
+The Data Cycle Hub has a non-for-profit aim and is coordinated and led by ITI, also anon-for-profit Research Centre and a reference on Big Data and Artificial Intelligence in the Valencia region, with connection to all relevant stakeholders: industry, regional agencies, accelerators, Chamber of Commerce, education, providing a rich ecosystem of technological companies working on these fields.
+All the technologies covered by this DIH are around the DATA, from Data Gathering to Data visualization. In this sense, the DIH addresses Primarily Big Data and Artificial Intelligence, but also other key digital enabling technologies like Cyber Physical Systems, IoT, Cloud and High PerformanceComputing Platforms or statistics optimization.
+ITI is Founding member of Big Data Value Association (BDVA) and has been labelled by BDVA as iSpace the last 2 years. ITI is working hard in establishing the baseline for a network of Big Data and Artificial Intelligence DIHs.
+ITI has two main Data Hubs. One is focused on ITI own experiments with data and AI and the other is oriented to provide services to external experiments coming from more than 50 competence centres in the region and also from companies. The network of competence centres that ITI is leading, groups more than 20.000 SMEs that are potential users of the Data Cycle Hub Services.
+Contact Person(s): Sáez Domingo Daniel
+Phone: +34 963877069 / +34 690031006
+Email: dsaez@iti.es
+Location: C. nicolás copérnico, 7, 46980 paterna, 46980 Valencia, Spain
+Type: DIH
+Website: https://thedatacyclehub.com/en/
+------------------------------------------------------------
+EDIH Name: JSI
+Title: Jožef Stefan Institute
+Country: Slovenia
+Description: Jožef Stefan Institute (JSI) is the Digital Innovation Hub (DIH). As the central part of development, digitization and industrial relations at national and international level, the hub is establishing a system of collaboration between the IJS research departments, the domestic and foreign economy, and the partner networks within the Europe Enterprise Europe Network. The hub provides “one-stop shops” and cross-border technology transfer services in the EU and serves as a contact point for the local ecosystem in Slovenia. Jožef Stefan Institute DIH is an EDIH DIGI-SI that fosters the digital transformation of Small and Medium-sized Enterprises (SMEs), start-ups, scale-ups and Public Administration in four strategic priority areas identified in the forthcoming Slovenian smart specialisation strategy: Agri-food, Health, Tourism and Manufacturing. DIGI-SI has access to crucial infrastructure and highly skilled personnel central to foster the digital revolution in both NUTS2 regions of Slovenia and in Europe. The consortium consisting of seven partners with proven complementary expertise in digital transformation support, will take advantage of the existing resources and provide a single point of contact in all four priority areas of Digital Europe Programme: Artificial Intelligence, High Performance Computing, Cyber Security and Advanced Digital Skills. DIGI-SI also offers technology services within Robotics, Internet of Things, Big data, Blockchain and Augmented / Virtual reality. DIGI-SI delivers 70 services on entry, basic, and advanced levels and offer collaboration opportunities to Slovenian ICT players to become external digital technology/service providers providing complementary services to local and EU companies through the DIGI-SI online shop enabling matchmaking in demand and supply of digital resources.
+Contact Person(s): Tomaž Justin
+Phone: +386 1 477 3243
+Email: tomaz.justin@ijs.si
+Location: Jamova ulica 39, 1000 Ljubljana, Slovenia
+Type: DIH
+Website: http://tehnologije.ijs.si/en/?page_id=5080
+Active Sectors: Aeronautics (moderate involvement), Agricultural biotechnology and food biotechnology (moderate involvement), Automotive (high involvement), Defence (moderate involvement), Electricity (moderate involvement), Energy (high involvement), fuels and petroleum engineering (moderate involvement), Environment (very high involvement), Health care (very high involvement), Life sciences (very high involvement), Manufacturing and processing (very high involvement), Telecommunications (moderate involvement), Nuclear (very high involvement), Security (moderate involvement), Smart City (very high involvement)
+Provided Services: Circular economy (moderate involvement), Innovation management (high involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Smart Specialisation strategies (high involvement), Sme Business Development (moderate involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (moderate involvement), Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), BI tools (high involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Cloud Services (moderate involvement), Cyber-physical systems (moderate involvement), Cybersecurity (very high involvement), Digital twins (high involvement), High performance computing (high involvement), Human computer interaction (moderate involvement), Industrial biotechnology (very high involvement), Internet of Things (moderate involvement), Laser-based manufacturing and materials processing (moderate involvement), optoelectronics (moderate involvement), Virtual Reality (moderate involvement), Organic and large area electronics (moderate involvement), Photonics (very high involvement), Quantum Technologies (computing/communication) (very high involvement), Robotics (very high involvement), Semiconductors and Nanotechnology (high involvement), Sensors & Vision Processing Systems (moderate involvement), Simulation engineering and modelling (moderate involvement), Software Architectures (moderate involvement)
+------------------------------------------------------------

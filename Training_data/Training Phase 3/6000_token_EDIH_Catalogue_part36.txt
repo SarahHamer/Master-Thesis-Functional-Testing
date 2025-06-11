@@ -1,0 +1,160 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: MDZ KL
+Title: Mittelstand-Digital Zentrum Kaiserslautern
+Country: Germany
+Description: The Mittelstand-Digital center Kaiserslautern is part of the initiative “Mittelstand-Digital“ by the German Federal Ministry for Economic Affairs and Climate Action (www.mittelstand-digital.de). The Mittelstand-Digital centres, which are located all across Germany, show how digitalisation, innovative networking solutions and Industrie 4.0 applications are used in the daily business practice and they provide active support in the implementation of projects regarding digitalisation. The Mittelstand-Digital Zentrum Kaiserslautern supports companies from Rhineland-Palatinate and beyond. We offer a broad, up-to-date wealth of knowledge and valuable practical experience in the field of Industry 4.0, AI-(Readiness), datadriven businessmodels and sustainable digitalisation. We focus especially on making the findings from many years of research and implementation work available to small and medium-sized enterprises. Funded by the German Federal Ministry for Economic Affairs and Climate Action (Bundesministerium für Wirtschaft und Klima (BMWK)) Keywords: all german SMEs
+Contact Person(s): Anne Schmallenbach
+Phone: +49 631 205757035
+Email: anne.schmallenbach@smartfactory.de
+Location: Trippstadterstraße 122, 67663 Kaiserslautern, Germany
+Type: DIH
+Website: https://digitalzentrum-kaiserslautern.de/
+Active Sectors: Construction & Assembly (moderate involvement), Consumer products (very high involvement), Cultural and creative economy (low involvement), Financial (low involvement), Food and beverages (low involvement), Leather (low involvement), Manufacturing and processing (high involvement), Metal working and industrial production (high involvement), NMP Non-Metallic Materials & basic processes (high involvement), Personal services (moderate involvement), Real estate (very low involvement), wholesale or distribution (very high involvement), Telecommunications (low involvement), Textiles (low involvement), Transport sector (high involvement), Travel and tourism (low involvement), Paper and wood (high involvement), Polymers and plastics (high involvement), Security (low involvement)
+Provided Services: Circular economy (very high involvement), Innovation management (high involvement), Knowledge transfer (high involvement), Prototyping (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Cyber-physical systems (high involvement), Digital twins (high involvement), Internet of Things (very high involvement), Sensors & Vision Processing Systems (very high involvement)
+------------------------------------------------------------
+EDIH Name: MDZ Smarte Kreislaeufe
+Title: Mittelstand-Digital Zentrum Smarte Kreislaeufe
+Country: Germany
+Description: The Mittelstand-Digital Center Smart Circular Economy prepares you for the future and provides you with cross-industry assistance on the following topics: Sustainability | Circular economy - What technologies are available for the circular economy? - Which verification obligations can be supported by data-based assistance systems support? Change management | Data economy - How do I recognize trends and what tools can an SME use for this? - How can internal processes be designed more efficiently? IIoT: from the sensor to the cloud - How can existing systems be made fit for more efficient data acquisition? - What are occasions for IoT projects? New Work | Start-ups - How can the team be involved in the design of digital New Work concepts? - How can new digital business models be developed? Smart + big data | AI - What opportunities and risks arise from AI applications? - Which specific AI applications can be used in the company? Social aspects of sustainability - How can employees be trained to fulfill social obligations along the supply chain? - How are stakeholder relationships established and maintained? The Mittelstand-Digital Center Smart Circular Economy is part of Mittelstand-Digital. The Mittelstand-Digital network offers comprehensive support for digitalization with its Mittelstand-Digital Centers and the initiative IT Security in Business. Small and medium-sized enterprises benefit from from concrete practical examples and provider-neutral offers for qualification and IT security. The Federal Ministry for Economic Affairs and Climate Protection enables the free use of and provides financial subsidies.
+Contact Person(s): Anja Merker
+Phone: +49 30 72622048
+Email: amerker@textil-mode.de
+Location: Reinhardtstr. 14, 10117 Berlin, Germany
+Type: DIH
+Website: https://www.digitalzentrum-smarte-kreislaeufe.de/
+Active Sectors: Automotive (low involvement), Consumer products (high involvement), Health care (high involvement), Leather (very high involvement), Manufacturing and processing (very high involvement), Textiles (very high involvement), Paper and wood (moderate involvement)
+Provided Services: Circular economy (moderate involvement), Innovation management (moderate involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), SME support (high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (low involvement), Artificial Intelligence & Decision support (high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (low involvement), Cyber-physical systems (high involvement), Digital twins (very high involvement), Internet of Things (very high involvement), Robotics (high involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (moderate involvement)
+------------------------------------------------------------
+EDIH Name: MDZ Spreeland
+Title: Mittelstand-Digital Zentrum Spreeland
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Spreeland informs small and medium-sized enterprises (SMEs) in the state of Brandenburg and the region Upper Lusatia about the opportunities and challenges of digitalisation. Do you have specific digital problems in your company that you want to tackle? Or would you like to start a digitalisation project as a company yourself? Then you've come to the right place! We provide you with vendor-neutral support - at no cost to you. The aim of the centre is to improve the holistic understanding of digital transformation in SMEs and to support the implementation of future-proof digital applications. SMEs are supported in their digital transformation through concrete digital applications, demonstration and testing opportunities, experience spaces, customisable offers for companies and a large number of practical examples. Employees, social partners and managers are actively involved at an early stage in order to introduce new technologies and business systems in an employee-friendly way. One focus of our work is our AI trainer programme, which supports you in the introduction of artificial intelligence (AI) in your company. Specific use cases are used to demonstrate the benefits of AI in the areas of data analysis, assistance systems and intelligent production. In our workshops, we train your employees - also in company-specific formats. Various demonstrators are made available in our roadshow and in our stationary model factories in Cottbus and Wildau. Companies can also train their own AI algorithms in the Open AI Lab. We also address questions about the influence of AI on entrepreneurs and works councils and provide advice on how to organise its introduction. Activities: - Inform - Train - Realise - Networking - individual offers (workshops, projects) - AI & 5G test environment Industries: cross-sector, manufacturing industry Project Management Organisation: DLR project management organisation Funding Organisation: Federal Ministry for Economic Affairs and Climate Protection (BMWK)
+Contact Person(s): Randolf Schmitt
+Phone: 44184
+Email: info@digitalzentrum-spreeland.de
+Location: Lg3a, siemens-halske-ring 14, 03046 Cottbus, Germany
+Type: DIH
+Website: https://www.digitalzentrum-spreeland.de/
+Active Sectors: Automotive (low involvement), Construction & Assembly (high involvement), Education (moderate involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Transport & Mobility (high involvement)
+Provided Services: Innovation management (high involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (low involvement), Artificial Intelligence & Decision support (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Cyber-physical systems (high involvement), Cybersecurity (high involvement), Digital twins (moderate involvement), Human computer interaction (high involvement), Internet of Things (high involvement), Logistics (high involvement), Virtual Reality (very high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (high involvement)
+------------------------------------------------------------
+EDIH Name: MDZH
+Title: Mittelstand-Digital Zentrum Hannover
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Hannover offers company meetings, training and support for digitalization and AI projects in companies. Thanks to funding from the Federal Ministry for Economic Affairs and Climate Action, the center's services are free of charge. The aim of the center is to enable companies to independently create the conditions to drive forward digitalization measures and use artificial intelligence.
+Contact Person(s): Gerold Kuiper
+Phone: +49 511 762 18325
+Email: kuiper@mitunsdigital.de
+Location: Osteriede 6, 30827 Garbsen, Germany
+Type: DIH
+Website: https://digitalzentrum-hannover.de/
+Active Sectors: Education (very high involvement)
+Provided Services: Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Public sector innovation (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), Internet of Things (very high involvement), Virtual Reality (very high involvement)
+------------------------------------------------------------
+EDIH Name: MDZLR
+Title: Mittelstand-Digital Zentrum Ländliche Regionen
+Country: Germany
+Description: Als Mittelstand-Digital Zentrum richten wir unseren Fokus gezielt auf kleine und mittlere Unternehmen in ländlichen Regionen und unterstützen sie bei der digitalen Transformation. Mit unserem breitgefächerten Angebot adressieren wir dabei gezielt die Bedürfnisse und Herausforderungen von KMU und unterstützen sie dabei, sich zukunftsfähig und resilient aufzustellen. Wir verfolgen einen menschzentrierten, sozialpartnerschaftlichen und nachhaltigen Ansatz und sind überzeugt, dass Digitalisierung nur gemeinsam gelingen kann. Aus diesem Grund steht bei uns nicht die Technik, sondern der Mensch, der sie nutzt, im Mittelpunkt. Um die anstehenden Transformationsherausforderungen erfolgreich zu meistern, müssen Digitalisierung und Nachhaltigkeit immer zusammengedacht werden, sowohl auf ökologischer, ökonomischer als auch sozialer Ebene. Mit unseren Angeboten wollen wir KMU die Chancen und Möglichkeiten, aber auch konkrete Anwendungsbereiche von Digitalisierung näherbringen. Mit Informations- und Vernetzungsveranstaltungen wollen wir aktuelles Digitalisierungswissen aufbauen und Unternehmen die Möglichkeit geben, sich zu Digitalisierungsthemen auszutauschen und voneinander zu lernen. Unsere Qualifizierungs- und Workshopformate richten sich an alle Mitarbeiter:innen in Unternehmen und vermitteln Know-how und Methoden, um die Digitalisierung im eigenen Unternehmen umzusetzen. Im Rahmen von Projekten unterstützen wir Unternehmen bei der gezielten Umsetzung von Digitalisierungsvorhaben. Unsere Demonstratoren machen digitale Innovationen erlebbar und zeigen die Machbarkeit von Digitalisierungslösungen. Unser Angebot ist für Unternehmen kostenfrei, anbieterneutral und praxisnah. Das Mittelstand-Digital Zentrum Ländliche Regionen gehört zu Mittelstand-Digital. Mit dem Mittelstand-Digital Netzwerk unterstützt das Bundesministerium für Wirtschaft und Klimaschutz die Digitalisierung in kleinen und mittleren Unternehmen und dem Handwerk. Das Mittelstand-Digital Netzwerk bietet mit den Mittelstand-Digital Zentren, der Initiative IT-Sicherheit in der Wirtschaft und Digital Jetzt umfassende Unterstützung bei der Digitalisierung. Kleine und mittlere Unternehmen profitieren von konkreten Praxisbeispielen und passgenauen, anbieterneutralen Angeboten zur Qualifikation und IT-Sicherheit. Das Bundesministerium für Wirtschaft und Klimaschutz ermöglicht die kostenfreie Nutzung und stellt finanzielle Zuschüsse bereit.
+Contact Person(s): Thomas Crämer
+Phone: +49 271 740 2916
+Email: craemer@digitalzentrum-lr.de
+Location: Kohlbettstr. 15, 57072 Siegen, Germany
+Type: DIH
+Website: https://digitalzentrum-lr.de/
+Active Sectors: Automotive (moderate involvement), Construction & Assembly (moderate involvement), Consumer products (moderate involvement), Health care (moderate involvement), Manufacturing and processing (moderate involvement), Personal services (moderate involvement), Textiles (moderate involvement), Transport sector (moderate involvement), Paper and wood (moderate involvement), Polymers and plastics (moderate involvement), Transport & Mobility (moderate involvement)
+Provided Services: Circular economy (moderate involvement), Field trial (high involvement), Innovation management (moderate involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Regional development (moderate involvement), Sme Business Development (moderate involvement), SME support (moderate involvement), Technological innovation (moderate involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (moderate involvement), Artificial Intelligence & Decision support (moderate involvement), Big data (moderate involvement), Cloud Services (moderate involvement), Communication network (moderate involvement), Cyber-physical systems (moderate involvement), Cybersecurity (moderate involvement), Gamification (moderate involvement), High performance computing (moderate involvement), Human computer interaction (moderate involvement), Internet of Things (moderate involvement), Laser-based manufacturing and materials processing (moderate involvement), Location-based applications (moderate involvement), Logistics (moderate involvement), Mobility (moderate involvement), Virtual Reality (moderate involvement), Sensors & Vision Processing Systems (moderate involvement), Simulation engineering and modelling (moderate involvement), Software Architectures (moderate involvement)
+------------------------------------------------------------
+EDIH Name: MDZT
+Title: Mittelstand Digital Zentrum Tourismus
+Country: Germany
+Description: The Mittelstand-Digital Centre for Tourism supports small and medium-sized enterprises in the tourism industry in their sustainable digital transformation. It provides practice-orientated knowledge on digital technologies, data systems and other digital solutions along the entire travel chain. It connects businesses and digital solution providers and focusses on technology and future topics that are particularly relevant to the industry. By offering targeted information, events, workshops and mentoring programmes, it enables companies in the tourism industry to make their business models resilient and, in the best case, sustainable and regenerative. The Mittelstand-Digital Centre for Tourism is part of Mittelstand-Digital. With the SME Digital Network, the Federal Ministry for Economic Affairs and Climate Protection (BMWK) supports digitalisation in small and medium-sized enterprises and the skilled trades. The BMWK enables free use and provides financial subsidies. Further information can be found at www.mittelstand-digital.de.
+Contact Person(s): Dr. Simone Wurster
+Phone: 4.93031E+11
+Email: simone.wurster@tu-berlin.de
+Location: Technische universität berlin, hardenbergstr. 16-18, 10623 Berlin, Germany
+Type: DIH
+Website: https://digitalzentrum-tourismus.de/
+Active Sectors: Cultural and creative economy (moderate involvement), Travel and tourism (very high involvement)
+Provided Services: Innovation management (moderate involvement), Knowledge transfer (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technology transfer (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Cybersecurity (moderate involvement), Internet Services & Applications (high involvement), Mobility (low involvement)
+------------------------------------------------------------
+EDIH Name: MECH-E-DIH
+Title: Establishment and development of Digital Innovation Hub Mechanika, Bulgaria
+Country: Bulgaria
+Description: The project’s main objective is to establish and develop Digital Innovation Hub Mechanika in town of Peshtera, South Central Region of Bulgaria, which supports SMEs, small-midcaps and public entities in digital transformation through providing services as testing before investing and trainings and consultancy, as well as through providing support to find investment and to find effective collaborations in regional innovation ecosystem. The DIH Mechanika digitalisation objectives are focused on footwear and garment production industry and the related to the shoe industry green and low-carbon technologies. Project’s objectives will be achieved through investments in robotics and 3D technologies for the establishment of digitalisation and industrial design center within the hub, through providing access and services to SMEs, small-midcaps and public entities in development of digital and low-carbon technologies for the footwear and garment industry, as well as through activities for networking and cooperation. The described project’s objectives correspond to the priorities of the call for proposals. The project as well as the programme aims at developing capacities in advance digital skills and best use of technologies for accelerating economic development. Both, the project and the programme aim at accelerating digital transformation in SMEs, small-midcaps and public organisations and both the project and the programme are focusing on development of Industry 4.0 principles through introduction of AI and digital technologies in the manufacturing process. The effect of the project implementation is the increased capacity for digital transformation and innovation activities, including increased innovation potential in the South Central planning region in the field of automation and digitalisation of the footwear and garment industry.
+Contact Person(s): Gyursel Ingilizov
+Phone: 3.59887E+11
+Email: office@ingilizgroup.com
+Location: 1 hristo cikalov str., 4550 Peshtera, Bulgaria
+Type: Seal of Excellence
+Active Sectors: Leather (very high involvement), Manufacturing and processing (very high involvement)
+Provided Services: Prototyping (very high involvement), Innovation management (very high involvement), Technological innovation (high involvement), Vocational training (high involvement), Circular economy (high involvement)
+Technological Focus: Robotics (high involvement), Additive manufacturing (high involvement), Simulation engineering and modelling (moderate involvement)
+------------------------------------------------------------
+EDIH Name: MicroCyber
+Title: MicroCyber
+Country: Italy
+Description: The MicroCyber EDIH aims at establishing a set of services and infrastructures focusing on cybersecurity, to be offered to Micro and Small, and enterprises (MSE) in the South of Italy while also supporting public entities – both local and central – in understanding their cybersecurity needs. 
+MSEs in the South of Italy need to improve their cybersecurity awareness and preparedness, as a key enabler for operating and thriving in the digital economy. Still, these MSEs are often unable to face the costs for accessing resources needed to improve their cyber-preparedness and are not able to find training and capacity building programs tailored to their needs and resources availability.
+To respond to these needs, MicroCyber offers a diversified set of services devoted to its target groups, including assessment of digital and cyber maturity and relevant needs, cyber-range activities to explore and test cybersecurity scenarios and solutions, personalised skills and training activities, networking, also via the involvement in ecosystems and events, as well as support services to access microfinance tools and other financial resources, which the MicroCyber EDIH is perfectly positioned to deliver leveraging the unique expertise of its Coordinator, Ente Nazionale per il Microcredito (ENM).
+At the same time, the MicroCyber can build on the unique combination of expertise available within its consortium, with public entities, universities, large SMEs associations, research consortia, private consultancy companies, all equally committed to deliver the highest quality in services, while offering networking and collaboration with the best digital expertises in Europe, via other EDIHs, the Digital Transformation Accelerator, and a variety of other networks in the digital domain available at the local and national level.
+Contact Person(s): Giovanni Nicola Pes
+Phone: 3.90687E+11
+Email: centrostudi@microcredito.gov.it
+Location: Via vittoria colonna 1, 00193 Roma RM, Italy
+Type: EDIH
+Website: https://www.microcyber.eu/2025/
+Active Sectors: Manufacturing and processing (high involvement), Community-Led Local Development (high involvement), Consumer products (high involvement), Financial (high involvement), Public administration (high involvement), wholesale or distribution (very high involvement)
+Provided Services: SME support (very high involvement), Knowledge transfer (high involvement), Technology transfer (high involvement), Technological innovation (high involvement), Ecosystem building (moderate involvement)
+Technological Focus: Cybersecurity (very high involvement), Internet Services & Applications (moderate involvement)
+------------------------------------------------------------
+EDIH Name: MIDAS
+Title: Manufacturing Innovation Digital Advancement Services Hub
+Country: Türkiye
+Description: MIDAS is dedicated to transforming the manufacturing sector through comprehensive digital and green innovation initiatives, with a primary focus on supporting Small and Medium-sized Enterprises (SMEs) within Türkiye and the broader European Union framework. By establishing a European Digital Innovation Hub (EDIH) in Türkiye, MIDAS bridges the gap between cutting-edge digital technologies and the evolving needs of the manufacturing industry. The hub offers a wide array of services designed to enhance digital capabilities, foster innovation, and drive sustainable growth among SMEs.
+Key Objectives and Services
+1. Supporting Digital and Green Transformation
+
+Digital Maturity Assessments: Evaluate the digital capabilities of 100 SMEs using advanced tools like DMA and SIRI to create tailored transformation strategies.
+Training Programs: Enhance digital literacy and skills in AI, Big Data, Machine Learning, and Web 3.0 through targeted training initiatives.
+Consultancy and Mentorship: Provide personalized consultancy to develop Digital Maturity Plans, access funding opportunities, and integrate innovative solutions.
+Pre-Investment Testing: Offer a dedicated demo hub with the latest digital infrastructure, enabling SMEs to test and adopt suitable technologies before significant investments.
+
+2. Increasing Organisational and Financial Capacities
+
+
+Comprehensive Support Package: Provide access to digital tools that improve organizational efficiency, enhance marketing strategies, drive R&D activities, and develop high-quality products while reducing costs.
+
+
+Funding Access: Assist SMEs in navigating financial barriers by connecting them with funding sources such as SME loans, venture capital, angel investors, and government incentives through partnerships with ISTKA and ARI.
+
+
+Workshops and Webinars: Conduct interactive workshops and webinars to share knowledge, best practices, and build a robust innovation ecosystem, engaging over 600 participants and providing hands-on training for 64 SMEs.
+
+
+3. Collaborating with the European Digital Innovation Hubs Network
+
+Networking and Collaboration: Establish strong connections with existing EDIHs across Europe, such as ITBaltic, to foster long-term partnerships and collaborative projects, enabling resource sharing and joint innovation initiatives.
+Stakeholder Engagement: Unite key industries, organizations, regulatory bodies, startups, and SMEs to create a vibrant collaborative environment and produce policy recommendation papers based on empirical evidence.
+International Research and Innovation Calls: Facilitate participation in prestigious programs like Horizon Europe, Eurostars, Eureka, Eranet, Digital Europe Program, TÜBİTAK, and KOSGEB, thereby increasing the visibility and competitiveness of Turkish SMEs on a global scale.
+Contact Person(s): İclal DEMİRTAŞ
+Phone: 0212 454 0638
+Email: iclal.demirtas@itkib.org.tr
+Location: Yenibosna Mah. Sanayi Cad. Dış Ticaret Kompleksi, B Blok, 34197 Istanbul, İstanbul, Türkiye
+Type: EDIH
+Website: https://www.ihkib.org.tr/en
+Active Sectors: Textiles (very high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Polymers and plastics (high involvement), Consumer products (moderate involvement), Electricity (moderate involvement), Energy (low involvement), Environment (low involvement)
+Provided Services: Sme Business Development (very high involvement), SME support (very high involvement), Circular economy (very high involvement), Ecosystem building (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (very high involvement), Regional development (high involvement), Smart Specialisation strategies (high involvement), Technological innovation (high involvement), Technology transfer (high involvement), Vocational training (high involvement), Prototyping (moderate involvement)
+Technological Focus: Internet of Things (very high involvement), Additive manufacturing (very high involvement), Laser-based manufacturing and materials processing (very high involvement), Artificial Intelligence & Decision support (very high involvement), BI tools (high involvement), Big data (high involvement), Cyber-physical systems (high involvement), Digital twins (high involvement), Displays (high involvement), Internet Services & Applications (high involvement), Simulation engineering and modelling (high involvement), Sensors & Vision Processing Systems (high involvement), Robotics (moderate involvement), products) (moderate involvement), Cloud Services (moderate involvement)
+------------------------------------------------------------

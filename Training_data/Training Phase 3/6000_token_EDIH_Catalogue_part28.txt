@@ -1,0 +1,197 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: Flanders AI EDIH
+Title: Flanders Artificial Intelligence European Digital Innovation Hub
+Country: Belgium
+Description: Given the technology potential of AI, there is an urgency to accelerate the adoption of AI by SMEs and other organisations.
+The Flanders AI EDIH intents to accelerate the adoption of AI among by an integrated service offering:
+(1.) Test before invest: initial advice, individual coaching, AI technical feasibility study, legal workshops and our special co-operation with commercial AI agencies, called "Start AI"
+(2.) Skills and training: inspiration sessions, thematic webinars & events, masterclasses and summer schools
+(3.) Innovation ecosystem and networking: talent & skills matchmaking, matchmaking on AI supply & demand, matchmaking on joint research and our large annual AI event called "Flanders AI Forum" (next edition: spring 2024).
+The Flanders AI EDIH strengthens the Flemish Industry Partnership (Industriepartnerschap), the Flanders AI Academy (VAIA) and the Knowledge Center Data & Society (Kenniscentrum Data & Maatschappij).
+The Flanders AI EDIH consists of complementary partners who guarantee a cross-sectoral and accessible Flemish operation, with a local physical presence in every Flemish province. Additionally, the EDIH is aligned and maintains direct links with existing innovation actors and initiatives (such as the spearhead clusters), the Flemish AI policy plan, the Flanders AI Research Program and Enterprise Europe Network (EEN) Flanders. At European level, the Flanders AI EDIH has ongoing collaborations through the AI DIH Network, the Smart Connectivity DIH Network (SCoDIHNet), the EPoSS Smart Systems EDIH Task Force, the Vanguard AI Pilot.
+Contact Person(s): Gilles Wuyts
+Phone: 32496130670
+Email: gilles.wuyts@imec.be
+Location: Kapeldreef 75, 3001 Leuven, Belgium
+Type: EDIH
+Website: https://flandersaihub.eu/
+Active Sectors: Manufacturing and processing (very high involvement), Transport & Mobility (very high involvement), Textiles (very high involvement)
+Provided Services: Technological innovation (very high involvement), Ecosystem building (moderate involvement), SME support (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Digital twins (moderate involvement)
+------------------------------------------------------------
+EDIH Name: Flanders Make
+Title: Flanders Make
+Country: Belgium
+Description: The goal of DIGITALIS partners is to primarily help Flemish end user manufacturing SMEs in their digital and green transition. Although the prime focus is on SMEs we will also support bigger companies when applicable and especially when a connection can be made with an SME. Therefore our prime goals are: 1. Increase the uptake of digital technologies on the shopfloor of manufacturing SMEs 2. Increase the level of digital skills on the shopfloor 3. Play an active role in the European network of Digital Innovation Hubs 4. Actively contribute to the European Green Deal goals The partnership will work together in a lean governance model (see WP6) and provide a broad range of services: • Testing – manufacturing SMEs will be offered access to the DIGITALIS infrastructures to be able to test new digital shop floor technologies before implementing them – see WP2 • Providing training related to digital skills – DIGITALIS will train and upskill the workforce in manufacturing companies. To fully deploy the benefits of digitalisation different trainings will be offered for different levels in the organisation (shop floor people as well management, engineering, support) – see WP3 • Support to find the necessary financial means – we will help manufacturing SMEs to define the funds needed for the digital transition and in finding the most suitable financial means for the digital projects to fast-track the implementation at the SMEs – see WP4 • Ecosystem – we will enhance peer to peer learning both regional and on a European level and connect technology suppliers with end user SMEs to expand the digital ecosystem – see WP5 Participation in different living labs organized by our national funding agency. Act as technology service provider for the industry.
+Contact Person(s): Ger Van Den Kerkhof
+Phone: 32497438247
+Email: ger.vandenkerkhof@flandersmake.be
+Location: Oude diestersebaan 133, 3920 Lommel, Belgium
+Type: DIH
+Website: https://www.flandersmake.be
+Active Sectors: Automotive (very high involvement), Construction & Assembly (moderate involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (moderate involvement), Transport & Mobility (very high involvement)
+Provided Services: Circular economy (high involvement), Finance (high involvement), Innovation management (very high involvement), Prototyping (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Communication network (high involvement), Cyber-physical systems (very high involvement), Cybersecurity (high involvement), Digital twins (very high involvement), High performance computing (high involvement), Mobility (very high involvement), Virtual Reality (very high involvement), Photonics (high involvement), Robotics (very high involvement), Semiconductors and Nanotechnology (high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very high involvement)
+------------------------------------------------------------
+EDIH Name: FORENINGEN MADE
+Title: FORENINGEN MADE
+Country: Denmark
+Contact Person(s): Nørby Merete
+Phone: 4521123991
+Email: mnorby@made.dk
+Location: Vesterbrogade 1e, 2. sal, 1620 København, Denmark
+Type: DIH
+Website: https://www.made.dk
+------------------------------------------------------------
+EDIH Name: Foundation for innovation and technology development, INTERA Technology Park
+Title: INTERA Technology Park
+Country: Bosnia and Herzegovina
+Contact Person(s): Vedran Šimunović
+Phone: +387 36 327 972
+Email: info@intera.ba
+Location: Bišće polje, Mostar, Bosnia and Herzegovina
+Type: DIH
+Website: https://intera.ba/
+Active Sectors: Aeronautics (moderate involvement)
+Provided Services: Circular economy (moderate involvement)
+Technological Focus: Additive manufacturing (moderate involvement)
+------------------------------------------------------------
+EDIH Name: Foundation University Institute for Primary Health Care Research Jordi Gol i Gurina (IDIAPJGol)
+Title: Foundation University Institute for Primary Health Care Research Jordi Gol i Gurina (IDIAPJGol)
+Country: Spain
+Description: The Foundation University Institute for Primary Health Care Research Jordi Gol i Gurina (IDIAPJGol) is a center of reference in research and promotion of health at the first level of care that aims to promote and develop innovation, clinical research, epidemiology and in health services in the field of primary care. We also offer training to generate knowledge, disseminate results and transfer them to clinical practice to contribute efficiency to the health system and to promote and to improve health of people.
+The Jordi Gol i Gurina Foundation was created in 1996 by the Catalan Institute of Health, in order to promote and manage innovation, training, teaching and clinical research, epidemiology and health services in the field of primary care. Since 2006 it has been called Foundation Institute for Primary Health Care Research Jordi Gol i Gurina (IDIAPJGol). In 2010 it was assigned to the UAB as a university institute for primary care research.
+Our DIH is part of our Living Lab (Real World Lab) with the main aim to support SMEs, start-ups, spin-offs and other research centers to test, validate or use or data, always under the legal Catalan restrictions, to support the development of digital Medical devices, apps, AI and algorithms, among other Health innovations. We have access to about 6 M patients plus 10.000 healhtcare professionals
+Contact Person(s): Kielland Nicola
+Phone: 34673145947
+Email: nkielland@idiapjgol.org
+Location: Gran via de les corts catalanes 587, atic, Barcelona, Spain
+Type: DIH
+Website: https://www.idiapjgol.org/index.php/ca/innovacio
+------------------------------------------------------------
+EDIH Name: Frankfurt School Blockchain Center (FSBC) at the Frankfurt School of Finance & Management gGmbH (FS)
+Title: Frankfurt School Blockchain Center (FSBC) at the Frankfurt School of Finance & Management gGmbH (FS)
+Country: Germany
+Description: The Frankfurt School Blockchain Center (FSBC) at the Frankfurt School of Finance & Management gGmbH (FS) is a think tank, and research center which investigates implications of blockchain technology for start-ups/SMEs as well as companies and their business models. Amongst others, FSBC's competences and digital innovation activities are the following:
+
+Research on blockchain: FSBC analyzes current developments with respect to blockchain technology and investigates the economic implications for companies and their stakeholders and as a Digital Innovation Hub (DIH) also provides new research impulses. Further, FSBC assesses the interconnection of blockchain technology to other innovative technologies, such as Internet of Things (IoT) and Artificial Intelligence (AI).
+Education and trainings: FSBC serves as a regional Digital Innovation Hub for managers, start-ups/SMEs, researchers, technology and industry experts to provide eductation and share knowledge and best practices. As part of one of the best-ranked European business schools, the Frankfurt School of Finance & Management, education is provided to students, but also for companies, researchers and other interested parties. Recently, FSBC has developed an online video learning platform, Blockchain Academy, for young people, entrepreneurs and young professionals to built knowledge about blockchain technology and crypto assets.
+Community, events and networking: FSBC hosts various events on a regular basis for participants across all knowledge levels, such as the Crypto Assets Conference (CAC), one of the landmark crypto and blockchain conferences in Germany. Besides, FSBC is part of various blockchain associations and crypto think tanks, such as the German Blockchain Association (Bundesblock), the European Union Blockchain Observatory and INATBA.
+Consulting, prototypes and incubation: FSBC is supporting and cooperating with startups on
+	blockchain- and DLT-related topics. Amongst others, FSBC develops DLT-based prototypes, e.g., in the field of mobility and finance (see section "service examples"). Thus, FSBC has already experience in testing blockchain/DLT applications and evaluating various DLT use cases across different industries. Furthermore, FSBC is attending numerous meetups across the globe and connected with many startups and major industry players.
+
+
+Due to Frankfurt School's status as (one of Europe's best-ranked) a private university, FSBC acts as an academic institution under the non-profit regime. The Hub focuses on blockchain-based initiatives for digitising various industrial settings such as banking, mobility, “Industrie 4.0” and the energy sector. Further, FSBC aims to support start-ups and SMEs with blockchain-based IT expertise.
+FSBC is headed by Prof. Dr. Philipp Sandner. The expertise of Prof. Sandner in particular includes blockchain technology and its application in various industries but also concerns digitization, entrepreneurship and innovation management. Further, his core topics are corporate entrepreneurship, digital transformation, fintech startups and intellectual property rights. He was awarded with several scholarships and research prizes:
+
+“Top 30” in the economists ranking of the Frankfurter Allgemeine Zeitung (FAZ)
+"Top 40 under 40"; ranking of the German business magazine Capital
+
+Prof. Sandner has published in international peer-reviewed journals such as Research Policy, the Journal of Marketing Research and the Journal of Business Venturing. Prof. Sandner is also working group member of the EU Blockchain Observatory and Forum and of the FinTechRat (FinTech Council) of the German Federal Ministry of Finance.
+Contact Person(s): Sandner Philipp
+Phone: 0049 69 154008-790
+Email: email@philipp-sandner.de
+Location: Adickesallee 32-34, Frankfurt am main, Germany
+Type: DIH
+Website: https://www.frankfurt-school.de/en/home/research/centres/blockchain
+------------------------------------------------------------
+EDIH Name: FTCH
+Title: FinTech Copernicus Hub
+Country: Poland
+Description: FinTech Copernicus Hub (FTCH) is an academic centre of competence in the application of FinTech - the use of digital technologies and information from transaction data in finance and decision-making processes.
+The main objective of the FTCH is to increase the use of the latest digital technologies by SMEs, corporations and the public sector. It works to support the digital transformation of enterprises through services such as:
+
+training and skills building,
+enabling testing before investment,
+support in finding sources of investment financing, facilitating access to innovation ecosystems within the EDIH cooperation network.
+market research and comprehensive R&D services.
+
+Services are offered to two groups of entities:
+A. FinTech Providers – Providers and potential providers of digital finance services, e.g., ICT companies looking to enter the FinTech sector and FinTech start-ups.
+B. FinTech Users – Recipients of digital finance services, SMEs from other industries, in particular e-commerce and accounting firms, PSOs.
+The activity of FTCH as EDIH extends the work of the Center for Digital Economy and Finance of the Nicolaus Copernicus University (CDEF UMK) in Toruń, a leading FinTech research, development and education centre in Central and Eastern Europe. Currently, the FTCH, for example, seeks to fully exploit the potential of open banking created in the EU through the PSD2 regulation.
+The most important technological areas in which FTCH specialises are:
+
+Payments and accounting (service and automation)
+API for open data and open finance
+Artificial intelligence and decision support
+Big Data
+Blockchain and distributed ledger technology (DLT)
+Cybersecurity
+
+Thanks to the staff potential and infrastructure of Nicolaus Copernicus University and the expert resources of the project partners, including chambers of commerce with a network of thousands of SMEs, reaching customers and achieving the goals of FTCH will be highly effective.
+Contact Person(s): Michał Polasik
+Phone: 48608335541
+Email: michal.polasik@umk.pl
+Location: Ul. Jurija Gagarina 13A, 87-100 Torun, Poland
+Type: Seal of Excellence
+Website: https://ftch.umk.pl/
+Active Sectors: Community-Led Local Development (low involvement), Consumer products (high involvement), Financial (very high involvement), Food and beverages (low involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (low involvement), Public administration (very high involvement), wholesale or distribution (very high involvement), Security (moderate involvement), Smart City (high involvement), Transport & Mobility (high involvement)
+Provided Services: Finance (very high involvement), Innovation management (high involvement), Knowledge transfer (high involvement), Prototyping (low involvement), Public sector innovation (high involvement), Vocational training (very high involvement), Technological innovation (high involvement), SME support (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Cybersecurity (high involvement), Logistics (very low involvement), Cloud Services (high involvement), Internet of Things (low involvement), Internet Services & Applications (moderate involvement), Virtual Reality (low involvement)
+------------------------------------------------------------
+EDIH Name: FUNDACION PARA LAS TECNOLOGIAS AUXILIARES DE LA AGRICULTURA
+Title: FUNDACION PARA LAS TECNOLOGIAS AUXILIARES DE LA AGRICULTURA
+Country: Spain
+Description: Fundación Tecnova is a Digital Innovation Hub working in the domain of agroindustry. It is constituted as a private non-profit Foundation and integrates 125 private companies, organizations and official institutions belonging to the industry of agriculture. TECNOVA carries out applied research and innovation services, and offers support in the process of the implementation of innovations developed in the agricultural sector, working with over 300 SMEs.
+The mission of Tecnova is the technological development and the promotion of the auxiliary industry and services for agriculture, by means of applied research and innovation support services, training courses and the development of clusters and different activities to promote the adoption of new technologies. In order to reach this purpose, TECNOVA carries out different activities:
+Contact Person(s): Lopez Guadalupe
+Phone: +34 950 29 08 22
+Email: glopez@fundaciontecnova.com
+Location: Avda de la innovacion 23 parque tecnologico de almeria el alquian, 04131 El Alquián Almería, Spain
+Type: DIH
+Website: http://www.fundaciontecnova.com
+------------------------------------------------------------
+EDIH Name: FxC
+Title: FactoryxChange
+Country: Ireland
+Description: Manufacturing Digital Transformation
+The FactoryXChange (FXC), European Digital Innovation Hub (EDIH) will enable Industry 5.0 factories to integrate ecological, digital, and societal solutions into their core business models. FxC is best positioned to support the ambitions of the Digital Europe Programme 2021-2027 to ensure that Europe embraces the digital transformation of the economy and society and brings its benefits to businesses and citizens.
+FxC will extend digital competencies (high performance computing, artificial intelligence, and cybersecurity) and advanced skills in digital technologies to stakeholders, particularly Small and Medium-sized Enterprises (SMEs), contributing to Europe’s strategic autonomy, and accelerating deployment and best use in areas of public interest and the private sector. FxC will operationalise Ireland’s Smart Specialisation Strategy priority areas of Manufacturing (Industry5.0) and where industry overlaps with ICT, energy, health, and Key Digital Technologies considering the ethical, security, data, and equality challenges.
+The overall objective of FxC is to realise the EDIH as a one-stop-shop with impact. Operationalising an Industry 5.0 EDIH that responds to customer needs in a fast flexible manner, removing financial and operational barriers, by disrupting the way we make things through digital innovations and knowledge exchange. No matter where you are on the island of Ireland you are never more than a 90-minute journey (or a few clicks online) from a trusted broker (Digital Strategist) your connection to the digital capacities offered through FxC.
+FXC integrates the world-class technical competencies of ICHEC (the National Centre for high performance computing) and INSIGHT (the National Centre for data analytics) to realise a state-of-the-art offering for Enterprise, augmented by the services of at three additional Digital Innovation Hubs in advanced digital capacity and skills, available through Irish Manufacturing Research (IMR), Technological University of the Shannon (TUS) and Data Value Hub (DVH) with KPMG Future Analytics adding to the digital solutions and digital interoperability, with a particular focus on Public Organisations.
+Contact Person(s): Karin Jancykova
+Phone: +353 1 5675000
+Email: karin.jancykova@imr.ie
+Location: National Science Park, Mullingar, Co. Westmeath, N91 TX80, Ireland
+Type: EDIH
+Website: https://www.factoryxchange.ie/
+Active Sectors: Education (very high involvement), Financial (very high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (high involvement)
+Provided Services: Circular economy (moderate involvement), SME support (very high involvement), Sme Business Development (very high involvement), Knowledge transfer (high involvement), Finance (high involvement), Innovation management (moderate involvement), Technology transfer (high involvement), Technological innovation (moderate involvement)
+Technological Focus: data (very high involvement), Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Internet of Things (high involvement), Internet Services & Applications (high involvement), Robotics (high involvement), Simulation engineering and modelling (very high involvement), Cybersecurity (very high involvement)
+------------------------------------------------------------
+EDIH Name: GC EDIH
+Title: Greater Copenhagen European Digital Innovation Hub
+Country: Denmark
+Description: The Greater Copenhagen European Digital Innovation Hub (GC EDIH) supports the dual purpose of 1) establishing an EDIH specialising in life science, health tech and built environment within a European EDIH network and 2) enabling digital transformation and innovation in SMEs within computing continuum and artificial intelligence. The GC EDIH has a total budget of 3.1 M EUR, corresponding to 1.5 M EUR of EU requested funding, and a total of national co-funding of 1.7 M EUR. The ambition of the GC EDIH is to improve the quality of life for people in Greater Copenhagen and beyond by pushing advanced digital technologies into SMEs. The implementation of AI and computing continuum holds great promise for improving the general health and well-being of society. The technologies will impact a wide range of applications e.g., administration, logistics, prevention, diagnosis, treatment, and monitoring. The primary target group is SMEs within the life science, health tech, and built environment, and SMEs that develop solutions to these areas. The secondary target group consists of the downstream and upstream value chains of the SMEs. The GC EDIH will support their digital transformation by strengthening awareness, skills, and competencies, and providing access to networks, end-users, funding, and testing facilities. Impact is measured though the following KPIs: KPI1: 160 SMEs have participated in 1 or more GC EDIH activities within the project period KPI2: GC EDIH have collaborated with at least 18 EDIHs and other stakeholders at national and European level KPI3: 21 million EUR have been triggered in additional funding or investments for SMEs KPI4: 90 SMEs have increased their digital maturity level KPI5: 45 SMEs will have developed new innovations The GC EDIH consortium which builds upon well-established structures in the Danish business development and innovation ecosystem consists of 10 partners: 2 regional business hubs, 2 clusters, 4 universities, and 2 RTOs.
+Contact Person(s): Signe Ingholt-Gaarde
+Phone: +45 61 88 46 15
+Email: sig@ehhs.dk
+Location: Fruebjergvej 3, 2100 Copenhagen, Denmark
+Type: EDIH
+Website: https://ai-boost.dk/content/
+Active Sectors: Environment (high involvement), Smart City (very high involvement), Life sciences (very high involvement), Health care (high involvement)
+Provided Services: Ecosystem building (high involvement), Knowledge transfer (very high involvement), Innovation management (high involvement), Public sector innovation (moderate involvement), Sme Business Development (very high involvement), Technological innovation (high involvement), Vocational training (very high involvement)
+Technological Focus: Big data (high involvement), Cybersecurity (high involvement), Artificial Intelligence & Decision support (very high involvement), High performance computing (very high involvement), Internet of Things (high involvement)
+------------------------------------------------------------
+EDIH Name: GC-EDIH
+Title: Green Carpathian European Digital Innovation Hub
+Country: Ukraine
+Description: The Green Carpathian European Digital Innovation Hub (GC-EDIH) is a one-stop shop dedicated to accelerating the green and digital transformation in Ukraine's Carpathian region. We support businesses, entrepreneurs, researchers, and public institutions by providing expertise, resources, and infrastructure in key areas including Automation, Smart Cities, High Performance Computing, Cyber Security, Energy Efficiency, Robotics, Renewables, Data Analytics, and AI.
+As a collaborative innovation ecosystem, GC-EDIH offers comprehensive services including digital maturity assessments, cybersecurity evaluations, skills development, workshops, and matchmaking sessions. Our mission is to strengthen regional competitiveness, stimulate economic growth, and attract investments while enabling our clients to 'test before investing' in new technologies. Through our network of local and European partners, we're building a more sustainable and digitally advanced future in Ukraine.
+Contact Person(s): Valentyn Vasechko
+Phone: +38 095 028 7622
+Email: valentyn.vasechko@ukd.edu.ua
+Location: Yevgena Konovaltsa street, 35, Ivano-Frankivsk, 76018, Ukraine
+Type: Seal of Excellence
+Website: https://ukd.edu.ua/en/node/4389
+Active Sectors: Agricultural biotechnology and food biotechnology (very low involvement), Automotive (very low involvement), Community-Led Local Development (very high involvement), Construction & Assembly (high involvement), Consumer products (very low involvement), Cultural and creative economy (low involvement), Defence (high involvement), Education (very high involvement), Electricity (very high involvement), Energy (very high involvement), fuels and petroleum engineering (low involvement), Environment (very high involvement), Financial (moderate involvement), Legal Aspects (moderate involvement), Manufacturing and processing (low involvement), Personal services (high involvement), Public administration (moderate involvement), Real estate (very low involvement), Regulation (moderate involvement), Security (high involvement), Smart City (high involvement), Telecommunications (moderate involvement), Transport & Mobility (very low involvement), Transport sector (very low involvement), Travel and tourism (moderate involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (high involvement), Finance (low involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Public sector innovation (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (low involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Vocational training (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (very low involvement), products) (very low involvement), Cloud Services (moderate involvement), Communication network (very high involvement), Cyber-physical systems (low involvement), Cybersecurity (high involvement), Digital twins (very high involvement), Displays (moderate involvement), Gamification (very low involvement), High performance computing (moderate involvement), Human computer interaction (high involvement), Internet of Things (high involvement), Internet Services & Applications (high involvement), optoelectronics (very low involvement), Mobility (moderate involvement), New technologies for Audio-Visual sector - Media (low involvement), Organic and large area electronics (very low involvement), Robotics (low involvement), Simulation engineering and modelling (high involvement), Software Architectures (high involvement), Virtual Reality (high involvement)
+------------------------------------------------------------

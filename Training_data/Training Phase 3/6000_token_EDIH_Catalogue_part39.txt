@@ -1,0 +1,160 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: NEST
+Title: NEST - Network for European Security and Trust
+Country: Italy
+Description: The Network for European Security and Trust (NEST) is a one-stop shop for cybersecurity solutions and capacity building initiatives, targeting SMEs and Public Administrations of Central Italy. Under the coordination of the national Cybersecurity Competence Center Cyber 4.0 and in partnership with three regional DIHs and one technology accelerator and ecosystem builder (INNOVA), the NEST EDIH will foster the digital transition of public and private entities in the Italian regions of Lazio, Umbria and Abruzzo through concrete support towards the adoption of innovative technologies, by making available: a wide range of cybersecurity tools and services, facilities for test-before-invest, qualified capacity building interventions, assistance for the access to finance and funds, and a functional support to improve the growth and internationalisation of the local innovation ecosystem. NEST activities will also support targeted organisations in dealing with the existing EU regulatory framework and its transposition into local policies and strategies and will contribute to the EU policy discussions and debate with feedback and instances from the involved stakeholders.
+Contact Person(s): Matteo Lucchetti
+Phone: 3.93933E+11
+Email: matteo.lucchetti@cyber40.it
+Location: Piazzale aldo moro, 5, 00185 Roma RM, Italy
+Type: Seal of Excellence
+------------------------------------------------------------
+EDIH Name: NEST
+Title: National Ecosystem for Smart Technologies
+Country: Albania
+Contact Person(s): Ermal Ilirjani
+Phone: 3.55692E+11
+Email: eilirjani@albaniandf.org
+Location: Rr. SAMI FRASHERI NO 10, 1001, Tirana, Albania
+Type: Seal of Excellence
+Website: https://www.albaniandf.org/
+Active Sectors: Smart City (very high involvement), Transport & Mobility (very high involvement), Travel and tourism (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Prototyping (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Vocational training (low involvement)
+Technological Focus: Artificial Intelligence & Decision support (low involvement), Communication network (very high involvement), High performance computing (low involvement), Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Location-based applications (very high involvement), Logistics (very high involvement), optoelectronics (moderate involvement), Mobility (very high involvement), Quantum Technologies (computing/communication) (very high involvement), Sensors & Vision Processing Systems (moderate involvement), Simulation engineering and modelling (very high involvement), Virtual Reality (moderate involvement)
+------------------------------------------------------------
+EDIH Name: NEURAL
+Title: veNEto hUb foR Advanced digital technoLogies
+Country: Italy
+Description: NEURAL is the EDIH designated candidate by the Italian Ministry of Economic Development for the Veneto region, one of the most competitive regions in Europe. It aims at facilitating the digital transformation process of the Veneto private companies and promoting the efficiency and effectiveness of the Public Administration (PA). It aims to become a partner to support step-by-step Veneto enterprises in their Digital Transformation Journey, planning on serving 900 entities in 3 years. It is focused on 2 DEP key technologies: AI and CS. It is specialised on the following digital enablers: Blockchain, IoT, Big Data Analytics, Advanced Robotics. In line with the DEP goals and the National and Regional policies, it will promote the uptake of AI Blockchain and CS solutions not only as efficiency tools but also as drivers of innovation and new business models. It is designed to act as one stop shop for Companies and PAs by offering a full set of innovation services to support digital and green transformation in different economic sectors. It deploys an interoperable services portfolio (developed on the basis of an analysis of the needs of SMEs, Mid-Caps and PAs carried out through specific market sector studies) organized into 4 categories: Test Before Invest, Advanced Upskilling, Access to Finance and Innovation Ecosystem and Networking. The proposition is completed by services of engagement and visioning and with the possibility to adapt to the market needs by designing new services in case of specific needs. The Consortium is made up of 17 beneficiaries and affiliates, including RTOs, business associations, a Compentece Center and a leading investment bank. The partners' high reputation guarantees project maturity, the provision of qualified services and access to the best infrastructures and facilities available on advanced digital technologies, as well as networking being strongly connected with National and EU ecosystem.
+Contact Person(s): Matteo Faggin
+Phone: +39 338 472 1324
+Email: info@smact.cc
+Location: Fondamenta s giobbe cannaregio 873, 30121 Venezia ve VE, Italy
+Type: Seal of Excellence
+Active Sectors: Cultural and creative economy (moderate involvement), Food and beverages (very high involvement), Manufacturing and processing (very high involvement), Travel and tourism (moderate involvement)
+Provided Services: Knowledge transfer (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Ecosystem building (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Digital twins (high involvement), Internet of Things (moderate involvement)
+------------------------------------------------------------
+EDIH Name: Next-Gen-BIoTechEDIH
+Title: Develop, innovate and provide Next-Gen-BIoTech DIH`s services in the South-Center region in Bulgaria to accelerate the best use of digital technologies for local SMEs, Mid-cap, and public sector
+Country: Bulgaria
+Description: Next-Gen-BIoTechEDIH project intends to coordinate and drive digital and green transformation in the biotechnologies and bio-based industries in Bulgaria South-Center region, both for SMEs, Mid-caps, clusters, and other innovative partnerships in the local business environment, as well as for other interested public and private entities. To that end, the Hub aims to provide for packages of comprehensive digitalisation services that will be tailored to the demands of regional end users at all stages of development, including start-ups, established businesses, business alliances, students, internationalization, and so on. Training and skills development, support to find investment, transfer technology will all be part of the focus service packages, focusing on smart regional areas of specialization. Given the presence of technology, education, and research providers and beneficiaries within the partnership, Next-Gen-BIoTechEDIH aspires to become a regional, national, and international reference hub for high-quality services.More specifically, the Hub have a vision and technological focus on AI and Robotics, and Sensors. Next-Gen-BIoTechEDIH aims at promoting the widespread adoption of digital technologies, with a specific focus on 1) Industry 4.0 2) Internet of things (IoT), 3) HPC, 4) High-level Digital Skills and Wide use of technology in all areas of the economy and public life to SMEs, MidCaps, the public sector. The Hub to be supported in their digital and green transformation and adopting circular business model, in line with present challenges faced by the EU and with the DIGITAL. Next-Gen-BIoTchEDIH will also act as an access point to the European network of EDIHs, helping local SMEs and public authorities get the needed support in all cases with a wide EDIH network. It is our great interest to be part of a suitable European network (EDIH Corridor) with other EDIHs, interested primarily to all relevant topics.
+Contact Person(s): Maria Sirakova
+Phone: 0894 954 952
+Email: riz.nextgenbiotech@gmail.com
+Location: Plovdiv, 4000 Plovdiv, Bulgaria
+Type: Seal of Excellence
+Website: Website
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Community-Led Local Development (very low involvement), Health care (very high involvement), Travel and tourism (low involvement)
+Provided Services: Circular economy (very high involvement), SME support (very high involvement), Ecosystem building (moderate involvement), Finance (high involvement), Technological innovation (high involvement)
+Technological Focus: Internet of Things (very high involvement), Big data (high involvement), Artificial Intelligence & Decision support (high involvement), Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Cybersecurity (high involvement), Industrial biotechnology (very high involvement)
+------------------------------------------------------------
+EDIH Name: Novel-T
+Title: Stichting Novel-T
+Country: Netherlands
+Description: Novel-T is building an environment in whichentrepreneursseize new opportunities to stay or become frontrunner in their league. By connecting and activating talent, knowledge, capital, research & testfacilities, opportunities will lead to new innovative business. We support companies in their innovation process and startups in realising their goals in cooperation with the University of Twente, University of Applied Science Saxion and each other. We offer startups and innovative entrepreneurs access to a dynamic ecosystem.We screen research and connect knowledge to business. OurNovel-T’s innovation brokers can help local SME's to take the next step.Novel-T’s innovation brokers support entrepreneurs in the manufacturing sector with their innovation process. Think of e.g. formulation the right question or business case, creating matches with valuable connections such as fellow entrepreneurs, the UT and Saxion and/or the government and searching for solutions to support your innovation process and overcome hurdles. Novel-T started the Cybersecurity Center for the Manufactering Industry and ispartner in Boost, theSmart Industry-network of East Netherlands. Novel-T is a not-for-profit cooperation of the knowledge-institutes (University of Twente- Saxion University of Applied Sciences) and regional government(province of Overijssel, region of Twente and City of Enschede). Their aim is to joinly stimulate the regional economy by supporting new and growing innovative entrepreneurs. Novel-T started the Cybersecurity Center for the Manufactering Industry and is partner in Boost Robotics EastNL, theSmart Industry-network of East Netherlands.
+Contact Person(s): Wevers, Jeroen
+Phone: +31 (0)53 483 6800
+Email: j.wevers@novelt.com
+Location: Hengelosestraat 500, 7521 AN Enschede, Netherlands
+Type: DIH
+Website: https://novelt.com/
+Active Sectors: Agricultural biotechnology and food biotechnology (moderate involvement), Automotive (moderate involvement), Community-Led Local Development (very high involvement), Construction & Assembly (high involvement), Defence (low involvement), Education (very high involvement), Energy (moderate involvement), Financial (high involvement), Health care (very high involvement), Life sciences (high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Textiles (low involvement), Polymers and plastics (high involvement), Legal Aspects (very high involvement), Regulation (high involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (very high involvement), Field trial (high involvement), Finance (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (very high involvement), Vocational training (moderate involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), products) (high involvement), Communication network (high involvement), Cybersecurity (high involvement), Digital twins (high involvement), Human computer interaction (high involvement), Industrial biotechnology (high involvement), Internet of Things (high involvement), Laser-based manufacturing and materials processing (high involvement), optoelectronics (high involvement), Virtual Reality (high involvement), Photonics (high involvement), Quantum Technologies (computing/communication) (high involvement), Robotics (high involvement), Semiconductors and Nanotechnology (high involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (high involvement), Software Architectures (high involvement)
+------------------------------------------------------------
+EDIH Name: nZEB Smart Home DIH
+Title: nZEB Smart Home DIH
+Country: Greece
+Description: The nZEB Smart Home DIH, coordinated by CERTH's Information Technologies Institute (ITI), was established in early 2017 as the first Hub in Central Macedonia, and has been fully operational ever since. The nZEB Smart Home DIH is an active liaison between research and the markets, acting as a driving force for empowering market-oriented stakeholders with innovative digital solutions. The Smart Home’s technological orientation goes over multiple vertical domains, with special focus on Robotics (commercial or prototype units available for use, integration with devices and sensors, advanced manipulation and control features added), Artificial Intelligence (e.g. intuitive perception and cognition for robotic systems), Cyber physical systems (e.g. embedded systems), Internet of Things (e.g. connected devices, sensors and actuators networks), Simulation and modelling, Big Data, Blockchain, Visual Analytics, and more. One of the unique merits of the DIH is the actual nZEB Smart Home infrastructure. It is a unique Building based on state-of-the-art construction materials (insulation, glass panes, etc.) with "smart" technologies that allow the exploration of various ICT research domains, such as Robotics and Assisted (Tele-) Heath services, or optimized energy efficient building management while simultaneously automating Renewable Energy Sources use. The Smart Home infrastructure is used as a pilot program for validation / testing of new technologies and services provided by the research community. It is equipped with a multi-sensorial network that measures in real-time almost all parameters that consist open challenges for a modern home / workplace (energy, occupancy, health, etc.). In 2019, the IsZEB Cluster emerged from the funded support program "Clusters for promoting innovation in local entrepreneurship." from the Regional Operation Programme Central Macedonia 2014-2020. The Cluster has special focus on the Construction sector, aiming to provide tools and guidelines for the entire lifecycle of a smart zero or positive energy building. Comprised of 16 members, including the leading Greek companies and authorities in the field of Smart Energy Buildings, it operates on the triple helix model, providing R&D services, training & education opportunities, ecosystem development, and innovation management The evolution of the nZEB Smart Home into the IsZEB Cluster marks a strategic progression in fostering innovation and collaboration. Building upon the success and expertise of the nZEB Smart Home initiative, the IsZEB Cluster seamlessly continues its mission, bringing together a diverse array of stakeholders. This transition represents a significant step forward in advancing the economy of smart buildings, facilitating research and development services, ecosystem development, and innovation management for businesses ranging from startups to SMEs and industrial entities. The IsZEB Cluster, maintaining the esteemed attribute of a testbed infrastructure inherited from the nZEB Smart Home, plays a pivotal role in driving collaborative projects and initiatives, creating a dynamic ecosystem for the development of the construction sector. European Initiatives: • Horizon 2020 and Horizon Europe: The IsZEB Cluster participates in various EU-funded R&D projects, aimed at advancing sustainable and innovative solutions in the field of smart and zero-energy buildings (e.g. D2EPC, Response, Accept, EUH4D, metabuilding, InCube, SmartLivingEPC, SUSTAIN Eurocluster, SmartSquare). Accordingly, the nZEB Smart Home participates in various H2020 covering diverse technological domains, from robotics and artificial intelligence to energy-efficient buildings and smart healthcare solutions (Plug-N-Harvest, encompass, Greensoul, ACTIVAGE, GHOST, ACROSSING, INTEGRIDY, VICINITY, DELTA, 3DMicroGrid, eDREAM, DRIMPAC, DIH^2, AI DIH Network, SIT4Energy, AMANDA, AI4EU, DIHNET, BIMERR, MEISTER, PLANET, SMILE, IRIS, AIREGIO, SmartLivingEPC and much more) By participating in those projects, IsZEB Cluster & nZEB Smart Home DIH not only stay at the forefront of technological advancements but also play a crucial role in shaping the EU research landscape. These collaborative endeavours allow them to leverage their expertise, state-of-the-art infrastructure, and multi-sensorial network to contribute with valuable insights and solutions to the various projects. • European Digital Innovation Hubs (EDIHs): The IsZEB Cluster and the nZEB Smart Home participate in the EDIHs, specifically engaging with the Synerginn EDIH and the SmartHealth EDIH. As part of the EDIHs, they operate as a Service Provider, offering a state-of-the-art rapid prototyping and novel technologies demonstration infrastructure, providing a tangible asset for businesses, start-ups, and research institutions to test and showcase emerging technologies. National Initiatives: • Smart Specialization Strategy (RIS3): Since its beginning, the nZEB Smart Home was linked with the RIS3 strategy. The RIS3 supported specialization sectors are correlated to Information & Communication Technologies, Energy Applications/Technologies and Microelectronics – Advanced Materials. The activities interrelate mainly to the investment of creation and dissemination of new knowledge and to the investment in Research & Innovation in the above topics. • Co-Financed by Greece & EU (Central Macedonia Initiatives): IsZEB Cluster was established due to its participation in the programme "Cooperative formations for the promotion of innovation in local entrepreneurship". Its purpose was to promote innovation in local entrepreneurship, foster the sharing of facilities and equipment, and encourage the exchange of knowledge and expertise, networking, dissemination of information and cooperation between companies and other organizations of the cluster. Co-financing fund: European Regional Development Fund (ERDF)
+Contact Person(s): Dimitrios Tzovaras (Nzeb Smart Home Dih)  Zoi Boutopoulou (Iszeb Cluster)
+Phone: +30 2311 257701-3 (Dimitrios Tzovaras) +30 2311 257505 (Zoi Boutopoulou)
+Email: Dimitrios.Tzovaras@iti.gr
+Location: 6th km charilaou – thermi rd, 57001 Thessaloniki, Greece
+Type: DIH
+Website: https://smarthome.iti.gr/
+Active Sectors: Construction & Assembly (very high involvement), Energy (very high involvement), Health care (high involvement), Security (high involvement), Smart City (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Cyber-physical systems (very high involvement), Cybersecurity (very high involvement), Gamification (very high involvement), High performance computing (very high involvement), Human computer interaction (very high involvement), Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Virtual Reality (very high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very high involvement), Software Architectures (very high involvement)
+------------------------------------------------------------
+EDIH Name: OCEANOPOLIS
+Title: OCEANOPOLIS
+Country: Norway
+Description: Oceanopolis accelerates the digital transformation of SMEs and the public sector for sustainable businesses, coastal regions and oceans. Specifically, we help SMEs increase sales, reduce costs, gain reputation and reduce the climate footprint through capacity building and application of digital tools and solutions for the primary value chain activities and technological development.
+Norway as an ocean tech nation is at the core of our hub, but we do more than “deeptech ocean”. Our scope reach from sustainable and smart cities and coastal communities to the blue economy with its shore-based supply industry. Concretely we cover the following sectors:
+
+Energy & offshore renewables
+Fisheries & aquaculture
+Mechanical industry
+Building & construction industry
+Transport & logistics, including smart ports
+Marine & coastal tourism
+Ocean & coastal management
+
+We offer the users of our hub access to four core services:
+
+Oceanopolis Networking Arenas at regional and national level for inspiration and B2B networking;
+Oceanopolis Academy offering practical courses and training for knowledge building and digital management capacity building;
+Oceanopolis Digital Accelerator for single businesses and business networks in need of advancing business challenges through a structured journey with inspiration, discoveries, action planning & capacity building, business development coaching and Test Before Invest;
+Oceanopolis Capital supporting access to soft funding, seed capital & venture capital.
+
+The Digital Accelerator works with a wide range of digital technologies, tools and data spaces within its test infrastructures integral to the Test Before Invest, including:
+
+AI, Data & Robotics
+Additive manufacturing with customized materials
+IOT & sensors
+Artificial vision
+VR/XR
+Aerial drones
+Underwater drones (ROVs & AUVs)
+Tools for modelling, simulations & digital twins
+
+A highly competent multidisciplinary team operates the hub with outreach to the national digital ecosystem. It stretches along the Norwegian coastline, collaborates with all major industry clusters and networks offering access to thousands of companies, business incubators and TTOs, private capital, academia, test infrastructures & catapults, regional authorities, municipalities and other public sector actors.
+We welcome hearing from you.
+Contact Person(s): Stig Marthinsen
+Phone: 4740074750
+Email: stig@dihoceanopolis.com
+Location: Jon Lilletunsvei 9 N, 4879 Grimstad, Norway
+Type: EDIH
+Website: https://dihoceanopolis.com
+Active Sectors: Community-Led Local Development (very high involvement), Construction & Assembly (high involvement), Energy (very high involvement), fuels and petroleum engineering (very high involvement), Environment (very high involvement), Fishery (high involvement), Health care (moderate involvement), Manufacturing and processing (very high involvement), Maritime (very high involvement), Metal working and industrial production (very high involvement), Mining and extraction (high involvement), Public administration (very high involvement), Smart City (very high involvement), Transport & Mobility (very high involvement), Travel and tourism (high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Public sector innovation (very high involvement), Regional development (high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Field trial (very high involvement), SME support (very high involvement), Finance (high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Cyber-physical systems (very high involvement), Digital twins (moderate involvement), Human computer interaction (high involvement), Internet of Things (very high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (very high involvement), Photonics (high involvement), Simulation engineering and modelling (very high involvement), Virtual Reality (high involvement), High performance computing (high involvement)
+------------------------------------------------------------
+EDIH Name: OK!Thess
+Title: Thessaloniki Innovation Ecosystem
+Country: Greece
+Description: OK!Thess provides entrepreneurial training to start-ups and SMEs in various topics, giving access to methodological tools needed. It runs training programs in the fields of Financial Management and Fundraising methods, Product Development, Market and Competition, Business Model Discovery and Company’s development Vertical Expertise. We provide one-to-one coaching to start-ups and SMEs exploiting its team expertise as well as industry experts from its network of mentors. We organize and participate in networking events engaging its network of investors and big corporates that have already participated in the events organised by the accelerator.
+Contact Person(s): Antonios Ilias
+Phone: 3.02313E+11
+Email: antoniosilias@okthess.gr
+Location: 2 komotinis street, 54655 Thessaloniki, Greece
+Type: DIH
+Website: https://okthess.gr/
+Active Sectors: Education (very high involvement), Life sciences (high involvement), Personal services (high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (high involvement), Knowledge transfer (very high involvement), Public sector innovation (high involvement), Sme Business Development (very high involvement), SME support (very high involvement)
+Technological Focus: Communication network (very high involvement)
+------------------------------------------------------------
+EDIH Name: ORCID
+Title: Open Research Creation and Innovation in Digitalization
+Country: Albania
+Description: The Open Research Creation and Innovation in Digitalization (ORCID) project represents a pioneering initiative aimed at fostering digital transformation and innovation in Albania. Centred around the establishment of a European Digital Innovation Hub (EDIH), ORCID seeks to empower businesses in the domains of electronics, computer sciences, internet of things (IoT), artificial intelligence (AI), and cybersecurity (CS).
+ORCID's primary objective is to establish an advanced EDIH in Albania, serving as a catalyst for digitalization and innovation within the country's business landscape.
+The hub will offer comprehensive support services to businesses, providing access to state-of-the-art technologies, expertise, and tailored solutions to facilitate their digital transformation journey.
+ORCID aims to promote a culture of innovation by fostering collaboration between businesses, academia, and the public sector. Through knowledge exchange, research partnerships, and technology development, the project seeks to drive meaningful innovation in targeted sectors.
+Contact Person(s): Ilir Shinko
+Phone: +355 67 203 3918
+Email: ishinko@fti.edu.al
+Location: Sheshi Nënë Tereza 4, 1010, Tirana, Albania
+Type: Seal of Excellence
+Website: https://fti.edu.al/
+Active Sectors: Education (very high involvement), Manufacturing and processing (moderate involvement), Smart City (very high involvement), Telecommunications (very high involvement)
+Provided Services: Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Smart Specialisation strategies (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (high involvement), Additive manufacturing (very high involvement), Communication network (very high involvement), Cybersecurity (high involvement), Internet of Things (very high involvement), Robotics (high involvement), Semiconductors and Nanotechnology (moderate involvement), Sensors & Vision Processing Systems (very high involvement)
+------------------------------------------------------------

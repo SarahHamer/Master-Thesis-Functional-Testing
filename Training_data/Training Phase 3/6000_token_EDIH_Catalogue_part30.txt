@@ -1,0 +1,186 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: HEALTH HUB
+Title: HEALTH HUB - Healthcare & Pharmaceutical Industry Transformation through Artificial Intelligence Digital Services
+Country: Greece
+Description: Sustainable digital societies are key in ensuring the long-term competitiveness of the EU economy. Digital solutions which focus on people and provide innovative opportunities for companies, social and democratic development are needed to secure digital and green transition of the EU. Digital transformation is the only way for healthcare systems to become more citizen-friendly while simultaneously changing their operations, culture, and use of technology. Greece’s digital transformation performance has been improved but remains well below the EU average (ranked 27 out of 28). The majority of companies surveyed (by Foundation and EIT Digital) recognize the importance of digital transformation, as 90.2% have either initiated or intend to activate a digital transformation roadmap immediately. 
+The candidate Health Hub aspires to lead the digital transformation of Greek SMEs, MidCaps, Public Sector Organisations. "Health Hub: Healthcare & Pharmaceutical Industry Transformation through Artificial Intelligence Digital Services" is a candidate EDIH based in Thessaly region. It represents a collaboration of 3 public bodies, 6 universities, 4 research institutions and organizations, 2 technology organizations, 3 healthcare providers and 6 business support organizations. In addition to Thessaly, Health Hub will also have antennas in 6 regions across Greece: Ionian Islands, Aegean, Western Greece, Attica, Central Macedonia and Crete, through which it will deliver digital transformation services to SMEs and public organizations of the health and pharma sector using AI technologies. Health Hub guarantees that health companies and public administration have access to know-how, training, technologies, infrastructure, and laboratories to improve and accelerate their digitalization. Health Hub will reach out to more than 2,000 beneficiaries and support the digital transformation of at least 160 by providing a complete set of services.
+Contact Person(s): Maria Pournari
+Phone: 0030 2410626943
+Email: projects@ied.eu
+Location: Valtetsiou and Tripoleos, 41336 Larissa, Greece
+Type: Seal of Excellence
+Website: https://ied.eu/about/health-hub/
+Active Sectors: Health care (very high involvement), Life sciences (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (high involvement), Knowledge transfer (high involvement), Public sector innovation (high involvement), Regional development (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Communication network (very high involvement), data (moderate involvement), Virtual Reality (moderate involvement)
+------------------------------------------------------------
+EDIH Name: Healthwise Digital Innovation Hub
+Title: Healthwise Digital Innovation Hub
+Country: Slovenia
+Description: Technology park Ljubljana started an initiative HealthDay.si in 2014 to accelerate placement of digital innovations into the healthcare system of Slovenia and globally. After 4 years, the HealthDay.si initiative reached its critical mass and began forming as a Digital Innovation Hub with clear goals & vision. Technology Park Ljubljana is non-for-profit organisation and consequently also DIH.Healthday.si is a non-for-profit inititative striving to support digital transformation in a healthcare sector.
+
+HealthDay.si platform aims to assist digital innovations to faster meet the needs of patients as well as demands of health care practitioners for the digital technology supported medical care. HealthDay.si brings together experts from innovative companies, healthcare system providers, healthcare economics and communication experts. New models of collaboration were developed and applied by companies through a range of workshops and coaching methods to bring innovative product ideas faster to healthcare providers and patients. DIH provides high level expertise for better understanding of regulatory procedures on the one hand and to better fill the needs of physicians i.e. health care providers and health economics organisations such as insurance companies on the other. DIH HealthDay.si is a platform developed by Technology park Ljubljana to assist companies with innovative healthcare solutions, for better understanding of healthcare economics, for easier navigation through complex regulatory and certification procedures for medical devices. It supports companies with technical compliance of digital solutions, quality management and provision of financing as well as provides other resources needed for accelerated application of innovative products and services in healthcare. A range of training courses and workshops were developed and delivered for companies by the key national experts to raise competences in areas such as application and registration procedures of the digital health solutions to the national Health Council, medico-economics, certification and technical compliance of digital health solutions, marketing in medicine, quality management and financing innovation in healthcare. The governing body of the DIH HealthDay.si is the council of experts that provides guidelines for the digital innovation hub in healthcare and it provided a Roadmap for innovation in healthcare in 2019. Amongst the stakeholders involved in the DIH HealthDay.si are the national Health Insurance Fund, commercial insurance companies, Ministry of Health, Agency for medicines and medical equipment, Medical Chamber of Slovenia, National Institute for Public Health, Association of Healthcare providers and Medical Ethics Commission.
+
+Long term objective for DIH is to allocate 1% of Slovenia’s annual budget in healthcare for much needed innovation development each year until 2027 and thus better address needs of patients for safe, personalised, reliable and technologically advanced medical treatments and therapies benefiting the wellbeing of society as a whole.
+
+HealthDay.si connects stakeholders to enhance and integrate digitalisation-based products in healthcare systems. It supports cross-clustering and cross sectoral innovation in S4 as well as identifies specific needs for competences development and internationalisation with a focus on health and preventive care. DIH HealthDay.si has ambition to create long term partnerships and networks between complementary organisations from business, government and non-government sectors. DIH HealthDay.si is led by the Ljubljana Technology park and it offers services such as business model development, skills trainings, access to knowledge experts, workshops and matchmaking events, financing, internationalisation and IPR assistance.
+Contact Person(s): Žerovnik Rebeka
+Phone: +386 1 6203401
+Email: rebeka.zerovnik@tp-lj.si
+Location: Tehnološki park 19, Ljubljana, Slovenia
+Type: DIH
+Website: https://digi-si.eu/
+------------------------------------------------------------
+EDIH Name: HHFIN
+Title: HealthHub Finland - the future of Healthcare shaped by a Hub of partners facilitating data-driven digital solutions in Finland and Europe
+Country: Finland
+Description: Your partner in digital healthcare solutions
+HealthHub Finland is a one-stop-shop for the development of digital solutions for health and wellbeing, and a gateway to Finnish health and wellbeing data. For SMEs and public sector organisations across the European Union, we offer subsidised or free test-before-invest and innovation services, financing advice, training and skills development. With our tailored service packages created by our industry experts, we enable you to turn your vision into reality.
+We are a national non-profit public-private consortium that brings together experts and resources from Finland’s most prominent health ecosystems in the cities of Turku, Oulu, Tampere, Kuopio and Kajaani and the national Finnish Biobanks – FINBB cooperative.
+Contact Person(s): Henrik Honkanen
+Phone: 3.58103E+11
+Email: henrik.honkanen@businessturku.fi
+Location: Joukahaisenkatu 3a, 20520 Turku, Finland
+Type: EDIH
+Website: Website
+Active Sectors: Health care (very high involvement), Life sciences (high involvement)
+Provided Services: Field trial (high involvement), Finance (moderate involvement), Innovation management (high involvement), Prototyping (very high involvement), Public sector innovation (high involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (very high involvement), Industrial biotechnology (low involvement), Cybersecurity (moderate involvement), High performance computing (very high involvement), Virtual Reality (moderate involvement)
+------------------------------------------------------------
+EDIH Name: HPC EDIH HU
+Title: Establishing High Performance Computing European Digital Innovation Hub in Hungary
+Country: Hungary
+Description: High performance computing (HPC) is one of the key issues in the Digital Europe Programme. The project will establish and implement a new HPC focused EDIH in Hungary in order to support SMEs, universities and public bodies to improve their activity, production, RDI processes with the use of the HPC technology. The HPC EDIH will provide them specific, free-of-charge technical consultancy, mentoring, training, test before invest services and testing facilities. The consortium has appropriate partner database, infrastructural background and HPC capacity for the supporting of EDIH activities. The main pillars of the EDIH are:
+
+
+awareness rising (communication) activities and disseminations
+
+
+offering HPC-as-a-Service for SMEs and other organizations
+
+
+providing training, mentoring and consultancy for the partners.
+
+
+The project consortium consists of three members: Governmental Agency for IT Development (KIFÜ) is the project leader, it is the Nr1 governmental organization in Hungary regarding HPC issues with strong infrastructural, professional and legal background. The state-owned Bay Zoltán Nonprofit Ltd. (BZN) and Institute for KTI Hungarian Institute for Transport Sciences and Logistics Non Profit Limited Liability Company are functioning as beneficiaries, they also have got a lot of experiences, well qualified experts, and existing cooperations in the fields of enterprise development, digitalization, research and innovation, technology transfers and transport. The main segmented target groups of the HPC EDIH are: - SMEs in the following sectors: medical research, agriculture, manufacturing industry, ICT, logistics and transport;
+
+
+universities;
+
+
+public bodies.
+
+
+The goals of the HPC EDIH are in line with the EU and Hungarian strategies, policies, the project activities and planned KPIs are synchronized with these goals. The project is ready for launching, it has 5 work packages. The operation of HPC EDIH will have many positive impacts on the Hungarian (and EU) economy and society, synergies will open up in several themes.
+Contact Person(s): Lilla Luksik
+Phone: -7394
+Email: luksik.lilla@kti.hu
+Location: Budapest, Than Károly u. 3-5, 1119, Hungary
+Type: EDIH
+Website: https://www.kti.hu/projects/hpc-edih-eng/
+Active Sectors: Automotive (low involvement), Construction & Assembly (low involvement), Education (high involvement), Electricity (high involvement), Energy (high involvement), fuels and petroleum engineering (low involvement), Environment (moderate involvement), Health care (high involvement), Manufacturing and processing (high involvement), Metal working and industrial production (low involvement), Polymers and plastics (low involvement), Public administration (very high involvement), Smart City (very high involvement), Transport & Mobility (very high involvement), Transport sector (very high involvement)
+Provided Services: Circular economy (very high involvement), Ecosystem building (very high involvement), Field trial (moderate involvement), Innovation management (high involvement), Knowledge transfer (high involvement), Prototyping (very high involvement), Public sector innovation (moderate involvement), Regional development (moderate involvement), Smart Specialisation strategies (high involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (very high involvement), Cloud Services (moderate involvement), High performance computing (very high involvement), Digital twins (high involvement), Location-based applications (low involvement), Logistics (high involvement), Mobility (very high involvement), New technologies for Audio-Visual sector - Media (high involvement), Robotics (high involvement), Sensors & Vision Processing Systems (moderate involvement), Simulation engineering and modelling (very high involvement), Software Architectures (moderate involvement), Virtual Reality (high involvement)
+------------------------------------------------------------
+EDIH Name: HPC4Poland EDIH
+Title: HPC4Poland European Digital Innovation Hub
+Country: Poland
+Description: The purpose of EDIH HPC4Poland is to increase the competitiveness and innovation of North West Poland (NUTS1) manufacturing companies and public organizations by increasing awareness and availability of advanced digital tools and services based on safe, reliable and efficient High Performance Computing (HPC), including: cloud simulations (PaaS), sensor systems (IoT), AR/VR/MR, collaborative robots, AGV, AMR, additive technologies, AI and Big Data analysis. HPC4Poland EDIH is a feedback matrix and a true node of value and service exchange between research teams, suppliers and recipients of advanced concepts, methods and solutions in the target region and collaborating regions/EDIHs of the EU. Based on the resources and domain knowledge of competence centers (research units) and business partners (tool suppliers), the EDIH implements a comprehensive one-stop-shop digital transformation offer, currently unavailable on the Polish market to the 4 target markets: transportation/automotive, medicine/pharmaceutics, wood/furniture, agriculture/processing.
+Contact Person(s): Cezary Mazurek
+Phone: +48 61 858 20 01
+Email: mazurek@man.poznan.pl
+Location: Noskowskiego 12-14, 61-704 Poznan, Poland
+Type: EDIH
+Website: http://www.hpc4poland.pl/
+Active Sectors: Transport sector (very high involvement), Agricultural biotechnology and food biotechnology (very high involvement), Health care (very high involvement), Paper and wood (very high involvement)
+Provided Services: Prototyping (high involvement), Knowledge transfer (moderate involvement), Sme Business Development (high involvement), SME support (high involvement), Finance (high involvement), Technology transfer (moderate involvement)
+Technological Focus: Robotics (moderate involvement), Internet of Things (moderate involvement), Artificial Intelligence & Decision support (moderate involvement), High performance computing (high involvement), Big data (moderate involvement), Virtual Reality (moderate involvement), Simulation engineering and modelling (high involvement), Digital twins (high involvement), Cloud Services (moderate involvement)
+------------------------------------------------------------
+EDIH Name: HPC5 - High Performance and Cloud Computing Cross-border Competence Consortium
+Title: HPC5 - High Performance and Cloud Computing Cross-border Competence Consortium
+Country: Slovenia
+Description: Our vision is that with the combined efforts of the partners, HPC5 will create the most innovative, creative and powerful network for CloudHPC computing in the Slovenia-Italy region. HPC5 will stimulate, facilitate and sustain a business growth system in technologically oriented vertical niches that will generate employment, improve living standards, fuel innovation, and increase competitiveness.
+Competence Centres: ARCTUR- HPC and Cloud Center, COGITO - Independend Software Solution provider, eXact Lab - HPC consulting specialists, Info.era - Software Specialists, Sontius - Data Centre specialist, Spin - Networking specialist, Vahta - Networking specialist, Xlab - Software specialist
+Activities/Services: Technical support; Infrastructure; Testing; Training and education; Innovation coaching; Network development; Support of new product and start-up development; Ecosystem building and networking; Dissemination and awareness
+Focus on innovation: TRL 9 - actual system proven in operational environment
+Keywords about technology/knowledge: robotics; modelling and simulation; cps; cloud computing; cloud infrastructure; internet of things
+Services
+- Consulting on purcahse of HPC and Cloud infrastructure - we consulted and university in Croatia to purchase the optimal HPC infrastructure - Paralelization of simulation software - For a long term clent we developed OpenFoam simulations to sacle up to more than 600 computing cores - Dissemination of project development and results - Help in organizing the First CloudFlow conference
+Contact Person(s): Pahor Tristan
+Phone: +386 5 3029070
+Email: info@hpc5.eu
+Location: Industrijska cesta 1a, Nova gorica, Slovenia
+Type: DIH
+Website: https://hpc5.eu/eng/
+------------------------------------------------------------
+EDIH Name: HSL
+Title: HERITAGE SMARTLAB
+Country: Italy
+Description: The Heritage SmartLab (HSL) proposal is aimed at creating the largest, most structured and qualified European Digital Innovation Hub -based in Basilicata region, with two spokes in Campania and Apulia-, specialised on Cultural Heritage and Cultural and Creative Industries (CH&CCIs), a wide sector of the local economy and society -that is, not by chance, at the core of the three Regional Smart Specialisation Strategies- in which converge great public interest and high innovation and business potential. The EDIH initiative, that is strongly supported by Basilicata Region, through its local development agency Sviluppo Basilicata, and by the Municipality of Matera, that participates in this proposal as associated partner, is aimed at creating a Cultural and Creative district based in the wonderful context of the UNESCO World Heritage Site - Sassi of Matera, with a strong international dimension and approach to the market needs of its public and private customers. The proposal leverages on two important initiatives promoted in Basilicata region: the House of Emerging Technology (HET), the main technological infrastructure the City of Matera has made available to the project for designing, prototyping and testing of new products, and the Talent’s Academy promoted by Basilicata Region, based on the Apple Academy of Naples model: an advanced and multidisciplinary training platform, that thanks to the synergies with HSL, will be further specialised on the application of Artificial Intelligence (AI), High Performing Computing (HPC) and Cybersecurity (CS) to CH&CCIs, with the goal to attract talents, upskill and reskill personnel, create a new generation of professional with strong and up–to–date digital competences. The Hub of Matera, with the 2 spokes in Naples and Bari, will represent an innovation triangle in the sector of CH&CCIs, rooted in Southern Italy, active in the European and Mediterranean context and strongly interconnected with the global innovation ecosystem.
+Contact Person(s): Raffaele Vitulli
+Phone: 00393286651179
+Email: edih@basilicatacreativa.it
+Location: Via San Rocco, 1, 75100 Matera MT, Italy
+Type: EDIH
+Website: http://www.heritagesmartlab.it
+Active Sectors: Cultural and creative economy (very high involvement), Community-Led Local Development (high involvement), Travel and tourism (very high involvement), Education (moderate involvement), Smart City (high involvement), Personal services (moderate involvement), Smart City (moderate involvement), Telecommunications (moderate involvement)
+Provided Services: Prototyping (very high involvement), Knowledge transfer (very high involvement), Technology transfer (high involvement), Vocational training (high involvement), Public sector innovation (high involvement), Finance (moderate involvement), Sme Business Development (moderate involvement)
+Technological Focus: Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Cloud Services (high involvement), Communication network (very high involvement), Cybersecurity (high involvement), Gamification (very high involvement), Digital twins (very high involvement), Displays (high involvement), Internet of Things (very high involvement), Virtual Reality (very high involvement), Internet Services & Applications (very high involvement), Robotics (moderate involvement), Software Architectures (high involvement), Sensors & Vision Processing Systems (high involvement), Artificial Intelligence & Decision support (very high involvement)
+------------------------------------------------------------
+EDIH Name: hub.in Bjelovar
+Title: hub.in Bjelovar
+Country: Croatia
+Description: hub.in Bjelovar is non-profit digital innovation centre located in Bjelovar (Croatia), acting as a centre for digital transformation of industry (agriculture, manufacture, IT, REW) and development of skills (STEM and business) for area of Continental Croatia. hub.in Bjelovar is built around four core functions: clients, technologies, development and innovation. A hub.in Bjelovar is a support facility that helps companies to become more competitive by:
+improving their business/production processes as well as products and services by means of digital technology
+hub.in Bjelovar will help customers address their challenges in a business focused way and with a common service model, offering services that would not be readily accessible elsewhere. The services available through hub.in Bjelovar enable any business to access the latest knowledge, expertise and technology for testing and experimenting with digital innovations relevant to its products, processes or business models:
+
+technical advise and mentoring
+access to funding opportunities
+access to laboratories and equipment
+promotion of iot technologies
+development of innovation projects
+training
+
+hub.in Bjelovar will also provide connections with investors, facilitate access to financing for digital transformations, help connect users and suppliers of digital innovations across the value chain, and foster synergies between digital and other key enabling technologies. Thus, hub.in Bjelovar will play a huge role in developing economy and use of physical and/or virtual space for networking and organisational development to support individuals, organisations, businesses and projects on a short or long term basis to: facilitate collaboration, networking and skills development.; reach out and collaborate with research and development centres, institutions; creative and non creative industries; communicate and engage with a wider audience and build global; digital opportunities; champion and celebrate emerging talent; push boundaries by taking risks towards innovation.
+In 2018, hub.in Bjelovar was selected by the European Commission for participating in the "Smart Factories in New EU Member States" project. Since the first day of work, the stakeholders in the hub.in Bjelovar are working to expand the network of formal and informal members / associates: SMEs in agriculture, manufacturing, IT, development agencies, BSO, NGOs, universities. Transfer of practical knowledge, technologies and people aims for preparing all of stakeholders for digital, technological, working-skills transformation.
+The mission of the DIH is to enable and support new talents for present technological challenges and prepare them for shaping the technological future. Our top priority is to make sure our clients have a plan tailored to their specific business and individual needs that addresses their unique goals and circumstances now and in the future. We are starting to develop a much more thriving ecosystem through development of skills and knowledge for children and youth and including them into possibilities with new technologies.
+Contact Person(s): Vukmanic Dajana
+Phone: 00385989234385
+Email: direktor@tpbj.hr
+Location: Eugen kvaternik square 6, 43000 Bjelovar, Croatia
+Type: DIH
+Website: https://www.hubinbjelovar.com/
+------------------------------------------------------------
+EDIH Name: HUB4.0MANUVAL
+Title: Hub 4.0 of Manufacturing Sectors in  Valencian Region
+Country: Spain
+Description: HUB4MANUVAL is a Digital Innovation Hub that will stimulate the uptake of Robotics,CPS/IoT and Artificial Intelligence (AI)by Valencian manufacturing SMEs and MidCaps. The HUB will support manufacturing companies in order to be more competitive, prioritizing SMEs in the manufacturing sectors of relevance at Regional Level, but conecting also with relevant big players, as they can atract others in relevant sectors. The mission of HUB4MANUVAL is to be a reference one-stop shop Digital Innovation Hub (DIH) for manufacturing companies requiring innovation solutions in the field of robotics and ICT, bridging the gap between research and industry. The Hub will play the role of centralising and facilitating the use of these technologies to the Valencian manufacturing ecosystem and will provide SME´s and stakeholders with facilities where they will be able to access Robotics, AI and CPS/IoT resources. It will follow a collaborative model by bringing together the main value chain actors and promoting collaborative R&I. The technologies used will be demonstrated to be complementary, showing that industry can be empowered when both are combined. The hub’s unique combination of partners and stakeholders will effectively allow HUB4MANUVAL to establish itself as an Industry 4.0 one-stop-shop for local manufacturing companies. By providing a gateway to specialist platforms and infrastructures, the DIH will be able to help companies assess their digital needs, find or develop optimal solutions for those needs and secure the necessary funding to implement those digital transformation solutions. HUB4.0MANUVAL is part of InnDIH EDIH Industry 5.0 CoP
+Contact Person(s): Francisco Blanes
+Phone: +34 609 53 13 99
+Email: pblanes@ai2.upv.es
+Location: Universitat politécnica de valencia. instituto universitario de automática e informática industrial, 46022 Valencia Valencia, Spain
+Type: DIH
+Website: https://hub4manuval.es/en/
+Active Sectors: Aeronautics (high involvement), Agricultural biotechnology and food biotechnology (high involvement), Automotive (moderate involvement), Education (very high involvement), Energy (high involvement), Food and beverages (moderate involvement), Health care (high involvement), Manufacturing and processing (very high involvement), Transport sector (high involvement)
+Provided Services: Knowledge transfer (very high involvement), Prototyping (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Cyber-physical systems (very high involvement), Digital twins (high involvement), Internet of Things (very high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (very high involvement), Software Architectures (high involvement)
+------------------------------------------------------------
+EDIH Name: i.ku - Innovationsplattform Kufstein / Innovation Hub Kufstein, Tyrol
+Title: i.ku - Innovationsplattform Kufstein / Innovation Hub Kufstein, Tyrol
+Country: Austria
+Description: The digitalization of (business) processes and digital technologies impact economies and society and, in consequence, our life and work in unprecedented ways. In order to maintain the attractiveness of the business location, the Kufstein chamber of commerce initiated together with the Kufstein University of Applied Sciences the Innovation Hub “i.ku – Innovationsplattform Kufstein“. Partners from the regional economic ecosystem and additional organisations have expressed heightened interest in the project, which is co-financed by LEADER funds.
+i.ku - Innovation Hub Kufstein provides formats in a variety of shapes such as meetups for topical discussions between scientific & corporate experts, innovation challenges for students & researchers, dialogues with partners from the regional economy and children’s summer camps. In close collaboration with the Kufstein University of Applied Sciences, i.ku assists with the matching of corporate and academic ideas as a complementary precursor for R&D project proposal development.
+i.ku - Innovation Hub Kufstein thus provides numerous offers for different stakeholders in the (supra-)regional educational and organizational landscape with focus on the augmentation of technology awareness and the heightening of the capacity for technology absorption.
+Contact Person(s): Steiner Karina
+Phone: +43 5372 71819 1
+Email: Karin.Steiner@fh-kufstein.ac.at
+Location: Andreas hofer-straße 7, Kufstein, Austria
+Type: DIH
+Website: https://www.iku.tirol/
+------------------------------------------------------------

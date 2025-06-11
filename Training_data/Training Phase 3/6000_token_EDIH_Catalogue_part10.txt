@@ -1,0 +1,178 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: CiTyInnoHub
+Title: ConsTanta INNovation Hub, a center for the digital transformation of SMEs and PSOs in SE Romania - CiTyInnoHub
+Country: Romania
+Description: CiTyInnoHub reunites six organisations with complementary expertise. It is established to contribute actively to the digital transformation of regional SMEs, to increase their competiveness, and to PSOs, to improve the quality of the services provided to communities. The consortium consists of a comprehensive university, as orchestrator, a regional Chamber of Commerce, an association of SMEs, an association of PSOs, and two consulting firms active in the innovation sector. With contributions from national and international collaborators, the hub will develop a regional digitalisation ecosystem, fostering innovation and entrepreneurship in the in SE area of Romania. The services performed by CiTyInnoHub are four-fold. Test before invest tasks include digital maturity assessments, design and implementation of digital transformation plans, testing and experimentation of digital technologies, with a special focus on cybersecurity. Skills and training activities involve short-term trainings to ensure the advanced digital skills needed by regional organisations to offer quality products and services. Support to find investments actions refer to assisting organizations in securing funding to improve their business model or to diversify and expand services. Innovation ecosystem and networking, concerns bringing together universities, research institutes and innovative businesses, as suppliers, with companies, particularly SMEs and start-ups, and PSOs, as requesters of knowledge and solutions. The strong ties with regional and national clusters, as well as with international networks such as Enterprise Europe, the EIT KICs and the EDIHs corridors will widen the range of services offered. Responding to the regional needs, as specified in the smart specialisation strategy of SE Romania, CiTyInnoHub differentiates itself from other EDIHs by concentrating on cybersecurity and focusing on tourism, agriculture and biotechnologies, maritime transportation, ship building and repair.
+Contact Person(s): Alexandru Bobe
+Phone: 40743151301
+Email: alexandru.bobe@365.univ-ovidius.ro
+Location: Mamaia avenue 124, 900527 Constanta, Romania
+Type: EDIH
+Website: Website
+Active Sectors: Health care (moderate involvement), Public administration (high involvement), Smart City (high involvement), Travel and tourism (very high involvement), Education (moderate involvement)
+Provided Services: Ecosystem building (very high involvement), Finance (moderate involvement), Innovation management (moderate involvement), Knowledge transfer (high involvement), Smart Specialisation strategies (moderate involvement), Sme Business Development (moderate involvement), SME support (very high involvement), Technology transfer (moderate involvement), Vocational training (low involvement), Field trial (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (low involvement), Big data (very low involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Cloud Services (moderate involvement), Cybersecurity (very high involvement), High performance computing (very low involvement), Internet Services & Applications (high involvement), Virtual Reality (high involvement)
+------------------------------------------------------------
+EDIH Name: CLOTEX-HUB
+Title: EDIH Clothing Technology and Textile Hub
+Country: Ukraine
+Description: European Digital Innovation Hub of Clothing Technology and Textile (CLOTEX-HUB) aims to increase the competitiveness of garment manufacturing products of small and medium-sized enterprises of the Khmelnytskyi region of Ukraine due to the digitisation of clothing manufacturing and the introduction of innovative technologies to ensure the product’s entry into the European market, thus integrating into international chains of creating added value of products and services.
+CLOTEX-HUB operates within the ecosystem of a sewing cluster factory, providing high-added-value services for experimentation, access to training, technological infrastructures and financial support through a dynamic and interconnected ecosystem, firmly committed to becoming a relevant player in the EDIH network, expanding its collaboration outreach to other European regions. Khmelnytskyi ranks in the top ten in clothing manufacturing in Ukraine, representing over 1000 registered SMEs. The “Development Strategy of Khmelnytskyi Region for 2021-2027” states that the region's smart specialisations are defined as follows: food industry, light industry, mechanical engineering, and metalworking. In the field of light industry in the Khmelnytsky region, where CLOTEX-HUB operates, a smart specialisation is textile and clothing production. On the other hand, innovation capacity and digitalization intensity are still ranked rather low at the European level.
+EDIH CLOTEX-HUB will contribute to increasing the efficiency level in the sewing industry and machine-building sectors of digital transformation, giving priority to (i) clothing business entities operating in the Khmelnytskyi region of Ukraine and (ii) the implementation of main digital technologies (Advanced Digital Skills, VR/AR technologies, Artificial Intelligent, and Cybersecurity).
+The consortium consists of four Beneficiaries (Khmelnytskyi National University; NGO Agency for Sustainable Development “ASTAR”; PU “Podillia Fashion Cluster”; NGO “IT CLUSTER OF KHMELNYTSKYI”).
+Contact Person(s): Oksana Zakharkevych
+Phone: 3.80677E+11
+Email: zakharkevycho@khmnu.edu.ua
+Location: 11, Instytuts’ka str., Khmelnytskyi, Khmel'nyts'ka oblast, 29016, Ukraine
+Type: EDIH
+Website: https://clotex.khmnu.edu.ua/
+Active Sectors: Construction & Assembly (moderate involvement), Consumer products (high involvement), Cultural and creative economy (high involvement), Education (high involvement), Energy (high involvement), Environment (high involvement), Financial (high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Polymers and plastics (high involvement), Public administration (moderate involvement), wholesale or distribution (high involvement), Security (moderate involvement), Textiles (very high involvement)
+Provided Services: Circular economy (very high involvement), Ecosystem building (very high involvement), Field trial (high involvement), Finance (high involvement), Innovation management (very high involvement), Knowledge transfer (high involvement), Prototyping (very high involvement), Public sector innovation (moderate involvement), Regional development (moderate involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement), Vocational training (very high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (high involvement), products) (moderate involvement), Cybersecurity (very high involvement), Digital twins (moderate involvement), High performance computing (low involvement), Human computer interaction (very high involvement), Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Laser-based manufacturing and materials processing (moderate involvement), Logistics (moderate involvement), New technologies for Audio-Visual sector - Media (moderate involvement), Robotics (moderate involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (very high involvement), Virtual Reality (very high involvement)
+------------------------------------------------------------
+EDIH Name: CMH
+Title: Connected Mobility Hub
+Country: Spain
+Description: Connected Mobility Hub is the leading mobility innovation ecosystem in Southern Europe. Composed of 140 associated startups, 120 investors, 16 cities and about 225 corporates and organizations, the ecosystem strives to accelerate the paradigm shift in mobility, from innovation and new solutions provided by startups, as well as the collaboration of different key actors, both public and private ones. Our goal is to advance in the decarbonization and digitization of transport, generating cities with zero emissions and better environmental quality and urban liveability. Connected Mobility Hub takes actively part in EDIH Madrid Region, one of the EDIH of the European network.
+Contact Person(s): Luis Morales
+Phone: +34 635973838
+Email: luis.morales@connectedmobilityhub.es
+Location: Piamonte, 23., 28004 Madrid Madrid, Spain
+Type: DIH
+Website: https://connectedmobilityhub.com/
+Active Sectors: Automotive (low involvement), Transport sector (moderate involvement), Smart City (high involvement), Transport & Mobility (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Knowledge transfer (high involvement), Public sector innovation (high involvement), SME support (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (high involvement), Logistics (high involvement), Mobility (very high involvement)
+------------------------------------------------------------
+EDIH Name: CNA HUB 4.0
+Title: CNA Emilia-Romagna
+Country: Italy
+Description: CNA Hub 4.0, the Digital Innovation Hub of CNA Emilia-Romagna, serves as the access point to services and tools for the development of Small and Medium-Sized Enterprises (SMEs) in the areas of digitalization and sustainability.CNA Hub 4.0 aims to create and maintain a strong connection among key players (research laboratories, businesses, institutions, Innovation Centers, Clust-ER, etc.) to promote digital transition, knowledge generation, and technological and organizational innovation, while capitalizing on skills and relationships.
+ServicesTo assist companies in their growth and transformation processes, CNA HUB 4.0 offers a service catalog which, starting from a bottom-up approach, provides tailored and precise responses to expressed needs:
+
+Innovation and Research
+Financial Consulting and Credit
+Training and Skills
+Internationalization
+Sustainability
+
+CNA HUB 4.0 provides companies with actual intervention plans, based on tools and check-ups, to address their needs. Among these, there are custom-built indicators of technological and sustainability maturity levels for SMEs, designed to support them in their transformation processes.CNA HUB 4.0 coordinates a network of 10 Digital Innovation Hubs (DIHs), real local access points to tools, services, and relationships useful for the development of SMEs, with the aim to guide companies in understanding their digital maturity and sustainability approach, while identifying key areas for intervention and available incentives at all levels, from local to European.
+CNA Emilia-Romagna, through CNA Innovazione, the technology transfer and innovation center accredited by the Emilia-Romagna Region, has become member of the 7 Clust-ERs active in the region (Agri-food, Culture and Creativity, Urban Economy, Energy and Sustainability, Service Innovation, Mechatronics and Motor, and Tourism and Territory) created to support SMEs in their growth and in fostering synergies with the regional research and innovation system.
+It is also featured on Atlante 4.0, the first portal promoted by Unioncamere and the Ministry of Economic Development, aimed at showcasing national structures that support companies in technology transfer and digital transformation processes.
+Since 2022, the regional CNA HUB 4.0 and local HUBs have been accredited within the Digital Transition Network of the Emilia-Romagna Region.
+CNA’s innovative services are also included in the it-ER Service Guide by ART-ER, as an organization providing direct or indirect support to international talents in Emilia-Romagna.
+Contact Person(s): Marcella Contini
+Phone: +39 0512133870
+Email: cnahub@cnaemiliaromagna.it
+Location: Via rimini 7, 40131 Bologna BO, Italy
+Type: DIH
+Website: https://www.cnaemiliaromagna.it/en/cna-hub-4-0/digital-innovation-hub/
+Active Sectors: Aeronautics (moderate involvement), Agricultural biotechnology and food biotechnology (low involvement), Automotive (very high involvement), Community-Led Local Development (high involvement), Construction & Assembly (very high involvement), Consumer products (moderate involvement), Cultural and creative economy (very high involvement), Defence (very high involvement), Education (very high involvement), Electricity (high involvement), Energy (high involvement), fuels and petroleum engineering (high involvement), Environment (very high involvement), Financial (very high involvement), Fishery (low involvement), Food and beverages (very high involvement), Health care (very high involvement), Life sciences (high involvement), Manufacturing and processing (very high involvement), Maritime (high involvement), Metal working and industrial production (very high involvement), NMP Non-Metallic Materials & basic processes (high involvement), Personal services (very high involvement), Real estate (moderate involvement), wholesale or distribution (moderate involvement), Telecommunications (moderate involvement), Textiles (very high involvement), Transport sector (very high involvement), Travel and tourism (very high involvement), Paper and wood (high involvement), Polymers and plastics (high involvement), Security (moderate involvement), Smart City (high involvement), Space (moderate involvement), Tobacco (moderate involvement), Transport & Mobility (very high involvement)
+Provided Services: Circular economy (very high involvement), Ecosystem building (high involvement), Finance (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Smart Specialisation strategies (moderate involvement), Sme Business Development (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Vocational training (high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (high involvement), Big data (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Cloud Services (very high involvement), Communication network (high involvement), Cyber-physical systems (moderate involvement), Cybersecurity (high involvement), Gamification (high involvement), High performance computing (high involvement), Human computer interaction (moderate involvement), Internet of Things (high involvement), Internet Services & Applications (moderate involvement), Mobility (moderate involvement), New technologies for Audio-Visual sector - Media (high involvement), Virtual Reality (high involvement), Sensors & Vision Processing Systems (moderate involvement)
+------------------------------------------------------------
+EDIH Name: Confapi Digital Innovation Hub
+Title: Confapi Digital Innovation Hub
+Country: Italy
+Description: Confapi Digital Innovation Hub Confapi is part of the Italian national Industry 4.0 network. It is a no profit organization which aims at supporting SMEs in implementing Industry 4.0 in order to increase their competitiveness both nationally and internationally. Confapi Digital Innovation Hub Confapi has the task of spreading the culture, knowledge and enabling technologies, through a series of innovative activities and services aimed at the digital transformation of businesses, technology transfer, innovation and research. It is an important project for the entire system and affects all associations in the national territory. Confapi Digital Innovation Hub Confapi boasts partnerships with prestigious public and private entities operating in research and technology transfer (universities, innovation clusters, research centers, technology consortia), which have collaborative relationships with Confapi at national level and local level through territorial associations.
+The main important activities of Confapi DIH are to:
+
+spread the culture and knowledge on Industry 4.0 technologies
+enhance the network and the sharing of experiences between entrepreneurs in the areas of digital transformation
+encourage collaboration between Small and Medium-sized Industries and local Research and Innovation networks
+support access to facilities and laboratories where companies can test technologies which have been introduced within the company
+Orient SMEs towards managerial training and qualified company staff
+Promote training courses on sector-specific advanced skills
+design and implement, in the domain of new technologies, services and higher, initial and continuous, open and remote training programs
+carry out training activities for entrepreneurs and managers on soft skills, with an interdisciplinary approach to digital transformation
+support entrepreneurs to evaluate digital marketing tools
+offer advice to companies to access facilitation measures to dedicate an intervention in the Enterprise 4.0 key.
+promote cooperation between the world of research (Competence Center, Universities, Research Centers, Innovative Companies, ...) and the world of SMEs
+support companies in the planning of Innovative Investments
+develop and maintain contacts and coordinate DIH Confapi's activities with other companies, research centers, consortia, associations, business networks, national and international bodies
+analyze and identify new business opportunities in the new technologies sector
+act as the reference center for the collection and dissemination of information and technical proposals in the interest of SMEs, of advanced technology products and services in the domain of new technologies
+organize seminars, conferences and other events at national and international level in the domain of technology, of a popular and / or educational nature, also with the aim of promoting the image of the company at national and international level
+Contact Person(s): Condino Isabella
+Phone: 0669015329
+Email: i.condino@confapi.org
+Location: Via della colonna antonina 52, Rome, Italy
+Type: DIH
+Website: https://www.confapi.org/it/digital-innovation-hub-confapi.html
+------------------------------------------------------------
+EDIH Name: Confirm | Research Centre for Smart Manufacturing
+Title: Confirm | Research Centre for Smart Manufacturing
+Country: Ireland
+Description: CONFIRM DIH is focused on the application of digital innovation across the manufacturing value chain to foster growth and competitiveness in the Irish manufacturing industry and enable Irish based manufacturing SME and larger companiesto compete within the rapidly changing global landscape.
+Smart manufacturing involves optimising production systems, developing Smart products, Smart machines, Smart production systems, and Smart supply chains by adding intelligence, and enhanced information technology and IoT. These new technologies will be at the heart of: Industry 4.0, the factories of the future, increasing product line adaptability, enabling real-time decision making, shortening supply-chains, and speeding up the development of new innovations to produce higher-quality goods at reduced costs across all industry sectors.
+The CONFIRM DIH incorporates a Centre of Excellence with shared research facilities, access to state-of-the-art equipment and a broad ecosystem of stakeholders. CONFIRM DIH offers technology and support services to companies of varying sizes from SME and Mid-Caps to large MNEs. It provides access to knowledge, expertise and training in the smart manufacturing domain. CONFIRM’s solutions, moreover, provide for different customized approaches addressing companies on different innovation stages, from awareness raising and maturity level identification for newcomers to digitization, to tailored solutions and services for starter companies, to full systems solutions for advanced companies
+Confirm is a not-for-profit, national strategic initiative supported by Science Foundation Ireland (SFI), the Irish national foundation for investment in scientific and engineering research. The Confirm DIH draws on the expertise of 9 core Irish research performing organisations (RPOs), 16 international collaborations, andnumerous industry partners across MNC and SME sectors to deliver cutting-edge research and development projects in the smart manufacturing domain. It provides the skills and services required to place Irish-based industry at the forefront of the smart manufacturing revolution, helping companies of all sizes - ranging from SME to larger organisations - compete globally at the highest level.
+The Confirm DIH is an open platform to accommodate the diverse digital innovation needs of the manufacturing industry in Ireland andwill be adriving force in the delivery of technological advances and expertise for a smart manufacturing innovation ecosystem. Confirm’s core research activity is in the areas of:
+
+Data Analytics
+Artificial Intelligence
+Predictive Modelling
+Decision Analytics
+Enterprise Modelling & Simulation
+Software Systems
+Human Computer Interaction
+Security & Integration
+Networking Systems & IoT
+Sensors
+Robotics & Control
+Product & Process Modelling
+Material Processing
+
+To maximise the impact of our research initiatives, the Confirm DIH coordinates R&D and innovation activities, provides communication & outreach to the manufacturing industry, promotes a positive perception of manufacturing in wider society, contributes to the development of a skilled human resource pipeline for the manufacturing industry, provides a liaison between companies and a network of experts, and promotes new collaborative multi party national and international research projects to implement digital technologiesfor Irish based manufacturing companies.
+Contact Person(s): Gleeson John
+Phone: +353-(0)61-234683
+Email: john.gleeson@ul.ie
+Location: University of limerick, limerick, republic of ireland., Limerick, Ireland
+Type: DIH
+Website: https://confirm.ie/dih/
+------------------------------------------------------------
+EDIH Name: CONNECT5
+Title: CONNECT5
+Country: Portugal
+Description: CONNECT5 – DIH for Connectivity, CPS, IoT, Cloud/Edge and Data Analytics aims to create and operate a national and European reference DIH supporting the digital and green transformation of SMEs and public organizations. CONNECT5 is a collaborative network, in the form of a Consortium of 12 entities (RTO, polytechnic institutes, universities), with high level of expertise in digital technologies, state-of-the-art infrastructures and a deep nation-wide network of contacts (companies, business associations, public entities, etc.) bringing together their complementary expertise and assets, to create a unique value platform. CONNECT5’s will leverage on its capabilities based on Cyber-Physical Systems (CPS), Internet of Things (IoT), Communications networks (5G and 6G), infrastructures (Cloud and Edge Computing), Big Data platforms and analytical data processing, supported by Artificial Intelligence (AI), Cybersecurity and High-performance computing (HPC) when required, enabling the target entities to evaluate its impacts and the feasibility to their business before further investing in it. The services provided by CONNECT5 will be based on the definition of a digital transformation strategy identified in close cooperation with the user materialised on a strategic road map validated through the 4 main domains: i. Test before invest; ii. Skills and training; iii. Support to find investment; iv. Innovation ecosystem and networking. Included in the action plan is also the Digital Maturity Assessment, transformation proposal and acceleration with the DTA. CONNECT5 will provide a wide range of services that will enable any beneficiary to access the latest knowledge, expertise and technology with a special focus on the connectivity dimension for testing and experimenting digital innovation relevant to their activity, matching their needs with digital solutions already available or in an advanced phase of deployment. CONNECT5 expertise is reinforced by national projects like 5GO (focused on communication technologies), AUGMANITY (focused on I4.0) and CITYCATALYST (Focused on smart cities) among other activities (OASC, Gaia-X).
+Contact Person(s): Vasco Lagarto
+Phone: +351924 453 051
+Email: vasco.lagarto@tice.pt
+Location: Campus universitario da universidade de aveiro, 3810-193 Aveiro, Portugal
+Type: Seal of Excellence
+Website: https://connect5.pt/
+Active Sectors: Manufacturing and processing (very high involvement), Smart City (high involvement), Construction & Assembly (moderate involvement)
+Provided Services: SME support (very high involvement), Ecosystem building (moderate involvement), Knowledge transfer (high involvement), Field trial (high involvement), Technology transfer (moderate involvement)
+Technological Focus: Big data (high involvement), Cyber-physical systems (moderate involvement), Communication network (very high involvement), Cloud Services (moderate involvement), Internet of Things (high involvement), Digital twins (low involvement)
+------------------------------------------------------------
+EDIH Name: CROBOHUB Croatian Robotics Digital Innovation Hub
+Title: CROBOHUB Croatian Robotics Digital Innovation Hub
+Country: Croatia
+Description: CROBOHUB Croatian Robotics Digital Innovation Hub, hosted within Innovation Centre Nikola Tesla (ICENT), is the key Croatian facility to support companies to become more competitive by improving their business/production processes as well as products and services by up-taking digital technologies and robotic solutions.
+CROBOHUB acts as one-stop-shop, helping Croatian companies to digitalise their business through efficient orchestrating of various stakeholders in robotic innovation ecosystem such as research institutions, business support institutions and businesses operating in the field of robotics that may contribute to the development and application of advanced robotic systems in manufacturing. CROBOHUB also provides connections with investors, facilitates access to financing for digital transformations, helps connect users and suppliers of robotic innovations across the value chain and foster synergies between digital and other key enabling technologies (such as biotech, advanced materials, etc.).
+Contact Person(s): Perić Nedjeljko
+Phone: 38598380386
+Email: nedjeljko.peric@icent.hr
+Location: Unska 3, Zagreb, Croatia
+Type: DIH
+Website: http://www.icent.hr/en/crobohub/
+------------------------------------------------------------
+EDIH Name: CROBOHUBplusplus
+Title: CROatian Industry and Society BOosting – European Digital Innovation HUB
+Country: Croatia
+Description: Europe is at the beginning of biggest transformation in history, and it is all based on understanding that the way we use limited natural resources for maintaining and improving our living standard in Europe and in the world has come to an end. It is crucial to start improving business and society but to do it on more sustainable and innovative way through digital and green transformation. Based on this notion the crucial aspect that we don’t have is time but on the other hand through all data it shows that knowledge, infrastructure, and experience is existing, but it is insufficiently connected, facilitated and focused throughout Europe and this is why we need more networked approach. In that context we see European Digital Innovation Hub (EDIH) CROBOHUB ++ as an ecosystem of excellence that is specialized in three key areas of the Digital European Program (DEP): 1. Artificial intelligence, 2. Cybersecurity, 3. High-performance computing. Our intention is to form the core of a coherent package of services that will support SMEs that intend to harness the digital and green transformation with focus on the following sectors: 1. Manufacturing industry, 2. Digitized agriculture, 3. Energy and environment as well as to help 4. Public administration to become more agile and data driven. EDIH CROBOHUB++ will be a non-for-profit hub acting in the NUTS2 region HR04 "Continental Croatia" with national scope. The support will be provided in the following technologies: Blockchain, Computer vision, Digital simulations, Embedded control and automation systems, IoT, Robotics and Smart sensors. The support will take the form of various types of services as Financial and business consulting, Knowledge and technology transfer, Pre-investment testing: integration and adaptation of technologies, digital testing, demonstration activities, Networking between companies or with users and technology suppliers and training&skills development in different digital&busines competencies.
+Contact Person(s): Hrvoje DZAPO
+Phone: +385 1 6129 878
+Email: hrvoje.dzapo@fer.hr
+Location: Unska 3, 10000 Zagreb, Croatia
+Type: EDIH
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Automotive (moderate involvement), Energy (very high involvement), Environment (very high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (moderate involvement), Public administration (very high involvement), Security (moderate involvement), Smart City (high involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (high involvement), Innovation management (very high involvement), Finance (very high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Public sector innovation (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement), Vocational training (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Digital twins (high involvement), Internet of Things (high involvement), Robotics (high involvement), Sensors & Vision Processing Systems (high involvement), Cyber-physical systems (high involvement), Big data (moderate involvement), Simulation engineering and modelling (high involvement)
+------------------------------------------------------------

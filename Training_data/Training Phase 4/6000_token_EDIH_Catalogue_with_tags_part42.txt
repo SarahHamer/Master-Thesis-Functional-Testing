@@ -1,0 +1,184 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: LIH
+Title: Location Innovation Hub
+Country: Finland
+Description: The Location Innovation Hub (LIH) is a centre of excellence in location information coordinated by the Finnish Geospatial Research Institute. LIH services are produced in conjunction with a partner network.
+Watch the video: What is Location Innovation Hub?
+How we operate?
+Our customers are particularly companies that want to solve the challenges of digitalisation and strengthen their competitiveness. We also serve the public sector.  Our customers can make their operations more efficient by developing data interoperability, using precise positioning and new generation positioning technologies. We produce tools and  test environments and provide consultation, and training, as well as provide support through networking for companies to obtain funding.  Our development work focuses on four different themes:
+
+the built environment
+bioeconomy
+health and wellbeing
+transport, logistics and traffic.
+
+In these sectors, our customers can develop businesses related to artificial intelligence, high performance computing and cybersecurity. 
+What is our goal?
+In accordance with the European Data Strategy, interoperable information combined with location information is an indispensable resource for developing competitiveness and innovation capacity. Our activities are aimed at making efficient use of data spaces, for example on developing digital twins. Our goal is to create a functional, permanent location innovation ecosystem for seeking funding, testing services and developing new innovations in Europe.   The Location Innovation Hub, supported by the European Commission, is one of the four digital innovation hubs in Finland (EDIH) and is part of the European network of innovation hubs.
+Contact Person(s): Antti JAKOBSSON
+Phone: 3.58506E+11
+Email: antti.jakobsson@nls.fi
+Location: Vuorimiehentie 5, 02150 Espoo, Finland
+Type: EDIH
+Website: https://www.locationinnovationhub.eu/
+Active Sectors: Smart City (very high involvement), Energy (moderate involvement), Environment (very high involvement), Health care (moderate involvement), Transport & Mobility (high involvement), Security (low involvement)
+Provided Services: SME support (very high involvement), Circular economy (very high involvement), Ecosystem building (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (very high involvement), Sme Business Development (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Location-based applications (very high involvement), Big data (very high involvement), Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), High performance computing (very high involvement), Internet of Things (moderate involvement), Logistics (very high involvement), Mobility (very high involvement), Robotics (moderate involvement), Virtual Reality (moderate involvement)
+Tags: Country:Finland; Sector:Smart City; Sector:Energy; Sector:Environment; Sector:Health care; Sector:Transport & Mobility; Sector:Security; Service:SME support; Service:Circular economy; Service:Ecosystem building; Service:Knowledge transfer; Service:Public sector innovation; Service:Sme Business Development; Service:Technology transfer; Technology:Location-based applications; Technology:Big data; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:Digital twins; Technology:High performance computing; Technology:Internet of Things; Technology:Logistics; Technology:Mobility; Technology:Robotics; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: Linz Center of Mechatronics GmbH
+Title: Linz Center of Mechatronics GmbH
+Country: Austria
+Description: LCM is a mechatronic research center and as such, has a long experience of product design. With the organizational areas “Drives” (electric and hydraulic), “Sensors and Wireless Communication”, and “Mechanics and Control” LCM is a solution provider in many different industrial sectors. LCM is is registered as non-profit research organisation in the European Commission Participant Register.
+A Core element within LCM is its simulation and modeling know-how which is utilized in process description, automatic machinery design, digital twin creation, predictive maintenance and assistance systems.
+LCM hosts and operates its SyMSpace platform that allows autonomous design principles simulation and optimization processes. Within Artificial intelligence, these digital process handling and applying are a vital pillow for further progress (besides machine learning).
+The know-how within SyMSpace have leveraged LCM for automation of knowledge-work and have contributed to LCM's white paper on knowledge engines and the network of knowledge engines.
+It is the next evolution step beyond the internet of data and is currently piloted at LCM in diverse joint research activities and in open foresight and its overall research strategy.
+Contact Person(s): Klinglmayr Johannes
+Phone: 4.37322E+12
+Email: johannes.klinglmayr@lcm.at
+Location: Altenbergerstr. 69, Linz, Austria
+Type: DIH
+Website: http://www.lcm.at
+Tags: Country:Austria
+------------------------------------------------------------
+EDIH Name: LTU AI Innovation Hub
+Title: LTU AI Innovation Hub
+Country: Sweden
+Description: LTU AI Innovation Hub
+Making northern Sweden the leading region in Applied AI.
+The initiative supportsa strong innovation system for growth in the AI industry, a Digital Innovation Hub as a base, in collaboration, research, innovation, applied test-driven development, education and clustering.
+The main financier is the European Regional Development Fund and Luleå University of Technology (LTU), Luleå municipality, Skellefteå municipality and Region Norrbotten. Other sources are EU H2020, Interreg and the Swedish National Innovation Agency. The hub has a non-for-profit aim (funding organisations e.g LTU are mentioned above which makes the hub operations possible) and primary target group is SMEs. The Luleå University of Technology (LTU) as the host for the hub guarantees the non-for-profit organisation. To be more precise the hub is operated by two research and innovations centres at LTU i.e.Centre for Distance-spanning Technology (CDT) andProcessIT Innovation.
+The chosen focus of the hub is inline with the Norrbotten Smart specialisation strategy (S3) also known as Norrbotten Regional Innovation Strategy (RIS). One of the regional strengths, the core of the Norrbotten economy is nature based economy i.e mineral resources, forest resources and a unique energy infrastructure.
+The initiative offers a number ofactivities towards regional companies:
+-Company visitsto identify needs,issues and to talk aboutthe potential of AI
+-Create meeting places for strategic information work
+-Active support for the development of research-based or other innovative solutions
+-Possibility for researchers to work in thecompanies for some time
+-Develop and implement long (20 months) and for short (10 months) collaborative projects out of real needs and issues that have emerged in meetings with the industry
+-Organizing knowledge-enhancing workshops focusing on current topics relevant to the development of AI and machine learning
+ 
+Reference document:https://www.norrbotten.se/sv/Utveckling-och-tillvaxt/Regional-utveckling-och-framtid/Regionalt-utvecklingsuppdrag/Norrbottens-innovationsstrategi/
+Contact Person(s): Nilsson Michael
+Phone: +46 70 2884520
+Email: Michael.Nilsson@ltu.se
+Location: Luleå University of Technology, 971 87 Luleå, Sweden
+Type: DIH
+Website: https://www.ltu.se/ai
+Tags: Country:Sweden
+------------------------------------------------------------
+EDIH Name: LUBDIGHUB
+Title: Establishment of European Digital Innovation Hub (EDIH) in Lubelskie region Poland
+Country: Poland
+Description: Project's goal is to establish and run a regional European Digital Innovation Hub (EDIH) named LUBDIGHUB in Lublin, Poland. The hub will act as a one-stop shop for the companies in the digital and green (energy) transformation. It will provide complex services to support the deployment of new technologies and innovation to SMEs and public sector organisations conducting non-economic activities. The targeted number of customers is 100. It will support developing capacities in High Performance Computing, Artificial Intelligence, Cybersecurity, Advanced Digital Skills. The specialization of LUBDIGHUB is green (energy) transformation. LUBDIGHUB consortium expertise comes from both private companies (solution providers) and local higher educational institutions. The hub will offer customized solutions based on a agile collaborative business model.
+Contact Person(s): Marcin Marczuk
+Phone: +48 502664036
+Email: m.marczuk@fundacja.lublin.pl
+Location: Józefa franczaka "lalka", 43, 20-325 Lublin (lubelskie, lublin, lublin), Poland
+Type: Seal of Excellence
+Active Sectors: Energy (very high involvement), Manufacturing and processing (very high involvement)
+Provided Services: Circular economy (very high involvement), Knowledge transfer (very high involvement), Sme Business Development (very high involvement), Smart Specialisation strategies (very high involvement)
+Technological Focus: Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very high involvement), Communication network (high involvement), Cybersecurity (high involvement), Internet of Things (high involvement)
+Tags: Country:Poland; Sector:Energy; Sector:Manufacturing and processing; Service:Circular economy; Service:Knowledge transfer; Service:Sme Business Development; Service:Smart Specialisation strategies; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Communication network; Technology:Cybersecurity; Technology:Internet of Things
+------------------------------------------------------------
+EDIH Name: Łukasiewicz Research Network - Institute of Microelectronics and Photonics (IMiF)
+Title: Łukasiewicz Research Network - Institute of Microelectronics and Photonics (IMiF)
+Country: Poland
+Description: Institute of Electron Technology (ITE) is a public, Polish, non-profit research organization, located in Warsaw, Poland,carrying outapplied research and close-to-market innovation(TRL 3 to 8) in microelectronics, photonics and microsystem domain.The mis­sion of the Insti­tute is to con­duct the basic and applied rese­arch in the field of semi­con­duc­tor elec­tro­nics and phy­sics in order to deve­lop and com­mer­cia­lise inno­va­tive micro- and nano­tech­no­lo­gies and their appli­ca­tions in semi­con­duc­tor micro­elec­tro­nics, opto­elec­tro­nics, pho­to­nics and micro­me­cha­nics.
+The Institute is one of the few Polish research institution that develops semiconductor devices and systems using various semiconductor materials (silicon, gallium arsenide, indium phosphide, gallium nitride, silicon carbide). The institute consist of 8 research departments concentrating on AIIIBV photonics (lasers), Silicon detectors, microelectronic components, sensors and MEMS, wide bandgap (e.g. GaN) devices, hybrid (ceramic) technologies, electronic system design, material and device characterization and diagnostics. Three of the departments include also fully equipped technological lines, enabling both scientific research and development of technologies for new devices. Unique facilities and competent staff allow the Institute to create the conditions necessary for the implementation of research results. This task is usually conducted in cooperation with the industry and the scientific community.
+The largest, division of Silicon Microsystem and Nanostructure Technology maintains a research infrastructure with a well-equipped over 1000 sq.m. micro/nanoelectronics clean room. Currently it is the only centre in Poland, where fabrication of fully functional microsystems and IC’s based on CMOS/MEMS technology is performed. In parallel to research, the department undertakes a small scale, pilot production of specialized semiconductor devices for Polish and foreign customers.
+The goal of the research and development activities carried out at the ITE is to provide industry and scientific communities (with special emphasize on the SME’s ) with access to advanced technology of silicon and III/V based and heterogeneous micro- and nano-devices. Thus, scope of the R&D covers broad range of technologies, from silicon photo- and radiation detectors through integrated circuits up to sensor and microsystem (MEMS and MOEMS), lasers and power devices, including integration of different technologies and devices for interdisciplinary applications. Due to the fact, that sensor technologies and sensor networks have been defined as one of the National Smart Specialization, ITE puts a strong emphasize on research in this domain, developing collaboration with national and international multidisciplinary partners, to provide Polish economy with access to advanced sensor technologies required e.g. for IoT applications.
+ITE collaboratewith industrial entities, LE and SMEfocusingon consulting on development and application of tailored microelectronic, nanophotonic and microsystem solutions (including sensors), allowing for digitization of products and their manufacturing. In most cases the service is combined with a joint preparation of national, international or European projects.ITE, acting as a KET Technology Center and Digital Innovation HubsupportsSMEsto go from lab to marketto develop and producenewKETs-based products, helping companies reduce the time-to-market for new innovation ideas:
+
+Dissemination of knowledge on innovative solutions leading to digitization of products and manufacturing; creation of awareness, building of ecosystem;
+Finding partners and elaboration of project proposals;
+Access to technology expertise and facilities for validation;
+Collaborative research
+Demonstration;
+Proof of concept / lab testing
+Prototype development and testing;
+Pilot production and demonstration
+Product validation / certification
+Contact Person(s): Gadomski Sławomir
+Phone: +48 604 053 932
+Email: slawomir.gadomski@imif.lukasiewicz.gov.pl
+Location: Al.lotników 32/46, Warsaw, Poland
+Type: DIH
+Website: https://imif.lukasiewicz.gov.pl/en/
+Tags: Country:Poland
+------------------------------------------------------------
+EDIH Name: LVDH
+Title: Loire Valley Data Hub for Centre-Val de Loire region's digitalisation
+Country: France
+Description: Organised in a consortium, the Loire Valley Data Hub is the one-stop shop in Centre-Val de Loire region to support digital transformation of public administrations & companies. working in key sectors of the Regional Innovation Strategy for Intelligent Specialisation (RIS3) of Centre-Val de Loire.It will support them in exploitation and enhancement of data, through digital technologies (Artificial Intelligence, Cybersecurity and High-Performance Computing). Completely in line with the Regional Innovation Strategy for Intelligent Specialisation (RIS3) of Centre Val de Loire, the project addresses the exploitation and enhancement of data, on the key areas for the region, namely: cosmetics, health, environment, and agri-food. By bringing together regional actors around a common challenge, the EDIH is pooling skills and services to meet the growing needs of companies and public administrations for digital technologies and thus, generate economic, social, and environmental benefits. The aim is to help them implement key technologies in data management (using Artificial Intelligence, High-Performance Computing and Cybersecurity). The support provided will enable these organisations to meet the challenges related to data production, integration, exchange, and exploitation in their respective fields, with a perspective of sustainable development. Indeed, the multiple activities deployed on the territories generate the production of numerous digital data. Digital transformation is a major challenge for the competitiveness of regional SMEs, particularly for the above-mentioned key sectors. Indeed, these companies, as well as the public players, are required to manage various types of resources (environmental, plant or animal, or even human). As a result, the exploitation of the data inherent in the management of these resources makes it possible to respond to strong societal and market needs, which are the preservation of the environment, food and health and well-being.
+Contact Person(s): Melody Maudelonde
+Phone: + 336 67 68 42 38
+Email: melody.maudelonde@devup-centrevaldeloire.fr
+Location: 6, rue du Carbone, 45100 Orléans, France
+Type: EDIH
+Active Sectors: Aeronautics (low involvement), Agricultural biotechnology and food biotechnology (very high involvement), Automotive (very low involvement), Cultural and creative economy (very low involvement), Defence (high involvement), Energy (low involvement), Environment (very high involvement), Food and beverages (moderate involvement), Health care (very high involvement), Life sciences (high involvement), Manufacturing and processing (moderate involvement), Public administration (very high involvement), wholesale or distribution (moderate involvement), Smart City (moderate involvement), Travel and tourism (low involvement)
+Provided Services: Ecosystem building (very high involvement), Finance (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), SME support (very high involvement), Sme Business Development (moderate involvement)
+Technological Focus: data (very high involvement), Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), Digital twins (high involvement), Internet of Things (low involvement), Additive manufacturing (very low involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Gamification (very low involvement), Industrial biotechnology (moderate involvement), Logistics (very low involvement), optoelectronics (very low involvement), Quantum Technologies (computing/communication) (low involvement)
+Tags: Country:France; Sector:Aeronautics; Sector:Agricultural biotechnology and food biotechnology; Sector:Automotive; Sector:Cultural and creative economy; Sector:Defence; Sector:Energy; Sector:Environment; Sector:Food and beverages; Sector:Health care; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Public administration; Sector:wholesale or distribution; Sector:Smart City; Sector:Travel and tourism; Service:Ecosystem building; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:SME support; Service:Sme Business Development; Technology:data; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:Digital twins; Technology:Internet of Things; Technology:Additive manufacturing; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Gamification; Technology:Industrial biotechnology; Technology:Logistics; Technology:optoelectronics; Technology:Quantum Technologies (computing/communication)
+------------------------------------------------------------
+EDIH Name: Made Different | Digital Wallonia
+Title: Made Different | Digital Wallonia
+Country: Belgium
+Description: The objective of the Made Different | Digital Wallonia is to provide the support needed to companies to transform their activities following the principles of industry 4.0, as promoted by the Region (Marshall Plan 4.0 and Digital Wallonia Strategy). Services offered correspond to the level of digital maturity of the enterprise. They cover awareness activities, diagnosis of digital maturity, definition of a transformation plan and its implementation. They also tackle needs for scale-up, finance and innovation. This initiative is open to all sectors of the industry.
+Contact Person(s): Miclotte Jessica
+Email: info@digitalwallonia.be
+Location: Avenue prince de liege, 133, Jambes, Belgium
+Type: DIH
+Website: https://www.digitalwallonia.be/fr/publications/made-different-digital-wallonia
+Tags: Country:Belgium
+------------------------------------------------------------
+EDIH Name: Malaga TechPark (PTA)
+Title: Malaga TechPark (PTA)
+Country: Spain
+Description: MISSION
+Parque Tecnológico de Andalucía (PTA) is a place where national and international companies, entrepreneurs, technology centers and university research groups all come together and generate highly innovative products and services for the global market.
+SCOPE
+Parque Tecnológico de Andalucía (PTA) has been specially designed to house all types of entities dealing with innovation. The PTA has been established as a high standard location for the installation of innovative SMEs and large companies. It is located in a privileged natural environment, equipped with advanced infrastructures and services, in which a perfect balance between large multinational companies, the university and small and innovative companies has been attained.
+Within more than twenty five years, the park has become a point of international reference in terms of science and technology parks where the Information Technologies and Energy sectors dominate, both in Research and Development, and the manufacture of equipment and services, with an innovative and environmentally friendly approach.
+With over 630 businesses, and a number of key agents in the Andalusian Knowledge System, such as the University and its research groups, over 17.000 employees, an area of 186 hectares with an expansion project in progress, the PTA represents the innovation ecosystem in Malaga and it can be considered one of the main focuses for innovation and economic development in Andalucía. PTA represents 20% of the gross domestic product (GDP) and employment of the city of Malaga.
+Some of the companies -among others- that have chosen the PTA for establishing their headquarters in Andalucia are DEKRA, Ericsson, CGI, IBM, Air Liquide, Aertec, ITRS, PWC, OPPLUS, A-Novo, Accenture, Grupo Cardiva, Premo Group, Huawei, Keysight, The Workshop, Indra, Altra Corp., JBP Beniosca, DXC, Ingenia, Oracle, MADES or Tedial.
+Over the past 25 years, the PTA has created an extensive national and international network. Both the International Association of Science Parks and Areas of Innovation (IASP) and the Spanish Association of Science and Technology Parks (APTE) have their headquarters at the PTA.
+The PTA and the University of Malaga (UMA) have joined forces to create an international cooperation model to enable both companies and research groups to work together in global markets.
+SERVICES PROVIDED
+-TRAINING & SKILLS DEVELOPMENT: Promoting the specialized training in order to prepare students and professionals to the specific market needs.
+-ENTREPRENEUR & INCUBATOR SUPPORT: Acceleration programs for innovation companies and mentoring. An entrepreneurial culture and a tradition of ongoing enterprise are fundamental to the sustainability of the business development model that has been created at the PTA; the entrepreneurs that started off in the business incubators and pre-incubators have become, in many cases, much larger companies who continue to carry out their activity at the PTA.
+- INFRASTRUCTURES & GENERAL SERVICES: Telecommunications Networks, Offices, Waste Point, Hotel, Sport centre, Mobility services, education centre, etc…
+-IN THE FIELD OF MATURING OF TECHNOLOGIES: Promoting the entrepreneurship especially among technologists and doctors to enhance the creation of new businesses. Encouraging the installation of national and international companies.
+-SCIENTIFIC-TECHNICAL DISSEMINATION: publishing, dissemination and exchange in any medium of research, educational, cultural and artistic creation work developed by the companies. Promoting as well the dissemination of the business entities installed in PTA activity.
+-HUMAN RESOURCES: Facilitating the labor market participation of students from the University of Málaga (UMA) through the development of professional practices in Technology Park of Andalusia companies, and helping companies in the process of recruiting according profile required by the job vacancy.
+- TECHNOLOGY TRANSFER: Search of partners for RTD projects and supporting companies for the development and production of technologies for specific applications.
+- INTERNATIONALIZATION: Support and advice to companies for their business expansion and internationalization.
+- Support for access to public and private funding. Access to Investment forums.
+- Other: Organization of workshops, innovation meetings, and networking events, creation and promotion of clusters.
+PTA IN FEW WORDS:
+The Technology Park of Andalucía (PTA) is a:
+
+Authentic model of innovation
+Place for international companies
+Location for R&D centers
+Headquarters of innovation networks
+Model of international cooperation
+Model of relation with the University
+Place for the transfer of technologies from/to traditional sectors
+Innovation financing model
+Model of public-private investment
+Model for the creation and development of innovative companies
+Contact Person(s): Gálvez Verdú Clara
+Phone: 34951231300
+Email: cgalvez@pta.es
+Location: Calle maria curie 35, Malaga, Spain
+Type: DIH
+Website: http://www.pta.es/es/
+Tags: Country:Spain
+------------------------------------------------------------

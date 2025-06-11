@@ -1,0 +1,212 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: EXPAND
+Title: EXtended Piedmont and Aosta valley Network for Digitalization
+Country: Italy
+Description: EXPAND aims to become one of the recognized European hubs able to provide digital evolutionary services such as testing before investing, training and skills development, support to find investments, networking and access to innovation ecosystems, according to the DIGITAL-2021-EDIH-01 call expectation. The project targets the digital transformation needs of Companies and Public Authorities in the Piemonte and Valle d’Aosta (VdA) area. The proposal is strongly focused on the specific topics of Artificial Intelligence (AI), Cyber-security (CS), notwithstanding - due to the nature of the consortium - all the ICT panoramas can be covered and integrated, with regard on other key enabling technologies like advanced robotics, extended reality, internet of things, additive manufacturing, next generation network, distributed intelligence, and many other. Within the project a list of 50 services was drawn up, organized by categories, daily cost and duration: the EXPAND strategy is to provide some free of charge services (all for PA, some for the enterprises) and a sub-set of services via a clearly defined final cost: the rationale behind this is to guarantee the full commitment of the entities requiring support. The project is open to all the companies with a focus on the manufacturing and industrial ecosystem, paying particular attention to those who develop or deploy technologies with a positive impact, directly or indirectly, on the environment and sustainability. The filtering of requests will take place thorough an open, transparent, and non-discriminatory mechanism, creating a selection funnel: initially will reach the maximum potentially interested audience and then will start the vis-à-vis discussion and actuhe EXPAND (EXtended Piedmont and Aosta valley Network for Digitalization) is the application of the Piedmont - Valle d’Aosta cluster to the selection for one of the node of the forthcoming EDIH European network in the context of the Digital Europe Program.
+Contact Person(s): Paolo Brizzi
+Phone: +39 349 479 9169
+Email: paolo.brizzi@cim40.com
+Location: Corso luigi settembrini 178, 10135 Torino TO, Italy
+Type: EDIH
+Website: https://expand-edih.com/
+Active Sectors: Automotive (very high involvement), Space (very high involvement), Manufacturing and processing (very high involvement), Public administration (very high involvement), Smart City (moderate involvement), Transport & Mobility (moderate involvement), Energy (moderate involvement), Environment (moderate involvement), Textiles (moderate involvement), Food and beverages (moderate involvement), Health care (moderate involvement)
+Provided Services: Vocational training (very high involvement), Knowledge transfer (very high involvement), Technology transfer (very high involvement), Prototyping (very high involvement), Field trial (very high involvement), Finance (very high involvement), Ecosystem building (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), SME support (very high involvement), Public sector innovation (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), Additive manufacturing (high involvement), Internet of Things (high involvement), Cloud Services (high involvement), Big data (high involvement), Human computer interaction (high involvement), Sensors & Vision Processing Systems (high involvement), Virtual Reality (high involvement), Robotics (high involvement)
+Tags: Country:Italy; Sector:Automotive; Sector:Space; Sector:Manufacturing and processing; Sector:Public administration; Sector:Smart City; Sector:Transport & Mobility; Sector:Energy; Sector:Environment; Sector:Textiles; Sector:Food and beverages; Sector:Health care; Service:Vocational training; Service:Knowledge transfer; Service:Technology transfer; Service:Prototyping; Service:Field trial; Service:Finance; Service:Ecosystem building; Service:Regional development; Service:Smart Specialisation strategies; Service:SME support; Service:Public sector innovation; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:Additive manufacturing; Technology:Internet of Things; Technology:Cloud Services; Technology:Big data; Technology:Human computer interaction; Technology:Sensors & Vision Processing Systems; Technology:Virtual Reality; Technology:Robotics
+------------------------------------------------------------
+EDIH Name: EXPANDI 4.0
+Title: Expanding Digitalisation of Industry (4.0) in Slovakia
+Country: Slovakia
+Description: Slovakia urgently needs new impulses to re-establish its competitiveness in digital age. EXPANDI 4.0 shall support companies, regional and national institutions and policy makers - in finding the adequate technological solutions for implementation of I4.0. We share a vision of raising the level of industry digitalisation in Slovakia. Besides understanding the underlying technologies such as IoT, Big Data, AR/VR, AI, ML, sensor systems, robotics, additive manufacturing, predictive smart maintenance, etc. from numerous implementations done by partners of EXPANDI, we gained extensive experience in supporting companies in implementation projects, preceded by proving their concepts in test environments and boosting innovations by various measures. The digitalisation projects must be driven by clear objectives to increase their competitiveveness. A dedicated group of sales-experts will establish leads and follow-up contacts with companies and public entities to offer them services of our EDIH and reach the targeted numbers of supported entities. We will provide them with digital proof that the concepts fit their expectations and help them to find the necessary financing. We shall assist with education of key company staff and we shall help the whole ecosystem to grow. The provided services will focus on 4 main pillars: Trest before invest -Skills and Education -Support in Finding Investments -Ecosystem and Training EXPANDI 4.0 shall use the financial support of EU and national resources, the tools and measures provided by Digital Technology Accelerator (DTA) and the collective knowledge within EDIHs network to help numerous Slovak companies: - to stay globally competitive, resilient and environmentally sustainable; - to develop competitive manufacturing skills of digital age; - to become part of a powerful innovation ecosystem.
+Contact Person(s): Bc. Dominika Vlčeková
+Phone: +421 905 567 650
+Email: dominika.vlcekova@siea.gov.sk
+Location: Bajkalska 27, 827 99 Bratislava, Slovakia
+Type: EDIH
+Website: http://www.expandi40.sk
+Active Sectors: Automotive (very high involvement), Defence (high involvement), Polymers and plastics (high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), NMP Non-Metallic Materials & basic processes (moderate involvement)
+Provided Services: Vocational training (very high involvement), Finance (high involvement), Prototyping (very high involvement), Technological innovation (very high involvement), SME support (high involvement), Public sector innovation (moderate involvement)
+Technological Focus: Simulation engineering and modelling (very high involvement), Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (moderate involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (very low involvement), Cloud Services (high involvement), Communication network (moderate involvement), Cyber-physical systems (very high involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), Human computer interaction (high involvement), Internet of Things (high involvement), Laser-based manufacturing and materials processing (moderate involvement), Logistics (high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (very high involvement)
+Tags: Country:Slovakia; Sector:Automotive; Sector:Defence; Sector:Polymers and plastics; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:NMP Non-Metallic Materials & basic processes; Service:Vocational training; Service:Finance; Service:Prototyping; Service:Technological innovation; Service:SME support; Service:Public sector innovation; Technology:Simulation engineering and modelling; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Communication network; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Human computer interaction; Technology:Internet of Things; Technology:Laser-based manufacturing and materials processing; Technology:Logistics; Technology:Robotics; Technology:Sensors & Vision Processing Systems
+------------------------------------------------------------
+EDIH Name: FAB4 Digital Innovation Hub Confartigianato Salerno
+Title: FAB4 Digital Innovation Hub Confartigianato Salerno
+Country: Italy
+Description: FAB4 DIH - Confartigianato Salerno is a non-profit networked knowledge system made up of Confartigianato Salerno, SELLALABhttps://sellalab.com/, Medaarch S.R.L.https://www.medaarch.com/and Knowledge for Business S.R.L. https://www.kforbusiness.it/, whose mission is to support the creation and promotion of innovation technology transferfor innovative start-ups and micro, small and medium sized enterprises based in Campania, in particular in the agrifood sector.
+FAB4 aims at promoting the process of digital transfromation by:
+
+
+supporting start-ups in open innovation and digital transformation processes;
+
+
+boosting crafts activities through digital and new technologies;
+
+
+acting as a regional innovation technology provider;
+
+
+providing technology infrastructures and know how in order for start-ups and SMEs to reach an optimal technological horizon and a high level of digitization;
+
+
+assiting start-ups and SMEs in innovative project applications and implementation;
+
+
+providing accessto knowledge and infrastructure for validation and testing of innovations through a strong defined partnership with local research centers and universities;
+
+
+creatingsector projects in order to raise awareness on theneeds of specific artisan's categories and respond through innovative solutions.
+
+
+In order to implement those activities, as a DIH, FAB4 coordinates a network of consultancy, training, research, design companies, professionals and NGOs specialized in the digital fabrication technologies, providing technological innovation in order to create a positive impact on manufacturing, education, work processes and sustainability. In particular, FAB4 DIH Confartigianato Salerno supports and develops, the implementation of different knowledge-transfer activities together with its FAB4 DIH special partners (Medaarch, Knowledge for Business, SELLALAB). Thoseactivities are:
+
+
+C.A.D - Centro per l'Artigianato Digitale, Incubator and Technological Services for Digital Craftsmanship.CAD is an Innovation Center, a training and technological hub, designed to help craftsmen, start-ups and SMEs to innovate through digital and new technologies. It aims atbeing a concrete example of how tradition and innovation can not only coexist, but together they would represent the real key to the growth and relaunch of production activities.
+
+
+Mediterranean FabLab - Digital Design and Manufacturing services, is an equipped laboratory with digital manufacturing machines and technologies for the prototyping of objects, tools and electronics. The Mediterranean FabLab is a meeting place for people of all ages open to research and innovation, itis also a hub of creative processes capable of creating, through participatory innovation, training, research and production scenarios that can meet the needs of the new market and support the revitalization ofbusiness. It focuses on architecture projects and smart cities, giving space to ideas and products that use technologies to improve the quality of life.
+
+
+BIOlogic - Digital Manufacturing in the Biological Sector,supports the development of research and projects for bio-based manufacturing and it is the first bio-fab labin southernItaly structured as a research and development center, which uses biological fabrication technologies to create biological matrix products to develop new manufacturing processes. BIOlogic has active research lines ranging from the creation of materials with intelligent properties, functional to the development of a green manufacturing, up to the creation of 3D printers for controlled-release multivolumetric capsules, useful for agriculture and food integration.
+
+
+Working with those innovation partners is essential for the implementation of technology transfer processes to start ups and SMEs and the development of their digital competences and it is functional to the coordination of the activity of the FAB4 DIH.
+In September 2018, FAB4 DIH Confartigianato Salerno signed a Framework Agreement with the University of Salerno in order to define the cooperation between the two parties aimed at supporting innovation and digital transformation processes of SMEs and craft businesses, by:
+
+
+Developing collaborative research and technology transfer projects;
+
+
+Design and implement advanced training activities for businesses;
+
+
+Promotingthe use of laboratories, facilities and technological skills available in the University for start ups and SMEs;
+
+
+Supportingthe process of setting up and developing start-ups and academic spin-offs aimed at enhancing research activities.
+Contact Person(s): Petruzzo Michaela
+Phone: +39 089799406
+Email: info@fab4dih.it
+Location: Via michelangelo testa, 11, Salerno, Italy
+Type: DIH
+Website: http://www.fab4dih.it/
+Tags: Country:Italy
+------------------------------------------------------------
+EDIH Name: FAIR
+Title: Finnish AI Region
+Country: Finland
+Description: Finnish AI Region EDIH (FAIR) provides free or subsidized services to SMEs to advance their digital and green transformation on an open, transparent and non-discriminatory basis. The technological focus of FAIR is on AI, but we also offer expertise in cybersecurity, high-performance computing, and Extended Reality (XR). Geographically, FAIR services cover the whole Finland with emphasis on Southern Finland. At the core of FAIR are 1) the Finnish Center for Artificial Intelligence (FCAI), which is a flagship initiative founded and run by AALTO, UH and VTT, and 2) the three major capital region cities (Helsinki, Espoo and Vantaa). FAIR has deeper collaboration with selected EDIHs in Finland and in Europe, but intends to collaborate with and strengthen the whole EDIH network. Furthermore, FAIR collaborates with other Finnish organizations and networks. Thus, FAIR will be able to offer an extended set of services.  
+Our target customers are SMEs operating in the areas of digital services, smart cities and health. These SMEs are expected to have at least a basic understanding of AI. A typical example of a customer is a company that is already an established player in its own application area and now aims to launch a new product/service harnessing AI, but lacks the expertise and means to correctly validate, implement, maintain and further develop the new AI based service in practice. It can also be a company that aims to improve its operations with a third-party AI solution, but does not have the needed expertise to compare available services nor to implement them efficiently.
+Contact Person(s): Solja SULKUNEN
+Phone: 3.58402E+11
+Email: solja.sulkunen@hel.fi
+Location: Kansakoulukatu 3, 00100 Helsinki, Finland
+Type: EDIH
+Website: https://www.fairedih.fi/en/
+Active Sectors: Smart City (very high involvement), Health care (very high involvement)
+Provided Services: Prototyping (very high involvement), Ecosystem building (very high involvement), SME support (very high involvement), Technological innovation (moderate involvement), Finance (moderate involvement), Field trial (very high involvement), Sme Business Development (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), High performance computing (very high involvement), Virtual Reality (very high involvement)
+Tags: Country:Finland; Sector:Smart City; Sector:Health care; Service:Prototyping; Service:Ecosystem building; Service:SME support; Service:Technological innovation; Service:Finance; Service:Field trial; Service:Sme Business Development; Technology:Artificial Intelligence & Decision support; Technology:High performance computing; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: Faubourg Numérique
+Title: Faubourg Numérique
+Country: France
+Description: Faubourg Numérique is a non-profit organization created by entrepreneurs for entrepreneurs. Faubourg Numérique acts as Living & Learning Lab to foster open innovation in the area of Internet of Things (IoT) and Machine Learning. Faubourg Numérique leads the local Saint-Quentin French Tech startup network and is initiator of the Open & Agile Smart Cities french network (OASC France). Faubourg Numérique (IoT Booster) is also recognized as Digital Innovation Hub (DIH) by the FIWARE foundation (managing FIWARE IoT open source technology).
+Contact Person(s): Stiekema Judith
+Phone: 33771761400
+Email: judith.stiekema@oasc.fr
+Location: 83 blv jean bouin, Saint-quentin, France
+Type: DIH
+Website: https://dih-fbn.com/
+Tags: Country:France
+------------------------------------------------------------
+EDIH Name: Finnish Center for Artificial Intelligence (FCAI)
+Title: Finnish Center for Artificial Intelligence (FCAI)
+Country: Finland
+Description: FCAI is a nation-wide competence center for Artificial Intelligence in Finland, initiated by Aalto University, University of Helsinki, and VTT Technical Research Centre of Finland. It implements Finland's national AI strategy and action plan https://www.tekoalyaika.fi/en/ launched 2017.
+Our mission is to create Real AI for Real People in the Real World—a new type of AI, which is able to operate with humans in the complex world—and to renew the Finnish industry with the new AI.
+
+FCAI is a coordinated effort aiming at researching and developing
+
+AI solutions that bring AI systems closer to human cognition; we do not attempt to clone human cognition but provide ambitious and realistic technical solutions
+AI solutions that can be used by people, as companions and assistants, and guided by the people; in other words, AI that is understandable, trustworthy, and applied ethically, and AI that with its new capabilities can understand and interact with humans
+AI solutions that work with scarce data, in the real world, where large labeled training data sets are rare and current AI solutions would not perform efficiently
+
+The FCAI is aligned with the regional (Helsinki-Uusimaa Region) and the national (Finnish) strategies for digitizing the industry. In the region, FCAI can support industry renewal by utilizing the opportunities provided by digitalization and ICT as well as big data. FCAI enables developing value chains and business operation in order to renew the companies.
+Research and Innovation Strategy for Helsinki-Uusimaa Region
+http://s3platform.jrc.ec.europa.eu/documents/20182/231925/FI_Helsinki_Uusimaa_RIS3_Final.pdf/e0e7faf0-5600-4a07-804e-c7499a031d60
+In national level the FCAI contributes to solve societal challenges such as demographic change, health and well-being, food production,autonomous systems applications and security by connecting the Finnish AI research excellence with industrial actors and other stakeholders.
+Finnish strategy for Artificial Intelligence
+https://www.tekoalyaika.fi/en/
+FCAI supports SME’s in their digital transformation by generating scale-up solutions and concepts that are ready for commercialization and market entry. These ethical and effective AI solutions creates a basis for new AI start-ups in Finland. The FCAI innovation services promote also the commercialization of research, including technology transfer, licensing, and creation of spinouts.
+
+PROJECTS:
+DATABIO (H2020-ICT - 15-2016) 
+TRANSFORMING TRANSPORT (H2020-ICT-15-2016) 
+Big Medilytics (H2020-ICT-15-2016) 
+I4MS, ICT Innovation for Manufacturing SMEs
+SAE, Smart Anything Everywhere
+L4MS - Logistics for Manufacturing SMEs
+PLATFORMS and NETWORKS of DIH related to the FCAI.
+
+
+EFFRA, European Factories of the Future Research Association
+
+
+Big Data Value Association
+
+
+AIOTI, Alliance for Internet of Things Innovation
+
+One Sea - Autonomous Maritime Ecosystem
+Smart Manufacturing
+Contact Person(s): Kaski Samuel
+Phone: 3.58503E+11
+Email: contact@fcai.fi
+Location: Konemiehentie 2, Espoo, Finland
+Type: DIH
+Website: https://fcai.fi/
+Tags: Country:Finland
+------------------------------------------------------------
+EDIH Name: FIT EDIH
+Title: Futures of Innovation Technologies EDIH - Centru Region, RO
+Country: Romania
+Description: Futures of Innovation Technologies European Digital Innovation Hub (FIT EDIH) in the Centru Region, in Romania (NUTS2-RO12) is a coordinated group of 12 organizations, with complementary expertise, resulting from the merger of two EDIH consortia based in the region, that have successfully passed the national selection stage, namely FIT EDIH (ICE, UMFST, ASIMCOV, AICAR, BMA, CNIPMMR, ALT BV) and Leveraging Administration and Business for a Smart Community - DIH-LAB4COM (ULBS, ROPARDO, AIDA, SFR and NTT (AE)).
+FIT EDIH's primary specializations are (1) Artificial Intelligence (AI) and Big-Data based systems and (2) Key Enabling Technologies (KET), aiming to increase the digital maturity level of 131 SMEs and Public Service Organizations (PSOs) in 3 main application domains, correlated with the Centru region’s 2021-2027 RIS3 Smart Specialization Strategy:
+
+Smart City,
+Manufacturing,
+eHealth.
+
+In order to address the needs of Centru Region’s SMEs and Public Service Organizations (PSOs), who currently have a basic level of digitalization at best, while also setting up the premises for advanced digital transformation of their organization, FIT EDIH has created 3 Curriculum Tracks for each of the 3 Application Domains it targets, focusing on promoting both basic and advanced technologies and curating the themes and activities of its 4 core services (WP1 Innovation Ecosystem, WP2 Test Before Invest, WP3 Skills and WP4 Access to Finance). FIT EDIH's flexible yet ambitious approach goes further - to offering SMEs and PSOs 3 different client journeys, FIT EDIH Awareness Level, Basic Level and Advanced Digital Transformation.
+Contact Person(s): Irina Florea-Saghin
+Phone: 40742313037
+Email: irina.florea-saghin@iceberg.plus
+Location: str Mihail Sadoveanu nr 6, 500030 Brasov, Romania
+Type: EDIH
+Website: https://www.digitalinnovationhub.fit/home
+Active Sectors: Energy (high involvement), Health care (high involvement), Manufacturing and processing (high involvement), Public administration (high involvement), wholesale or distribution (moderate involvement), Smart City (very high involvement), Textiles (moderate involvement), Transport & Mobility (high involvement), Travel and tourism (moderate involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (high involvement), Innovation management (high involvement), Knowledge transfer (moderate involvement), Public sector innovation (high involvement), Smart Specialisation strategies (low involvement), Sme Business Development (high involvement), SME support (very high involvement), Technology transfer (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (moderate involvement), Cyber-physical systems (high involvement), Cybersecurity (moderate involvement), Digital twins (moderate involvement), Internet of Things (high involvement), Mobility (high involvement), Robotics (high involvement)
+Tags: Country:Romania; Sector:Energy; Sector:Health care; Sector:Manufacturing and processing; Sector:Public administration; Sector:wholesale or distribution; Sector:Smart City; Sector:Textiles; Sector:Transport & Mobility; Sector:Travel and tourism; Service:Ecosystem building; Service:Field trial; Service:Innovation management; Service:Knowledge transfer; Service:Public sector innovation; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technology transfer; Technology:Artificial Intelligence & Decision support; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Internet of Things; Technology:Mobility; Technology:Robotics
+------------------------------------------------------------
+EDIH Name: FIWARE Space
+Title: FIWARE Space
+Country: Spain
+Description: As a DIH associated to the Badajoz Provincial Council (public administration for the Province of Badajoz, Spain) and its digitalization project, Badajoz Es Más, the FIWARE Space center has carried out a wide range of activities aimed at citizens, local administrations and local companies (particularly SMEs and Start-Ups), always focusing on the topics of Digital Transformation and Smart Technologies. As previously mentioned, the FIWARE Space center is part of the Badajoz Provincial Council, and as such all its activities fall within the digitalization efforts carried out by the provincial administration.
+Contact Person(s): Jaime Gragera Rodríguez
+Phone: +0034 638680441
+Email: amhernandez@dip-badajoz.es
+Location: Avd. javier blanco palenciano, pctex, bloque 2, 06006 Badajoz Badajoz, Spain
+Type: DIH
+Website: https://fiware.space/
+Active Sectors: Energy (moderate involvement), Environment (high involvement), Public administration (very high involvement), Travel and tourism (high involvement)
+Provided Services: Ecosystem building (high involvement), Knowledge transfer (high involvement), SME support (high involvement)
+Technological Focus: Internet of Things (high involvement)
+Tags: Country:Spain; Sector:Energy; Sector:Environment; Sector:Public administration; Sector:Travel and tourism; Service:Ecosystem building; Service:Knowledge transfer; Service:SME support; Technology:Internet of Things
+------------------------------------------------------------

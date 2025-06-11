@@ -1,0 +1,168 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: Science & Technology Park CARTUJA
+Title: Science & Technology Park CARTUJA
+Country: Spain
+Description: The Cartuja Science and Technology Park is the first international example of the reuse of a world exhibition (Expo’92) facility as a connection point between universities, science and business.
+Its success is reflected in its motto: Innovate, collaborate, grow.
+STP Cartuja is a public policy instrument aimed at enhancing local economic development and technologic modernization. STP Cartuja encourages private investment in R&D&I by positioning themselves as an innovative centre, where cooperation is the basis for growth and business competitiveness.
+STP Cartuja hosts important technologic agents with high scientific, technical and social skills that facilitate knowledge creation, transmission, diffusion and management and its application to productive activities, lifting up business competitiveness of SMEs and other companies in its environment. Some of these important agents are University of Seville, Scientific Research Center Cartuja (CIC Cartuja), Technology Corporation of Andalucia (CTA), Entrepreneur Circle of STP Cartuja, Entrepreneur confederation of Andalucia (CEA), Energy Agency of Andalucia (AAE), Knowledge Agency of Andalucia (AAC), International Trade Agency of Andalucia (EXTENDA), Innovation Agency of Andalucia (Agencia IDEA), IPTS (Joint Research Centre from European Commission), among others.
+Therefore, in this frame and with the objective of lifting up SMEs business competitiveness, STP Cartuja promotes digital transformation and creation of innovative and cooperative ecosystems, in cooperation with the rest of the agents in our environment.
+STP Cartuja has an essential competitive advantage: it is a Park within the city, very close to the city center and well connected to the airport and railway station.
+The heart of STP Cartuja is composed by its companies and its scientific and technological institutions. Besides these, there are also areas dedicated to culture, leisure and sports. Altogether, they form a facility of excellence.
+The Park is a true entrepreneurial, scientific and technological engine under continual development, with 442 companies, 16.700 jobs created and an economic activity of €2.066 million (Figures from 2016).
+The managing Company of STP Cartuja is in charge of boosting business relationships to promote STP development, by organising meetings for partner search, training actions, assesment for financing startups, seed capital and R+D projects, information and communication actions for dissemination of activity and projects of companies within the Park.
+The managing company, Parque Cientifico y Tecnologico Cartuja, S.A., is dependent on the Employment, Company and Trade Regional Ministry from the Regional Government of Andalusia and it is a member of the Spanish Association of Scinece and Technology Parks (APTE) and of the International Association of Science Parks and Areas of Innovation (IASP).
+http://www.pctcartuja.es/es/el-parque.html
+ADVANTAGES OFFERED BY STP CARTUJA
+Excellent Location
+STP Cartuja is an exclusive location for business, 5 minutes far from city center, 15 minutes far from international airport San Pablo (Seville) and high speed train station Santa Justa (Seville). It is a place with excellent complementary services, for business and also for leisure, culture and sports.
+Research facilities 
+Companies in STP Cartuja can have access to scientific and technical facilities dedicated to interdisciplinar research in the fields of Nuclear Physics, Microelectronics, Biontechnology, Biomedicine, Nanotechnology y 3D.
+Synergies between companies and other entities
+Every company, since it set up in STP Cartuja, can count with the efforts of the managing company of the STP, which promotes relationships, business opportunities and synergies between companies and other entities allocated within the STP, especially in issues related with financing and R+D projects.
+Constant flow of technology and knowledge
+Companies at STP Cartuja work in an environment of constant flow of technology and knowledge between universities, research centers and companies. This scenario generates business opportunities and it facilitates access to regional, national and European grants that can add financing sources and value to products and services of companies in the park.
+Side by side opportunities 
+Neighbor companies are potential collaborators, suppliers and clients. Sharing space with companies with the same needs is a way of setting up strategic alliances and of growing easily.
+National and international contacts
+Companies at STP Cartuja can have access to national and international contact networks thanks to the managing company of the park.
+Specialised Activities, workshops, conferences and events
+Companies at STP Cartuja have access to updated information about specialized activities, workshops, conferences and events at national and international level, where they can exchange knowledge, experience and know-how with other companies and research centers.
+STP Cartuja has also launched projects, services and activities to benefit all our environment (Science and technology Park within the City of Seville, in the Andalusian Region at Spain). Some of them interesting to be pointed out, are the following:
+
+STP Cartuja will host the 37th IASP World Conference in 2020. (http://www.pctcartuja.es/blog)
+STP Cartuja is a member of the partnership in the project so called SATARTUP2, financed by the Erasmus Young Entrepreneur Call form the COSME Program. This project promotes the international mobility and exchange of experience between European entrepreneurs. http://www.pctcartuja.es/es/proyecto/erasmus-para-emprendedores.html
+STP Cartuja has recently launched a Technologic Challenge Program. This program aims to promote competitiveness and creativity to reach innovative solutions to concrete “problems” in different fields and sectors. http://www.pctcartuja.es/es/retostecnologicos.html
+STP Cartuja has joint the Alliance to promote Dual Professional Training (FP Dual). This initiative aims to impulse al a national level this kind of training (FP Dual), which it is normalized in Spain since 2012. FP Dual includes the participation of companies during the learning process of students in this king of training. http://www.pctcartuja.es/es/noticias/el-pct-cartuja-ofrece-sus-empresas-participaci%C3%B3n-en-proyectos-de-fp-dual
+Contact Person(s): Perez Luis
+Phone: +34 671 59 29 37
+Email: innovacion@pctcartuja.es
+Location: C/ isaac newton, s/n. pabellón de la ue., Seville, Spain
+Type: DIH
+Website: http://www.pctcartuja.es/
+------------------------------------------------------------
+EDIH Name: Science and Technology Park Of Almeria, PITA S.A.
+Title: Science and Technology Park Of Almeria, PITA S.A.
+Country: Spain
+Description: The Science and Technology Park of Almeria is based in Almeria (Spain) since 2012 with the aim of contributing to the social and economic developing of science and technology in the región, giving the neccesary services to achieve this aim. At PITA you will be able to participate in a wide range of programs for business promotion through seminars, conferences and meetings with professionals, in order to build up your network and improve your business. You can find all this in a strategic place in the south of Spain, connected with the rest of the country and to boost: a fantastic climate. Actually we 87 companies are based in our Park. As Digital Innovation Hub we work providing services focus on the new trends and strategies. Some of this services are: Internationalization, Knowledge transfer, Disclosure of science, Business cooperation and Projects.
+Contact Person(s): Cañadas Alicia
+Phone: 0034950172164
+Email: acanadas@pitalmeria.es
+Location: Avd/ de la innovacion nº15. 04160 almeria, 04160 Almeria Almería, Spain
+Type: DIH
+Website: http://pitalmeria.es/
+------------------------------------------------------------
+EDIH Name: SCS
+Title: Pôle SCS
+Country: France
+Description: SCS (Secured Communicating Solutions) cluster (www.pole-scs.org), is based in the Provence-Alpes-Côte d’Azur region, in France, and gathers 300 members, including companies (and 70% of SMEs), research centres and educational institutions in the fields of microelectronics, IoT, Big Data, Artificial Intelligence and Digital Security. As a non-profit organisation with the status of "French Competitiveness cluster" recognised at national level, the aim of SCS cluster is to promote the development of competitive R&D projects between all these players with the support of local communities, in order to design and develop new solutions targeting high-growth markets such as smart cities, smart homes and smart buildings, smart grids, Industry x.0, or e-health. It also aims to contribute to the creation of an appropriate ecosystem for the overall regional digital and deeptech landscape, especially through the development of SMEs. The cluster represents 60 000 jobs in these fields, 26 multinational companies, 1200 researchers in the public sector and 18 educational institutions training 1500 engineers per year. Partner in the European Digital Innovation Hub Move2Digital Keywords: Open innovation, networking, Deeptech, digital technologies, IoT, AI, cybersecurity, microelectronics, electronics, optics, photonics
+Contact Person(s): Marielle Campanella
+Phone: 33489866933
+Email: marielle.campanella@pole-scs.org
+Location: Place borde, 13790 Rousset, France
+Type: DIH
+Website: https://www.pole-scs.org/
+Active Sectors: Defence (high involvement), Energy (moderate involvement), Health care (moderate involvement), Telecommunications (very high involvement), Security (very high involvement), Smart City (very high involvement), Transport & Mobility (moderate involvement)
+Provided Services: Innovation management (very high involvement), Knowledge transfer (high involvement), Prototyping (moderate involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Cybersecurity (very high involvement), Internet of Things (very high involvement), optoelectronics (very high involvement), Photonics (high involvement), Semiconductors and Nanotechnology (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (high involvement)
+------------------------------------------------------------
+EDIH Name: SEDIH
+Title: Smart Energy Digital Innovation Hub
+Country: Denmark
+Description: A digital and flexible energy sector is crucial for EU to cut CO2 emissions by 55% by 2030. The Smart Energy Digital Innovation Hub (SEDIH) has a vision of being part of the ambition and at the same time improve the competitiveness of the local economy by stimulating digital transformation in the energy sector in the thirteen Municipalities in South Jutland in Denmark. SEDIH has a dedicated focus and builds on a strong smart specialization, which is already an area of growth in the region. The energy sector is strongly represented in South Jutland, but still has the potential to be strengthened even further in the coming years, as the strong energy sector has not historically been based on smart digitalization. SEDIH will increase the general level of digital maturity by 10%, strengthen the uptake of digital technologies and promote the development of new technologies to ensure a future intelligent and flexible energy system. SEDIH gives acces to state-of-the-art infrastructure and the possibility to work with some of the best in the field of AI, cyber security, HPC and IoT. Targeted test -courses, - facilities and living labs, train the trainer and knowledge brokerage projects create a structured collaboration and easy access for companies to RTOâ€™s and universities. The clusters participation ensures a smooth facilitation and a commercial aim that creates the link to access to finance and investments. SEDIH is a one-stop shop when it comes to new knowledge, new technologies and new partners. SEDIH will provide European added value and promote collaboration across European EDIHs, giving companies the opportunity for broader support, matchmaking, best practice and access to new knowledge. SEDIH creates links with the other initiatives in the Digital Europe Program, e.g Green Deal Data Space, TEF for Smart Cities and Communities, Centers of Excellence for HPC Application and the European AI On-Demand Platform.
+Contact Person(s): Mona Nissen Bach
+Phone: 4531636916
+Email: mnb@ehsyd.dk
+Location: Billundvej 3, 6500 Vojens, Denmark
+Type: EDIH
+Website: http://ehsyd.dk
+Active Sectors: Energy (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Finance (very high involvement), Knowledge transfer (very high involvement), SME support (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement), Internet of Things (very high involvement)
+------------------------------------------------------------
+EDIH Name: SEEU TechPark
+Title: SEEU TechPark EDIH
+Country: North Macedonia
+Description: SEEU Tech Park aims at providing conditions to stimulate the creation of new start-up companies, make a synergy between the companies and encourage the growth of the existing small and medium sized enterprises (SMEs), resulting in generating new job opportunities. SEEU Tech Park’s mission is the development of start- up knowledge based companies at SEEU, designed to create and foster an entrepreneurial culture among faculty, researchers, and students of SEEU, as well as commercialization of scientific and technological knowledge. Its vision is to create an environment within the University that will forge closer ties and endure links between academia and the industry in order to convert knowledge and expertise into Action, Production and Investment.
+Contact Person(s): Blerina Zendeli
+Phone: 38944356167
+Email: b.zendeli@seeu.edu.mk
+Location: Ilindenska, no. 335, 1200 Tetovo, North Macedonia
+Type: Seal of Excellence
+Website: https://www.seeu.edu.mk/
+Active Sectors: Education (very high involvement), Environment (moderate involvement), Manufacturing and processing (low involvement), Public administration (moderate involvement), Security (low involvement), Smart City (low involvement), Transport & Mobility (moderate involvement)
+Provided Services: Circular economy (moderate involvement), Innovation management (high involvement), Knowledge transfer (high involvement), Prototyping (low involvement), Regional development (high involvement), Smart Specialisation strategies (low involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (high involvement), Vocational training (low involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), BI tools (high involvement), Big data (moderate involvement), Communication network (low involvement), Cyber-physical systems (low involvement), Cybersecurity (moderate involvement), Digital twins (low involvement), Human computer interaction (moderate involvement), Internet of Things (moderate involvement), Mobility (moderate involvement), Software Architectures (high involvement), Virtual Reality (moderate involvement)
+------------------------------------------------------------
+EDIH Name: SFT-EDIH
+Title: Smart Sustainable Farms Foods and Trade
+Country: Portugal
+Description: Smart Sustainable Foods & Trade European Digital Innovation HUB Approved Digital Innovation Hub in Portugal for the Agro-food sector
+Contact Person(s): Ricardo Nunes
+Phone: 3.51919E+11
+Email: ricardo.nunes@bgi.pt
+Location: Avenida das forcas armadas, 1649-026 Lisbon, Portugal
+Type: Seal of Excellence
+Website: Website
+------------------------------------------------------------
+EDIH Name: SharD-HUB
+Title: SharD-HUB – Sardinia Digital Innovation Hub
+Country: Italy
+Description: SharD-HUB, the EDIH to be set up in Sardinia, has been conceived to become a one-stop-shop to ensure access to digitalization services, top-level research infrastructures and a wide set of training and skills development and/or networking activities intended for both enterprises (especially MSMEs and SMEs) and Public Sector Organisations, addressing the three main technological areas envisaged by the call – High Performance Computing, Cybersecurity and Artificial Intelligence – for actively contributing to foster their digital transition, according to the Regional Smart Specialization Strategy. To achieve this goal a strong consortium comprising research centres, trade associations, incubators and top-player industries has been mobilised so as to offer to the hub’s clients the needed infrastructure and expertise to increase their digital and market maturity and to boost up the networking growth at national and international level along all the six areas identified by the Regional Smart Specialization Strategy (RIS3), namely, 1) ICT, 2) Tourism, culture and environment, 3) Smart networks for efficient energy management, 4) Agroindustry, 5) Biomedicine and 6) Aerospace): more specifically SharD-HUB will offer a very wide range of services, namely: A) Test before invest activities (through the mobilisation of 38 public and private laboratories); B) Support to find Investments; C) Innovation Ecosystems and Networking; D) Training and skills Development activities. SharD-HUB will thus be the turnkey for boosting the digital transformation of the Sardinian ecosystem and for increasing the economic competitiveness of the region at a European level. This wide variety of services has been designed to serve the ultimate goal to reduce the competitive disparity with other areas and be a “virtual” bridge from Sardinia to Europe.
+Contact Person(s): Marcella DALLA CIA
+Phone: 3.90709E+12
+Email: dallacia@sardegnaricerche.it
+Location: Via palabanda 9, 09100 Cagliari CA, Italy
+Type: Seal of Excellence
+------------------------------------------------------------
+EDIH Name: ShiftLabs
+Title: Swedish network for Sustainable Digitalisation and Human-Centric Factory Transformation
+Country: Sweden
+Description: The objective of the Swedish EDIH for smart manufacturing industries, Swedish network for Sustainable Digitalisation and Human-Centric Factory Transformation (ShiftLabs) is to strengthen, generate and promote services targeted at manufacturing SMEs that support their digital transformation and work towards sustainable manufacturing industries. The proposed EDIH is based on a national hub with regional nodes. The consortium supports a structure of regional nodes with a comprehensive offer of services to SMEs. Each regional node follows the template of a “one stop shop”, a single point of contact with verified experience and expertise in supporting SMEs, paired with an academic partner that has relevant state-of-the-art production research as well as training and education for professionals in the field. Each node also maintains a local network of relevant collaboration partners to ensure the supply of applicable services, for example through local science parks. The nodes are supported cross-sectionally by core partners with wide and specific expertise in digital technologies, as well as testbeds, data centres, and facilities to support SMEs with their individual needs related to, for example, artificial intelligence, cyber security, industry 4.0 related technologies, and HPC. The hub partners already maintain a strong European connection, with several of them already being fully operational Digital Innovation Hubs. The strong national and European integration ensures that the ShiftLabs will be a valuable resource for the manufacturing SMEs, as well as an effective partner in the European network of EDIHs. To ensure the relevance of the hub, the proposal has letters of support from the involved Regions (Region Västmanland, Region Sörmland, Västra Götalandsregionen, Region Stockholm), Produktion2030 (national funding programme for production research), the Scandinavian Automotive Supplier Association (FKG), IUC (industrial development center), and ALMI.
+Contact Person(s): Johan KOSTELA
+Phone: 4616153482
+Email: johan.kostela@mdu.se
+Location: Hogskoleplan 1, 721 23 Vasteraas, Sweden
+Type: EDIH
+Website: https://shiftlabs.eu/
+Active Sectors: Manufacturing and processing (very high involvement), Automotive (very high involvement), Metal working and industrial production (moderate involvement)
+Provided Services: Technological innovation (very high involvement), Technology transfer (very high involvement), SME support (very high involvement), Circular economy (moderate involvement)
+Technological Focus: Additive manufacturing (moderate involvement), Artificial Intelligence & Decision support (high involvement), Cyber-physical systems (high involvement), Digital twins (high involvement), Human computer interaction (moderate involvement), Internet of Things (high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (moderate involvement), Simulation engineering and modelling (high involvement)
+------------------------------------------------------------
+EDIH Name: Sibiu Smart Systems
+Title: Sibiu Smart Systems
+Country: Romania
+Description: Sibiu Smart Systems (SmaS) is a non-profit hub integrating theoretical and application-driven research, infrastructure and services of Connected Intelligence Research Center (INCON) and Hasso Plattner Institute for Knowledge Transfer (HPI). Both INCON and HPI are hosted within the Lucian Blaga University of Sibiu in Romania and provide access to a vast network of international industrial partners and scientific institutions.
+SmaS integrates Artificial Intelligence (AI) and cyber-physical social systems (CPSS) research with support activities for entrepreneurs, start-ups, and SMEs, to accelerate the adoption of innovative solutions by industry in the field of engineering cyber-physical systems and advanced human-machine systems (Augmented Reality, Virtual Reality, motion and biometric sensors).
+SmaS provides the following services to regional SMEs to support their digital transformation:
+
+Knowledge services, comprising activities for training, education and skills development, as well as raising awareness among local and regional companies about capabilities and benefits of AI and CPSS;
+Technology services, enabling hands-on experience in the development and deployment of CPSS within the existing research infrastructure (e.g. production prototypes, open-source CPSS-development software);
+Networking services, enabling connection to all relevant local and regional stakeholders to match needs and demands with offers and opportunities. Even more, considering previous and ongoing projects (ESI-founded, public-private, Horizon 2020), SmaS provides access to a European network for digitalization solutions.
+Contact Person(s): Bogdan-Constantin Pîrvu
+Phone: +40 722 464 321
+Email: bogdan.pirvu@ulbsibiu.ro
+Location: Strada emil cioran 4, sibiu, Sibiu, Romania
+Type: DIH
+Website: http://centers.ulbsibiu.ro/incon/dih
+------------------------------------------------------------
+EDIH Name: SIH
+Title: Smart Islands Hub
+Country: Portugal
+Description: The Smart Islands Hub (SIH) is an important strategic effort, officially supported by the Regional Government to accelerate the Digital and Green transition of the Autonomous Region of Madeira. The consortium unites core organisations from R&D, Innovation and business ecosystem: ARDITI (coordinator), the University of Madeira, Startup Madeira, ACIF, NOVA University of Lisbon, Smart Energy Lab, Cecolab and Uninova. SIH also has the support of strategic stakeholders in the form of public institutions, local service providers and all the Municipalities of Madeira. SIH will provide solutions that will help SMEs, small midcaps and public sector organisations in their digital and green transformation, and promote capacity building and digital inclusion in the population of the Region. Our services will be available for similar regions and small economies that, like ours, are fully committed to sustainable development and quality of life for their citizens. Our position as an outermost region, further away from decision centres, where technology and innovation are more widespread, motivated the creation of a strategy to holistically develop our DIH and offer a more complete set of services for test before invest, skills & training, support to find investment and ecosystem and networking, applied to the areas of Energy, Circular Economy, Environment & Sustainability, Mobility & Logistics, Public Sector, Health & Biotechnology and Commerce & Services. We also cover a wider range of main technologies, from AI and Cybersecurity to Advanced Digital Skills. To reach our goals, we developed a project plan that integrates activities to promote technology transfer from our R&D entities to market innovation with the support of our business organisations, taking full advantage of our competence centres. The results will be shown by advancing the digital maturity of the organisations that benefit from our services, measured by a Digital Maturity Assessment.
+Contact Person(s): Paulo Abreu
+Phone: +351 291721205
+Email: paulo.abreu@arditi.pt
+Location: Caminho da Penteada, Edifício Madeira Tecnopolo, piso 2, 9020-105 Funchal, Portugal
+Type: Seal of Excellence
+Website: https://smartislandshub.eu/index.php/en/
+Active Sectors: Energy (very high involvement), Environment (very high involvement), Health care (high involvement), Transport & Mobility (high involvement), Public administration (moderate involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Sme Business Development (very high involvement), Circular economy (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), Human computer interaction (high involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Big data (moderate involvement)
+------------------------------------------------------------

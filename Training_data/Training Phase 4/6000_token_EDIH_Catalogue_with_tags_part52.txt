@@ -1,0 +1,186 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: Réseau LIEU – LIaisons Entreprises-Universités
+Title: Réseau LIEU – LIaisons Entreprises-Universités
+Country: Belgium
+Description: The LIEU network brings together the Knowledge Transfer Offices (KTOs) of Belgian French-speaking Universities and Higher Education Institutions. The mission of the KTOs is to stimulate and facilitate cooperation between scientific communities and companies in terms of collaborative research, services and knowledge transfer. The LIEU network aims to create a forum where businesses and researchers can enter a dialogue to build trusting relationships. The advisors of the LIEU network act as go-betweens for businesses and researchers, analyzing the business’ needs in order to direct them to the best available solution, and facilitate their cooperation with appropriate academic researchers. The main services provided to companies are divided in three categories: • INFORM: provide to company a concise and consolidated information on the available scientific skills, services and facilities, • COOPERATE: provide to company a tailored support to find a research partner and to establish a business/research partnership, • NETWORK: organize business/research events to stimulate new contacts and give an opportunity to learn about technological and societal advances. The LIEU network forms a unique ecosystem that successfully promotes interactions between various research and innovation professionals. Therefore, LIEU maintains close relationships with all the members of the Walloon Digital Innovation Hub (DIH Digital Wallonia.be), especially the RTOs, the incubator/accelerator, the industry and cluster organizations, the economic development agencies and the regional government.
+Contact Person(s): Wyart Eric
+Phone: +32 (0) 81 62 25 94
+Email: director@reseaulieu.be
+Location: Passage des déportés 2, Gembloux, Belgium
+Type: DIH
+Website: http://www.reseaulieu.be/en
+Tags: Country:Belgium
+------------------------------------------------------------
+EDIH Name: Reutlingen University Werk150
+Title: Reutlingen University Werk150
+Country: Germany
+Description: Werk150 was founded in 2011 and is the factory of ESB Business School on the campus of Reutlingen University.
+The facility is used for application-oriented research and knowledge transfer in training, continuing education, demonstration of solutions in the areas of Industry 4.0, artificial intelligence (AI) and digital twin. We train future experts in the environment of innovative technologies.
+At Werk150, we demonstrate, plan and design:
+
+demonstrators for know-how transfer - making Industry 4.0 potential visible,
+the use of cloud-based tools for service-oriented collaborative engineering,
+smart automation solutions in logistics,
+blockchain solutions in the supply chain,
+agile value creation structures and processes,
+hybrid work and production systems,
+methods and tools for planning and realizing future-proof factories, production systems and warehouses,
+solutions for the cost-optimal design of logistics supply at the strategic (location and production strategies), tactical ( adaptability and robustness) and operational (dynamics and flexibility) levels,
+solutions with 5G private networks in production and logistics (Werk150 has a full 5G standalone private network).
+
+Werk150 is a research facility of Reutlingen University. The results of applied research are continuously integrated into teaching. As a non-profit institution, it supports small and medium-sized enterprises (SMEs) in the implementation of innovation and research tasks. The ESB Business School factory does not pursue any commercial goals or economic interest. Projects are publicly funded or privately realized on cost basis.
+Our task as an applied research institution is to bring new developments and innovations from science into application and thus to sustainably support small and medium-sized enterprises in their innovation potential. Through research projects, such as the 5G4KMU project funded by the state of Baden-Württemberg, Werk150 supports companies in their digital transformation.
+Werk150's activities to support local SMEs include:
+
+Objective advice as independent scientists, as well as low-risk and low-threshold access to new technologies and infrastructures.
+Development of new products and applications using Werk150's state-of-the-art infrastructure under real test conditions.
+Research and realization of new business models through feasibility studies and workshops.
+Prototypical implementation and testing of project ideas with the support of highly qualified personnel.
+Contact Person(s): Palm Daniel
+Phone: +4971 21 2 71 31 05
+Email: daniel.palm@reutlingen-university.de
+Location: Alteburgstr. 150, Reutlingen, Germany
+Type: DIH
+Website: https://www.esb-business-school.de/en/research/research-activities/werk150
+Tags: Country:Germany
+------------------------------------------------------------
+EDIH Name: Robocoast
+Title: Robocoast EDIH Consortium
+Country: Finland
+Description: Robocoast EDIH supports the manufacturing industry to use digital technology to promote sustainable growth and competitiveness (Industry 4.0). Robocoast EDIH offers one-stop access to EDIH services and networks of European best digital experts, which helps SMEs to become more skilled, innovative, and competitive. Robocoast EDIH has local service nodes and expert resources in the nine regions of Finland, where almost 50% of Finnish manufacturing companies are located. Through EDIH services, Robocoast EDIH combines the needs of the manufacturing industry with the expertise of universities and technology companies. Robocoast EDIH services have been created based on actual needs and long-term cooperation with the manufacturing industry with great results. Robocoast has been Digital Innovation HUB since 2017. Robocoast EDIH has high-level expertise in Cybersecurity and know-how to support companies to apply new digital technologies (AI, Robotics, IoT, 5G and HPC) for developing processes, products, and services. Robocoast EDIH Consortium consists of 15 universities and several RDI laboratories and testbed environments, including over 9 000 digital technology specialists and over 800 Cybersecurity, Robotics, AI, and ICT companies. Based on professionalism, testing, and R&D resources of cybersecurity, The Finnish Information Security Cluster (FISC) strongly recommends the Robocoast EDIH. FISC is an organization established by major Finnish information security companies, and it has nearly 80 members. Robocoast EDIH will be one of the leading centers of cybersecurity in the Digital Europe Program.
+Contact Person(s): Mikko Puputti
+Phone: +358 44 7105343
+Email: mikko.puputti@prizz.fi
+Location: Gallen-Kallelankatu 8, 28100 Pori, Finland
+Type: EDIH
+Website: https://robocoast.eu/
+Active Sectors: Construction & Assembly (moderate involvement), Defence (moderate involvement), Education (very high involvement), Energy (very high involvement), fuels and petroleum engineering (low involvement), Environment (low involvement), Food and beverages (high involvement), Health care (moderate involvement), Manufacturing and processing (very high involvement), Maritime (high involvement), Metal working and industrial production (very high involvement), Nuclear (moderate involvement), Paper and wood (high involvement), Security (very high involvement), Transport & Mobility (moderate involvement), Transport sector (moderate involvement), Travel and tourism (low involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (high involvement), Field trial (very high involvement), Finance (high involvement), Innovation management (moderate involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Public sector innovation (low involvement), Regional development (very low involvement), Smart Specialisation strategies (low involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (very high involvement), Vocational training (high involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Cloud Services (moderate involvement), Communication network (low involvement), Cyber-physical systems (moderate involvement), Cybersecurity (very high involvement), Digital twins (high involvement), Gamification (low involvement), High performance computing (moderate involvement), Internet of Things (high involvement), Laser-based manufacturing and materials processing (low involvement), Location-based applications (very low involvement), Logistics (moderate involvement), Mobility (moderate involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (moderate involvement), Simulation engineering and modelling (high involvement), Software Architectures (moderate involvement), Virtual Reality (moderate involvement)
+Tags: Country:Finland; Sector:Construction & Assembly; Sector:Defence; Sector:Education; Sector:Energy; Sector:fuels and petroleum engineering; Sector:Environment; Sector:Food and beverages; Sector:Health care; Sector:Manufacturing and processing; Sector:Maritime; Sector:Metal working and industrial production; Sector:Nuclear; Sector:Paper and wood; Sector:Security; Sector:Transport & Mobility; Sector:Transport sector; Sector:Travel and tourism; Service:Circular economy; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Communication network; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Gamification; Technology:High performance computing; Technology:Internet of Things; Technology:Laser-based manufacturing and materials processing; Technology:Location-based applications; Technology:Logistics; Technology:Mobility; Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: Robotics Association SKALP
+Title: Robotics Association SKALP
+Country: Poland
+Description: The SKALP Robotics Association
+
+is an interdisciplinary organization aimed at the promotion of robotics, industry support related to modern technologies and education in robotics and automation, modern production methods and the space industry. We build prototypes, develop new technologies and undertake tasks that are too difficult for others. We offer technological consulting services for companies, including technological readiness audits according to the ADMA methodology.
+Everyone interested in our activities is invited to the Open Robotics Laboratory - a space dedicated to prototyping, experimenting and looking for answers to the most difficult questions. Our laboratory is located in the Gdańsk Science and Technology Park. Members of the Association are currently involved, among others. in the projects of autonomous vehicles, inspection robots and intelligent agricultural robots.
+As a non-profit organization, the association reinvests any operating income as part of its statutory activities.
+As part of cooperation increasing the competences and digital capabilities of small and medium-sized companies with whom we cooperate, we offer a number of services, including:
+
+
+Field meetings with companies. The lack of awareness of the need for change has been diagnosed by us as one of the biggest stoppers in digital transformation. For this purpose, we organize a series of meetings on site, as close as possible to potential customers. The main purpose of the meetings is to arouse the interest and curiosity of entrepreneurs. Therefore, the presented materials will be short, engaging and showing the latest technologies, such as walking robots, autonomous vehicles, artificial intelligence, etc. To this will be attached Use Cases of our partners showing the real benefits of implementing modern industry 4.0 solutions.
+
+
+
+
+Visits to the Leaders of Transformation. To show the possibilities and advantages of implementing digital technologies, we organize visits among regional leaders in implementing modern solutions. These are both companies that have previously undergone a transformation process together with the Association, and organizations that have been improving their operations with modern tools for years. The visits are recorded, edited and published on the Association's channels.
+
+
+
+
+Digital Maturity Assessment. The next step, after building awareness and the need for change, is to conduct an audit assessing at what point in digital progress the organization is at and what are the further development priorities. SR SKALP in its resources has 3 certified ADMA auditors, it also has audit experience resulting from cooperation with many production companies.
+
+
+
+
+Technology demonstrators. In order to understand the potential of emerging new technologies, entrepreneurs must have space to freely familiarize themselves with the latest technological developments. The Digital Innovation Hub should naturally provide the possibility of contact with technologies unavailable elsewhere. As SR SKALP, we focus primarily on solutions in the field of walking robots, autonomous vehicles, including drones, and high-speed manufacturing technologies such as 3D printing.
+
+
+
+
+Test Before Invest. High costs and the uncertainty of the return on investment in modern solutions are the biggest brake stopping small and medium-sized companies from implementing new solutions. With this in mind, we provide companies with the possibility of low-cost testing of the technology, using both the Association's personal resources and the space of the Robotics Laboratory at GPNT. Acting quickly and agile, providing customers with prototypes in a very short time, we convince about the advantages of modern solutions, as well as show that experimenting with technology can be cheap and should be a natural element of their business.
+
+
+
+
+Digital transformation roadmap. The final stage of the transformation path is the preparation of a complementary plan to implement changes in the organization. This is the stage at which SKALP representatives work with commercial technology suppliers and the client, gradually “handing over” the client ready for full-scale implementation. Only at this stage, the company is aware of the need for change, has mapped key areas that require improvement and has the necessary internal knowledge to ensure the success of the entire transformation process.
+Contact Person(s): Dyrda Mateusz
+Phone: 48795386973
+Email: info@srskalp.pl
+Location: Ul. trzy lipy 3, 80-172 Gdańsk, Poland
+Type: DIH
+Website: https://srskalp.pl/
+Tags: Country:Poland
+------------------------------------------------------------
+EDIH Name: Robotics place
+Title: Robotics place
+Country: France
+Description: Robotics Place is a cluster including private companies, universities and private high-school and research centers. There are 82 members in Occitanie and we are Founding Member of the French Robotic Clusters Federation
+Contact Person(s): Roussel Philippe
+Phone: +33 6 8802 0350
+Email: philippe.roussel@robotics-place.com
+Location: 12 rue louis courtois de vicose, Toulouse, France
+Type: DIH
+Website: https://www.robotics-place.com/
+Tags: Country:France
+------------------------------------------------------------
+EDIH Name: S4AI_HUB
+Title: Serbian European Digital Innovation Hub on AI
+Country: Serbia
+Description: Regional socio-economic inequalities have worsened over the past two decades in Serbia and are now among the highest in Europe. Substantial barriers to SME development prevented the less developed regions from mobilising the power of domestic entrepreneurship to challenge incumbent firms which benefitted from their locational advantage in Belgrade and other northern districts. With the transition to a knowledge economy based on digital agenda, Belgrade and Vojvodina benefitted from the high concentration of high technology employment, R&D and research personnel. This gave a further push to regional divergence. To overcome the renewed growth of regional inequalities generated by the structural shifts to the knowledge economy and the digital businesses that are fast emerging, a S4AI_HUB brings better distributed version of the knowledge economy in which the benefits of the digital transformation to the less developed regions of Serbia is going to be spread.
+These regions in Serbia need to enhance the uptake of AI in its key priorities defined by RIS3 and participate in the European ecosystem of excellence and trust.
+ 
+Therefore, it is essential to use and transfer the knowledge from cutting-edge research into business practice, support digitalisation in companies, especially SMEs, delivering innovation from startups and university to value chain and closely related issues of the qualified and retrained workforce. These regions in Serbia can build on its industrial and entrepreneurial tradition and the high technological intelligence of the population in this respect. It is why a highly diversified consortium consisted from 7 partners from BSOs, R&D, and the private sector, along with 13 Associated Partners (national level institutions, regional innovation centres, R&D, and academia) was established. This consortium will provide essential support to SMEs and public institutions in their digital transformation targeting at least 300 SMEs and public institutions.
+Contact Person(s): Ivan Pavlovic
+Phone: +381 668821002
+Email: ivan.pavlovic@ntp.rs
+Location: Aleksandra Medvedeva 2A, 18000 Nis, Serbia
+Type: EDIH
+Website: http://s4ai.rs/
+Active Sectors: Aeronautics (very high involvement), Community-Led Local Development (high involvement), Consumer products (high involvement), Cultural and creative economy (high involvement), Education (very high involvement), Energy (very high involvement), Environment (very high involvement), Health care (very high involvement), Manufacturing and processing (very high involvement), Smart City (very high involvement), Telecommunications (moderate involvement), Transport & Mobility (moderate involvement), Travel and tourism (moderate involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (very high involvement), Field trial (high involvement), Finance (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Public sector innovation (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Vocational training (very high involvement)
+Technological Focus: Additive manufacturing (moderate involvement), Artificial Intelligence & Decision support (very high involvement), Big data (moderate involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Cloud Services (high involvement), Communication network (moderate involvement), Digital twins (moderate involvement), Gamification (moderate involvement), High performance computing (high involvement), Human computer interaction (high involvement), Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Location-based applications (moderate involvement), Logistics (very high involvement), Quantum Technologies (computing/communication) (moderate involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (moderate involvement), Software Architectures (moderate involvement), Virtual Reality (very high involvement)
+Tags: Country:Serbia; Sector:Aeronautics; Sector:Community-Led Local Development; Sector:Consumer products; Sector:Cultural and creative economy; Sector:Education; Sector:Energy; Sector:Environment; Sector:Health care; Sector:Manufacturing and processing; Sector:Smart City; Sector:Telecommunications; Sector:Transport & Mobility; Sector:Travel and tourism; Service:Circular economy; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Communication network; Technology:Digital twins; Technology:Gamification; Technology:High performance computing; Technology:Human computer interaction; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Location-based applications; Technology:Logistics; Technology:Quantum Technologies (computing/communication); Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: Santaka Digital Innovation HUB
+Title: Santaka Digital Innovation HUB
+Country: Lithuania
+Description: One of the main national initiatives for digitizing industry that Santaka DIH activities are part of is Lithuanian Industry 4.0 platform (2016 – ongoing).The aim of the initiative is to create a sustainable debate platform, to review the Lithuanian strategy for industry development, to propose an improvement to Lithuanian smart specialization strategy and programs for its implementation and to promote Industry 4.0 concept through various dissemination activities. DIH members are contributing to established working groups. Funding: public-private partnership. The activities of "Skaitmeninių inovacijų centras" are non-profit.
+Lithuanian Government has identified 7 RIS3 main objectives to follow. SANTANA DIH align the activities with 6 out of 7 priorities. The RIS3 strategies that Santaka DIH is aligned with are as follows (ref.  http://sumani2020.lt/en/)
+Santaka digital innovation hub together with the members and partners provides the full scope of activities and a roadmap for the local companies to improve and be more competitive in nowadays economy.
+Santaka digital innovation hub supports the local SME’s in various ways, but those are few to mention:
+Promotes digital transformation by providing relevant information for SME’s:
+· SMEs are particularly slow in integrating digital technologies so our experts brings their competence analysing SME’s and providing them with benefits and possibilities digitally transforming their businesses;
+Helping and consulting companies and public sector helping to identify the opportunities for digital transformation:
+· there are strong differences in the level of digitalisation across the different sectors and SMEs in different regions in Lithuania and Baltic States. Our experts bring their competence helping find digitalisation synergy between different sectors and companies, integrating their business and manufacturing processes.
+Audits the existing processes and production lines:
+· certified auditors and engineering experts accordingly to approved methodology assess level of digital integrations and readiness of SMEs and gives feedback on places to make improvements;
+Provides strategies on how to improve and digitalize:
+· accordingly to evaluation and audit reports we provide roadmaps for digital improving and automatization, robotisation and artificial intelligence integration;
+Consults on the processes of development:
+· SMEs, startups and mid-caps can get access to technology-testing, financing advice, market intelligence and networking opportunities.
+Consults on funding opportunities within EU programs or private investors:
+· all digitalisation is impossible without EU grants, private investments and capital raise – our dedicated experts educate, prepare and consult companies on acquiring needed financial resources.
+Provides opportunity to participate in various programs by helping to write and submit the projects, administering them, look for a potential partner:
+· highly skilled business practitioners in Santaka DIH help SMEs’ teams to find local and regional partners, establish long-lasting relationships jointly participating in various programs, encourages joint projects and bring their skills in efficiently executing projects.
+Contact Person(s): Radisauskiene Egle
+Phone: 37061470595
+Email: Egle@santaka.eu
+Location: Savanorių pr. 221, Kaunas, Lithuania
+Type: DIH
+Website: https://dih.santaka.eu/
+Tags: Country:Lithuania
+------------------------------------------------------------
+EDIH Name: SCDI proposal
+Title: Slovak Centre of Digital Innovations
+Country: Slovakia
+Description: The Slovak Centre for Digital Innovations EDIH is best positioned to support the ambitions of the Digital Europe Programme 2021-2027, designed to ensure that Europe embraces the digital transformation of the economy and society. ur EDIH, the Slovak Center for Digital Innovations was founded by industry associations. We managed to achieve unique situation. Representatives of key industries, engineering, chemistry, IT, electrical engineering, pulp and paper, have agreed on the need to have an EDIH that will provide what they really need. We know the needs of companies and we will put them first. Most important public research institutions in Slovakia have agreed with this approach and become our partners. Our experts come from the most important technical research institutions, the Slovak University of Technology in Bratislava and the Slovak Academy of Sciences. We have access to more than 100 IT companies associated in the IT Association of Slovakia and 25 industrial research organizations associated in the Association of Industrial R&D Organizations. Some of them decided to participate on SCDI activities as the Affiliated Entities We have partners specialized in cybersecurity, artificial intelligence, digital skills development and innovations management. We see digitization as a tool to meet the transformation goals of companies. The result will be savings, higher productivity, business growth, meeting environmental goals and employment in better-ranked positions.mart processes and technologies are in the very center of our attention. We bring added value to the “digitization as usual” areas of embedded systems and the Internet of Things as well as in in the field of artificial intelligence, advanced data analysis and high-performance computing. We want to do the digital transformation correctly. This means responsibly from an environmental point of view as well as from a perspective of a workforce that may be at risk.
+Contact Person(s): Emil Fitos
+Phone: +421 903 534 229
+Email: emil.fitos@scdi.tech
+Location: Mlynské nivy 18890/5, 821 09 Bratislava, Slovakia
+Type: Seal of Excellence
+Website: https://www.scdi.tech/
+Active Sectors: Agricultural biotechnology and food biotechnology (moderate involvement), Automotive (very high involvement), Construction & Assembly (very high involvement), Education (very high involvement), Energy (very high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), NMP Non-Metallic Materials & basic processes (very high involvement), Paper and wood (very high involvement), Polymers and plastics (very high involvement), wholesale or distribution (moderate involvement), Smart City (very high involvement), Security (high involvement)
+Provided Services: Circular economy (moderate involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Public sector innovation (high involvement), Smart Specialisation strategies (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (moderate involvement), Artificial Intelligence & Decision support (very high involvement), products) (very high involvement), Cyber-physical systems (high involvement), Cybersecurity (high involvement), Digital twins (very high involvement), Internet of Things (very high involvement), Laser-based manufacturing and materials processing (high involvement), Logistics (high involvement), optoelectronics (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (high involvement), Software Architectures (high involvement), Virtual Reality (high involvement)
+Tags: Country:Slovakia; Sector:Agricultural biotechnology and food biotechnology; Sector:Automotive; Sector:Construction & Assembly; Sector:Education; Sector:Energy; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:NMP Non-Metallic Materials & basic processes; Sector:Paper and wood; Sector:Polymers and plastics; Sector:wholesale or distribution; Sector:Smart City; Sector:Security; Service:Circular economy; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Smart Specialisation strategies; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:products); Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Internet of Things; Technology:Laser-based manufacturing and materials processing; Technology:Logistics; Technology:optoelectronics; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------

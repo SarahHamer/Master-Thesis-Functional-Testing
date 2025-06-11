@@ -1,0 +1,155 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: CYBIAH
+Title: Cybersecurity and AI Hub | France
+Country: France
+Description: CYBIAH is an European Digital Innovation Hub (EDIH) based in the Paris Region, dedicated to advancing cybersecurity initiatives with the potential for national and European expansion. Incubated at the heart of Campus Cyber (CCYB), CYBIAH benefits from exclusive access to top-tier cybersecurity experts, enabling the delivery of cutting-edge services to its diverse range of beneficiaries.
+Recognizing the prohibitive costs associated with cybersecurity solutions, CYBIAH aims to bridge the gap by forming a consortium comprising highly specialized expertise tailored to address the needs of public administrations and SMEs across various sectors. Collaborating with external cyber providers familiar with real-world challenges, CYBIAH strives to achieve two key objectives:
+
+
+Firstly, CYBIAH seeks to make exceptional cybersecurity services accessible to SMEs and public administrations. 
+
+
+Secondly, the goal is to foster cybersecurity maturity and innovation within the Paris Region, both among service providers and clients. 
+
+
+To support these objectives, CYBIAH has developed customized support packages based on the size, sector, and digital maturity of its beneficiaries.
+The comprehensive offerings include actions to facilitate digitalization, encompassing training to enhance digital skills and guidance on implementing best practices to achieve and maintain a robust security posture that dissuades potential attackers. The program is structured into four distinct steps – Onboarding, Assessment, Services, and Sustainability. Notably, steps one and two are provided at no cost under specific conditions, while steps three and four are available at preferential rates.
+CYBIAH's solutions span awareness and anticipation, total protection, as well as detection and reaction. This holistic approach ensures a well-rounded cybersecurity strategy. In summary, CYBIAH's commitment to accessibility, innovation, and tailored support positions it as a key player in advancing cybersecurity resilience across the Paris Region and beyond.
+Contact Person(s): Anne-Sophie Colleaux
+Phone: +33 789216065
+Email: anne-sophie@campuscyber.fr
+Location: 5-7 rue bellini, 92800 Puteaux, France
+Type: EDIH
+Website: https://www.cybiah.eu/
+Active Sectors: Manufacturing and processing (very high involvement), Health care (very high involvement), Public administration (very high involvement), Travel and tourism (very high involvement), wholesale or distribution (very high involvement)
+Provided Services: SME support (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement)
+Tags: Country:France; Sector:Manufacturing and processing; Sector:Health care; Sector:Public administration; Sector:Travel and tourism; Sector:wholesale or distribution; Service:SME support; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity
+------------------------------------------------------------
+EDIH Name: DAMAS
+Title: Digital Hub for Automotive and Aerospace
+Country: Italy
+Description: DAMAS (Digital innovation hub for AutoMotive and AeroSpace) was designated as a candidate to become an EDIH by the Italian Ministry of Economic Development (MISE). DAMAS is focused on two digital key technologies indicated by the Digital Europe Programme (DEP): HPC and AI. It is then specialised along the following digital enablers: Cloud & Edge computing; Big Data Analytics, High Performance Data analytics; Computational Fluid Dynamics; Virtual Reality/Augmented reality; Fast Prototyping including 3D printing; Additive manufacturing; Digital Twin Simulation & Modelling; Space Technologies - Geo Information and Sustainable Computing. Cybersecurity, a further DEP key technology, can be found among the capabilities of DAMAS partners but it was decided to activate structured collaborations with other EDIHs, to offer a full set of services in this domain, optimising DAMAS budget and focusing on core competencies. DAMAS is designed to act as one stop shop for SMEs, Mid-Caps and Large Enterprises that belong to the AutoMotive and Aerospace supply chains along with those PAs that use their products, supporting overall digital and green transformation. DAMAS vision relies on the increasing synergy between Automotive and Aerospace market segments. In that regard good examples coming from the US are Tesla and SpaceX, which have important economies of scale on digital technologies. DAMAS is based on a network of powerful HPC infrastructures that links together some of major Italian HPC systems both in terms of processing capabilities and in terms of storage, including the Leonardo DAVINCI-1 HPC system, the CINECA HPC systems and  CRS4, CINI and e-GEOS HPC facilities. DAMAS will establish a unique national-wide full-service one-stop-shop Automotive and Aerospace Innovation Hub for maximum coverage, leverage, impact and long-term sustainability in order to accelerate the uptake of AI and HPC technologies by Italian industries and to boost competitiveness and to foster new business models.
+Contact Person(s): Davide Marini
+Phone: 3.93346E+11
+Email: davide.marini@leonardo.com
+Location: Piazza Monte Grappa 4, 00195 Roma RM, Italy
+Type: Seal of Excellence
+Website: https://edih-damas.it
+Active Sectors: Aeronautics (very high involvement), Automotive (very high involvement), Space (very high involvement)
+Provided Services: Technology transfer (very high involvement), Circular economy (high involvement), Ecosystem building (very high involvement), Prototyping (high involvement), Smart Specialisation strategies (high involvement), SME support (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (moderate involvement), Sme Business Development (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Vocational training (very high involvement)
+Technological Focus: High performance computing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Cloud Services (low involvement), Digital twins (very high involvement), Gamification (high involvement), Internet of Things (low involvement), Virtual Reality (high involvement), Additive manufacturing (high involvement), Location-based applications (high involvement), Cyber-physical systems (moderate involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (very high involvement), Software Architectures (high involvement), Virtual Reality (high involvement)
+Tags: Country:Italy; Sector:Aeronautics; Sector:Automotive; Sector:Space; Service:Technology transfer; Service:Circular economy; Service:Ecosystem building; Service:Prototyping; Service:Smart Specialisation strategies; Service:SME support; Service:Innovation management; Service:Knowledge transfer; Service:Public sector innovation; Service:Sme Business Development; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:High performance computing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cloud Services; Technology:Digital twins; Technology:Gamification; Technology:Internet of Things; Technology:Virtual Reality; Technology:Additive manufacturing; Technology:Location-based applications; Technology:Cyber-physical systems; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: DANTE
+Title: Digital Solutions for a Healthy, Active and Smart Life
+Country: Italy
+Description: The actions of DANTE EDIH will be centered on Technologies for Living Environments (Smart Living) and on Technologies for Active & Healthy Aging and for Home Care, with Technological Trajectories transversal to the sectors of intervention: Wellness and Comfort, Inclusion, Assistance, Safety, Health. The convergence between Digital Technologies and Enabling Technologies constitutes the base for the development of systems and services that include sensors (Sensing), components that process data and information (Reasoning), man-machine interfaces (Interacting) and actuators (Acting) , components that must communicate with each other (Communicating) to provide the assistance service. The combination of these disciplines opens up new opportunities for the development of autonomous, adaptive and collaborative systems that combine and integrate Robotics, Artificial Intelligence and IoT in an inseparable way. The identified catchment area will be at national territory, covering different regions, in a networked structure that has the objective to interact with many stakeholders, starting from the more than 400 existing members in the National Technological Cluster SMILE and extending it to other public and private entities. The proposal focuses on the application of Artificial Intelligence, Cyber ​​Security and High Performance Computing to the Smart Living and Health and Active Life sectors. The target will consist of stakeholders operating in the different market segments, like: Smart Home, Smart Living Environments, Social Housing, Telemedicine, Remote Monitoring & Assistance, Tele-Care, Mobile Health, Internet of Things, Service-Assistive and Rehabilitation Robots, Big Data for Health, Sensors and Integrated Systems, Wearable Devices. Particularly relevant for DANTE is the theme of the "Silver Economy", understood as the production and dissemination of goods and services for the aging population.
+Contact Person(s): Pietro Aleardo Siciliano
+Phone: +39 3357982047
+Email: pietroaleardo.siciliano@cnr.it
+Location: Via Monteroni, Campus Universitario Ecotekne pal a/3, 73100 Lecce LE, Italy
+Type: EDIH
+Website: https://dante-edih.clustersmile.it
+Active Sectors: Health care (very high involvement), Life sciences (high involvement), Environment (moderate involvement), Personal services (very high involvement), Smart City (high involvement), Telecommunications (moderate involvement), Textiles (low involvement), Public administration (moderate involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (low involvement), Knowledge transfer (moderate involvement), Prototyping (low involvement), Public sector innovation (moderate involvement), Smart Specialisation strategies (moderate involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), Communication network (moderate involvement), High performance computing (high involvement), Human computer interaction (moderate involvement), Internet of Things (high involvement), optoelectronics (low involvement), Robotics (high involvement), Sensors & Vision Processing Systems (high involvement), Software Architectures (moderate involvement)
+Tags: Country:Italy; Sector:Health care; Sector:Life sciences; Sector:Environment; Sector:Personal services; Sector:Smart City; Sector:Telecommunications; Sector:Textiles; Sector:Public administration; Service:Ecosystem building; Service:Field trial; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Smart Specialisation strategies; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:Communication network; Technology:High performance computing; Technology:Human computer interaction; Technology:Internet of Things; Technology:optoelectronics; Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Software Architectures
+------------------------------------------------------------
+EDIH Name: DAoL
+Title: Digital Accelerator of Latvia
+Country: Latvia
+Description: The objectives of Digital Accelerator of Latvia (DAoL) are to promote digital transformation and innovation, to improve the competitiveness of Latvian companies and the quality of public services through new digital solutions, to boost investments in research and development of ICT technology. The objectives for the first 3 years: to develop fully operational EDIH, to support at least 1236 companies and organizations, to invest 3.5 mil. EUR in digital transformation (DEP & RRF), to trigger at least 2.4 mil. EUR from other financial sources. Specialisation of DAoL: - AI with specialisation in R&D of new digital products and digital services. - 5G incl. application in IoT, Internet of Energy, Connectivity technologies, Autonomous and controlled vehicles, robots. - GovTech incl. Government as a platform, Cybersecurity, Quantum technologies and EdTech. DAoL is designed as a one-stop agency to help entities become more competitive regarding their digitalisation processes, products, or services. Project involves 20 partners that will provide access to extensive research and technological experience as well as support for entrepreneurship and innovation. Consortium includes 4 partners with DIH experience, 3 leading and 3 regional universities from Latvia, innovative NGOs with long-term experience in providing support in high technologies, green technologies, regional and technological development. DAoL will provide access to the latest digital skills and will support product innovation. During the project it is planned to test digital maturity and prepare digital transformation roadmaps of at least 1236 entities, ensure access to testing, prototyping, and experimenting for at least 128 entities, involve in trainings at least 360 entities, attract financing to at least 46 entities, and have at least 40 collaborations. Project activities are planned for 3 years, provisionally from July 2022 till June 2025, project budget is 3,5 mil EUR, co-financing from DEP – 1,765 milEUR
+Contact Person(s): Baiba Berovska
+Phone: +371 29489720
+Email: baiba.berovska@idejukapitals.lv
+Location: Eksporta street 5, Riga, LV-1010, Latvia
+Type: EDIH
+Website: Website
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement), Internet of Things (very high involvement), Laser-based manufacturing and materials processing (very high involvement), Mobility (very high involvement), Quantum Technologies (computing/communication) (very high involvement), Sensors & Vision Processing Systems (very high involvement), Virtual Reality (very high involvement), Big data (very high involvement)
+Tags: Country:Latvia; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:High performance computing; Technology:Internet of Things; Technology:Laser-based manufacturing and materials processing; Technology:Mobility; Technology:Quantum Technologies (computing/communication); Technology:Sensors & Vision Processing Systems; Technology:Virtual Reality; Technology:Big data
+------------------------------------------------------------
+EDIH Name: Data2Sustain
+Title: EDIH for DATA-BASED INNOVATION FOR CIRCULAR ECONOMY, OPERATIONS & SUSTAINABILITY
+Country: Ireland
+Description: The regional Data2Sustain EDIH consortium is a unique partnership approach across the NUTS II Northern and Western region. The consortium combines the core competences of the higher education institutes (HEI), with the innovation and business acumen of the complementary EDIH partners. This unique partnership structure demonstrates a shared management approach between researchers, technology providers, policy makers, innovation practitioners and business support agencies. The partnership structure encompasses 4 Technological Competence Centres, 3 Business support organisations, with 4 of the partners havin a local, or regional, planning, economic development, and investment remit, as well as European networked partner with extensive experience in digital innovation in public organisations. Data2Sustain is a coordinated group of organisations with complementary expertise, with a not-for-profit objective. It will support SMEs, as well as the public sector. It has a focus on circular economy, operations & sustainability areas, utilising AI, HPC and Cybersecurity technological competence, with particular emphasis of data/data analytics driven innovation and regard to energy consumption and low carbon emissions. We have jointly developed a comprehensive service programme to increase the transformation capacity and speed of SMEs/POs in the region, nationally and in Europe with regard to advanced digital innovations and skills development. The partnership has a comprehensive physical presence across the most economically challenged region of the state, with a well-established record of successfully engaging with target groups. Our ambition is to: ‘BE A LEADING EDIH IN THE PROVISION OF DIGITALISATION SERVICES IN THE AREA OF CIRCULAR ECONOMY, OPERATIONS & SUSTAINABILITY, BASED ON DATA AND DATA ANALYTICS DRIVEN INNOVATION APPROACHES HELPING TO CREATE SMARTER, GREENER, MORE SUSTAINABLE PROCESSES, SYSTEMS, PRODUCTS, SERVICES AND BUSINESS MODELS’
+Contact Person(s): Mike Conroy
+Phone: 00353879934390
+Email: mike.conroy@atu.ie
+Location: ATU Sligo, Sligo, Co. Sligo, F91YW50, Ireland
+Type: Seal of Excellence
+Website: http://data2sustain.ie
+Active Sectors: Food and beverages (moderate involvement), Telecommunications (high involvement), Manufacturing and processing (high involvement), Construction & Assembly (moderate involvement), Travel and tourism (high involvement), Smart City (moderate involvement), Cultural and creative economy (moderate involvement), Life sciences (high involvement)
+Provided Services: Field trial (high involvement), Prototyping (moderate involvement), Circular economy (high involvement), Sme Business Development (very high involvement), Knowledge transfer (moderate involvement), Regional development (very high involvement), Sme Business Development (high involvement), Ecosystem building (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (high involvement), High performance computing (moderate involvement), Cyber-physical systems (high involvement), Location-based applications (high involvement), Communication network (moderate involvement)
+Tags: Country:Ireland; Sector:Food and beverages; Sector:Telecommunications; Sector:Manufacturing and processing; Sector:Construction & Assembly; Sector:Travel and tourism; Sector:Smart City; Sector:Cultural and creative economy; Sector:Life sciences; Service:Field trial; Service:Prototyping; Service:Circular economy; Service:Sme Business Development; Service:Knowledge transfer; Service:Regional development; Service:Sme Business Development; Service:Ecosystem building; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:High performance computing; Technology:Cyber-physical systems; Technology:Location-based applications; Technology:Communication network
+------------------------------------------------------------
+EDIH Name: Data-EDIH
+Title: Hungarian DATA EDIH
+Country: Hungary
+Description: The Hungarian DATA EDIH will actively facilitate the digital transformation of the SMEs, small mid-caps, and public sector organisations in Hungary, with a general focus on data-related services and industrial focus on the health industry.
+The DATA EDIH consortium represents high academic and practical technical/business development competence, wide domestic and international network and mature EU grant and PM experience. The most challenging DESI dimensions for Hungary remain the Integration of digital technology and digital public services, where attitude, mindset and competence obstacles occur besides financial ones. DATA EDIH will provide trainings, technical and financial services on both catching up and advanced levels.
+The activity of DATA EDIH will be built on existing elements of innovation ecosystem, so the interconnectivity and coordination of the system elements with the other EDIHs in Hungary creates a mature and cost-effective status to implement the planned project.
+Contact Person(s): Péter Szabó
+Phone: +36 30 431 0472
+Email: szabo.peter@neum.hu
+Location: Budapest, Rákóczi út 70-72. 6. em., 1074, Hungary
+Type: EDIH
+Website: https://adatedih.hu
+Active Sectors: Health care (very high involvement), Food and beverages (very high involvement)
+Provided Services: Innovation management (very high involvement), Prototyping (very high involvement), Sme Business Development (very high involvement), Technological innovation (very high involvement)
+Technological Focus: Big data (very high involvement), Artificial Intelligence & Decision support (very high involvement), Digital twins (moderate involvement), Internet of Things (very high involvement), Sensors & Vision Processing Systems (very high involvement), Software Architectures (high involvement), Robotics (moderate involvement)
+Tags: Country:Hungary; Sector:Health care; Sector:Food and beverages; Service:Innovation management; Service:Prototyping; Service:Sme Business Development; Service:Technological innovation; Technology:Big data; Technology:Artificial Intelligence & Decision support; Technology:Digital twins; Technology:Internet of Things; Technology:Sensors & Vision Processing Systems; Technology:Software Architectures; Technology:Robotics
+------------------------------------------------------------
+EDIH Name: DATAlife
+Title: DATAlife
+Country: Spain
+Description: DATAlife is theDIH devoted to implementing artificial intelligence, big data and the technologies related, to the value chains of biotech, health, agrifood, sea-based industries and forestry.
+DATAlife is organized under a scheme of Non-Profit organization, founded in October 2019
+The solutions to the massive economic and social challenges the world faces are often found in the crossroad of different sectors like primarysector, industry and services, plus the deployment of disruptive technologies (Artificial Intelligence, High-Performance Computing, Internet of Things, and so on) and the involvement of the whole society, especially the triple-helix: Academia - Industry - Government.
+This kind of challenges that appliesglobally is alsoclearly identified in European regions like Galicia, with a share of its economy focused on the primary sector, which has few leftchances to remain competitive in the international market arena. It is known,without a doubt, that this competitiveness increase will come through theimplementation of digital technologies.
+In this process of uptake of digital technologies, artificial intelligence and data analytics appear as disruptive tools to boost companies´competitiveness, with a remarkable capability of impact in the quality of life and social wellbeing.
+On the other hand, Galicia counts withinternationally-renowned scientific production in various fields such as biotechnology, healthcare, and smart technologies due to a vibrant University scene.
+In this context, DATAlife has the vision of transforming Galicia into a leader European Bioregion, by the creation of a network of knowledge, infrastructure and technology. This network spins around the application of artificial intelligence, data analytics, internet of things, high-performance computing and cybersecurity to bioeconomy, sustainability and health.
+To achieve this goal, DATAlife deploys a strategic plan made out of the following set of actions:
+
+Catalogue of services. Based on the identified needs of every value chain plus the knowledge of DATAlife´s partners (industry clusters and RTOs with a long track record of servingthe ecosystem), a catalogue of services is defined with several initiatives alreadyidentified
+
+DATAbeta: a set of services with a focus on collaborative development and enabling technologies that allow DATAlife to permanent validate its catalogue aligning it with the needs of the SMEs.
+DATAchallenge: Program of Technological Challenges for each value chain.
+DATAmarket: marketplace for visualization of technologies and services available in the region within the technological scope of DATAlife. This tool is also a facilitator ofmatches, boosting the integration of the ecosystem.
+DATAopen: a program to create aLife Science DATA Platform for extraction, analysis and leverage of data with the scope of DATAlife´s value chains.
+DATAlife´s catalogue of services is always under analysis and validation to assure its alignment with Galician SMEs´ needs. This way, DATAlife will include services for test-before-invest, shared labs and infrastructures and technology acquisition when needed.
+
+
+Communication activity. The actions deployed under the communication plan serve as dissemination of DATAlife´s activity but also as a raising-awareness service to promote the digitalization within the ecosystem to assure that every single stakeholder of the community understands the advantages that digital transformation brings.
+Network effect. DATAlife´s partners have a unique and strong international network in their respective activity areas, due to their prolonged presence in the international project arena. DATAlife acts as a connector between Galicia and the Galician ecosystem, providing the possibility to be part of international joint projects.
+Contact Person(s): Díaz Lucía Castro
+Phone: +34604085297‬
+Email: info@dihdatalife.com
+Location: Edif. feuga, r/ lope gómez de marzoa s/n, Santiago de compostela, Spain
+Type: DIH
+Website: http://dihdatalife.com/
+Tags: Country:Spain
+------------------------------------------------------------
+EDIH Name: DATAlife
+Title: Digital Innovation Hub for the deployment of Artificial Intelligence and Data Analytics in SMEs in the primary, biotechnological and health sectors
+Country: Spain
+Description: DATAlife is designed considering Galicia’s future potential and challenges, current R&D capabilities and traditional strengths. Rich in natural resources, Galicia has the opportunity to manage them in a smart manner, that ensures their sustainability, a healthy environment and business models that add value to those working in rural areas. With one on the longest life expectancies in the world, it must step up to offer quality of life to its ageing population, with better medicines and care services, exploiting innovations based on combining complex information and advanced analytical models. With the common aim of accelerating digital transformation, universities, technological & competence sectors, sectoral clusters and large companies will work together, creating a fair, green and healthy economy fit for the age of information. A high-quality digital revolution will be centred in the persons, the environment they live in and their wellbeing. This will be achieved by increasing AI uptake in SMEs and public administration with easy-to-use applications; creating collaborative, federated data spaces; unburdening workers by automatically retrieve data with IoT; remaining competitive by HPC usage and securing sensitive data with the latest European cybersecurity applications.
+Contact Person(s): Lucía Castro Díaz
+Phone: 34617220093
+Email: gerencia@dihdatalife.com
+Location: Lope Gómez de Marzoa, 15705 Santiago de compostela A Coruña, Spain
+Type: EDIH
+Website: Website
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Energy (moderate involvement), Environment (high involvement), Fishery (very high involvement), Food and beverages (very high involvement), Health care (very high involvement), Life sciences (very high involvement), Maritime (very high involvement), Paper and wood (very high involvement), Public administration (high involvement), Telecommunications (moderate involvement)
+Provided Services: Circular economy (very high involvement), Ecosystem building (very high involvement), Field trial (high involvement), Finance (very high involvement), Innovation management (high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Public sector innovation (high involvement), Regional development (low involvement), Smart Specialisation strategies (low involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Vocational training (low involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Cybersecurity (high involvement), High performance computing (high involvement), Internet of Things (high involvement), Cloud Services (moderate involvement), Sensors & Vision Processing Systems (moderate involvement)
+Tags: Country:Spain; Sector:Agricultural biotechnology and food biotechnology; Sector:Energy; Sector:Environment; Sector:Fishery; Sector:Food and beverages; Sector:Health care; Sector:Life sciences; Sector:Maritime; Sector:Paper and wood; Sector:Public administration; Sector:Telecommunications; Service:Circular economy; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cybersecurity; Technology:High performance computing; Technology:Internet of Things; Technology:Cloud Services; Technology:Sensors & Vision Processing Systems
+------------------------------------------------------------

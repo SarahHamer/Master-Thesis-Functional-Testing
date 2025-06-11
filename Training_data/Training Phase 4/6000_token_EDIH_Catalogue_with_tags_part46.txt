@@ -1,0 +1,161 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: Mittelstand-Digital Zentrum Magdeburg
+Title: Mittelstand-Digital Zentrum Magdeburg
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Magdeburg supports small and medium-sized enterprises (SMEs for short) on their digital transformation journey towards competitive products and services, innovative business models and efficient value creation networks. We empower companies and craft businesses and are a cross-industry contact point in the Experimental Factory in Magdeburg.
+Contact Person(s): Dr. Stefan Voigt
+Phone: 0391 - 544 86 222
+Email: stefan.voigt@vernetzt-wachsen.de
+Location: Sandtorstraße 23, 39106 Magdeburg, Germany
+Type: DIH
+Website: https://www.digitalzentrum-magdeburg.de/
+Active Sectors: Energy (very low involvement), Manufacturing and processing (very low involvement)
+Provided Services: SME support (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very low involvement), Cybersecurity (very low involvement), Gamification (very low involvement), Internet of Things (very low involvement), Internet Services & Applications (very low involvement), Logistics (very low involvement), Virtual Reality (very low involvement)
+Tags: Country:Germany; Sector:Energy; Sector:Manufacturing and processing; Service:SME support; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:Gamification; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Logistics; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Rheinland
+Title: Mittelstand-Digital Zentrum Rheinland
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Rheinland supports SMEs in the Rhineland to make their companies ready for the future by themselves, using digitalization methods and technologies. The Mittelstand-Digital Zentrum Rheinland also provides help in the field of AI especially in the production, construction and trade sectors. The Mittelstand-Digital Zentrum Rheinland is part of the Mittelstand-Digital initiative.
+Contact Person(s): Dario Luipers
+Phone: 4.91623E+11
+Email: dario@digital-rheinland.de
+Location: Gottfried-hagen-straße 60, 51105 Köln, Germany
+Type: DIH
+Website: https://mittelstand-digital-rheinland.de/
+Active Sectors: Automotive (high involvement), Construction & Assembly (high involvement), Health care (low involvement), Manufacturing and processing (high involvement), Real estate (high involvement)
+Provided Services: Circular economy (low involvement), Innovation management (moderate involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), SME support (very high involvement), Technological innovation (low involvement)
+Technological Focus: Additive manufacturing (moderate involvement), Artificial Intelligence & Decision support (very high involvement), Big data (moderate involvement), Cloud Services (low involvement), Cyber-physical systems (moderate involvement), Digital twins (high involvement), Gamification (high involvement), Human computer interaction (high involvement), Internet of Things (moderate involvement), Virtual Reality (high involvement), Robotics (high involvement), Sensors & Vision Processing Systems (moderate involvement)
+Tags: Country:Germany; Sector:Automotive; Sector:Construction & Assembly; Sector:Health care; Sector:Manufacturing and processing; Sector:Real estate; Service:Circular economy; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:SME support; Service:Technological innovation; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cloud Services; Technology:Cyber-physical systems; Technology:Digital twins; Technology:Gamification; Technology:Human computer interaction; Technology:Internet of Things; Technology:Virtual Reality; Technology:Robotics; Technology:Sensors & Vision Processing Systems
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Rostock
+Title: Mittelstand-Digital Zentrum Rostock
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Rostock offers professional support and tailored solutions to small and medium-sized enterprises in Mecklenburg-Western Pomerania, that enable them to benefit from the digital transformation. With our experts and network we want to help companies to turn existing challenges into opportunities. With free events, practical presentations, certified trainings, and individual digital projects, we support SMEs on their journey into a digital company. The Mittelstand-Digital Zentrum Rostock particularly focuses on companies related to the following sectors: healthcare, medical technology, tourism, health tourism, and construction industry. Keywords: AI knowledge transfer, free workshops, e-learning, digitalchecks, demonstrations, networking, keynotes
+Contact Person(s): Silvia Rydlewicz
+Phone: 0381 494 7378
+Email: silvia.rydlewicz@med.uni-rostock.de
+Location: Deutsche med platz 1, 18057 Rostock, Germany
+Type: DIH
+Website: https://www.digitalzentrum-rostock.de
+Active Sectors: Construction & Assembly (low involvement), Environment (moderate involvement), Health care (very high involvement), Life sciences (high involvement), Travel and tourism (high involvement), Polymers and plastics (low involvement)
+Provided Services: Knowledge transfer (very high involvement), SME support (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (moderate involvement), Big data (low involvement), Cybersecurity (low involvement), Industrial biotechnology (moderate involvement)
+Tags: Country:Germany; Sector:Construction & Assembly; Sector:Environment; Sector:Health care; Sector:Life sciences; Sector:Travel and tourism; Sector:Polymers and plastics; Service:Knowledge transfer; Service:SME support; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cybersecurity; Technology:Industrial biotechnology
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Ruhr-OWL
+Title: Mittelstand-Digital Zentrum Ruhr-OWL
+Country: Germany
+Description: The Mittelstand 4.0-Competence Center Dortmund prepares the topics of digitization and networking for SMEs in North Rhine-Westphalia and offers practical help with the implementation. In doing so, it pools the expertise from the regions Rhineland, Ruhr metropolis and East Westphalia-Lippe. The Competence Center’s services are free and available at www.digital-in-nrw.de. „Digital in NRW - the Competence Center for SMEs in NRW“ is part of the funding initiative “Mittelstand 4.0 – Digital Production and Work Processes”, which is funded as part of the funding priority “Mittelstand-Digital – Strategies for the digital transformation of business processes” by the Federal Ministry of Economics and Technology (BMWi).
+Contact Person(s): Kampert Karina
+Phone: +49 231 70096453
+Email: info@mittelstand-digital-ruhr-owl.de
+Location: Emil-figge-strasse 80, Dortmund, Germany
+Type: DIH
+Website: https://mittelstand-digital-ruhr-owl.de
+Tags: Country:Germany
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Saarbrücken
+Title: Mittelstand-Digital Zentrum Saarbrücken
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Saarbrücken supports small and medium-sized enterprises (SMEs) in the digital transformation. The center is part of the initiative “Mittelstand-Digital“ by the German Federal Ministry for Economic Affairs and Climate Action (www.mittelstand-digital.de).
+Contact Person(s): Anne Blum
+Phone: +49 681 85787 556
+Email: a.blum@digitalzentrum-saarbruecken.de
+Location: Eschberger weg 46, gewerbepark geb. 9, 66121 Saarbrücken, Germany
+Type: DIH
+Website: https://digitalzentrum-saarbruecken.de/
+Active Sectors: Automotive (high involvement), Construction & Assembly (high involvement), Consumer products (moderate involvement), Energy (moderate involvement), Environment (moderate involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement)
+Provided Services: Circular economy (moderate involvement), Ecosystem building (very high involvement), Innovation management (moderate involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cyber-physical systems (moderate involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), Gamification (low involvement), Human computer interaction (low involvement), Internet of Things (moderate involvement), Virtual Reality (moderate involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (low involvement)
+Tags: Country:Germany; Sector:Automotive; Sector:Construction & Assembly; Sector:Consumer products; Sector:Energy; Sector:Environment; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Service:Circular economy; Service:Ecosystem building; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Artificial Intelligence & Decision support; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Gamification; Technology:Human computer interaction; Technology:Internet of Things; Technology:Virtual Reality; Technology:Robotics; Technology:Sensors & Vision Processing Systems
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Schleswig-Holstein
+Title: Mittelstand-Digital Zentrum Schleswig-Holstein
+Country: Germany
+Description: Das Mittelstand-Digital Zentrum Schleswig-Holstein ist ein vom BMWK gefördertes Projekt, um KMU bei der Digitalisierung zu unterstützen. Im Rahmen dessen befassen wir uns hauptsächlich mit den Themen KI, IoT, Sensorik, vernetzte Produktion, Digitaler Zwilling, AR/VR sowie Changemanagement und Geschäftsmodelle. In diesem Spektrum bieten wir kostenlose Informationsveranstaltungen, Sprechstunden, Workshops oder Projekte an.
+ __________
+The Mittelstand-Digital Zentrum Schleswig-Holstein is a project funded by the BMWK to support SMEs with digitalization. Within this framework, we mainly deal with the topics of AI, IoT, sensor technology, networked production, digital twin, AR/VR as well as change management and business models. Within this spectrum, we offer free information events, consultation hours, workshops and projects.
+Contact Person(s): Regine Schlicht
+Phone: +49 431 21844 82
+Email: schlicht@digitalzentrum-sh.de
+Location: Luisenstraße 26, 24149 Kiel, Germany
+Type: DIH
+Website: https://www.digitalzentrum-sh.de/
+Active Sectors: Education (very high involvement), Health care (very high involvement), Life sciences (very high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Regulation (high involvement)
+Provided Services: Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Regional development (high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Cyber-physical systems (very high involvement), Digital twins (very high involvement), High performance computing (very high involvement), Human computer interaction (very high involvement), Internet of Things (very high involvement), Virtual Reality (very high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very high involvement)
+Tags: Country:Germany; Sector:Education; Sector:Health care; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:Regulation; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Regional development; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cyber-physical systems; Technology:Digital twins; Technology:High performance computing; Technology:Human computer interaction; Technology:Internet of Things; Technology:Virtual Reality; Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum WertNetzWerke
+Title: Mittelstand-Digital Zentrum WertNetzWerke
+Country: Germany
+Description: The Mittelstand-Digital Zentrum WertNetzWerke, funded by the Federal Ministry of Economics, supports SMEs free of charge and in a provider-neutral manner in the development and implementation of sustainable and digital business ideas. The Mittelstand-Digital Zentrum WertNetzWerke, funded by the Federal Ministry of Economics, supports SMEs free of charge and in a provider-neutral manner in the development and implementation of sustainable and digital business ideas.
+Contact Person(s): Tobias Kegler
+Phone: +49 151 46691281
+Email: kegler@wertnetzwerke.de
+Location: C/o gs1 germany gmbh, maarweg 133, 50825 Köln, Germany
+Type: DIH
+Website: https://www.mittelstand-digital-wertnetzwerke.de/
+Active Sectors: Construction & Assembly (moderate involvement), Consumer products (high involvement), Food and beverages (moderate involvement), Health care (moderate involvement), Manufacturing and processing (high involvement), Metal working and industrial production (high involvement), Real estate (low involvement), Textiles (low involvement), Transport sector (moderate involvement), Security (low involvement), Smart City (moderate involvement), Transport & Mobility (moderate involvement)
+Provided Services: Circular economy (high involvement), Innovation management (high involvement), Knowledge transfer (very high involvement), Public sector innovation (moderate involvement), Regional development (low involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (moderate involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (moderate involvement), Artificial Intelligence & Decision support (very high involvement), Big data (moderate involvement), Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Cloud Services (low involvement), Communication network (very high involvement), Digital twins (high involvement), Gamification (moderate involvement), Human computer interaction (moderate involvement), Internet of Things (high involvement), Internet Services & Applications (moderate involvement), Location-based applications (moderate involvement), Logistics (moderate involvement), Virtual Reality (moderate involvement), Robotics (high involvement), Simulation engineering and modelling (very high involvement)
+Tags: Country:Germany; Sector:Construction & Assembly; Sector:Consumer products; Sector:Food and beverages; Sector:Health care; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:Real estate; Sector:Textiles; Sector:Transport sector; Sector:Security; Sector:Smart City; Sector:Transport & Mobility; Service:Circular economy; Service:Innovation management; Service:Knowledge transfer; Service:Public sector innovation; Service:Regional development; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Communication network; Technology:Digital twins; Technology:Gamification; Technology:Human computer interaction; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Location-based applications; Technology:Logistics; Technology:Virtual Reality; Technology:Robotics; Technology:Simulation engineering and modelling
+------------------------------------------------------------
+EDIH Name: MontEDIH
+Title: Digital innovation hub for supporting the digital transformation of Montenegrin companies and the public sector
+Country: Montenegro
+Description: MontEDIH is dedicated to facilitating the digital and green transformation of SMEs, small-midcaps, and public sector organizations in Montenegro and the EU, particularly focusing on fields such as Artificial Intelligence (AI), the Internet of Things (IoT), Blockchain, and High-Performance Computing (HPC).  Leveraging the specialized expertise and advanced infrastructure of its partners, MontEDIH offers a comprehensive array of services including financial and business consulting, knowledge and technology transfer, pre-investment assessments for technology integration, as well as digital and physical product testing and demonstration activities. 
+The project strategically targets sectors with transformative potential in Montenegro, such as tourism, agriculture, energy & environment, retail, manufacturing, and public administration. Employing a comprehensive strategy, MontEDIH will support every aspect of digital and green transformation, from strategy development and technology implementation to fostering a digital-first culture. By combining practical digitization projects, specialized educational and advisory services, and broad networking opportunities, MontEDIH encourages the development of a cohesive ecosystem that connects the business sector, scientific research institutions, business and innovation support institutions, the public sector, and policymakers. Its collaboration with the European Digital Innovation Hubs network amplifies its mission, enhancing access to advanced services and fostering a pan-European platform for innovation and expertise exchange.
+Contact Person(s): Slavica Tomovic
+Phone: 38269468583
+Email: slavicat@ucg.ac.me
+Location: Cetinjski Put 2, 81000 Podgorica, Montenegro
+Type: EDIH
+Website: https://montedih.me/
+Active Sectors: Agricultural biotechnology and food biotechnology (moderate involvement), Cultural and creative economy (low involvement), Education (high involvement), Energy (moderate involvement), Environment (high involvement), Financial (high involvement), Fishery (high involvement), Health care (high involvement), Manufacturing and processing (moderate involvement), Maritime (high involvement), Public administration (very high involvement), Real estate (high involvement), wholesale or distribution (high involvement), Smart City (very high involvement), Telecommunications (very high involvement), Travel and tourism (moderate involvement)
+Provided Services: Ecosystem building (moderate involvement), Finance (moderate involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Public sector innovation (very high involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), BI tools (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Cloud Services (moderate involvement), Communication network (very high involvement), Cyber-physical systems (moderate involvement), High performance computing (very high involvement), Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Quantum Technologies (computing/communication) (low involvement), Robotics (low involvement), Software Architectures (moderate involvement)
+Tags: Country:Montenegro; Sector:Agricultural biotechnology and food biotechnology; Sector:Cultural and creative economy; Sector:Education; Sector:Energy; Sector:Environment; Sector:Financial; Sector:Fishery; Sector:Health care; Sector:Manufacturing and processing; Sector:Maritime; Sector:Public administration; Sector:Real estate; Sector:wholesale or distribution; Sector:Smart City; Sector:Telecommunications; Sector:Travel and tourism; Service:Ecosystem building; Service:Finance; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Technology:Artificial Intelligence & Decision support; Technology:BI tools; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Communication network; Technology:Cyber-physical systems; Technology:High performance computing; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Quantum Technologies (computing/communication); Technology:Robotics; Technology:Software Architectures
+------------------------------------------------------------
+EDIH Name: Move2Digital
+Title: MOVE2DIGITAL, the French SUD Provence-Alpes-Côte d’Azur region one-stop-shop to support the digital transformation and ecosystem building of SMEs, through AI, Cybersecurity, and IoT
+Country: France
+Description: The EDIH Move2Digital will act as a one-stop shop for SMEs in the French SUD Provence-Alpes-Côte d’Azur region to support their digital transformation and will position supporting activities on Artificial Intelligence (AI), cybersecurity and Internet of Things (IoT). This is in line with two of the core technologies of DIGITAL, i.e. AI and Cybersecurity. Also it addresses an additional key technological focus, consistent both with AI and cybersecurity as well as regional background and assets, i.e. IoT.
+Move2Digital will address the seven strategic industrial sectors of the region, namely Greentech, Chemical industry, Energy, Health, Space & safety, Blue economy, Agri/aroma & fragrance, representing a potential of 1400 SMEs with needs in terms of digital transformation.
+Based on a consortium composed of industrial and technological clusters and leading academic and research entities, Move2Digital will rely on a strong digital ecosystem composed of a significant corpus of solution providers and on an interconnected network of active research laboratories in these key digital domains.
+A portfolio of 17 dedicated services, complement to the existing regional offer, will be proposed to regional SMEs and entities, but also coming from other EDIHs, gathered around 4 pillars: Test before invest (incl. awareness rising and diagnostic), Innovation ecosystem & networking, Support to find investment, Skills & training for upskilling the workforce for these advanced digital technologies.
+With a not-for-profit goal, Move2Digital will play an active brokering role both at the regional and European levels by networking with other EDIHs. A specific concern will handle ethic issues towards ensuring safety, privacy, and maximising societal and environmental welfare, by setting up a dedicated ethic board. This will aim to validate that trustworthy digital solutions are proposed, ensuring that end-users are confident in testing and adopting trustful digital solution technologies.
+Contact Person(s): Noémie Keller
+Phone: +33 4 97 21 41 03
+Email: noemie.keller@inextenso-innovation.fr
+Location: 2000, route des Lucioles, 06410 Biot, France
+Type: EDIH
+Website: https://www.move2digital.eu/
+Active Sectors: Aeronautics (high involvement), Agricultural biotechnology and food biotechnology (very high involvement), Defence (very high involvement), Energy (very high involvement), Environment (very high involvement), Fishery (very high involvement), Food and beverages (very high involvement), Health care (very high involvement), Maritime (very high involvement), Security (very high involvement), Smart City (very high involvement), Space (very high involvement)
+Provided Services: Circular economy (moderate involvement), Field trial (very high involvement), Finance (very high involvement), Innovation management (high involvement), Prototyping (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (high involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (moderate involvement), Vocational training (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Cybersecurity (very high involvement), Internet of Things (very high involvement), optoelectronics (moderate involvement), Semiconductors and Nanotechnology (low involvement)
+Tags: Country:France; Sector:Aeronautics; Sector:Agricultural biotechnology and food biotechnology; Sector:Defence; Sector:Energy; Sector:Environment; Sector:Fishery; Sector:Food and beverages; Sector:Health care; Sector:Maritime; Sector:Security; Sector:Smart City; Sector:Space; Service:Circular economy; Service:Field trial; Service:Finance; Service:Innovation management; Service:Prototyping; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cybersecurity; Technology:Internet of Things; Technology:optoelectronics; Technology:Semiconductors and Nanotechnology
+------------------------------------------------------------
+EDIH Name: NASK - PIB
+Title: NASK – National Research Institute
+Country: Poland
+Description: Cybersecurity and user protection – our key activities involve ensuring security online. Responding to network security violations occurring in Poland and coordinating corrective actions is the responsibility of the Centre for Cybersecurity. The Center for Standardization and Certification of NASK-PIB, an organizational unit included in the internal Organizational Regulations within NASK acts as an accredited Certification Body. The center certifies products in the field of IT security (cybersecurity). With the enactment of the Act on the national cybersecurity systems, NASK was given the important role of serving as one of three nation-wide CSIRTs. The NASK CSIRT receives and analyses reports, takes actions and coordinates responses to incidents occurring in Polish civilian cyberspace reported by key service operators, digital service providers, local authorities and individuals. It also responds to incidents involving the uploading of content which is illegal or poses a hazard to children; as well as monitoring online threats and the level of cybersecurity in individual sectors and the entire country. Keywords: Cybersecurity, Certification
+Contact Person(s): Magda Druzd
+Phone: 48782820582
+Email: magda.druzd@nask.pl
+Location: Kolska 12 st, 01-045 Warsaw, Poland
+Type: DIH
+Website: https://en.nask.pl/
+Active Sectors: Defence (low involvement), Telecommunications (moderate involvement), Security (moderate involvement)
+Provided Services: Knowledge transfer (low involvement), Regional development (low involvement), SME support (moderate involvement)
+Technological Focus: Cloud Services (moderate involvement), Cyber-physical systems (high involvement), Cybersecurity (very high involvement), Internet of Things (high involvement)
+Tags: Country:Poland; Sector:Defence; Sector:Telecommunications; Sector:Security; Service:Knowledge transfer; Service:Regional development; Service:SME support; Technology:Cloud Services; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Internet of Things
+------------------------------------------------------------

@@ -1,0 +1,148 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: DIH AGRIFOOD - Digital Innovation Hub for Agriculture and Food production
+Title: DIH AGRIFOOD - Digital Innovation Hub for Agriculture and Food production
+Country: Slovenia
+Description: Digital Innovation Hub for Agriculture and Food production (DIH AGRIFOOD) brings together Slovenian and European research and development expertise in the field of Agriculture and Food production. The network provides the latest knowledge and technologies on digitalization of this industry - so called ‘’Smart Agriculture’’. The goal of DIH AGRIFOOD is to represents a One-Stop-Shop providing services to SMEs (farmers, farmer associations, food producers/processors, digital solution providers) in the region through a multipartner cooperation in order to provide safe, sustainable and quality food.
+DIH AGRIFOOD vision is to become Slovenian leader in the development, technology transfer and innovative application of smart farming solutions and services in areas where it creates maximum value for Slovenian and European Agri-Food system.
+DIH AGRIFOOD provides following services:
+
+Awareness creation
+Innovation scouting and Technology Transfer
+Cooperation with other DIHs
+Financing / Funding
+Developing strategies and business models
+Mentoring and Training
+Living Lab environment services
+
+DIH AGRIFOOD is non-formal, non-profit, free-membership, facilitation based network, managed by actors and stakeholders from agrifood domain.
+Contact Person(s): Copot Daniel
+Phone: +386 41 343 640
+Email: daniel.copot@itc-cluster.com
+Location: Lendavska ulica 5a, Murska sobota, Slovenia
+Type: DIH
+Website: http://itc-cluster.com/dih-agrifood/
+------------------------------------------------------------
+EDIH Name: DIH- Confartigianato Ancona - Pesaro e Urbino
+Title: DIH- Confartigianato Ancona - Pesaro e Urbino
+Country: Italy
+Description: The Digital Innovation Hub of Confartigianato Ancona Pesaro and Urbino is a no profit organization, coordinated by Confartigiano Imprese, an industrial association,which has been supporting micro and Small-Medium Enterprisesfrom 70 years.
+Specifically, the DIH acts an innovation centre for artisans, SMEs and citizens who want to acquire digital competences.The DIH offers to its clients, especially SMEs of different sectors, high level services and updated training to access new technologies.
+The main objective of the DIH is building a digital ecosystemlinking and managing relationships between enterprises, universities and financial services in order to support businesses, particularly SMEs, towards digital transformation.
+Moreover, the DIH owns specific digital and technological tools, such as 3D printers and software. SMEs can exploit this equipment directly through the DIH to develop new process and products. Furthermore, the DIH has a team of experts which can support directly SMEs, levering also on the assistance of other professional of the field.
+In particular, thanks to ICT experts operating inside the DIH, enterprises can access knowledge, experience, competences on technological tools and equipment to transform their idea in prototypes and then products. Businesses can use software, 3D printing, virtual reality exploiting the opportunity of coaching from experienced professionals.
+Each client of the DIH is supported in the development of new processes and products, testing first of all their level of digital maturity, ithen defining an accurate plan of actions for developing new process and products. Lastly, based on the emerging needs and knowledge required, the client is connected by the DIH to suitable partners of the ecosystem.
+The relation of the collaboration is guided by the Digital Innovation Hub from the beginning, setting meetings and supporting the partners throughoutthe entire collaboration.
+In addition, the DIH offers specific sessions of training involving experts from DIH staff together withexternal professionals. Training sessions continue involving a high SMEs of different sectors. The courses relate to a wide range of topics from web marketing, cybersecurity and privacy, prototyping and 3D printing and programming.
+Contact Person(s): Martelli Emanuele
+Phone: +39 3298231999
+Email: emanuele.martelli@confartigianatoimprese.net
+Location: Via fioretti 2/a, Ancona, Italy
+Type: DIH
+Website: http://www.confartigianatoimprese.net/content/servizi-corsi-digital-innovation-…
+------------------------------------------------------------
+EDIH Name: DIH for digital twins of logistics systems and manufacturing processes and systems (DIH_DiTMaPS)
+Title: DIH for digital twins of logistics systems and manufacturing processes and systems (DIH_DiTMaPS)
+Country: Slovenia
+Description: DIH for digital twins of manufacturing processes and systems is a national non-profit hub founded by the public body University of Ljubljana, Faculty of Mechanical Engineering that operates with the support of strategic Slovenian partners, all non-for profit organizations.
+The main focus of the DIH for digital twins of logistics systems and manufacturing processes and systems is to support companies in increasing their competitiveness by improving their business and production processes as well as their products and services in the field of digital technology, especially digital twins. Digital twins are one of the enabling technology in the way of digital manufacturing transformation in Industry 4.0 and value chain processes in general. The digital twin is defined as a virtual representation of a physical product or process that serves to understand and predict the performance characteristics of the physical counterpart. Digital twins are used throughout the product lifecycle to simulate, predict, and optimize the product and production system before investing in physical prototypes and resources.
+The DIH is focused to accelerate technology transfer at regional, national and international levels, the joint use of research infrastructures and equipment, the support of smart and sustainable entrepreneurship in the field of intelligent factories and the promotion of human capital growth.
+The DIH DiTMaPS supports companies to develop and implement a digital transformation strategy based on research and innovation that can consolidate and expand national competitive advantages. At the same time, the transformation of the national and European manufacturing sector into new intelligent systems will be supported in line with DIH'European Union research and innovation agendas.
+The DIH for digital twins of logistics systems and manufacturing processes and systems is established within the Laboratory for Handling, Assembly and Pneumatics (LASIM) of the Faculty of Mechanical Engineering (FME ) in Ljubljana. The Faculty is a member of the University of Ljubljana (UL) and is the largest educational and research institution with the highest international standards in the field of mechanical engineering in Slovenia and the wider region of Central and South-Eastern Europe. The Laboratory for handling, assembly and pneumatics is part of the Department of Manufacturing, Technologies and Systems of FME, UL. The research and development priorities of the LASIM laboratory are closely related to the DIH's focus: digital twins of logistics systems, smart factories and Industry 4.0. The related theme of the laboratory is smart manufacturing, supported by digital technologies to increase the efficiency of SMEs. The other research areas of the laboratory are: High Performance Computing (HPC), Cloud Computing, Edge Computing, Human Centered Production, AI in Manufacturing, Zero Defect Manufacturing, Distributed Cyber-Physical Systems, Networked Factory, Digital LEAN, etc.
+Over the years, LASIM has extended the usage of Discrete Event Simulation to the field of Digital Twins, which are the backbone of Smart factories and I4.0. With the knowledge of cutting-edge technologies and approaches, LASIM has a very strong link with industrial partners through its R&D projects and activities. Here are some industry partners presenting the market leaders from different business sectors: Yaskawa Ristro, Yaskawa Europe Robotics, Knauf Insulation, Kolektor, ECOLAB, Danfoss, Krka, Intersocks, Gorenje, Scania, Goodyear, Hidria, Skaza Smart Plastic, Polycom, RIKO, MTZ, LTH Castings, Iskra Mehanizmi, Agromehanika, etc.
+Contact Person(s): Simic Marko
+Phone: +386 1 4771 797
+Email: marko.simic@fs.uni-lj.si
+Location: Askerceva 6, Ljubljana, Slovenia
+Type: DIH
+Website: http://dih-ditmaps.si
+------------------------------------------------------------
+EDIH Name: DIH HIVE (Hub for Innovations in Virtual Environment)
+Title: DIH HIVE (Hub for Innovations in Virtual Environment)
+Country: Czechia
+Description: DIH HIVE covers mainly Pilsen Region and Karlovy Vary Region. Strategic target of DIH HIVE is to help with the comprehensive implementation of the digitalization of the economy in the region and to have a visible physical presence, working closely and successfully with other actors (universities and RTOs, chambers of commerce, training centres, SMEs and other companies, supply chains, consultants, etc.) as an important partner of a regional ecosystem.
+University of West Bohemia (UWB) as a founding member of the DIH HIVE is the main knowledge disseminator in the region. With its 9 faculties, 2 research institutes and the European Center of Excellence it has the capacity to cover technological as well as business issues. All of faculties and research institutes have a wide range of technologically oriented working facilities for prototyping, process improvement, product development and testing. An important activity of the university is the transfer of knowledge, cooperation with companies and the support of innovation. UWB is one of the founding members of the CESNET backbone network in the Czech Republic. CESNET operates and develops the national e-infrastructure for science, research and education which encompasses a computer network, computational grids, data storage and collaborative environment. The other research partner is the COMTES FHT company an organisation which provides research and development services in the field of metallic materials and introduces new forming and heat treatment processes, mainly in key sectors comprising the engineering, automotive and power industries.
+The support for business and its innovation is ensured also by other hub partners. BIC Plzeň – Business and Innovation Centre has supported the establishment and development of innovative new businesses in the Pilsen region since 1992. It acts within international networks that support business and innovation, working in partnership with numerous other partners at the regional, national and international levels. BIC Plzeň is a member of European Business and Innovation Centre Network (EBN) and Enterprise Europe Network (EEN). BIC Plzeň also supports the operation of the Science and Technology Park which has a main role of regional incubator for starting companies. The strong linkage to policy development is ensured by the Regional Development Agency of the Pilsen Region (RDA) and the Business Development Agency of Karlovy Vary Region (KARP) which are the leading agencies responsible for the regional RIS3 strategy implementation. All those organisations have a wide experience in organisation of conferences, workshops, seminars, networking, exchange of knowledge, exchange of experts, etc.
+Contact Person(s): Bureš Marek Bureš
+Phone: 4.20606E+11
+Email: bures@fst.zcu.cz
+Location: Univerzitni 8, 301 00 Pilsen, Czechia
+Type: DIH
+Website: https://www.dih-hive.cz/en/
+------------------------------------------------------------
+EDIH Name: DIH North
+Title: DIH North
+Country: Croatia
+Description: DIH North was founded by three partners Technology park Varaždin, Technology Innovation Centre Medjimurje and ENTER Koprivnica.
+DIH have several infrastructural units at disposal for potential users of the DIH’s services. There is total of sixbuildings (twoin Koprivnica, three in Čakovec, one in Varaždin) with high-speed optical network available for users. The buildings areequipped with modern network infrastructure including multiple high-speed performance servers, with addition of multiple high-speed performance workstations ready for prototyping and small-scale manufacturing. Workstations are equipped with a 3D printers, CNC machines and laser cutters (basically, a fab lab), with access to necessary hardware and software for prototyping.DIH offer a wide range of services for SMEs, from basic incubation to more advanced business and IT support.
+DIH North support the local SMEs with their digital transformation through activities such as building ecosystem, mediation and networking, development of strategies for companies, concept validation and prototyping, pre-competitive series production. Also SMEs can use infrastructire, can get digital maturity assessment, incubator / accelerator support and mentoring and mentoring.
+Since DIH has all the necessary machines for fab lab production available for its clients, prototyping, product development and small scale production are one of the most valuable services that DIH can offer, because region that this DIH covers (Northern Croatia) is support for SMEs in terms of prototyping and product development. DIH has all the necessary software licenses for 3D modeling, design and visual prototyping. Part of DIH's infrastructure are 3D printer, Hologram, VR equpment, 3D scanner for rapid prototyping, CNC machines and laser cutter for rapid prototyping and production of small series, wood and metal processin machines.
+DIH supports industries that are of strategic importance in partner regions.
+TICM is focused on support for IT sector, metal industry, automotive industry and various types of service industries in Čakovec and Međimurje county.
+
+ENTER Koprivnica in Koprivničko-križevačka county is focused on connecting different industries with experts especially with focus on creative industries sector since ENTER is managing Incubator of Creative Industries. ENTER has focus on SMEs, connecting them with experts from Industry 4.0 and working on digitization of their business.
+
+Technology park Varaždin and Varaždinska county deal with IT sector, Iot, creative industries with focus on audio-visual and IT sector) and renewableenergy.
+Non-profit aim of DIH North is to provide access to know how, best practices, education and experts. Through DIH North we are aiming to encourage ecosystem members to be actively involved in SMEs digitization processes to help them deal with their challenges and achieve competitiveness.
+DIH North has strong connections with its ecosystem members, among which are Faculty of Organization and Informatics(FOI), University North, Development and Educational Centre for Metal Industry - Metal Centre Čakovec, cities Varaždin, Čakovec, Koprivnica, clusters (Croatian cluster of competitiveness of creative and cultural industries), Međimurje IT cluster (MIT Cluster).
+Contact Person(s): Matić Horvat Aldijana
+Phone: +385 (0)48 222 338
+Email: info@enterkoprivnica.hr
+Location: Trg dr. žarka dolinara 18, Koprivnica, Croatia
+Type: DIH
+Website: https://www.dih-north.eu/
+------------------------------------------------------------
+EDIH Name: DIH ONEX
+Title: Digital Innovation Hub ONEX
+Country: Bosnia and Herzegovina
+Description: DIH ONEX consortium is a prominent provider of digital innovation solutions and services in the Republic of Srpska region/Bosnia and Herzegovina. Our mission is to drive growth and success for our esteemed clients through innovation, creativity, and strategic thinking.DIH ONEX specializes in assisting businesses in leveraging state-of-the-art technologies and emerging trends to sustain their competitive advantage and accomplish their objectives. Whether they aspire to streamline their operations, enhance client engagement, or unlock novel revenue streams, we possess the requisite proficiency and experience to facilitate their growth and success.DIH ONEX team consists of 30 professionals.
+At ONEX, we pride ourselves on our commitment to collaboration, innovation, and client satisfaction. We work closely with each of our clients to understand their unique needs and goals, and to develop customized solutions that deliver tangible results.ONEX has prioritized five high-growth thematic sectors, namely Agri-food, Manufacturing, Financial, Tourism, and Construction, and has aligned them with green deal principles to encourage efficient resource utilization and transition towards a clean, circular economy. Additionally, we have engaged creative actors who bring innovative and out-of-the-box thinking to the table, thereby facilitating the generation of novel solutions.Our selection of appropriate partners and their core competencies has been guided by a thorough analysis of the digitalization needs of our target groups in the high-growth thematic sectors. By leveraging the strengths and expertise of our partners, we aim to achieve optimal outcomes that drive growth and success for our clients.
+Contact Person(s): Bojan Cudic
+Phone: 0038765807469
+Email: bojan.cudic@onex.digital
+Location: Akademika Jovana Surutke 19, 78000 Banja Luka, Bosnia and Herzegovina
+Type: DIH
+Website: https://onex.digital/en/edih
+Active Sectors: Agricultural biotechnology and food biotechnology (moderate involvement), Automotive (moderate involvement), Construction & Assembly (moderate involvement), Consumer products (moderate involvement), Cultural and creative economy (moderate involvement), Education (high involvement), Energy (high involvement), Environment (moderate involvement), Financial (moderate involvement), Fishery (moderate involvement), Food and beverages (high involvement), Health care (high involvement), Leather (moderate involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (high involvement), Public administration (high involvement), Real estate (moderate involvement), wholesale or distribution (moderate involvement), Telecommunications (moderate involvement), Textiles (high involvement), Travel and tourism (moderate involvement), Paper and wood (moderate involvement), Smart City (high involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (high involvement), Finance (very high involvement), Innovation management (very high involvement), Knowledge transfer (high involvement), Prototyping (moderate involvement), Public sector innovation (moderate involvement), Regional development (high involvement), Smart Specialisation strategies (moderate involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (high involvement), Vocational training (high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (high involvement), Big data (high involvement), BI tools (high involvement), Cloud Services (moderate involvement), Cybersecurity (high involvement), Gamification (high involvement), High performance computing (moderate involvement), Human computer interaction (moderate involvement), Internet of Things (high involvement), Internet Services & Applications (high involvement), Laser-based manufacturing and materials processing (moderate involvement), Location-based applications (high involvement), Logistics (high involvement), optoelectronics (moderate involvement), Mobility (high involvement), New technologies for Audio-Visual sector - Media (moderate involvement), Robotics (moderate involvement), Sensors & Vision Processing Systems (moderate involvement), Software Architectures (moderate involvement)
+------------------------------------------------------------
+EDIH Name: DIH PANNONIA
+Title: Digital Innovation Hub PANNONIA
+Country: Croatia
+Description: DIH PANNONIA services will enable digitalisation and introduction of Industry 4.0 into economic entities with an emphasis on agriculture and food industry. DIH PANNONIA users are scientific research centres, public institutions and economic entities in the Slavonia, Baranja, and Srijem area.DIH PANNONIA’s task is the promotion of digital transformation and provision of services for the increase of the application of digital technologies in the real, public, and science research areas, as well as in all sectors, with an emphasis on food processing sector. DIH PANNONIA gives opportunity for easier propelling of strategic partnerships, better cross-border cooperation for various projects, start-up companies, micro-enterprises and SMEs, which deal with digital technologies. Simultaneously, it connects business entities from different industries with interest in using and implementation of newly created innovative solutions. DIH PANNONIA provides services of: - Promotion of digitalisation and technology and knowledge transfer, - Organisation of training and guidance for the digital skills development of economic entities, public sector, students and family farms, with the access to the professional knowledge of universities and other consortium partners, - Education and skill development provision, needed for a successful digital transformation, - Support to economic entities, public administration and other users in improving business models by using new technologies, - Networking and connecting providers and users in the digital transformation line at the national and international level, - Providing access to product testing and experimentation infrastructure, - Advisory services in accessing financial means and the use of financial mechanisms, - Preparation and implementation of development projects for users, -Support for the development of innovative ecosystems and networking opportunities.
+Contact Person(s): Vukovar-Srijem County Development Agency
+Phone: +385 99346 96 33
+Email: vdzoic@ra-vsz.hr
+Location: Antuna akšamovića 31, 32100 Vinkovci, Croatia
+Type: DIH
+Website: https://www.ra-vsz.hr/eng-dih-pannonia/
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Automotive (high involvement), Community-Led Local Development (moderate involvement), Education (very high involvement), Public administration (very high involvement)
+Provided Services: Knowledge transfer (very high involvement), Prototyping (high involvement), Regional development (very high involvement), SME support (high involvement), Technological innovation (high involvement), Technological innovation (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Cloud Services (moderate involvement), Cyber-physical systems (moderate involvement), Digital twins (moderate involvement), High performance computing (high involvement), Human computer interaction (high involvement), Internet Services & Applications (very high involvement), Quantum Technologies (computing/communication) (high involvement), Robotics (high involvement), Simulation engineering and modelling (very high involvement), Software Architectures (high involvement)
+------------------------------------------------------------
+EDIH Name: DIH TERA
+Title: DIH TERA
+Country: Croatia
+Description: DIH TERA (Digital innovation hub TERA) is a consortium that functions as a one-stop-shop and provides companies with the possibility of enhancing their competitiveness concerning their business/production processes, products or services by using digital technologies. DIH TERA is based on technological infrastructure (Competence Centre – CC) and provides access to the latest knowledge, expertise and technologies for providing support to companies in the implementation of pilot projects, testing and experimenting with digital innovations. The hub provides business and financial support for introducing innovations, if necessary, through the value chain, and acts as the first regional contact point that strengthens the innovation ecosystem.
+The DIH TERA consortium consists of organisations based in East Croatia, among which there are constituents of the two East Croatian universities and development agencies from all five of the region’s counties, as well as business support institutions and renowned Croatian SMEs with extensive knowledge and experience in the IT sector and digitalisation processes. The coordinator is an SME with a not-for-profit clause, established by theJosip Juraj Strossmayer University of Osijek, Osijek-Baranja County and the City of Osijek.
+All the partners undertake not to make profit from the activities implemented within the DIH, in compliance with the not-for-profit clause.
+DIH TERA operates not only on regional but on the national and international levels as well. It cooperates with international consortia and initiatives, bringing companies closer to service providers from other regions. The members of the DIH TERA consortium participate in numerous international projects, programmes and networks, such as D-Rural, Enterprise Europe Network (EEN), Horizon2020, KAM (Key Account Management), Erasmus for Young Entrepreneurs (EYE), KETGATE, KET4CP, MobiliseSME, Time Machine, EIT Food, Erasmus+, Interreg, Danube Transfer Centres (DTC), Open Innovation System of the Adriatic-Ionian Region network, ECMI (European Consortium for Mathematics in Industry), Crowdhelix.
+Key services:
+Test Before Invest: the services encompass digital maturity evaluation, demonstrational activities, evaluation and simulation for digital transformation, support for integration and adaptation of different technologies, testing and experimentation with digital technologies, technology transfer, development of mobile and web applications.
+Skills and Training: workshops, seminars, in-house education and training.
+Access to Finance:the services encompass connecting companies within the EEN network, creating and publishing clients’ profiles in the EEN database, advisory services regarding business internationalisation on the EU market, a consultancy in defining project proposals for financing, directing entrepreneurs to cascade financing of R&D activities and prototype financing, connecting entrepreneurs with international networks of R&D institutions.
+The process:
+An analysis of justification and needs is performed on the expression of the client's interest and the need for entrepreneurial support. To this end, an evaluation and support team shall be set up, involving relevant experts from the consortium's partner institutions. The experts are tasked with preparing a work plan (consultancy support, education, prototyping, testing, preparing project proposals for other sources of funding and other activities according to the profile and needs of the project). In the initial phase, the work of DIH TERA focuses on activities that can significantly improve business through digitalisation, such as building sustainable food supply chains through the digital transformation of agriculture, which includes the use of artificial intelligence in quality control systems, the use of blockchain technologies un certification and labelling of food products, the use of GIS/GPS technologies in precision agriculture development, use of additive production to shorten the time required for product and packaging design, personalised nutrition and functional food production, as well as other unspecified activities. Based on the connections with other international consortia and initiatives, the range of technical competencies and services is significantly expanded.
+Contact Person(s): TERA DIH
+Phone: +385(0)31-251-000
+Email: dih@tera.hr
+Location: Trg ljudevita gaja 6, Osijek, Croatia
+Type: DIH
+Website: http://www.tera.hr
+------------------------------------------------------------

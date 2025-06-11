@@ -1,0 +1,130 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: National Centre of Robotics
+Title: National Centre of Robotics
+Country: Slovakia
+Description: National Centre of Robotics is an non-profit organization established under the patronate of Faculty of electrical engineering and information technology, Slovak technical university in Bratislava. Establishment of National Centre of Robotics had several reasons – research, support and development of robotics in university and society-wide environment.We are currently working with several universities, commercial companies (especially SMEs) and we are supporting students in research activities. We participate in several projects, including the structure H2020.
+The members of National Centre of Robotics are internationally accepted professionals in the field of robotics, cybernetics and automation. We are young team and we are opened to any challenges.
+We are supporting of technology transfer program to local SMEs. More details on possibilities of cooperation are listed here: http://nacero.sk/work-with-us/
+National Centre of Robotics acts as a DIH and it ispart of DIH² -DIH² is a network of 26 DIHs, with a target to reach over 170 DIHs. The sole aim of the network is to spark incremental (cut 50% cost of advance robotics solutions, double the growth of robotics market) and disruptive (maximum productivity & optimum agility) innovations in over 300,000 Manufacturing SMEs and Mid-Caps. It will support SMEs in their Agile Production challenge (50% increase in productivity) and unleash their digitalization potential by enabling robot solutions that are more cost effective at lower lot sizes..http://www.dih-squared.eu/
+Contact Person(s): Duchon Frantisek
+Phone: +421 915 719 462
+Email: frantisek.duchon@stuba.sk
+Location: Ilkovicova 3, bratislava, Bratislava, Slovakia
+Type: DIH
+Website: http://nacero.sk/language/en/
+Tags: Country:Slovakia
+------------------------------------------------------------
+EDIH Name: National Digital Contents Hub, POLO
+Title: National Digital Contents Hub, POLO
+Country: Spain
+Description: POLO is an ecosystem of promotion of the sector of digital content, led and supported by Promalaga, that manages the facilities and laboratories, located in the Tabacalera of Malaga, where Promalaga support companies and startups of the sector of digital contents, oriented to boost the talent, through training and education, entrepreneurship, growth, scaling up and internationalization of the Digital Content industry. MISSION Promote the hypersector of digital content in Spanish society through innovative and vertebrating initiatives in a global environment of collaboration with public and private partners. SCOPE To be a national and international reference, in the hyper-sector of digital contents for the improvement of employability, the quality of living for the society and the competitiveness of companies. SERVICES POLO provides Innovation, Business Development and digital training services as one-stop-shop, helping startups and companies to become more competitive, improving their products and services through digitalization. It has laboratories of Virtual Reality and Augmented, Motion Capture, Video Recording, Photography, Sound Recording, Graphic Design and 3D Printing to facilitate access to cutting-edge technologies to the company, reducing entry barriers for the adoption of these Innovations.
+Contact Person(s): Silleras Mendez Raul
+Phone: +34 617448636
+Email: rsilleras@polodigital.eu
+Location: Polo nacional de contenidos digitales. avenida sor teresa prat, 25, 29003 Malaga Málaga, Spain
+Type: DIH
+Website: http://polodigital.eu/
+Tags: Country:Spain
+------------------------------------------------------------
+EDIH Name: Nemonoor
+Title: A Norwegian EDIH on Artificial Intelligence
+Country: Norway
+Description: European private and public companies are lagging other regions in exploiting how advanced digital technologies can contribute to better services and more effective/efficient processes and business models.
+Contributing to this challenge is our dependence on technologies from other regions, and the importance of our collective effort to succeed in becoming greener.
+The Digital Europe Program will complement other EU Programs by helping private and public companies develop capacities in utilizing High-Performance Computing, Artificial Intelligence, Cybersecurity, Advanced Digital Skills in accelerating the best use of technologies in tackling these challenges.
+One of the mechanisms deployed through Digital Europe is the European Digital Innovation Hubs. Nemonoor is a Norwegian consortium of eight partners with a long-standing history of collaboration and joint efforts, that has been designated by Norway to become an EDIH.
+Our belief is that the challenge at hand can only be solved through collaboration among partners that have deep knowledge and experience within all aspects of how private and public companies approach digital, and how they build their capabilities and exploit the opportunities.
+Our approach is based on two main objectives:
+
+support SME/public sector enterprises in Norway with AI Adoption, and
+ensure EDIH synergies on the European and national levels.
+
+Nemonoor partners have a long history of mobilizing private and public companies to act, and to build their capabilities to deploy the technology.
+With the Nemonoor consortium in place, we have the best means to scale on what we are already doing and release further national and EU funding to activities that contribute to growth and prosperity for European companies and citizens.
+The application gives a comprehensive description of our capabilities, how we will utilize these capabilities, and how we will engage and assist companies in taking part in the digital transformation journey.
+Contact Person(s): Eirik Andreassen
+Phone: 4740200598
+Email: eirik.andreassen@digitalnorway.com
+Location: Universitetsgata 2, 0164 Oslo, Norway
+Type: EDIH
+Website: https://www.nemonoor.no/
+Active Sectors: Construction & Assembly (moderate involvement), Education (high involvement), Energy (very high involvement), Environment (moderate involvement), Health care (very high involvement), Life sciences (moderate involvement), Manufacturing and processing (very high involvement), Maritime (moderate involvement), Smart City (very high involvement), Transport & Mobility (high involvement)
+Provided Services: Ecosystem building (high involvement), Finance (moderate involvement), Innovation management (high involvement), Knowledge transfer (high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (high involvement), Vocational training (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (moderate involvement), Cyber-physical systems (high involvement), Cybersecurity (high involvement), Digital twins (high involvement), High performance computing (moderate involvement), Human computer interaction (high involvement), Internet of Things (moderate involvement), Mobility (high involvement), Robotics (moderate involvement), Virtual Reality (moderate involvement)
+Tags: Country:Norway; Sector:Construction & Assembly; Sector:Education; Sector:Energy; Sector:Environment; Sector:Health care; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Maritime; Sector:Smart City; Sector:Transport & Mobility; Service:Ecosystem building; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:High performance computing; Technology:Human computer interaction; Technology:Internet of Things; Technology:Mobility; Technology:Robotics; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: NEST
+Title: NEST - Network for European Security and Trust
+Country: Italy
+Description: The Network for European Security and Trust (NEST) is a one-stop shop for cybersecurity solutions and capacity building initiatives, targeting SMEs and Public Administrations of Central Italy. Under the coordination of the national Cybersecurity Competence Center Cyber 4.0 and in partnership with three regional DIHs and one technology accelerator and ecosystem builder (INNOVA), the NEST EDIH will foster the digital transition of public and private entities in the Italian regions of Lazio, Umbria and Abruzzo through concrete support towards the adoption of innovative technologies, by making available: a wide range of cybersecurity tools and services, facilities for test-before-invest, qualified capacity building interventions, assistance for the access to finance and funds, and a functional support to improve the growth and internationalisation of the local innovation ecosystem. NEST activities will also support targeted organisations in dealing with the existing EU regulatory framework and its transposition into local policies and strategies and will contribute to the EU policy discussions and debate with feedback and instances from the involved stakeholders.
+Contact Person(s): Matteo Lucchetti
+Phone: 3.93933E+11
+Email: matteo.lucchetti@cyber40.it
+Location: Piazzale aldo moro, 5, 00185 Roma RM, Italy
+Type: Seal of Excellence
+Tags: Country:Italy
+------------------------------------------------------------
+EDIH Name: NEST
+Title: National Ecosystem for Smart Technologies
+Country: Albania
+Contact Person(s): Ermal Ilirjani
+Phone: 3.55692E+11
+Email: eilirjani@albaniandf.org
+Location: Rr. SAMI FRASHERI NO 10, 1001, Tirana, Albania
+Type: Seal of Excellence
+Website: https://www.albaniandf.org/
+Active Sectors: Smart City (very high involvement), Transport & Mobility (very high involvement), Travel and tourism (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Prototyping (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Vocational training (low involvement)
+Technological Focus: Artificial Intelligence & Decision support (low involvement), Communication network (very high involvement), High performance computing (low involvement), Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Location-based applications (very high involvement), Logistics (very high involvement), optoelectronics (moderate involvement), Mobility (very high involvement), Quantum Technologies (computing/communication) (very high involvement), Sensors & Vision Processing Systems (moderate involvement), Simulation engineering and modelling (very high involvement), Virtual Reality (moderate involvement)
+Tags: Country:Albania; Sector:Smart City; Sector:Transport & Mobility; Sector:Travel and tourism; Service:Ecosystem building; Service:Innovation management; Service:Prototyping; Service:Regional development; Service:Smart Specialisation strategies; Service:SME support; Service:Technological innovation; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Communication network; Technology:High performance computing; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Location-based applications; Technology:Logistics; Technology:optoelectronics; Technology:Mobility; Technology:Quantum Technologies (computing/communication); Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: NEURAL
+Title: veNEto hUb foR Advanced digital technoLogies
+Country: Italy
+Description: NEURAL is the EDIH designated candidate by the Italian Ministry of Economic Development for the Veneto region, one of the most competitive regions in Europe. It aims at facilitating the digital transformation process of the Veneto private companies and promoting the efficiency and effectiveness of the Public Administration (PA). It aims to become a partner to support step-by-step Veneto enterprises in their Digital Transformation Journey, planning on serving 900 entities in 3 years. It is focused on 2 DEP key technologies: AI and CS. It is specialised on the following digital enablers: Blockchain, IoT, Big Data Analytics, Advanced Robotics. In line with the DEP goals and the National and Regional policies, it will promote the uptake of AI Blockchain and CS solutions not only as efficiency tools but also as drivers of innovation and new business models. It is designed to act as one stop shop for Companies and PAs by offering a full set of innovation services to support digital and green transformation in different economic sectors. It deploys an interoperable services portfolio (developed on the basis of an analysis of the needs of SMEs, Mid-Caps and PAs carried out through specific market sector studies) organized into 4 categories: Test Before Invest, Advanced Upskilling, Access to Finance and Innovation Ecosystem and Networking. The proposition is completed by services of engagement and visioning and with the possibility to adapt to the market needs by designing new services in case of specific needs. The Consortium is made up of 17 beneficiaries and affiliates, including RTOs, business associations, a Compentece Center and a leading investment bank. The partners' high reputation guarantees project maturity, the provision of qualified services and access to the best infrastructures and facilities available on advanced digital technologies, as well as networking being strongly connected with National and EU ecosystem.
+Contact Person(s): Matteo Faggin
+Phone: +39 338 472 1324
+Email: info@smact.cc
+Location: Fondamenta s giobbe cannaregio 873, 30121 Venezia ve VE, Italy
+Type: Seal of Excellence
+Active Sectors: Cultural and creative economy (moderate involvement), Food and beverages (very high involvement), Manufacturing and processing (very high involvement), Travel and tourism (moderate involvement)
+Provided Services: Knowledge transfer (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Ecosystem building (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Digital twins (high involvement), Internet of Things (moderate involvement)
+Tags: Country:Italy; Sector:Cultural and creative economy; Sector:Food and beverages; Sector:Manufacturing and processing; Sector:Travel and tourism; Service:Knowledge transfer; Service:Technological innovation; Service:Technology transfer; Service:Ecosystem building; Technology:Artificial Intelligence & Decision support; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Digital twins; Technology:Internet of Things
+------------------------------------------------------------
+EDIH Name: Next-Gen-BIoTechEDIH
+Title: Develop, innovate and provide Next-Gen-BIoTech DIH`s services in the South-Center region in Bulgaria to accelerate the best use of digital technologies for local SMEs, Mid-cap, and public sector
+Country: Bulgaria
+Description: Next-Gen-BIoTechEDIH project intends to coordinate and drive digital and green transformation in the biotechnologies and bio-based industries in Bulgaria South-Center region, both for SMEs, Mid-caps, clusters, and other innovative partnerships in the local business environment, as well as for other interested public and private entities. To that end, the Hub aims to provide for packages of comprehensive digitalisation services that will be tailored to the demands of regional end users at all stages of development, including start-ups, established businesses, business alliances, students, internationalization, and so on. Training and skills development, support to find investment, transfer technology will all be part of the focus service packages, focusing on smart regional areas of specialization. Given the presence of technology, education, and research providers and beneficiaries within the partnership, Next-Gen-BIoTechEDIH aspires to become a regional, national, and international reference hub for high-quality services.More specifically, the Hub have a vision and technological focus on AI and Robotics, and Sensors. Next-Gen-BIoTechEDIH aims at promoting the widespread adoption of digital technologies, with a specific focus on 1) Industry 4.0 2) Internet of things (IoT), 3) HPC, 4) High-level Digital Skills and Wide use of technology in all areas of the economy and public life to SMEs, MidCaps, the public sector. The Hub to be supported in their digital and green transformation and adopting circular business model, in line with present challenges faced by the EU and with the DIGITAL. Next-Gen-BIoTchEDIH will also act as an access point to the European network of EDIHs, helping local SMEs and public authorities get the needed support in all cases with a wide EDIH network. It is our great interest to be part of a suitable European network (EDIH Corridor) with other EDIHs, interested primarily to all relevant topics.
+Contact Person(s): Maria Sirakova
+Phone: 0894 954 952
+Email: riz.nextgenbiotech@gmail.com
+Location: Plovdiv, 4000 Plovdiv, Bulgaria
+Type: Seal of Excellence
+Website: Website
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Community-Led Local Development (very low involvement), Health care (very high involvement), Travel and tourism (low involvement)
+Provided Services: Circular economy (very high involvement), SME support (very high involvement), Ecosystem building (moderate involvement), Finance (high involvement), Technological innovation (high involvement)
+Technological Focus: Internet of Things (very high involvement), Big data (high involvement), Artificial Intelligence & Decision support (high involvement), Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Cybersecurity (high involvement), Industrial biotechnology (very high involvement)
+Tags: Country:Bulgaria; Sector:Agricultural biotechnology and food biotechnology; Sector:Community-Led Local Development; Sector:Health care; Sector:Travel and tourism; Service:Circular economy; Service:SME support; Service:Ecosystem building; Service:Finance; Service:Technological innovation; Technology:Internet of Things; Technology:Big data; Technology:Artificial Intelligence & Decision support; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cybersecurity; Technology:Industrial biotechnology
+------------------------------------------------------------
+EDIH Name: Novel-T
+Title: Stichting Novel-T
+Country: Netherlands
+Description: Novel-T is building an environment in whichentrepreneursseize new opportunities to stay or become frontrunner in their league. By connecting and activating talent, knowledge, capital, research & testfacilities, opportunities will lead to new innovative business. We support companies in their innovation process and startups in realising their goals in cooperation with the University of Twente, University of Applied Science Saxion and each other. We offer startups and innovative entrepreneurs access to a dynamic ecosystem.We screen research and connect knowledge to business. OurNovel-T’s innovation brokers can help local SME's to take the next step.Novel-T’s innovation brokers support entrepreneurs in the manufacturing sector with their innovation process. Think of e.g. formulation the right question or business case, creating matches with valuable connections such as fellow entrepreneurs, the UT and Saxion and/or the government and searching for solutions to support your innovation process and overcome hurdles. Novel-T started the Cybersecurity Center for the Manufactering Industry and ispartner in Boost, theSmart Industry-network of East Netherlands. Novel-T is a not-for-profit cooperation of the knowledge-institutes (University of Twente- Saxion University of Applied Sciences) and regional government(province of Overijssel, region of Twente and City of Enschede). Their aim is to joinly stimulate the regional economy by supporting new and growing innovative entrepreneurs. Novel-T started the Cybersecurity Center for the Manufactering Industry and is partner in Boost Robotics EastNL, theSmart Industry-network of East Netherlands.
+Contact Person(s): Wevers, Jeroen
+Phone: +31 (0)53 483 6800
+Email: j.wevers@novelt.com
+Location: Hengelosestraat 500, 7521 AN Enschede, Netherlands
+Type: DIH
+Website: https://novelt.com/
+Active Sectors: Agricultural biotechnology and food biotechnology (moderate involvement), Automotive (moderate involvement), Community-Led Local Development (very high involvement), Construction & Assembly (high involvement), Defence (low involvement), Education (very high involvement), Energy (moderate involvement), Financial (high involvement), Health care (very high involvement), Life sciences (high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Textiles (low involvement), Polymers and plastics (high involvement), Legal Aspects (very high involvement), Regulation (high involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (very high involvement), Field trial (high involvement), Finance (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (very high involvement), Vocational training (moderate involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), products) (high involvement), Communication network (high involvement), Cybersecurity (high involvement), Digital twins (high involvement), Human computer interaction (high involvement), Industrial biotechnology (high involvement), Internet of Things (high involvement), Laser-based manufacturing and materials processing (high involvement), optoelectronics (high involvement), Virtual Reality (high involvement), Photonics (high involvement), Quantum Technologies (computing/communication) (high involvement), Robotics (high involvement), Semiconductors and Nanotechnology (high involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (high involvement), Software Architectures (high involvement)
+Tags: Country:Netherlands; Sector:Agricultural biotechnology and food biotechnology; Sector:Automotive; Sector:Community-Led Local Development; Sector:Construction & Assembly; Sector:Defence; Sector:Education; Sector:Energy; Sector:Financial; Sector:Health care; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:Textiles; Sector:Polymers and plastics; Sector:Legal Aspects; Sector:Regulation; Service:Circular economy; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:products); Technology:Communication network; Technology:Cybersecurity; Technology:Digital twins; Technology:Human computer interaction; Technology:Industrial biotechnology; Technology:Internet of Things; Technology:Laser-based manufacturing and materials processing; Technology:optoelectronics; Technology:Virtual Reality; Technology:Photonics; Technology:Quantum Technologies (computing/communication); Technology:Robotics; Technology:Semiconductors and Nanotechnology; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Software Architectures
+------------------------------------------------------------

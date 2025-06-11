@@ -1,0 +1,177 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: MINASMART
+Title: MINASMART
+Country: France
+Description: Although the Auvergne Rhone Alpes region is a highly innovative hot-spot and unique ecosystem in France, where SMEs are the leading employer, there is still a significant number of “traditional” SME not embracing the full potential given by digital technology to optimize and scale-up their activities. 
+The operational DIH and EDIH candidate MINASMART will unite the regional innovation key stakeholders to support the digital transformation, drive the economy and foster technological excellence. The core teams is composed by 3 digital innovation clusters, 2 Research and Technical Organisations and 7 Innovation Clusters, that cover traditional SMEs and address key sectors of the the Regional smart specialization strategy (S3) : Energy, Health, Mobility and Intelligent transport systems, Chemistry and the Environment, Agritech and Foodtech, Textile. Key technologies (Edge AI, CybersecurityHPC, CPS and ) are considered in the deployment of 17 services for SMEs, raising digital awareness, ensuring knowledge transfer from technology experts, increasing competitiveness through digital transformation, supporting the green and digital twin transition and build long-lasting EDIHs collaborations.
+MINASMART will simplify innovation support ecosystem for all entities through a one-stop-shop that will gather around one consortium, common objectives and coordinated actions, all the services needed to tackle digital issues from upstream (research) to downstream (applications). MINASMART objective is to facilitate the digital transformation of more than 2000 SMEs per year by its 3rd year. To further support companies in their digitalization and overcome the financial barriers they face, MINASMART aims to raise more than 50M€ per year through public and private funding. MINASMART actions will also benefit to society and support a profound and sustainable transformation of jobs and skills needed to meet the challenges of a more digitized world.
+Contact Person(s): Cécile AILLERIE
+Phone: 06 09 88 73 74
+Email: cecile.aillerie@minalogic.com
+Location: Campus Région du Numérique - 78 Rte de Paris, 69260 Charbonnières-les-Bains, France
+Type: EDIH
+Active Sectors: Environment (high involvement), Security (very high involvement), Textiles (high involvement)
+Provided Services: Innovation management (very high involvement), Technology transfer (very high involvement), Knowledge transfer (high involvement)
+Tags: Country:France; Sector:Environment; Sector:Security; Sector:Textiles; Service:Innovation management; Service:Technology transfer; Service:Knowledge transfer
+------------------------------------------------------------
+EDIH Name: Miro Innovation Lab
+Title: Miro Innovation Lab
+Country: Germany
+Description: The MIRO Innovation Lab (MIL) is an open innovation lab in the field of medical robotics. Funded by the Helmholtz Association with the goal to support cooperative research in medical robotics, it enables close collaboration between the Institute of Robotics and Mechatronics of the German Aerospace Center (DLR), clinical partners, participating industrial partners, and other research institutions.
+Contact Person(s): Unterhinninghofen Roland
+Phone: +49 8153 28-2163
+Email: miroinnovationlab@dlr.de
+Location: Münchener str. 20, Oberpfaffenhofen-wessling, Germany
+Type: DIH
+Website: https://miroinnovationlab.de
+Tags: Country:Germany
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Centre Ilmenau
+Title: Mittelstand-Digital Centre Ilmenau
+Country: Germany
+Description: To smartly connect the strengths of small and medium-sized enterprises (SMEs) in the region for mutual benefit, the focus of the Mittelstand 4.0 Competence Centre is on the interactive networking of employees, machines and processes. Especially cooperation between smaller companies to digitize business processes is supported. The aim is to set up these companies future-proof for the digital economy. In five model factories of the competence center, businessmen from medium-sized companies can familiarize with digital production solutions and try them out. In addition, the competence center supports companies through a variety of information events, workshops, projects and expert contacts. The entire offer of the competence center is free and supplier neutral.
+Contact Person(s): Matthesius Mauricio
+Phone: +49(0)3677/695076
+Email: matthesius@kompetenzzentrum-ilmenau.de
+Location: Gustav-kirchhoff-platz 2, Ilmenau, Germany
+Type: DIH
+Website: https://www.kompetenzzentrum-ilmenau.digital/
+Tags: Country:Germany
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Augsburg
+Title: Mittelstand-Digital Zentrum Augsburg
+Country: Germany
+Contact Person(s): Elisabeth Rung
+Phone: +49 89 278 287-60
+Email: Elisabeth.Rung@ibi.de
+Location: Vdma bayern, denninger str. 84, 81925 münchen, 81925 München, Germany
+Type: DIH
+Website: https://digitalzentrum-augsburg.de/
+Active Sectors: Consumer products (moderate involvement), Education (very high involvement), Financial (high involvement), Manufacturing and processing (very high involvement)
+Provided Services: Circular economy (high involvement), Finance (high involvement), Innovation management (high involvement), Knowledge transfer (very high involvement), Technological innovation (high involvement), Technology transfer (high involvement)
+Technological Focus: Additive manufacturing (high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Gamification (high involvement), Internet of Things (high involvement)
+Tags: Country:Germany; Sector:Consumer products; Sector:Education; Sector:Financial; Sector:Manufacturing and processing; Service:Circular economy; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Technological innovation; Service:Technology transfer; Technology:Additive manufacturing; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Gamification; Technology:Internet of Things
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Bau
+Title: Mittelstand-Digital Zentrum Bau
+Country: Germany
+Description: With the Mittelstand-Digital Zentrum Bau, small and medium-sized companies in the construction and real estate industry have a strong partner who supports them on their way to the digital and sustainable future. We impart digital skills, promote the implementation of practical solutions and network those involved in the process. Our provider-neutral and free offers cover the entire construction value chain by combining digitalization and sustainability: from project development to dismantling. As a "Mittalestand Digital Zentrum", we are part of the national network of medium-sized digital centers with the aim of supporting small and medium-sized companies in their digital transformation.
+Contact Person(s): Thomas Kirmayr
+Phone: +498024643250 
+Email: thomas.kirmayr@ibp.fraunhofer.de
+Location: Fraunhoferstraße 10, 83626 Valley, Germany
+Type: DIH
+Website: https://www.digitalzentrumbau.de/
+Active Sectors: Energy (moderate involvement), Environment (high involvement), Real estate (very high involvement), Smart City (very high involvement), Legal Aspects (high involvement), Regulation (moderate involvement)
+Provided Services: Circular economy (very high involvement), Ecosystem building (high involvement), Finance (moderate involvement), Innovation management (high involvement), Knowledge transfer (very high involvement), Smart Specialisation strategies (high involvement), Sme Business Development (high involvement), Technological innovation (high involvement), Technology transfer (high involvement), Vocational training (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Digital twins (very high involvement), Internet of Things (high involvement), Internet Services & Applications (high involvement), New technologies for Audio-Visual sector - Media (high involvement), Virtual Reality (very high involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (very high involvement), Software Architectures (high involvement)
+Tags: Country:Germany; Sector:Energy; Sector:Environment; Sector:Real estate; Sector:Smart City; Sector:Legal Aspects; Sector:Regulation; Service:Circular economy; Service:Ecosystem building; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Digital twins; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:New technologies for Audio-Visual sector - Media; Technology:Virtual Reality; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Software Architectures
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Berlin
+Title: Mittelstand-Digital Zentrum Berlin
+Country: Germany
+Description: langfristig wirtschaftlicher, resilienter, agiler und wettbewerbsfähiger zu machen. Das Zentrum bietet hierfür eine Vielzahl von Unterstützungsmaßnahmen, darunter Workshops, Webinare, Veranstaltungen und Online-Content, um KMU bei ihrer digitalen Transformation zu begleiten. Erlebnisstationen und Erlebnisräume werden entwickelt, in denen Mittelständler die Möglichkeiten der Digitalisierung vor Ort erleben und begreifen können. So ermöglicht der Showroom am AI Campus in Berlin es Unternehmen, digitale Lösungen live zu erleben. Hier können sie beispielsweise erfahren, wie man mit einer VR-Brille ein virtuelles Büro einrichtet, welche Chancen Augmented Reality im Online-Handel bietet und welche aktuellen KI-Anwendungen für Unternehmen verfügbar sind. Als Ergänzung dazu wurde im Februar der KI-EscapeRoom in Werder (Havel) eröffnet, ein spielerisches Angebot, das die Möglichkeiten von Künstlicher Intelligenz im unternehmerischen Alltag vermittelt. Darüber hinaus unterstützen qualifizierte KI-Trainer:innen der Zentren Unternehmer:innen dabei, die Potenziale und Grenzen von Künstlicher Intelligenz zu erkennen und die richtigen Technologien für ihre spezifischen Anwendungsfälle auszuwählen. Das Mittelstand-Digital Zentrum Berlin gehört zum Mittelstand-Digital Netzwerk. Das Mittelstand-Digital Netzwerk bietet mit den Mittelstand-Digital Zentren und der Initiative IT-Sicherheit in der Wirtschaft umfassende Unterstützung bei der Digitalisierung. Kleine und mittlere Unternehmen profitieren von konkreten Praxisbeispielen und passgenauen, anbieterneutralen Angeboten zur Qualifikation und IT-Sicherheit. Das Bundesministerium für Wirtschaft und Klimaschutz ermöglicht die kostenfreie Nutzung der Angebote von Mittelstand-Digital. Keywords: cross-industry
+Contact Person(s): Alexander Krug
+Phone: +49 30 533206 – 570
+Email: alexander.krug@bvmw.de
+Location: Ai campus berlin, max-urich-straße 3, 13355 Berlin, Germany
+Type: DIH
+Website: http://www.digitalzentrum-berlin.de
+Provided Services: Innovation management (high involvement), Knowledge transfer (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Cybersecurity (high involvement), Gamification (moderate involvement), Internet Services & Applications (moderate involvement), Virtual Reality (high involvement)
+Tags: Country:Germany; Service:Innovation management; Service:Knowledge transfer; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cybersecurity; Technology:Gamification; Technology:Internet Services & Applications; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Chemnitz
+Title: Mittelstand-Digital Zentrum Chemnitz
+Country: Germany
+Description: The Mittelstand-Digital Center Chemnitz is a contact point for small and medium-sized companies from all over Saxony that are interested in the topics of digitalization and artificial intelligence. The aim is to introduce companies to forward-looking topics, strengthen their digital expertise and support the development of new strategies. The center therefore focuses on digital business models and technological solutions, including the application of artificial intelligence. The focus is also on topics such as IT security, law and sustainability. The Mittelstand-Digital Center Chemnitz offers a wide range of free and provider-neutral services. These include workshops, seminars, guidelines and project support. All offers are aimed at both beginners and experienced entrepreneurs. Demonstrators are used in test and training environments to try out individual digitalization solutions. These illustrate how digital solutions can be implemented in practice. The center works closely with a network of partners. This cooperation enables comprehensive support for companies in the field of digitalization and artificial intelligence.
+Contact Person(s): Luise Weißflog
+Phone: +49 (371) 531 36301
+Email: luise.weissflog@digitalzentrum-chemnitz.de
+Location: Erfenschlager straße 73, 91250 Chemnitz, Germany
+Type: DIH
+Website: https://digitalzentrum-chemnitz.de/
+Active Sectors: Automotive (very high involvement), Construction & Assembly (high involvement), Energy (high involvement), fuels and petroleum engineering (high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), wholesale or distribution (high involvement), Security (high involvement), Legal Aspects (very high involvement)
+Provided Services: Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Cyber-physical systems (very high involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), Human computer interaction (very high involvement), Internet of Things (very high involvement), Virtual Reality (very high involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (high involvement)
+Tags: Country:Germany; Sector:Automotive; Sector:Construction & Assembly; Sector:Energy; Sector:fuels and petroleum engineering; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:wholesale or distribution; Sector:Security; Sector:Legal Aspects; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Human computer interaction; Technology:Internet of Things; Technology:Virtual Reality; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Darmstadt
+Title: Mittelstand-Digital Zentrum Darmstadt
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Darmstadt supports small and medium-sized enterprises (SMEs) in their efforts to digizite their business with hands-on-oriented services. All services provided are fully funded by the Federal Ministry for Economic Affairs and Climate Action and create no additionals costs for the recipient. The service includes initial help and orientation for SMEs as well as the support of specific projects. We are also happy to visit companies and partners on site for events and technical consulting. With our online seminars, we offer easily accessible and flexible entry-level formats. We support SMEs that are operating in the manufaturing sector with six key fields of expertise: 1. digital manufaturing 2. product and service development 3. digital work 4. cybersecurity 5. climate-neutral manufacturing 6. artificial intelligence A total of seven partners are pooling their expertise in the Mittelstand-Digital Zentrum Darmstadt: The Institute PTW at TU Darmstadt, the Institutes IAD and PtU and PLCM, the Fraunhofer LBF, the Fraunhofer IGD in Darmstadt and the Chamber of Industry and Commerce in Darmstadt. The Mittelstand-Digital Zentrum Darmstadt is one of 29 centers nationwide in the Mittelstand-Digital network. With Mittelstand-Digital, the Federal Ministry for Economic Affairs and Energy supports digitalization in small and medium-sized enterprises. By working together in the network, we can offer cross-center support and always put SMEs in touch with the right partner if required.
+Contact Person(s): Nik Weisbrod
+Phone: +49 6151 8229-757
+Email: n.weisbrod@ptw.tu-darmstadt.de
+Location: Rheinstraße 89, 64295 Darmstadt, Germany
+Type: DIH
+Website: https://digitalzentrum-darmstadt.de/
+Active Sectors: Construction & Assembly (high involvement), Education (very high involvement), Energy (very high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Smart City (very high involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (moderate involvement), Innovation management (moderate involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Public sector innovation (high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Cloud Services (very high involvement), Cyber-physical systems (very high involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), Human computer interaction (very high involvement), Internet of Things (very high involvement), Laser-based manufacturing and materials processing (very high involvement), Virtual Reality (very high involvement), Robotics (high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very high involvement)
+Tags: Country:Germany; Sector:Construction & Assembly; Sector:Education; Sector:Energy; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:Smart City; Service:Circular economy; Service:Ecosystem building; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Sme Business Development; Service:SME support; Service:Technology transfer; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cloud Services; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Human computer interaction; Technology:Internet of Things; Technology:Laser-based manufacturing and materials processing; Technology:Virtual Reality; Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Hamburg
+Title: Mittelstand-Digital Zentrum Hamburg
+Country: Germany
+Description: The “Mittelstand-Digital Zentrum Hamburg” is a centre of excellence which aims to drive forward the digital transformation of small and medium-sized enterprises within the region of Hamburg, Germany. The “Mittelstand-Digital Zentrum” is part of the initiative “Mittelstand-Digital“ by the German Federal Ministry for Economic Affairs and Energy (www.mittelstand-digital.de). The Mittelstand-Digital centres of excellence, which are located all across Germany, show how digitalisation, innovative networking solutions and Industrie 4.0 applications are used in the daily business practice.
+Keywords:
+All sectors.
+Contact Person(s): Schüßler Jörn
+Phone: +49 40 36138-508
+Email: joern.schuessler@hk24.de
+Location: Adolphsplatz 1, 20457  Hamburg, Germany
+Type: DIH
+Website: https://digitalzentrum-hamburg.de/
+Tags: Country:Germany
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Handel
+Title: Mittelstand-Digital Zentrum Handel
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Handel is the sector-specific contact point for small and medium-sized retail and wholesale companies in Germany. It supports SMEs in making their business models sustainably future-proof with the help of digital applications and technologies. Funded by the Initiative Mittelstand-Digital of the Federal Ministry of Economics and Climate Protection, the centre is made up of the German Retail Association (HDE), ibi research, EHI Retail Institute, IFH Cologne and the German Research Centre for Artificial Intelligence (DFKI).
+Contact Person(s): Marilyn Repp
+Phone: 030 72 62 51-56
+Email: repp@hde.de
+Location: Spichernstraße 55, 50672 Köln, Germany
+Type: DIH
+Website: https://digitalzentrumhandel.de/
+Active Sectors: wholesale or distribution (high involvement)
+Provided Services: Circular economy (low involvement), Finance (low involvement), Knowledge transfer (very high involvement), SME support (very high involvement), Technological innovation (high involvement)
+Technological Focus: Blockchain and Distributed Ledger Technology (DLT) (low involvement), Cybersecurity (moderate involvement), Digital twins (moderate involvement), Gamification (moderate involvement), Logistics (moderate involvement), Virtual Reality (low involvement), Robotics (moderate involvement)
+Tags: Country:Germany; Sector:wholesale or distribution; Service:Circular economy; Service:Finance; Service:Knowledge transfer; Service:SME support; Service:Technological innovation; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cybersecurity; Technology:Digital twins; Technology:Gamification; Technology:Logistics; Technology:Virtual Reality; Technology:Robotics
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Handwerk
+Title: Mittelstand-Digital Zentrum Handwerk
+Country: Germany
+Description: The “Mittelstand-Digital Zentrum Handwerk” has been supporting craft businesses and craft organizations since 2016 in taking advantage of the opportunities offered by digital technologies, processes and business models – free of charge, provider-neutral and throughout Germany. Keywords: Digitalization in crafts
+Contact Person(s): Stephan Blank
+Phone: 030 20619-0
+Email: info@handwerkdigital.de
+Location: Zentralverband des deutschen handwerks e.v. (zdh), mohrenstraße 20/21, 10117 Berlin, Germany
+Type: DIH
+Website: https://www.handwerkdigital.de/
+Provided Services: Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (low involvement), Artificial Intelligence & Decision support (low involvement), Communication network (high involvement), Cybersecurity (low involvement), Digital twins (low involvement), Internet of Things (low involvement), Virtual Reality (low involvement), Robotics (low involvement)
+Tags: Country:Germany; Service:Technology transfer; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Communication network; Technology:Cybersecurity; Technology:Digital twins; Technology:Internet of Things; Technology:Virtual Reality; Technology:Robotics
+------------------------------------------------------------
+EDIH Name: Mittelstand-Digital Zentrum Lingen.Münster.Osnarbrück
+Title: Mittelstand-Digital Zentrum Lingen.Münster.Osnarbrück
+Country: Germany
+Description: Our mission: to digitize the SME sector! Because we believe that the digital transformation brings new opportunities - and we want to make these available to everyone! The digital transformation is changing the world of work in many ways. New business models and competitive structures are emerging. Innovative technologies and the use of data are creating additional opportunities. Digitalization should simplify and optimize processes, relieve employees, enable flexibility and make your company fit for the future in the long term. The Mittelstand-Digital Zentrum Lingen.Münster.Osnabrück therefore accompanies small and medium-sized enterprises (SMEs) on their path to digital transformation and supports them in the design and implementation of sustainable business models.
+Contact Person(s): Michael Schnaider
+Phone: 05918076981
+Email: schnaider@it-emsland.de
+Location: Kaiserstraße 10b, 49809 Lingen, Germany
+Type: DIH
+Website: https://digitalzentrum-lmo.de/
+Active Sectors: Community-Led Local Development (very high involvement), Education (very high involvement)
+Provided Services: Innovation management (moderate involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Regional development (very high involvement), SME support (very high involvement), Technology transfer (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Cloud Services (high involvement), Cybersecurity (high involvement), Gamification (high involvement), Human computer interaction (moderate involvement), Internet of Things (high involvement), Virtual Reality (high involvement)
+Tags: Country:Germany; Sector:Community-Led Local Development; Sector:Education; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Regional development; Service:SME support; Service:Technology transfer; Technology:Artificial Intelligence & Decision support; Technology:Cloud Services; Technology:Cybersecurity; Technology:Gamification; Technology:Human computer interaction; Technology:Internet of Things; Technology:Virtual Reality
+------------------------------------------------------------

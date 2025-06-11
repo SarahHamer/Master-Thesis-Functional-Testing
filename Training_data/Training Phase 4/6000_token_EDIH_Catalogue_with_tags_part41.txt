@@ -1,0 +1,191 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: JSI
+Title: Jožef Stefan Institute
+Country: Slovenia
+Description: Jožef Stefan Institute (JSI) is the Digital Innovation Hub (DIH). As the central part of development, digitization and industrial relations at national and international level, the hub is establishing a system of collaboration between the IJS research departments, the domestic and foreign economy, and the partner networks within the Europe Enterprise Europe Network. The hub provides “one-stop shops” and cross-border technology transfer services in the EU and serves as a contact point for the local ecosystem in Slovenia. Jožef Stefan Institute DIH is an EDIH DIGI-SI that fosters the digital transformation of Small and Medium-sized Enterprises (SMEs), start-ups, scale-ups and Public Administration in four strategic priority areas identified in the forthcoming Slovenian smart specialisation strategy: Agri-food, Health, Tourism and Manufacturing. DIGI-SI has access to crucial infrastructure and highly skilled personnel central to foster the digital revolution in both NUTS2 regions of Slovenia and in Europe. The consortium consisting of seven partners with proven complementary expertise in digital transformation support, will take advantage of the existing resources and provide a single point of contact in all four priority areas of Digital Europe Programme: Artificial Intelligence, High Performance Computing, Cyber Security and Advanced Digital Skills. DIGI-SI also offers technology services within Robotics, Internet of Things, Big data, Blockchain and Augmented / Virtual reality. DIGI-SI delivers 70 services on entry, basic, and advanced levels and offer collaboration opportunities to Slovenian ICT players to become external digital technology/service providers providing complementary services to local and EU companies through the DIGI-SI online shop enabling matchmaking in demand and supply of digital resources.
+Contact Person(s): Tomaž Justin
+Phone: +386 1 477 3243
+Email: tomaz.justin@ijs.si
+Location: Jamova ulica 39, 1000 Ljubljana, Slovenia
+Type: DIH
+Website: http://tehnologije.ijs.si/en/?page_id=5080
+Active Sectors: Aeronautics (moderate involvement), Agricultural biotechnology and food biotechnology (moderate involvement), Automotive (high involvement), Defence (moderate involvement), Electricity (moderate involvement), Energy (high involvement), fuels and petroleum engineering (moderate involvement), Environment (very high involvement), Health care (very high involvement), Life sciences (very high involvement), Manufacturing and processing (very high involvement), Telecommunications (moderate involvement), Nuclear (very high involvement), Security (moderate involvement), Smart City (very high involvement)
+Provided Services: Circular economy (moderate involvement), Innovation management (high involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Smart Specialisation strategies (high involvement), Sme Business Development (moderate involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (moderate involvement), Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), BI tools (high involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Cloud Services (moderate involvement), Cyber-physical systems (moderate involvement), Cybersecurity (very high involvement), Digital twins (high involvement), High performance computing (high involvement), Human computer interaction (moderate involvement), Industrial biotechnology (very high involvement), Internet of Things (moderate involvement), Laser-based manufacturing and materials processing (moderate involvement), optoelectronics (moderate involvement), Virtual Reality (moderate involvement), Organic and large area electronics (moderate involvement), Photonics (very high involvement), Quantum Technologies (computing/communication) (very high involvement), Robotics (very high involvement), Semiconductors and Nanotechnology (high involvement), Sensors & Vision Processing Systems (moderate involvement), Simulation engineering and modelling (moderate involvement), Software Architectures (moderate involvement)
+Tags: Country:Slovenia; Sector:Aeronautics; Sector:Agricultural biotechnology and food biotechnology; Sector:Automotive; Sector:Defence; Sector:Electricity; Sector:Energy; Sector:fuels and petroleum engineering; Sector:Environment; Sector:Health care; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Telecommunications; Sector:Nuclear; Sector:Security; Sector:Smart City; Service:Circular economy; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:BI tools; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:High performance computing; Technology:Human computer interaction; Technology:Industrial biotechnology; Technology:Internet of Things; Technology:Laser-based manufacturing and materials processing; Technology:optoelectronics; Technology:Virtual Reality; Technology:Organic and large area electronics; Technology:Photonics; Technology:Quantum Technologies (computing/communication); Technology:Robotics; Technology:Semiconductors and Nanotechnology; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Software Architectures
+------------------------------------------------------------
+EDIH Name: Ketenstandaard Bouw en Techniek
+Title: Ketenstandaard Bouw en Techniek
+Country: Netherlands
+Description: Ketenstandaard isa non-profit organization. The industry associations support and create this non-profit operation. We are independent as a non-profict organisation. Itcreates trust in the market. The standards are open.The governance of the organization consists entirely out of market participants who determine the direction and policies of the Ketenstandard.
+Ketenstandaard Bouw en Techniek has the ambition to improve the effectiveness and productivity of the entire construction and technology sector through digitalisation and standardisation. This is in line with the ambitions of the ‘Bouwagenda’, which emphasises the need for collaboration trough trust, next to expedited digitalisation and information within the sector. Ketenstandaard aims to stimulate in a most practical manner, a flawless and speedy data-exchange in every phase of the construction process, through one electronic language. This language is encoded in open, independent information standards, meant to meet the standards of the BIM-developments legislation, and thus constitute a strong foundation for the different standards.
+The DICO Standard is supporting the local SMEs with their digital transformation. Smaller companies can freely use the DICO EDI Standard. This way we help the whole Dutch construction industry to "think" IT. And also with the ETIM Standard we help small installers and contractors to control product data. This way they can find products better and order them faster.Please make sure that the website targets the DIH and includes the services provided.
+More activity supporting members (SME's):
+- Helpdesk / support
+- Implementation manuals
+- Meetings to inform parties
+- Conferences
+- Management environment available
+- Validation tooling is available
+- Complete package of examples
+- Technical schemas are managed for all standards
+- Multiple standards for use
+Contact Person(s): D'Hooghe Luuk
+Phone: +31 88 1500 800
+Email: l.dhooghe@ketenstandaard.nl
+Location: Horaplantsoen 16, Ede, Netherlands
+Type: DIH
+Website: https://ketenstandaard.nl/
+Tags: Country:Netherlands
+------------------------------------------------------------
+EDIH Name: Krakow Technology Park
+Title: Krakow Technology Park
+Country: Poland
+Description: Krakow Technology Park (KTP) is a responsible for managing the technology park and special economic zone. Its mission is to support innovative technology oriented businesses at all stages of development from start-ups to SMEs and large enterprises offering them a variety of services. Companies may benefit from office space, advisory services and trainings in business management, product and service development, new technology trends, IPR etc. Having access to know-how on living lab methodology and also knowing the problems, challenges and constraints that start-ups face during the product and/or service development phase, KTP created a new service to support companies - Krakow Living Lab. Krakow Living Lab is a platform for testing products/ services in the conditions in which they are actually used, that is within the city tissue composed of streets, squares, parks, municipal transport, etc.
+Krakow Technology Park is one of the key actors in co-creating and implementing the Regional Innovation Strategy and promoting smart specialization and user-driven innovation approaches in the region. It was established in 1997 as the joint initiative of city authorities, Malopolska regional authorities and Krakow’s three largest universities: Krakow University of Technology, AGH University of Science and Technology and the Jagiellonian University.
+KTP is member of: International Association of Science Parks and Areas of Innovation, European Business and Innovation Centres Network, European Network of Living Labs, Business and Innovation Centers Association in Poland, The Cracow Chamber of Commerce and Industry, 3 regional clusters: Digital Entertainment, The Krakow Film, MakeIT.
+Contact Person(s): Przybylski Wojciech
+Phone: 48126401940
+Email: biuro@kpt.krakow.pl
+Location: Podole 60, Kraków, Poland
+Type: DIH
+Website: http://www.kpt.krakow.pl/en/
+Tags: Country:Poland
+------------------------------------------------------------
+EDIH Name: La Lonja Tech
+Title: La Lonja Tech
+Country: Spain
+Description: La Lonja is an initiatie of the Port Authority of Huelva and Telefonica. La Lonja is an innovation center to promote the socio-economic development of the port sector by working toghether with companies, institutions and entreoreneurs.
+Our programmes:
+Startup acceleration Programme with an annual call.
+FIWARE Tech Programme aailable all year round to integrate and develop solutions based on FIWARE technnology.
+ 
+ 
+Our Services:
+Access to free workspace.
+Technnical support and specialized FIWARE training.
+Personalized mentoring by specialists from different business areas.
+Mdia support and promotion.
+Contacts, access to investors and financing tools.
+Innovation challenges and chances to pilot your solution at the Port facilities.
+Telefonica´s Perks on cutting-edge market tools.
+Opportunities for close contact with companies in the Open Future ecosystem.
+Keynote speeches, whether you prefer to participate or just attend.
+Contact Person(s): Pereira Rocío Diaz
+Phone: 34669775532
+Email: rocio.diaz.pereira@lalonja.tech
+Location: Puente muelle de levante, 1 21001 huelva, 21001 Huelva Huelva, Spain
+Type: DIH
+Website: https://lalonja.tech/
+Tags: Country:Spain
+------------------------------------------------------------
+EDIH Name: La Salle Technova Barcelona
+Title: La Salle Technova Barcelona
+Country: Spain
+Description: La Salle Technova Barcelona Highlights
+La Salle Technova Innovation Park (Technova Barcelona) is the innovation park at La Salle–URL,
+(www.technovabarcelona.org). Its mission is to provide a high-quality environment for the
+development of new technology-based companies and foster technological innovation in SMEs in
+the Catalan region. It offers an end-to-end service to new and existent organizations interested in
+growing through technological innovation.
+Technova connects the R&D capabilities of La Salle–URL with the demands and needs of
+organizations in Catalonia. Technova Barcelona coordinates a network of business angels’
+investors to provide additional funding sources to the start-ups of the park.
+Technova Barcelona incubates over 25 startups that are developing new products and services,
+most of them with a strong technological innovation component. Over 50 established companies
+in the region use Technova Barcelona innovation and acceleration services in a regular basis.
+Technova offers entrepreneurship advice, mentoring programs, innovation consulting, technology
+valuation, innovation matchmaking, and technology valuation and transfer to their network of
+associated companies and external clients. Furthermore, its extended network includes other
+innovation and science parks, start-ups accelerators, a network of individual and corporate
+investors, and institutional stakeholders in the promotion of the innovation ecosystem of the
+region.
+Technova Barcelona is member of the IASP (International Association of Science Parks). Within
+this network of more than 400 Science and Technology Parks, Technova Barcelona provides a
+challenge call service for innovator companies of Catalonia. Technova calls can reach more than
+5000 technological start-ups that can forward solutions to address the challenge. This service
+allows Catalan companies to propose cutting-edge technological challenges that can be
+transformed to a call to IASP members.
+La Salle Technova Barcelona History
+La Salle Technova Innovation Park was born in 2001 for developing the third function of the
+university, taking advantage of the Education (Talent) and the Research (Technology) of La Salle
+Campus Barcelona. In 2016, Technova won the Award as one of the Top 10 Accelerators in
+Europe. In 2017, Technova received the Award of the best Business Angel Network by the
+Spanish Association of Business Networks (AEBAN). Nowadays host the Presidency of the
+International Association of Science Parks and Areas of Innovation (400 Parks in 80 countries).
+Contact Person(s): Pique Josep Miquel
+Phone: (+34)636467150
+Email: jmpique@TechnovaBarcelona.org
+Location: Sant joan de la salle, 42, Barcelona, Spain
+Type: DIH
+Website: https://technovabarcelona.org/
+Tags: Country:Spain
+------------------------------------------------------------
+EDIH Name: Laboratory for Advanced Mechatronics - LAMA FVG
+Title: Laboratory for Advanced Mechatronics - LAMA FVG
+Country: Italy
+Description: The Laboratory for Advanced Mechatronics - LAMA FVG - is an international excellence center for industrial product and process innovation, aimed at biomedical, automotive, mechanical and energy sectors.
+We develop, innovate, produce mechanical components and fixtures, advanced mechatronics systems using the most recent technologies of virtual engineering, 3D printing, collaborative robotics and digital factory tools by following Industry 4.0 principles.
+Contact Person(s): Sortino Marco
+Phone: +39 3204366011
+Email: sortino@uniud.it
+Location: Via sondrio 2, Udine, Italy
+Type: DIH
+Website: http://www.lamafvg.it
+Tags: Country:Italy
+------------------------------------------------------------
+EDIH Name: Laser Digital Innovation Hub (LaserLT DIH)
+Title: Laser Digital Innovation Hub (LaserLT DIH)
+Country: Lithuania
+Description: LaserLT DIH – the technology-based non-for-profit hub established a few years ago as the continuation of FP7 APPOLO project. The HUB integrates the whole concept value chain from identifying problems in existing manufacturing processes and new opportunities, offering potential technology solutions and innovations, testing technologies in industrial-grade laboratories, transferring novel research knowledge to manufacturing directly with a search of funding sources and broad-spectrum services for incubation of new technologies. LaserLT DIH is a single one-stop-shop providing access to the latest photonics related knowledge, experience and technologies to improve businesses by digitalising manufacturing processes, products and services.
+The vision of Laser LT DIH is to become the strongest DIH on lasers, photonics and advanced manufacturing in Northern-East part of Europe through the development of three main pillars:
+1. Competence in laser technologies (Department of Laser Technologies of FTMC);
+2. Business support and access to finance (Science and Technology Park);
+3. Access to industry (Laser and Engineering Technologies Cluster - LITEK).
+Through cooperation in RTD to develop, validate and provide for manufacturing SMEs the world-class laser and engineering technologies. Services provided by DIH will be research, development, designing, prototyping, validation of technologies and equipment, test-batch production, the attraction of funds, market research, incubation and commercialisation. Pilot lines combining laser technologies with complementary ones are under construction to speed up the technology transfer to SMEs. Tight connections with similar DIHs on laser-based manufacturing and advanced manufacturing is established. APPOLO HUB is an initial point, and new H2020 project on Laser DIH is ready to start. The regional network of DIHs for local industry support is under discussion.
+Contact Person(s): Račiukaitis Gediminas
+Phone: +370 5 2644868; +370 687 25672
+Email: gediminas.raciukaitis@ftmc.lt
+Location: Savanorių ave. 231, 02300 Vilnius, Lithuania
+Type: DIH
+Website: http://www.laserlt-dih.lt/en/
+Tags: Country:Lithuania
+------------------------------------------------------------
+EDIH Name: L-DIH
+Title: Luxembourg Digital Innovation Hub
+Country: Luxembourg
+Description: L-DIH is the nation-wide EDIH for Luxembourg (LU). L-DIH focuses on the Manufacturing sector, including logistics. Technologically, we will focus mainly on HPC and Cybersecurity to become a EU EDIH lighthouse in the 2. As one-stop-shop for digital transformation, we will also support the digital transformation endeavours for any technologies (AI, 5G, IoT, robotics...). Our consortium consists of 5 key partners in the LU ecosystem (the national innovation agency, 1 RTO, 1 university and 2 competence centres), 3 associated partners, working closely with 2 national ministries (economy and communication). L-DIH expands on the existing mature innovation ecosystem by deploying 18 new digital transformation services. These services were carefully designed to on one hand integrate L-DIH in the LU ecosystem and leverage the existing services, and on the second hand bridge with the EU digital initiatives. With the consortium, L-DIH bridges with the HPC and Cybersecurity national competence centres to seamlessly leverage the EU efforts in both. We will work according to a structured funnel approach from Inform > Inspire > Engage declined in the 4 EDIH pillars. In stage 1, Inform, we show digitalization opportunities and benefit. In stage 2, Inspire, we work with small groups of common interest SMEs, In stage 3, Engage, we work directly with the SME in a customized digital transformation roadmap. Over 3 years, we will inform more than 250 SMEs multiple time, inspire 125 multiple times and engage at least 72 SMEs. We will self-assess our services and methodologies, along with the continuous market and ecosystem evolutions. We will draw expect to discover which best practices which will be exchanged with the EDIH network. As a member of the EDIH network, we establish a cross-border cooperation with the EDIH from the Greater Region (BE, FR, DE) and we will establish more than 15 corridors. We will bridge heavily with the DTA to become a vibrant member of the EDIH network.
+Contact Person(s): Philippe Mayer
+Phone: +352 43 62 63 ‑ 676
+Email: philippe.mayer@luxinnovation.lu
+Location: 5 avenue des hauts fourneaux, 4362 Esch sur alzette, Luxembourg
+Type: EDIH
+Website: Website
+Active Sectors: Manufacturing and processing (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (very high involvement), Finance (very high involvement), Innovation management (very high involvement), SME support (very high involvement), Vocational training (high involvement)
+Technological Focus: High performance computing (very high involvement), Cybersecurity (very high involvement), Artificial Intelligence & Decision support (very high involvement)
+Tags: Country:Luxembourg; Sector:Manufacturing and processing; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:SME support; Service:Vocational training; Technology:High performance computing; Technology:Cybersecurity; Technology:Artificial Intelligence & Decision support
+------------------------------------------------------------
+EDIH Name: LEAP EDIH
+Title: LEAP EDIH: Empowering SMEs and Public Services through Digitalization and Cross-Sector Collaboration in Western Ukraine
+Country: Ukraine
+Description: In today’s fast-changing technological landscape, digital transformation has become critical to ensuring the competitiveness and resilience of businesses and public services. The LEAP European Digital Innovation Hub (EDIH) is designed to empower small and medium-sized enterprises (SMEs) and the public sector in Western Ukraine to harness the potential of digital technologies. By leveraging expertise in cybersecurity, IoT, AI, and other cutting-edge digital solutions, the LEAP EDIH provides essential services such as testing before investing, workforce training and skills development, support for accessing investments, and networking opportunities with innovation ecosystems.
+With a strong regional presence across Lviv, Ternopil, Khmelnytskyi, Volyn, and Rivne, the LEAP EDIH capitalizes on Lviv's position as a technological hub and the most prominent IT center in Western Ukraine. Backed by the Lviv IT Cluster, Ukraine’s most prominent technology association, and its partners, the LEAP EDIH builds on over a decade of experience supporting digital transformation, fostering public-private collaboration, and enhancing regional competitiveness.
+The LEAP EDIH aims to strengthen regional industries, including the creative economy, bioeconomy, healthcare, tourism, and manufacturing, by facilitating the adoption of innovative digital tools. The LEAP EDIH seeks to enhance the region’s digital maturity and drive sustainable economic growth through cross-sector collaboration, digital upskilling, and international partnerships. Expected outcomes include increased digital adoption, enhanced workforce readiness, and stronger connections between Ukrainian SMEs, public entities, and European digital innovation networks.
+Contact Person(s): Svitlana Skrypka
+Phone: 3.80675E+11
+Email: svitlana.skrypka@itcluster.lviv.ua
+Location: 3 Ulasa Samchuka St, Lviv, Lviv oblast, 79011, Ukraine
+Type: EDIH
+Website: https://itcluster.lviv.ua/en/
+Active Sectors: Community-Led Local Development (very high involvement), Consumer products (high involvement), Cultural and creative economy (very high involvement), Defence (high involvement), Education (very high involvement), Financial (high involvement), Food and beverages (high involvement), Health care (moderate involvement), Legal Aspects (very high involvement), Personal services (high involvement), Public administration (high involvement), wholesale or distribution (high involvement), Security (very high involvement), Smart City (high involvement), Telecommunications (very high involvement), Travel and tourism (high involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (high involvement), Finance (very high involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Public sector innovation (moderate involvement), Regional development (very high involvement), Smart Specialisation strategies (high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Vocational training (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), BI tools (moderate involvement), Cloud Services (high involvement), Communication network (moderate involvement), Cybersecurity (very high involvement), Gamification (moderate involvement), Human computer interaction (high involvement), Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Location-based applications (high involvement), New technologies for Audio-Visual sector - Media (very high involvement), Quantum Technologies (computing/communication) (very high involvement), Robotics (high involvement), Sensors & Vision Processing Systems (moderate involvement), Software Architectures (very high involvement), Virtual Reality (high involvement)
+Tags: Country:Ukraine; Sector:Community-Led Local Development; Sector:Consumer products; Sector:Cultural and creative economy; Sector:Defence; Sector:Education; Sector:Financial; Sector:Food and beverages; Sector:Health care; Sector:Legal Aspects; Sector:Personal services; Sector:Public administration; Sector:wholesale or distribution; Sector:Security; Sector:Smart City; Sector:Telecommunications; Sector:Travel and tourism; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:BI tools; Technology:Cloud Services; Technology:Communication network; Technology:Cybersecurity; Technology:Gamification; Technology:Human computer interaction; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Location-based applications; Technology:New technologies for Audio-Visual sector - Media; Technology:Quantum Technologies (computing/communication); Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------

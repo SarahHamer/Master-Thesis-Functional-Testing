@@ -1,0 +1,126 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: DIH4CAT
+Title: Catalonia Digital Innovation Hub (DIH4CAT)
+Country: Spain
+Description: DIH4CAT targets Catalan SMEs (with a special focus on manufacturing companies and technology providers), technology start-ups, and public administrations. Catalonia has a strong industrial base, with 35,339 companies (99% SMEs) which represent 18,1% of Spanish industrial enterprises. Data from 2019 shows that only 16% of those companies had adopted advanced digital technologies. Additionally, Catalonia counts more than 1,700 start-ups, (66% of Industry 4.0), facing challenges such as access to technology infrastructure, time to market and investment. In this context the Digital Innovation Hub of Catalonia (DIH4CAT) is born, as a non-profit regional innovation ecosystem formed by the main agents supporting digitisation in Catalonia and connecting the main technology infrastructure of the region to make them available for SMEs, start-ups, and public administration, with the objective of accelerating technology transformation towards a more green and digital industry. The consortium is led by the Government of Catalonia and composed of 7 technology partners (RTOs and university) leading the 7 technology areas (AI, HPC, Cybersecurity, Robotics, Photonics, 3D Printing and Connectivity), 1 business school, 2 employer’s industrial associations. It is complemented with 19 Associated Partners so far which include, among others, private companies contributing with infrastructure and know-how. DIH4CAT has a clear focus on test before invest services but complements its offer with services related to innovation, ecosystem, digital skills, access to finance and business. The Consortium has also a very well-defined collaboration strategy at an international level, developed through the presence in most relevant European networks, participation in more than 50 previous relevant projects, 5 MoUs specifically developed for this call, to develop common infrastructures/services, and seamless collaboration with EEN (Catalan node is also coordinated by ACCIÓ).
+Contact Person(s): Sandra Perez
+Phone: +34 93 484 72 83
+Email: sperezmartinez@gencat.cat
+Location: Passeig de gracia 129, 08008 Barcelona Barcelona, Spain
+Type: EDIH
+Website: https://dih4cat.cat/es/
+Technological Focus: Additive manufacturing (very high involvement), Robotics (very high involvement), Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), High performance computing (high involvement), Big data (high involvement), Internet of Things (high involvement), Photonics (moderate involvement), Virtual Reality (moderate involvement), Internet Services & Applications (moderate involvement), Digital twins (moderate involvement)
+Tags: Country:Spain; Technology:Additive manufacturing; Technology:Robotics; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:High performance computing; Technology:Big data; Technology:Internet of Things; Technology:Photonics; Technology:Virtual Reality; Technology:Internet Services & Applications; Technology:Digital twins
+------------------------------------------------------------
+EDIH Name: DIH4CN
+Title: Digital Innovation Hub for Climate Neutrality
+Country: Portugal
+Description: The DIH4ClimateNeutrality’s mission is to accelerate the transition of cities to smart, resilient and carbon neutral urban spaces, through the use of big data and digital technologies, to improve sustainability and citizens’ quality of life. The Hub aims to become a national and European reference on digital transformation at the service of climate action. The DIH will provide access to digital competences, infrastructures and services to the following target groups, answering to their digitalization needs: local governments, companies who develop smart and sustainable city solutions, namely SMEs, mid-caps and start-ups, and communities (mainly students). The DIH4CN will be centred on urban science for sustainability, using digital skills and technologies to enhance the transition towards carbon neutrality. The technological coverage of the hub are Internet-of-Things/Cyber-physical Systems, Artificial Intelligence and Data Analytics. Other relevant digital technologies, such as data confidentiality, cybersecurity and High-Performance Computing will be assessed throughout the DIH’s network of partners, for ex. Minho Advanced Computing Centre, and the European network of DIH. DIH4CN has a national scope, providing services for all the Portuguese regions, but it also acts as an access point to the European Network of Digital Innovation Hubs, helping local companies and the public sector to get support from other EIDHs, and vice-versa. In this context, networking and innovation ecosystem, test-before-invest, training and skills development, and innovation support and business development are the main services to be provided by the DIH4CN, to enhance the green and digital transformation of companies and the public sector, as well as and the introduction of low-carbon digital-based innovations in the market. In the context of the EDIH network, the Hub will collaborate with the Digital Transformation Accelerator, and EDIH sub-networks and innovation corridors.
+Contact Person(s): CATARINA VARELA A BATISTA SELADA
+Phone: 3.51916E+11
+Email: catarina.selada@ceiia.com
+Location: Av. D. Afonso Henriques, 1825, 4450-301 MATOSINHOS, Portugal
+Type: Seal of Excellence
+Website: http://www.ceiia.com
+Active Sectors: Transport & Mobility (very high involvement), Environment (very high involvement), Smart City (very high involvement), Public administration (high involvement), Education (high involvement), Community-Led Local Development (moderate involvement)
+Provided Services: Field trial (very high involvement), Prototyping (very high involvement), Public sector innovation (very high involvement), Innovation management (high involvement), Regional development (high involvement), Technology transfer (high involvement), Vocational training (moderate involvement)
+Technological Focus: Big data (very high involvement), Cyber-physical systems (very high involvement), Internet of Things (very high involvement), Artificial Intelligence & Decision support (high involvement), Digital twins (high involvement), Internet Services & Applications (high involvement), Human computer interaction (moderate involvement), Mobility (very high involvement)
+Tags: Country:Portugal; Sector:Transport & Mobility; Sector:Environment; Sector:Smart City; Sector:Public administration; Sector:Education; Sector:Community-Led Local Development; Service:Field trial; Service:Prototyping; Service:Public sector innovation; Service:Innovation management; Service:Regional development; Service:Technology transfer; Service:Vocational training; Technology:Big data; Technology:Cyber-physical systems; Technology:Internet of Things; Technology:Artificial Intelligence & Decision support; Technology:Digital twins; Technology:Internet Services & Applications; Technology:Human computer interaction; Technology:Mobility
+------------------------------------------------------------
+EDIH Name: DIH4GlobalAutomotive
+Title: DIH4GlobalAutomotive
+Country: Portugal
+Description: The DIH 4 GLOBAL AUTOMOTIVE proposes to assume as the Digital Innovation Hub of the Automotive Sector in Portugal, arising from the aggregation of a set of entities and companies, coordinated by MOBINOV, with the objective of providing support services to SME to support the (necessary) digital transformation of the value chain, both at the product and process level, positioning existing companies and start-ups in the future of mobility. Its main objective is to work at the level of the development of innovative concepts and products for the Car of the Future, supporting the SMEs in the automotive sector in the development of new components for this car and, mainly, to support the necessary changes to the production processes associated with Industry 4.0 and the concept of Factory of the Future. It also intends to act as an access point to the European network of EDIHs, helping local companies and/or public actors to get support from other EDIHs in case the needed competences fall outside their competence, ensuring that every stakeholder gets the needed support wherever it is available in Europe and provide services to SME from other countries presented by other EDIHs that need their expertise. The diagnoses made with SMEs, point to the importance that digital technologies will be used increasingly in all car systems, so DIH resources will also be able to be mobilized in a transversal way, so that services can be provided with maximum flexibility and versatility. The DIH will act as an intermediary of innovation in the automotive industry and its value chain, seeking to provide through the provision of advanced digital services and technologies aid and support to companies in their digital transformation processes, providing a set of services such as testing before investing, skills development and training, support in the search for investment funding, partnerships and networking for the innovation ecosystem.
+Contact Person(s): Rui Oliveira
+Phone: 3.51911E+11
+Email: rui.oliveira@mobinov.pt
+Location: Av. D. Afonso Henriques 1825, 4450-017 Matosinhos, Portugal
+Type: Seal of Excellence
+Website: http://www.dih4globalautomotive.com
+Active Sectors: Automotive (very high involvement), Manufacturing and processing (moderate involvement), Smart City (high involvement), Transport & Mobility (very high involvement)
+Provided Services: SME support (very high involvement), Prototyping (low involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement), Additive manufacturing (moderate involvement), Digital twins (moderate involvement), Internet of Things (moderate involvement), Mobility (high involvement), Robotics (high involvement), Virtual Reality (moderate involvement)
+Tags: Country:Portugal; Sector:Automotive; Sector:Manufacturing and processing; Sector:Smart City; Sector:Transport & Mobility; Service:SME support; Service:Prototyping; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:High performance computing; Technology:Additive manufacturing; Technology:Digital twins; Technology:Internet of Things; Technology:Mobility; Technology:Robotics; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: DIH4Society
+Title: Digital Innovation Hub for a Smarter, Safer and more Sustainable Society (DIH4Society)
+Country: Romania
+Description: News: 
+ launched the call for selecting the SMEs who will benefit from the services. Details & info are available: https://dih4society.ro/apel-imm/
+Accelerating digital green transformation and innovation uptake across the economy and society is at the forefront of Europe’s growth agenda. Digital Innovation Hubs (DIHs) are one of the pillars to uphold this process and will help to consider the geographical (regional) dimension and thematic context to boost SME growth, citizen centered governance, jobs and investment. The COVID19 crisis has demonstrated the absolute necessity of having strong European digital ecosystems as key enablers to avoid disruption in value-chains. However, digitalization and digital transformation can only be efficient if digital ecosystems are strongly interlinked with their applied market sectors. Due to inertia and/or legacy, the manufacturing, public administration and health sectors are among the most challenging ones. The project Digital Innovation Hub for Society for a Smarter, Safer and more Sustainable Society comes to upscale the services that DIH4Society can deliver in the North-West Region of Romania and aims at fully integrating our initiative into the European network of hubs. The project focuses on two technological pillars, cybersecurity and smart robotics, while also building advanced digital competencies for digitalization and green digital transformation. Upon finalization, the project will have a profound, transformative impact on a regional level through the digital progression of 70 key stakeholders, public administration and health providers, and more than 400 SMEs from smart specialization sectors. DIH4Society will provide a European solution to a European challenge and will bring or embed digitalization in the practices of many organizations. In the long run the project will inspire a new generation of early adopters of technologies, new entrepreneurial initiatives of visionary companies and organizations that use cutting edge technologies at the core of their business models and will build the foundation for a citizen centered public service delivery.
+Contact Person(s): Andrei KELEMEN
+Phone: 40722332796
+Email: andrei.kelemen@clujit.ro
+Location: Str. Dorobantilor 57A, First Floor, 400609 Cluj-Napoca, Romania
+Type: EDIH
+Website: https://dih4society.ro/
+Active Sectors: Manufacturing and processing (very high involvement), Public administration (very high involvement), Health care (very high involvement), Smart City (high involvement), Community-Led Local Development (moderate involvement), Education (moderate involvement), Energy (moderate involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (very high involvement), Finance (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Public sector innovation (very high involvement), Regional development (moderate involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (very high involvement), Vocational training (low involvement)
+Technological Focus: Cybersecurity (very high involvement), Robotics (high involvement), Artificial Intelligence & Decision support (moderate involvement)
+Tags: Country:Romania; Sector:Manufacturing and processing; Sector:Public administration; Sector:Health care; Sector:Smart City; Sector:Community-Led Local Development; Sector:Education; Sector:Energy; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Cybersecurity; Technology:Robotics; Technology:Artificial Intelligence & Decision support
+------------------------------------------------------------
+EDIH Name: DIHBAI-TUR
+Title: Digital Innovation Hub of the Balearic Islands in Artificial Intelligence in Tourism and the Agrifood sectors
+Country: Spain
+Description: Being islands, the region of the Balearic Islands faces important challenges when it comes to digitalisation. DIHBAI-TUR was born with the objective of being an umbrella for all actors representing the Balearic Islandsâ€™ digital and innovation ecosystem, and therefore it is the only DIH in the region. DIHBAI-TUR will use tourism, as the main industry, to leverage other industrial sectors, with a special focus on Agrifood, in their digital transformation process while becoming a reference model in Artificial Intelligence applied to tourism. Addressed mainly to SMEs, DIHBAI-TUR offers a sound catalogue of services that combines training, networking, test before invest and access to funding actions. DIHBAI-TUR has already promoted the creation of a specific network of DIHs for islands (iSLANDIHS). It is part of the most important DIH networks, and it is working to create a DIH network specialising in tourism. All these networks, the contacts made, and our experience will contribute to the EDIH. As a very active DIH, DIHBAI-TUR will contribute and participate in the activities foreseen by the DTA, reinforcing the role of Europe as a worldwide leader in tourism thanks to digitalisation and therefore help to accelerate tourismâ€™s recovery. Train for trainers activities will be an important tool to transfer knowledge to the territory of the Balearic Islands through a sound ecosystem that will be managed under the umbrella of DIHBAI-TUR. DIHBAI-TUR presents a solid workplan based on five interrelated Work packages aimed to offer dedicated and focused services to SMEs and public bodies with the final objective of increasing the number of companies our DIH provides services to, improving their digital maturity and, therefore, their competitiveness and productivity, as well as offering services that go from the most basic digital requirements to the most advances ones, combining the knowledge and expertise of all the entities that are part of the DIHBAI-TUR Consortium.
+Contact Person(s): Miquel Lluís Mestre
+Phone: 34971710188
+Email: mmestre@cambramallorca.com
+Location: Estudio general, 7, 07001 Palma Balears, Spain
+Type: Seal of Excellence
+Website: https://dihbai-tur.com
+Active Sectors: Travel and tourism (very high involvement), Agricultural biotechnology and food biotechnology (high involvement), Cultural and creative economy (moderate involvement)
+Provided Services: Ecosystem building (very high involvement), Circular economy (high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Regional development (very high involvement), Public sector innovation (very high involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), Technological innovation (very high involvement), SME support (very high involvement), Technology transfer (high involvement), Vocational training (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Cloud Services (moderate involvement), Communication network (moderate involvement), Cyber-physical systems (moderate involvement), Cybersecurity (high involvement), Digital twins (moderate involvement), Internet of Things (high involvement), Internet Services & Applications (very high involvement), Mobility (moderate involvement), Sensors & Vision Processing Systems (high involvement), Software Architectures (high involvement)
+Tags: Country:Spain; Sector:Travel and tourism; Sector:Agricultural biotechnology and food biotechnology; Sector:Cultural and creative economy; Service:Ecosystem building; Service:Circular economy; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Regional development; Service:Public sector innovation; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:Technological innovation; Service:SME support; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cloud Services; Technology:Communication network; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Mobility; Technology:Sensors & Vision Processing Systems; Technology:Software Architectures
+------------------------------------------------------------
+EDIH Name: DIH-BAITUR: Digital Innovation Hub of the Balearic Islands for Artificial Intelligence and Tourism
+Title: DIH-BAITUR: Digital Innovation Hub of the Balearic Islands for Artificial Intelligence and Tourism
+Country: Spain
+Description: (DIH-BAITUR) is a non-profit initiative in line with the Smart Specialisation Strategy of the Balearic Islands (RIS3), which is focused on tourism and promotes other strategic sectors, such as agriculture.
+Tourism is one of the fastest-growing and most dynamic industries in the world. At the same time, it is also an “anchor” industry for all others in the region.
+The Balearic Islands are one of the most important and well-known tourist destinations in the world. The competitiveness of the tourism industry is directly related to the islands’ capacity to innovate and adapt to today’s new technological changes.
+Disruptive technologies have a direct impact on tourism, and this impact is much stronger than in any other sector: cloud computing, IoT, BigData, 5G... So, this industry needs a digital and innovative ecosystem that will help to support the emergence of new data and the digital economy.
+At the same time, tourism is a sector that is directly linked to all other industries in the region, especially agriculture. So, DIH-BAITUR brings all these sectors and industries together “under one roof,” therefore increasing the region’s level of competitiveness.
+DIH-BAITUR aims to support and boost the digital transformation of companies, especially those in the tourism and agricultural sectors. This will help them to successfully face today’s global challenges, especially those related to the new data economy, and help them to become more competitive.
+DIH-BAITUR is co-run by different non-profit and public entities: the cluster of technologies applied to tourism – TURISTEC, leading the creation of DIH-BAITUR together with the University of the Balearic Islands (UIB), Mallorca Chamber of Commerce, the Agricultural Cooperatives on the islands and the Regional Government of the Balearic Islands. New members to join in the short-medium termhave already been identified.
+The main ambition of the Balearic Islands DIH is to become a reference model, not only for the Balearic Islands in anything related to innovation and digitisation, but also at European level for the tourism sector.
+This DIH also intends to create a strong and single digital innovation ecosystem involvingnot only the tourism sector but all other sectors in the Balearic Islands, concentrating primarily on the agricultural industry. DIH-BAITUR provides services for the development of R+D projects, scaling up of innovative projects and demonstrations, and also serves as a resource for training and accelerating of start-ups with a one-stop-shop approach.
+Different services have already been identified, for the technical and economic advisory services such as:
+
+Needs analysis
+Market and territory intelligence: Development of tools to offerMarket and territory intelligence, open to public and private entities and based on indicators
+360 vision of technological assessment
+Technological perspective and state of the art assessment
+Economic viability analysis
+Access to finance and funding: offer information on existing grants, funds and tenders at local, national and international level for all kind of entities
+Proof of concept
+
+
+Networking and incubating services such as:
+
+Access to competence centres
+Development of the innovation ecosystem: put together the main actors of the innovation ecosystem at regional level and generate synergies at international level
+Internationalisation
+Incubator/mentoring services: offering the possibility to incubate start-ups and SMEs as well as carry out different mentoring services from the technological and business point of view
+
+Awareness and training activities, such as:
+
+Showroom activities
+Dissemination activities
+Training and education: offer training and education. Identification of skills and skills needed by companies
+The organisation of innovation events
+Contact Person(s): Ordóñez Martínez Dolores
+Phone: +34 619712806
+Email: dihbaitur@gmail.com
+Location: Parc bit, Palma, Spain
+Type: DIH
+Website: http://www.dihbai-tur.com
+Tags: Country:Spain
+------------------------------------------------------------

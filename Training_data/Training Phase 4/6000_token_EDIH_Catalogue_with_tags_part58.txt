@@ -1,0 +1,155 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: Tech4EfficiencyEDIH
+Title: EXTREMADURA EDIH T4E: Tech for Efficiency
+Country: Spain
+Description: Technologies for the Efficiency Digital Innovation Hub (T4E EDIH) is a one-stop-shop for digitalization specialized in the following four conceptual areas: technologies for efficiency, mainly on the use of energy; technologies for ecology, new technologies to promote greening and sustainability in SMEs; technologies for the economy, oriented to develop and implement industry 4.0 and finally technologies for equality, which refers to technologies at the service of the society. T4E is a joint competence centre constituted by a cohesive group of 11 entities, integrated by competence centres, business support organizations and innovation facilitators fully connected at the EU level to foster fruitful interactions with external SMEs to lead the digitalization and business journey of companies and services to the society in the above-described areas. T4E EDIH aims is entirely aligned with the transformation of a greener and more digitalized Europe with the use of Cybersecurity, Artificial Intelligence and High-performance computing. In the project time framework, multiple services for EU SMEs will be provided in the types of Testing and experiments, Training services, Financing search support and Innovation ecosystems and networks.
+Contact Person(s): Jose Antonio Recio Cuesta
+Phone: 924 014 600
+Email: anto.recio@fundecyt-pctex.es
+Location: Avenida de elvas campus universitario edificio parque cientifico tecnologico, 06071 Badajoz Badajoz, Spain
+Type: EDIH
+Website: http://www.dih4e.eu/
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Cultural and creative economy (moderate involvement), Energy (very high involvement), Environment (very high involvement), Health care (moderate involvement), Manufacturing and processing (very high involvement), Travel and tourism (moderate involvement)
+Provided Services: Circular economy (very high involvement), Ecosystem building (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Technology transfer (very high involvement), SME support (very high involvement), Prototyping (very high involvement), Public sector innovation (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (moderate involvement), Cybersecurity (moderate involvement), High performance computing (very high involvement), Virtual Reality (moderate involvement), Cyber-physical systems (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (very low involvement), Digital twins (moderate involvement), New technologies for Audio-Visual sector - Media (high involvement)
+Tags: Country:Spain; Sector:Agricultural biotechnology and food biotechnology; Sector:Cultural and creative economy; Sector:Energy; Sector:Environment; Sector:Health care; Sector:Manufacturing and processing; Sector:Travel and tourism; Service:Circular economy; Service:Ecosystem building; Service:Innovation management; Service:Knowledge transfer; Service:Technology transfer; Service:SME support; Service:Prototyping; Service:Public sector innovation; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:High performance computing; Technology:Virtual Reality; Technology:Cyber-physical systems; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Digital twins; Technology:New technologies for Audio-Visual sector - Media
+------------------------------------------------------------
+EDIH Name: TechMed Innovation Hub
+Title: TechMed Innovation Hub
+Country: Netherlands
+Description: The TechMed Innovation Hub is a non-profit collaboration of partners, coordinated by the TechMed Centre of the University of Twente that stimulates the development and implementation of technology for better healthcare. In order to realize true impact in healthcare and the medtech industry, the TechMed Innovation Hub boosts innovation and digital transformation by;
+
+connecting different stakeholders in its network and regional ecosystem,
+offering a wide diversity of services,
+stimulating new innovation projects with funds and voucher programs,
+and by offering our extensive experience in Tech Transfer.
+
+The hub offers access to state of the art facilities, supporting activities in education (regular programs and tailor made life-long-learning approaches),research and innovation, and actively facilitates collaboration by organizing network events and facility sharing vouchers. The network of partners includes facilities such as production and testing labs for medical imaging, medical robotics, wearable technologies and translational physiology, experimental hybrid OR’s, simulated ICU’s, a variety of medical training-simulators, a CitizensScience lab to include future users, an eHealth lab where users can “try before you buy” and a broad range of specific technical medical research labs.
+The Hub offers specific support to SMEs and larger companies to ‘future proof’ their companies, by means of free consultancy, access to student-employees and internships, funding advice, networking, matchmaking sessions and access to end-users. (future) Entrepreneurs are actively supported by innovation-brokers to discover the trends and technologies that dominate the industry of tomorrow, explore potential innovative opportunities and get started with tools and programs.
+Contact Person(s): Burie Remke
+Phone: 31534892902
+Email: R.Burie@utwente.nl
+Location: Drienerlolaan 5, Enschede, Netherlands
+Type: DIH
+Website: https://www.utwente.nl/en/techmed/innovation/
+Tags: Country:Netherlands
+------------------------------------------------------------
+EDIH Name: Technology Transfer via Multinational Application Experiments (TETRAMAX)
+Title: Technology Transfer via Multinational Application Experiments (TETRAMAX)
+Country: Germany
+Description: Started in 2013, the initiative TETRACOM (https://www.tetracom.eu) was designed as a pilot project with a novel and unique vehicle to boost small-scale and highly focused bilateral academia-industry technology transfer in all ICT domains. During its three-year pilot phase, it has strongly demonstrated how to optimally address the gap to bring academic excellence to sound business results. With a special focus on small and medium-sized enterprises, the pilot financially supported 50 actual transfer experiments throughout Europe and helped to generate a multitude of new jobs, new products and new businesses. Based on its highly recognized success TETRACOM has evolved into TETRAMAX, operating at much larger scale and with even higher ambitions (https://www.tetramax.eu). It is primary aiming to provide the implementation of the European “Smart Anything Everywhere (SAE)” initiative in the domain of customized low energy computing (CLEC) for CPS and the IoT. The initiative builds on three major activity lines: (1) Stimulating, organizing, co-funding, and evaluating different types of cross-border Application Experiments, providing “EU added value” via innovative CLEC technologies to first-time users and broad markets in European ICT-related industries, (2) Building and leveraging a new European CLEC competence center network, offering technology brokerage, one-stop shop assistance and CLEC training to SMEs and mid-caps, and with a clear evolution path towards new regional digital innovation hubs where needed, and (3) Paving the way towards self-sustainability based on pragmatic and customized long-term business plans. The project impact will be measured based on well-defined, goal-oriented performance indicators. The immediate ambition of TETRAMAX within its duration is to support 50+ industry clients and 3rd parties in the entire EU with innovative technologies, leading to an estimated revenue increase of 25 Mio. € based on 50+ new or improved CLEC-based products, 10+ entirely new businesses/SMEs initiated, as well as 30+ new permanent jobs and significant cost and energy savings in product manufacturing. Moreover, in the long term, TETRAMAX will be the trailblazer towards a reinforced, profitable, and sustainable ecosystem infrastructure, providing CLEC competence, services (https://www.tetramax.eu/the-project/​) and a continuous innovation stream at European scale, yet with strong regional presence as preferred by SMEs.
+Contact Person(s): Leupers Rainer
+Phone: +49 241 80-28301
+Email: leupers@ice.rwth-aachen.de
+Location: Templergraben 55, Aachen, Germany
+Type: DIH
+Website: https://www.tetramax.eu
+Tags: Country:Germany
+------------------------------------------------------------
+EDIH Name: Tech-Stop EDIH
+Title: Networking for Technological-Stop European Digital Innovation Hubs
+Country: Türkiye
+Description: Tech-Stop EDIH aims to accelerate the digital transformation of Machinery, Automotive sector SMEs, mid-caps, and the public sector organizations in the Eastern Marmara region (covering 13 provinces) and boost digital innovation by providing 4 technology-oriented services: 
+
+testing-before-investing, 
+training and skills development, 
+access to finance, and 
+networking and access to innovation ecosystems
+
+Across 4 key technological domains: 
+
+Artificial Intelligence,
+Big Data, Data Analytics, Data Processing, 
+Virtual Reality / Augmented Reality, and 
+Simulation, Modelling, and Digital Twin, with a specific focus on AI (Artificial Intelligence)
+Contact Person(s): Mrs. Aynur Hacıfettahoğlu
+Phone: +90.262.315 8000
+Email: aynur@kosano.org.tr
+Location: Karabaş Mah. Sanayi Fuarı 2. Cad. No:4, 41040 Kocaeli, Kocaeli, Türkiye
+Type: Seal of Excellence
+Website: http://www.kosano.org.tr/
+Active Sectors: Automotive (very low involvement), Manufacturing and processing (low involvement), Public administration (moderate involvement)
+Provided Services: Public sector innovation (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very low involvement), Big data (low involvement), Digital twins (very high involvement), Simulation engineering and modelling (high involvement), Virtual Reality (very high involvement)
+Tags: Country:Türkiye; Sector:Automotive; Sector:Manufacturing and processing; Sector:Public administration; Service:Public sector innovation; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Digital twins; Technology:Simulation engineering and modelling; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: TKDIH
+Title: Technopark Kielce DIH
+Country: Poland
+Description: Based on researching the needs of companies in the Świetokrzyskie Voivodeship, and desk research of the main indicators and rankings at the national and international level concerning the position of the region, it was decided that the hub offering the scope of support services for regional companies boosting digitalization processes is needed. That is why the concept of the Technopark Kielce DIH (TKDIH) as a regional hub appeared and was developed during the last few years by the non-formal consortium. Finally, the created TKDIH is a partnership of various stakeholders: innovation center, technology university, industry foundation, venture capital, the association of entrepreneurs, chamber of commerce with EEN, and know-how providers in leading digital technologies. All activities of TKDIH are supported by the wide network of technoparks, and EDIHs, clusters. The target group is companies from industries compliant with the specializations of the Regional Innovation Strategy, and services focus on two types of customers SMEs where digitization involves the implementation of process improvement within the company and SMEs where digitization involves launching a new solution on the market. The created ecosystem by providing access to free of charge, on an open, transparent, and non-discriminatory basis 980 services in Key Enabling Technologies, offered in 4 areas: Support to find investment, Skills and trainings, Test before invest, Innovation ecosystem and networking will support at least 171 SMEs within 3 years, and in the long run will accelerate the digital transformation of the Świętokrzyskie region, increase the level of resilience of companies to the risks associated with unforeseen random, increase the level of energy efficiency and achieve tangible benefits for citizens related to the main challenges addressed by the Digital transition programme, Ecological transition, Health resilience, Economic resilience, and recovery.
+Contact Person(s): Ewelina Piotrowska
+Phone: +48 41 278 72 09
+Email: ewelina.piotrowska@technopark.kielce.pl
+Location: Olszewskiego 6, 25-663 Kielce, Poland
+Type: EDIH
+Website: https://dih.technopark.kielce.pl/
+Active Sectors: Consumer products (very high involvement), Financial (very low involvement), Personal services (moderate involvement)
+Provided Services: Ecosystem building (very high involvement), Finance (low involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Regional development (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (moderate involvement), Technology transfer (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (low involvement), Blockchain and Distributed Ledger Technology (DLT) (low involvement), Cloud Services (low involvement), Communication network (high involvement), Cybersecurity (high involvement), Internet of Things (very high involvement), Internet Services & Applications (low involvement), High performance computing (moderate involvement), Laser-based manufacturing and materials processing (low involvement), Sensors & Vision Processing Systems (low involvement)
+Tags: Country:Poland; Sector:Consumer products; Sector:Financial; Sector:Personal services; Service:Ecosystem building; Service:Finance; Service:Knowledge transfer; Service:Prototyping; Service:Regional development; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Communication network; Technology:Cybersecurity; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:High performance computing; Technology:Laser-based manufacturing and materials processing; Technology:Sensors & Vision Processing Systems
+------------------------------------------------------------
+EDIH Name: Transferstelle Cybersicherheit im Mittelstand
+Title: Transferstelle Cybersicherheit im Mittelstand
+Country: Germany
+Description: The Cybersecurity Transfer Office for SMEs supports small and medium-sized enterprises, craft businesses and start-ups free of charge in preventing, detecting and responding to cyberattacks. Through information and qualification formats, numerous events throughout Germany, a detection and response platform for cyberattacks and a broad network of partners, we aim to increase the level of cybersecurity in SMEs and thus make German SMEs more resilient. The SME sector, represented by BVMW e. V., acts as consortium leader of the project and works closely with the specialist partners FZI Forschungszentrum Informatik in Karlsruhe, Leibniz Universität Hannover - Institut für Berufspädagogik und Erwachsenenbildung and tti Technologietransfer und Innovationsförderung Magdeburg GmbH. The project is supported by various partners, including Deutschland sicher im Netz e. V. The SME Digital Network offers comprehensive support for digitalization with the SME Digital Centres, the IT Security in Business funding priority and Digital Now. Small and medium-sized enterprises benefit from concrete practical examples and tailor-made, provider-neutral offers for qualification and IT security. The Federal Ministry for Economic Affairs and Climate Protection enables free use and provides financial subsidies. Keywords: Cyber Security
+Contact Person(s): Marc Dönges
+Phone: 030 533 206 - 28
+Email: marc.doenges@transferstelle-cybersicherheit.de
+Location: Der mittelstand, bvmw e. v., potsdamer straße 7, 10785 Berlin, Germany
+Type: DIH
+Website: https://transferstelle-cybersicherheit.de/
+Active Sectors: Education (moderate involvement), Security (high involvement)
+Provided Services: Knowledge transfer (very high involvement), SME support (very high involvement), Technology transfer (moderate involvement)
+Technological Focus: Cybersecurity (very high involvement)
+Tags: Country:Germany; Sector:Education; Sector:Security; Service:Knowledge transfer; Service:SME support; Service:Technology transfer; Technology:Cybersecurity
+------------------------------------------------------------
+EDIH Name: Tuscany X.0
+Title: Tuscany EU Digital Innovation Hub
+Country: Italy
+Description: Tuscany X.0 (TX0) is a federation of all the main Tuscany players of research and technology transfer. It is composed of 3 System integrators, 3 Access points and 13 Providers. While the Research and Technology Transfer ecosystem is rich of highly qualified institutions at top levels in research and advanced applications, the industrial environment in the region is fragmented and composed of a myriad of SMEs, too often the last sacrificial elements of long international supply chains. TX0 aims at becoming a No-Profit System Integrator able to coordinate the technology transfer ecosystem to support the sustainable growth of the regional economy, in parallel with the enhancement of its public entities, and to concur with the other EDIHs to Europe technological independence. Tuscany needs a system integrator with a clear aim to show applied results before asking the entrepreneurs’ and PA managers’ commitment and investments. TX0 does not focus on technology transfer of R&D ideas and technologies with low TRL, but, instead, promotes the adoption of advanced technologies through their intelligent customization to the real industrial needs, requirements and constraints. We strongly believe that AI, CS and HPC have to be considered as a bundle and a powerful toolbox for enhancing the digital maturity level of the industry and PA in Manufacturing, Healthcare, Tourism,etc.TX0 management system is driven by the EDIH call’s goals, declined into specific project objectives, measured by key results, that are obtained through activities, monitored by specific KPIs with pre-defined targets to achieve (in terms of provided services). Such management system will be implemented in a Customer Relationship Management software that will be used to track the project and to transfer the funds to partners according to the real targets they achieved. This meritocratic and evidence-based approach promotes the effectiveness of activities, their quality and lets best practices to emerge.
+Contact Person(s): ANDREA DI BENEDETTO
+Phone: +39 050 754120
+Email: tuscanyx@polotecnologico.it
+Location: Via Mario Giuntini 13, Navacchio, 56021 Cascina PI, Italy
+Type: EDIH
+Website: Website
+Active Sectors: Travel and tourism (very high involvement), Agricultural biotechnology and food biotechnology (high involvement), Health care (very high involvement), Life sciences (high involvement), Manufacturing and processing (very high involvement), Public administration (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Technology transfer (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement), Internet of Things (very high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Additive manufacturing (high involvement), Cloud Services (very high involvement), Digital twins (high involvement), Logistics (high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (high involvement), Virtual Reality (high involvement)
+Tags: Country:Italy; Sector:Travel and tourism; Sector:Agricultural biotechnology and food biotechnology; Sector:Health care; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Public administration; Service:Ecosystem building; Service:Innovation management; Service:Technology transfer; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:High performance computing; Technology:Internet of Things; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Additive manufacturing; Technology:Cloud Services; Technology:Digital twins; Technology:Logistics; Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: UDD
+Title: Umbria Digital Data
+Country: Italy
+Description: UDD aims at accompanying Small and Medium Enterprises (SMEs) and Public Administrations (PAs) towards the advanced digital transition in the Umbria region. Through its services, centered on the three main digital technologies (Artificial Intelligence - AI; High Performance Computing - HPC; Cybersecurity), UDD intends to cover some specific areas, such as manufacturing, energy, and life science with a significant impact on the strategic sectors of commerce and tourism. UDD has a multi-sector focus and it targets on PAs and SMEs that have an organizational structure suitable to digitization procedures. The objective is to enhance the regional specific characteristics while joining the European EDIH Network in order to increase exchange opportunities providing businesses and PAs with the widest range of digital services and advice. UDD main goals towards SMEs and PAs are: The development and the implementation of AI capabilities; The development and the implementation of HPC competences; The acquisition of digital competences in Cybersecurity and advanced technologies; A greater awareness about sustainability and the ethical use of AI. UDD will work mainly on some specific focused areas, as: • Machine learning: AI applied to industry, Blockchain; Data Analytics and HPC; • Advanced manufacturing for the innovation of products and industrial procedures; • Life science technologies, also concerning emergency management; • Advanced materials and nano-materials employed in innovative business activities in the regional territory; • IoT, Automation, Embedded Systems; • Green Economy, Energetic Efficiency, Logistics and resources management. UDD includes 13 partners: 5 research and technological transfer institutes (among which there are the University of Perugia and The National Institute of Nuclear Physics that are the main UDD technical partners), 4 trade associations, 2 regional agencies, a Digital Innovation Hub and an Institute for Higher Technical Training.
+Contact Person(s): Luca Angelini
+Phone: 3665618426
+Email: angelini@confindustria.umbria.it
+Location: Via palermo 80/a, 06124 Perugia PG, Italy
+Type: Seal of Excellence
+Active Sectors: Manufacturing and processing (very high involvement), Health care (very high involvement), Travel and tourism (high involvement), Community-Led Local Development (high involvement), Cultural and creative economy (high involvement), Smart City (high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Technology transfer (very high involvement), SME support (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (high involvement), High performance computing (very high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Digital twins (moderate involvement), Internet of Things (high involvement)
+Tags: Country:Italy; Sector:Manufacturing and processing; Sector:Health care; Sector:Travel and tourism; Sector:Community-Led Local Development; Sector:Cultural and creative economy; Sector:Smart City; Service:Ecosystem building; Service:Innovation management; Service:Technology transfer; Service:SME support; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:High performance computing; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Digital twins; Technology:Internet of Things
+------------------------------------------------------------
+EDIH Name: UDIH 4 EU
+Title: UDIH: Equip Explore Empower Expand Utilize
+Country: Bulgaria
+Description: Our EDIH is dedicated to the utilities sectors, with a primary focus on electricity distribution and water and wastewater utilities (WWU) at present and others in mind. UDIH’s regional focus is South Central Bulgaria but our unique selling proposition already attracts PSOs and SMEs from all over Europe. We are building a simulation environment, physically mimicking a complete WWU service cycle that is also equipped to collect real-time data from both water and electricity grids. This module-based environment constructs a unique spot for TBI and TBB services - tech demonstrations or pilots. A range of support services is also envisaged: - full training cycles and financial advisory including links to private and institutional investors, innovation procurement advisory and support to gain public grants. All services are provided by the partners as field experts. Networking activities support access to digital capacities and international ecosystems actors, reaching 1000+ attendees in 30+events, bringing together digital industry buyers, vendors, investors and innovation actors. Existing facilities are not even halfway close to providing anything similar in scope, technological value or flexibility, especially in terms of its potential value for the entire Network of EIDHs.
+Contact Person(s): Dimitar Ivanov
+Phone: 3.59885E+11
+Email: divanov@qubiqo.com
+Location: Poligona, str. mihail tenev 6, office 6.1., 1784 Sofia, Bulgaria
+Type: Seal of Excellence
+Website: https://www.udih.eu
+Active Sectors: Electricity (very high involvement), Smart City (high involvement), Community-Led Local Development (low involvement), Environment (very high involvement), Energy (very high involvement)
+Provided Services: Circular economy (very high involvement), Ecosystem building (high involvement), Field trial (high involvement), Finance (very high involvement), Innovation management (high involvement), Knowledge transfer (moderate involvement), Prototyping (low involvement), Public sector innovation (moderate involvement), Regional development (moderate involvement), Smart Specialisation strategies (moderate involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (moderate involvement), Vocational training (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (high involvement), Cloud Services (low involvement), Cyber-physical systems (very low involvement), Cybersecurity (moderate involvement), Digital twins (high involvement), Internet Services & Applications (very high involvement), Simulation engineering and modelling (very high involvement), Communication network (very low involvement), High performance computing (low involvement), Human computer interaction (low involvement), Sensors & Vision Processing Systems (very high involvement)
+Tags: Country:Bulgaria; Sector:Electricity; Sector:Smart City; Sector:Community-Led Local Development; Sector:Environment; Sector:Energy; Service:Circular economy; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cloud Services; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Internet Services & Applications; Technology:Simulation engineering and modelling; Technology:Communication network; Technology:High performance computing; Technology:Human computer interaction; Technology:Sensors & Vision Processing Systems
+------------------------------------------------------------

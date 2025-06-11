@@ -1,0 +1,155 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: CEFRIEL SOCIETA CONSORTILE A RESPONSABILITA LIMITATA
+Title: CEFRIEL SOCIETA CONSORTILE A RESPONSABILITA LIMITATA
+Country: Italy
+Description: Cefriel is a no-profit center, based in Milan, with offices in New York, and London.CEFRIEL shareholders include Universities (Politecnico di Milano, Università Degli Studi di Milano, Università Degli Studi di Milano-Bicocca, Università Degli Studi dell’ Insubria), Public Administration (Lombardy Region), and leading multinational companies in ICT, Media sectors, and Energy.
+Since its inception in 1988, Cefriel mission has been to help SMEs and companies grow by exploiting digital technologies to create or reinvent their processes, products, and services, strengthen existing ties between the academic and business worlds through a multidisciplinary approach that innovates products and services with ICT and Design. Thanks to its distinctive operative model, CEFRIEL creates innovative solutions based on customer requirements and integrating the most recent scientific research results, the best technologies available on the market, the emerging standards, and the reality of business processes.
+As a Center of Excellence, CEFRIEL is able to merge technical and design skills with business and process expertise, thus supporting companies throughout the entire innovation cycle, from idea generation to product/service development. Thanks to its distinctive operative model, CEFRIEL creates innovative solutions based on customer requirements and integrating the most recent scientific research results, the best technologies available on the market, the emerging standards and the reality of business processes.
+Multidisciplinary skills, from creativity to the execution of complex innovation projects, recommend CEFRIEL as a unique partner able to develop a wide range of forefront solutions that integrate hardware, software and the most advanced multimedia communication technologies, often mixing the expertise of its many “vertical” practices and leveraging its proprietary methodologies to speed-up value delivery, such as Agile Project Management, Visual “Mock-upping” and Fast Prototyping.
+CEFRIEL competencies span all areas of ICT expertise, from microelectronics to the most advanced user experience models. Moreover, CEFRIEL know-how covers the development of innovative services and solutions, particularly for Industry 4.0, Internet of Things, Mobile & Wearable & AR/VR, AI, ML, Big Data & Analytics, Cloud Computing, API Economy & Distributed Architecture, Information Security, addressing both technical and project management issues.
+With a human capital of around 140 highly qualified professionals and the contribution of academic professors and researchers, CEFRIEL is a reference body of knowledge in Europe. CEFRIEL experts are highly qualified people with different levels of seniority and multiple academic degrees (post-degree master, MBA, Ph.D.).
+Project activities are carried out using instrumental labs equipped with state-of-the-art tools. In this proactive environment, creative concepts and ideas rapidly lead to mock-ups and prototypes. In the smart manufacturing context, Cefriel activities focus on bringing digital innovation to companies and manufacturing plants.Cefriel does more than 100 projects every year,totally paid by companies, in Italy and worldwide, to support companies and SMEsin their digitalisation path.
+ Cefriel is a member of POLIHUB, the start-up ACCELERATOR OF Politecnico DI Milano (https://www.polihub.it/);
+ Cefriel is a member of EIT Digital, and it hosts the Milan Node, with a co-working space;
+ From December 2018, Cefriel is the Italian national hub of IDSA (Industrial Data Space Association, https://www.internationaldataspaces.org), supporting the creation of secure exchange and easy linking of data in business ecosystems based on standards and joint governance models;
+ From 2016, Cefriel is also SUPPORTING MEMBER of The Italian Technology Cluster “Intelligent Factories” http://www.fabbricaintelligente.it/;
+ Cefriel is a member of MADE (Italian Competence Center led by Politecnico di Milano);
+ Cefriel is a member of MEDITECH (Italian Competence Center led by Università Federico II di Napoli e Salerno);
+Cefrielis a national certified "Center for industry 4,0 Technology Transfer Center" by MISE. As Technology Transfer Center 4.0 (CTT 4.0), Cefriel carries out training and consultancy activities, as well as the provision of technology transfer services to companies in the areas of operation identified by the Ministry of Economic Development
+Contact Person(s): Scandelli Nadia
+Email: nadia.scandelli@cefriel.com
+Location: Viale sarca 226, Milano, Italy
+Type: DIH
+Website: https://www.cefriel.com/
+------------------------------------------------------------
+EDIH Name: Center Digitisation District Böblingen (ZD.BB)
+Title: Center Digitisation District Böblingen (ZD.BB)
+Country: Germany
+Description: The Center Digitisation District Böblingen (ZD.BB) is the central consulting and transfer office for all companies, especially for SMEs with a geographical focus in the district of Böblingen.The ZD.BB does not pursue commercial goals and is a non-profit organisation.
+Core goals are:
+
+Create transparency regarding digital technologies and their application
+Transfer of current research results in SMEs
+Methodologically supported development of digital business models
+Development of further education concepts and curricula
+Building expertise in SMEs to shape the digital transformation
+
+
+The activities of the ZD.BB to support local SMEs include:
+
+Consultation on digitalisation and access to the expertise on digital technologies in universities, technology partners and research institutions
+Development and risk-free testing of new business models
+Agile development and testing of minimum viable products (MVP) and prototypes in the pre-competitive phase.
+Support for the qualification of digitalisation specialists
+Incubation and consulting of start-ups
+Networking of relevant actors and stakeholders
+
+
+The ZD.BB's portfolio of services for this purpose is based on the following offerings:
+
+Consultation on digitalisation matters, placement ofexperts, support in the founding of innovative companies
+Assessment of the digital maturity and identification of SMEs'potentials
+Development of digital business models by providing moderated workshops with digital experts
+Access to innovation labs at the Böblingen and Herrenberg sites (creative and open spaces)
+Qualification offers within the scope of trainings and events in the field of digitalisation
+Contact Person(s): Hoffmann Claus
+Phone: +49 7031 3048102
+Email: info@zd-bb.de
+Location: Danziger straße 6, Böblingen, Germany
+Type: DIH
+Website: https://www.zd-bb.de
+------------------------------------------------------------
+EDIH Name: CentralUkrainianEDIH
+Title: CentralUkrainianEDIH - Innovations, energy efficiency and digital transformation for the development of sustainable and industrial regions of central Ukraine
+Country: Ukraine
+Description: Our CentralUkrainianEDIH was created to fulfill the goals of the Digital Europe Programme and will contribute to the implementation of the strategic goals set out in the National Economic Strategy until 2030. The main objective of the CentralUkrainianEDIH is to stimulate digital and green transformation, innovation and energy efficiency for the development of sustainable industrial regions of central regions of Ukraine. To achieve this goal, we have established the CentralUkrainianEDIH, which consists of Institute of Physics of the National Academy of Sciences of Ukraine, Dnipro University of Technology, National University "Yuri Kondratyuk Poltava Polytechnic", Ukrainian Chamber of Commerce and Industry, Ukrainian Automotive and Mobility Cluster, IT Dnipro Community and two associated partners – Ministry of Energy of Ukraine and COMPARUS UA. We aim to facilitate and support the digital and innovative development of these regions in the use of: high-performance computing; artificial intelligence; cyber security; high-level digital skills that will help local private, especially SMEs, and public sectors realize their digital and green transformation.
+Contact Person(s): Olena Fesenko
+Phone: 3.80674E+11
+Email: fesenko.olena@gmail.com
+Location: Prospect Nauky 46,, Kyiv, 03028, Ukraine
+Type: EDIH
+Website: https://www.ukraine-edih.com/
+Active Sectors: Automotive (very high involvement), Education (very high involvement), Energy (high involvement), fuels and petroleum engineering (high involvement), Financial (high involvement), Legal Aspects (high involvement), Manufacturing and processing (very high involvement), Personal services (high involvement), Smart City (very high involvement), Transport & Mobility (very high involvement)
+Provided Services: Knowledge transfer (very high involvement), Public sector innovation (very high involvement), Regional development (very high involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Vocational training (very high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (high involvement), Communication network (very high involvement), Digital twins (very high involvement), Laser-based manufacturing and materials processing (very high involvement), optoelectronics (very high involvement), Photonics (very high involvement), Quantum Technologies (computing/communication) (very high involvement), Semiconductors and Nanotechnology (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (high involvement)
+------------------------------------------------------------
+EDIH Name: Centre for Advanced Manufacturing Technologies, Wroclaw University of Science and Technology
+Title: Centre for Advanced Manufacturing Technologies, Wroclaw University of Science and Technology
+Country: Poland
+Description: Research areas and competencies of CAMT are within the most recent development, manufacturing and informatics systems trends known not only in Poland. A broad extent of carried out research programmes and implementation projects assures a constant technological improvement and enhances the scientific and research potential of CAMT – over the centre's existence (since 2000) it has grown from 16 to 76 employees (2 full professors, 3 associate professors, 28 assistant professors, 23 postgraduates and 23 scientific-research workers, paid of commissions and projects). This trend is highly conducive to establishing a close cooperation with industry and enables to carry out research projects in national and international associations – several projects within the frame of FP6/FP7/H2020 and commissioned directly from industry, chiefly German, were carried out. Unprecedented so far international contacts, involving staff exchange (dozens of people a year, some of whom come to the Centre from abroad), create additional possibilities of research and staff potential development and contribute to a high recognition of the CAMT Research Team's output. As a result, the Marshall of the Lower-Silesian Voivodeship called into being the Lower Silesian Innovation and Science Park (DPIN), managed by the CAMT workers. The DPIN created Technology Innovation Cluster and coordinates its activities (a project form Regional Operational Programme was acquired), it has also prepared many deals with other European clusters. It goes without saying, that the CAMT's status as the Centre of Excellence has changed the approach to all the important aspects of scientific research, commercialization of its results and technology transfer. During our activity, we gained many research, development and industrial projects, working out top scientific research organization methods. We also cooperate with dozens of research centres all over the world and managed to build one of the most modern laboratories in Europe. Our staff consist of young and resilient people (of all the workers, 5 persons are older than 50 years, another 5 have more than 40 years and the rest have around 30 years or less). It is an important aspect of continuous improvement of our engineering staff, which should have an opportunity to master the most recent technologies applied in advanced sectors of not only domestic but also international industry and take up their own scientific activity. It is an important aspect of continuous improvement of our engineering staff, which should have an opportunity to master the most recent technologies applied in advanced sectors of not only domestic but also international industry and take up their own scientific activity. Areas of INTEREST Laser and Plasma Technologies Mechatronics and Machine Vision Microscopy & Measurement Materials Research Computed Tomography Reverse Engineering Rapid Prototyping Process Monitoring Material Tests Product Development Product Tests and Analyses Precision Processing IT Production Organization CAMT as the Fraunhofer Project Center By virtue of the contract signed on 24th September 2008, our research centre became a part of the international Fraunhofer Research Centre (FRC), established in association with Fraunhofer Gesellschaft and with Institut für Werkstoff- und Strahltechnik (IWS) in particular, in the area of laser and generative technologies. Together with our international partners, we conduct research in the field of development and application of laser, special and hybrid technologies. By joining our partner's experiences in the field of laser applications with our own experience in production management, we work together over the generative manufacturing technologies development.
+Contact Person(s): Chlebus Edward
+Phone: 71 320 2046
+Email: edward.chlebus@pwr.edu.pl
+Location: Lukasiewicza 5 street, Wroclaw, Poland
+Type: DIH
+Website: http://www.camt.pl/index.php/en/home-en/
+------------------------------------------------------------
+EDIH Name: CeREF
+Title: CeREF
+Country: Belgium
+Description: Founded in Mons on 5 October 1984 and intimately connected with the technical category of the Haute Ecole Louvain en Hainaut (HELHa), the CERISIC’s main object means is to lead or collaborate on studies or applied research projects and offer tailor-made training in the fields of science and technology. CERISIC conducts different kinds of project, which enabled it to generate in 2015 a turnover just above €1 million. CERISIC consists of three research poles: chemistry and biotechnology; electro-mechanical and thermal industries; and, lastly, electronics and electricity. If you wish to develop a new idea, study a new product or improve your company’s competitiveness thanks to a project of applied research, you may also count on the expertise of the electricity and electronics division in the field of design, implementation and testing of numerically controlled controls as well as in the field of test design. Both main research axes concern electrical engineering: developing innovative tools (control and power electronics, intelligent maintenance, active management, etc.) for engine benches of different yields aimed at developing applications in wind turbines, space, industry, etc.) and electronics: developing telecommunication components, optical sensors or personal assistance sensors based on FPGA and Foxboard platforms, a project which embodies the fruit of active cooperation with the HELHa’s paramedical division (standardization of medical knowledge of professional physiotherapists and of the technical competencies of our own team).
+Contact Person(s): Declecq Phillipe
+Phone: 0032 (0)65 40 41 42
+Email: contact@ceref.be
+Location: Chaussée de binche 159, Mons, Belgium
+Type: DIH
+Website: https://www.ceref.helha.be/
+------------------------------------------------------------
+EDIH Name: CETMA-DIHSME
+Title: CETMA-Digital Innovation Hub for SMEs
+Country: Italy
+Description: CETMA-DIHSME is the  EDIH promoted and managed by CETMA, a non-profit RTO with 30 years of experience in innovation services to SMEs in Southern Italy. In order to strengthen assistance to SMEs with skills, expertise and tools according to a ‘one stop shop’ logic, CETMA involved 13 other partners in the Hub’s service offering.
+Its activities  are strongly focused on the local socio-economic reality (Puglia and Basilicata) where the partners are strongly rooted.
+CETMA-DIHSME vision is  that AI, HPC and CS technologies can bring significant benefits to the development of the Territory, but this requires that anything local actors are involved such as PA and SMEs, even the smallest and even those operating in more traditional sectors.
+Based on the experience of CETMA and analysis of innovation experts, CETMA-DIHSME starts from the consideration that to foster innovation in small businesses, in addition to "problem solving" services (technology consulting, research, engineering, etc.), it is necessary to support SMEs with "problem setting" services (strategic analysis, business planning, fundraising, supply chain relations, etc.).
+For this reason, the EDIH CETMA-DIHSME provides an integrated offering of business and strategy-setting services and technological services.
+We offer services for:  awareness building; assistance for strategic setting;  testing and development, such as feasibility studies, simulations, development of artificial intelligence applications, testing and optimization of prototypes;   testing and development in operating environments.
+Attention is also dedicated to fundraising support and customised training
+CETMA-DIHSME aims to trigger synergies with the relevant opportunities offered by regional, national, and European innovation policies and funding and other innovation operators affecting the same territory. It also wants to exploit the great opportunities of the creation of a structured network of EDIH to promote cohesion between European territories to take advantage of social, economic, and environmental benefits.
+Contact Person(s): Francesca Felline
+Phone: 3.90831E+11
+Email: dihsme@cetma.it
+Location: Strada statale 7 appia km 706+030 snc, 72100 Cittadella della ricerca brindisi BR, Italy
+Type: EDIH
+Website: https://www.cetma-dihsme.eu
+Active Sectors: Construction & Assembly (high involvement), Consumer products (high involvement), Cultural and creative economy (high involvement), Health care (moderate involvement), Manufacturing and processing (very high involvement), Maritime (moderate involvement), Polymers and plastics (very high involvement), Public administration (very high involvement), Smart City (moderate involvement), Transport & Mobility (very low involvement), Aeronautics (very high involvement), Agricultural biotechnology and food biotechnology (high involvement), Automotive (high involvement), Community-Led Local Development (high involvement), Defence (low involvement), Education (moderate involvement), Energy (moderate involvement), Environment (moderate involvement), Leather (low involvement), Life sciences (low involvement), Metal working and industrial production (high involvement), NMP Non-Metallic Materials & basic processes (very high involvement), Nuclear (low involvement), Paper and wood (low involvement), wholesale or distribution (moderate involvement), Space (moderate involvement), Telecommunications (moderate involvement), Textiles (moderate involvement), Transport sector (high involvement)
+Provided Services: Circular economy (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (high involvement), Regional development (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Ecosystem building (very high involvement), Field trial (very high involvement), Finance (high involvement), Prototyping (moderate involvement), Smart Specialisation strategies (moderate involvement), Sme Business Development (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (moderate involvement), Cybersecurity (very high involvement), Gamification (moderate involvement), High performance computing (very high involvement), Internet of Things (very high involvement), Internet Services & Applications (moderate involvement), Logistics (moderate involvement), Mobility (low involvement), New technologies for Audio-Visual sector - Media (high involvement), Robotics (high involvement), Sensors & Vision Processing Systems (moderate involvement), Simulation engineering and modelling (very high involvement), Virtual Reality (high involvement), Cloud Services (high involvement), Communication network (low involvement), Digital twins (high involvement), Human computer interaction (low involvement), Laser-based manufacturing and materials processing (low involvement)
+------------------------------------------------------------
+EDIH Name: CHEDIH
+Title: Circular Health European Digital Innovation Hub
+Country: Italy
+Description: Circular Health EDIH specific focus is the applicative are of Circular Health: the connection between human health and the one of animals, plants and the environment. It has Health and Agri-food SMEs and PAs in Piedmont and Valle d’Aosta in Italy as targets. It coordinates universities, DIHs, innovation clusters, industrial associations, chambers of commerce, public and private ICT providers, higher technical institutes, independent financial consultants, incubators, accelerators, EEN nodes, KICs EIT Health and Food. The expertise is focused on Artificial Intelligence, HPC (in EuroHPC DE programme), Cybersecurity and Blockchain for traceability, but it does not disregard higher TRL solutions given the low level of digitalization of its customers. To ensure a truly European dimension, CHEDIH created a network of EDIHs around Europe: 22 EDIH candidates specialized in Health or Agri-food signed a multi-lateral agreement to share a common catalogue of services, and coordinate with DTA. Its pipeline of services includes: 1) Networking to engage customers with innovative solutions such as the social networking platform FirstLife and artistic performances. 2) A digital readiness and a green assessment produce a digital roadmap, identifying technologies and training needs. 3) Test before invest exploits the technological expertise of universities and ICT providers. 4) It offers short reskilling courses, produces MOOCs and integrates with the wider higher education systems 5) the customers are supported to build a business plan, and to find public or private fundings by an independent financial advisor and an international law firm expert in M&A and also through InvestEU and Startup Europe.
+Contact Person(s): Laura Montagna
+Phone: +39 366 575 8876
+Email: l.montagna@dih.piemonte.it
+Location: Via Giuseppe Verdi 8, 10124 Torino TO, Italy
+Type: EDIH
+Website: http://www.chedih.eu
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Health care (very high involvement)
+Provided Services: Finance (very high involvement), Ecosystem building (high involvement), SME support (very high involvement), Public sector innovation (very high involvement), Knowledge transfer (very high involvement), Vocational training (very high involvement), Sme Business Development (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Cybersecurity (very high involvement), Internet of Things (moderate involvement), Digital twins (moderate involvement), High performance computing (high involvement), Virtual Reality (moderate involvement)
+------------------------------------------------------------
+EDIH Name: C-Hub
+Title: C-Hub: Cybersecurity Digital Inovation Hub
+Country: Portugal
+Description: The C-HUB: Cybersecurity DIH (C-HUB) was created to foster research and development in Cybersecurity and introduce innovation in this area in the digital transformation processes, supporting in this manner small and medium enterprises (SMEs) and Public Administration (PA) entities in their path to become more cyber resilient and cyber mature. 
+The C-HUB consists in a non-profit consortium integrating seven Portuguese entities from the various sectors (Public Administration, Research and Development and Private sector). 
+The C-HUB mission is to follow the innovation process from idea to product by advising on innovative technologies, conducting maturity analysis, and providing the necessary infrastructures to test new developments without major investments, not forgetting the training and capacitation. 
+The C-HUB, integrates multidisciplinary knowledge areas and aims to become a National and European reference for a neutral, fast and secure approach for organisations, namely PA and the private sector, in particular SMEs, with the objective to support the cybersecurity of digital transformation processes allowing organisations to become more dynamic and competitive in their business areas and production processes, products and services, using technologies and digital environments, in a logic of "test before invest", and seeking innovative solutions, services and processes. 
+The C-HUB provides four main services: Test before investing; Support in the search for investment funding; Capacitation of people; Facilitation and Intermediation services.
+Contact Person(s): António Rio Costa
+Phone: +351 210497416
+Email: antonio.costa@cncs.gov.pt
+Location: Rua da junqueira 69, 1300-342 Lisboa, Portugal
+Type: Seal of Excellence
+Website: https://c-hub.pt
+Provided Services: Technological innovation (very high involvement), Innovation management (very high involvement), Public sector innovation (very high involvement), Sme Business Development (very high involvement), Technology transfer (high involvement)
+Technological Focus: Cybersecurity (very high involvement), Cyber-physical systems (very high involvement), Artificial Intelligence & Decision support (high involvement), Quantum Technologies (computing/communication) (high involvement)
+------------------------------------------------------------

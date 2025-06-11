@@ -1,0 +1,162 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: DEDIHCATED BFC
+Title: DEvelop Digital Innovation Hub to Create and Accompany new Trends in European inDustries in Bourgogne-Franche-Comté
+Country: France
+Description: DEDIHCATED BFC is the EDIH for the Burgundy-Franche-Comté region (BFC). The BFC region is the leading French region in terms of industrial employment with strong specificities: automotive, transport and mobility, mechanics, mechatronics, plastics, agri-food, and energy. Despite a high-quality regional digital offer and skills, industrial SMEs are far from digitalization, due to fragmentation between the different regional structures and programmes, not very structured and organised links between digital and application market players, and lack of availability of skills in these areas.
+The project create a one-stop-shop hub for industrial companies for their digital transition by offering them support and new services at reduced prices. DEDIHCATED BFC propose an innovative and added value approach based on the delivery of services in the form of an integrated pathway. Three thematic journeys have been designed in line with the industrial needs and a cybersecurity package :
+1) From data to Artificial Intelligence for company management;
+2) Digitalisation of business processes and production to the digital twin ;
+3) Business skills training.
+In addition to these advances services, and in view to meet the needs of SMEs far from the digitalisation, entry-level services (awareness, DMA, and basic services) will serve at entry-point of the hub.
+Bringing together 13 partners, DEDIHCATED BFC ensure both a good access to the industrial SMEs in all the targeted sectors and in all the geographical areas; and a technological expertise and infrastructures to deliver the services.
+Contact Person(s): Noémie Dieumegard
+Phone: 33613094054
+Email: nd@vehiculedufutur.com
+Location: rue Armand Japy 15, 25460 Etupes, France
+Type: EDIH
+Website: https://www.vehiculedufutur.com/fr/dedihcated.html
+Active Sectors: Automotive (very high involvement), Environment (high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (high involvement), Agricultural biotechnology and food biotechnology (high involvement), Transport & Mobility (very high involvement), Energy (very high involvement), Polymers and plastics (high involvement), Agricultural biotechnology and food biotechnology (high involvement), Education (moderate involvement)
+Provided Services: Finance (very high involvement), Circular economy (low involvement), Ecosystem building (moderate involvement), SME support (very high involvement), Public sector innovation (moderate involvement), Regional development (very high involvement), Sme Business Development (very high involvement), Field trial (very high involvement), Technological innovation (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), High performance computing (high involvement), Software Architectures (high involvement), Big data (high involvement), Internet of Things (high involvement), Internet Services & Applications (high involvement), Mobility (moderate involvement), Simulation engineering and modelling (moderate involvement)
+Tags: Country:France; Sector:Automotive; Sector:Environment; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:Agricultural biotechnology and food biotechnology; Sector:Transport & Mobility; Sector:Energy; Sector:Polymers and plastics; Sector:Agricultural biotechnology and food biotechnology; Sector:Education; Service:Finance; Service:Circular economy; Service:Ecosystem building; Service:SME support; Service:Public sector innovation; Service:Regional development; Service:Sme Business Development; Service:Field trial; Service:Technological innovation; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:Digital twins; Technology:High performance computing; Technology:Software Architectures; Technology:Big data; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Mobility; Technology:Simulation engineering and modelling
+------------------------------------------------------------
+EDIH Name: Defence4Tech Hub
+Title: Defence Innovation Hub for Technology Transfer
+Country: Portugal
+Description: The defence economy plays an important role in economic development: it encompasses a large variety of sectors; its products display a high technological content; most of its solutions are dual-use, as they can be applied both in the military and civilian realms. Therefore, the defence economy has a cross-cutting and significant impact on the digitalization of the economy and the society.
+Defence4Tech (D4T) gathers a public agency, a cluster manager, universities and research centres, and the armed forces research centres to promote the digitalization of the defence economy, in particular SMEs, which are at the core of the Portuguese economy.
+D4T will have as its centerpiece a platform that will be a showcase for the services provided, and for the training activities offer. It will also work as a matchmaking tool and a hub for the dissemination of relevant information.
+Several other activities will be implemented to enlarge the scope of potential beneficiaries.
+Test before invest activities will be integrated in a broader line of services to support digital products development. This includes support to product specification, product development, simulation and validation, prototyping and operational experimentation and testing in real environment.
+Promoting skills and training will also be a relevant activity, as the consortium integrates two engineering universities and other entities with experience in providing specialized training in digital skills.
+Activities to promote innovation in the ecosystem and networking but also to support investment finding are part of the mission of the public agency and the cluster manager that integrate the consortium.
+D4T activities are in line with other national, European and NATO policies. Several MoU with other EDIH that provide a high complementarity were established and partnerships with other entities will be developed.
+Contact Person(s): Pedro Rodrigues
+Phone: +351 215885020
+Email: defence4tech@iddportugal.pt
+Location: Estrada da luz, 153, 1600-153 Lisbon, Portugal
+Type: Seal of Excellence
+Tags: Country:Portugal
+------------------------------------------------------------
+EDIH Name: DI4 LITHUANIAN ID
+Title: Digital Innovation For Lithuanian Industrial Development
+Country: Lithuania
+Description: Industry need driven European Digital Innovation Hub (EDIH) of Central and Western Lithuania consists of 14 partners operating throughout Lithuania and representing different areas of competence and experience.We are operating in 5 sectors: Manufacturing, Public Sector, Healthcare & Biotechnologies, ICT and Fintech.Our key competences are Artificial Intelligence (AI) and Cybersecurity (CS) in the fields of ​Big data, Automated BMS & WMS, Smart Sensors, ​Robotics, I​oT/IoIT, ​Automation, ​VR/AR, Automatic reporting.​
+Aim: a) growth of major digital areas fostered by the EC; b)  high level of digital skills and widespread use of digital technologies; c)competitiveness of business models and processes at industries and Public bodies.
+Mission: To be the one-stop shop that enables effective digitalisation in Manufacturing, Public Administration and emerging sectors.
+Vision: To raise Lithuania to catch up as a digitalisation leader within Baltic regions.
+Project goals: a) deliver innovation consulting and support services; b) contribute to global competitiveness of Lithuania innovation ecosystem.
+Tasks:
+
+Increase Lithuania’s competitiveness, productivity, investments in higher value-added products and to promote integration of digital solutions and new technologies.
+Encourage cooperation between stakeholders at industrial digitalisation/infrastructure development.
+Help anticipate change and adapt to future needs.
+Promote digitalisation of the region and society.
+Strengthen digital skills in public/private sectors.
+
+Services:
+
+Test Before Invest: customers to obtain reliable expected results for their digitalisation ventures
+Ecosystem building and networking: operative liaisons through competitive Competence Centers
+Support to find investment: guide users to simple, efficient and realistic paths for opting to funding schemes
+Skills and training: practical knowledge at digitalisation, technology and global business Adaptation
+Contact Person(s): Mindaugas Bulota
+Phone: 37067617796
+Email: mindaugas.bulota@ktu.lt
+Location: K.Donelaicio g. 73, 44029 Kaunas, Lithuania
+Type: EDIH
+Website: https://di4lithuanianid.com/
+Active Sectors: Manufacturing and processing (very high involvement), Public administration (very high involvement), Health care (very high involvement), Telecommunications (very high involvement), Financial (high involvement)
+Provided Services: Prototyping (very high involvement), Ecosystem building (high involvement), Innovation management (very high involvement), Technological innovation (high involvement), Sme Business Development (moderate involvement), Technology transfer (moderate involvement), Public sector innovation (high involvement), Smart Specialisation strategies (moderate involvement), SME support (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement)
+Tags: Country:Lithuania; Sector:Manufacturing and processing; Sector:Public administration; Sector:Health care; Sector:Telecommunications; Sector:Financial; Service:Prototyping; Service:Ecosystem building; Service:Innovation management; Service:Technological innovation; Service:Sme Business Development; Service:Technology transfer; Service:Public sector innovation; Service:Smart Specialisation strategies; Service:SME support; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity
+------------------------------------------------------------
+EDIH Name: DIBI
+Title: Digital Innovation for Bavarian Industry
+Country: Germany
+Description: DIBI focuses on the digitalization of the manufacturing industry as one of the most important economic sectors in Bavaria - despite progressive structural change. Its share amounts to more than 30% of GNP and it strongly affects other sectors. About 87% of the companies here are SMEs. They face severe transformation challenges due to digitalization, decarbonization, decrease of combustion drives, energy shortage, shortage of skilled staff and increase of costs. A second focus of the DIBI consortium lies on digital transformation of public authorities which still lack behind and hinder sustainable and citizen-friendly operations. Thus, DIBI aims to support manu-facturing-oriented companies (SMEs and small mid-caps), start-ups, and public organizations in Bavaria by stimulating, enabling, and accelerating digital innovations and therefore foster competitiveness and sustaina-ble solutions. The eight partners of EDIH DIBI consortium located in North, West and South of Bavaria are close to the customers in whole Bavaria. DIBI provides a portfolio of 100+ client services distributed over four cus-tomer-centric work packages and focusing on Analytics and AI, Digital powered Manufacturing and Cyber Re-silience. Already 64 services of them are available at project start and can be provided to other EDIHs on de-mand. Every service type is specified in a detailed price list (annex 1). Strong synergies will be leveraged by a structured collaboration with EEN Bavaria2Europe, also coordinated by BI. Pre-existing collaborations with a significant number of (E)DIHs have already established European corridors which can be built upon. KPIs are set to indicate the progress in numbers of served clients with basic/advanced services, while qualitative excel-lence will be monitored continuously. We expect significant long-term impact on the competitiveness of our target customers by providing knowledge transfer and skills development as well as test-based decisions for investments.
+Contact Person(s): Dominik Rother
+Phone: +49 162 1369-919
+Email: edih@bayern-innovativ.de
+Location: Am Tullnaupark 8, 90402 Nürnberg, Germany
+Type: Seal of Excellence
+Website: http://www.edih-dibi.com
+Active Sectors: Automotive (high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Textiles (moderate involvement), Polymers and plastics (low involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (moderate involvement), Field trial (moderate involvement), SME support (very high involvement), Technology transfer (very high involvement), Finance (very high involvement), Prototyping (high involvement), Vocational training (high involvement), Technological innovation (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (high involvement), Additive manufacturing (moderate involvement), Digital twins (high involvement), Location-based applications (moderate involvement), Robotics (high involvement)
+Tags: Country:Germany; Sector:Automotive; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:Textiles; Sector:Polymers and plastics; Service:Ecosystem building; Service:Innovation management; Service:Field trial; Service:SME support; Service:Technology transfer; Service:Finance; Service:Prototyping; Service:Vocational training; Service:Technological innovation; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:Additive manufacturing; Technology:Digital twins; Technology:Location-based applications; Technology:Robotics
+------------------------------------------------------------
+EDIH Name: DIG-4K
+Title: Innovation and Training Park (ITP)
+Country: Kosovo
+Description: The Digital Innovation Gateway for Kosovo (DIG-4K) project seeks to harness and foster digital transformation in Kosovo, a country at the Balkan crossroads facing unique socio-economic challenges and opportunities. 
+The initiative is led by the Innovation and Training Park in Prizren (ITP) and aims to establish Kosovo as a hub for digital innovation and training. The project's objectives revolve around empowering local businesses, educational institutions, civil society organizations, and public stakeholders, thereby creating an ecosystem that supports entrepreneurial success and drives digital innovation at local, national, and regional levels. 
+DIG-4K targets a wide range of groups including MSMEs, startups, industry associations, technology firms, public sector entities, educational institutions, CSOs, and rural communities. It aims to cater to the needs of Kosovo's diverse population, which is about 1.78 million, focusing on enhancing digital skills, supporting entrepreneurship, and promoting digital technology adoption across various sectors such as e-commerce, fintech, healthcare, education, and agriculture.
+Contact Person(s): Besmir Krasniqi
+Phone: 38349737375
+Email: besmir.krasniqi@itp-prizren.com
+Location: Uke Bytyqi, 20000 Prizren, Kosovo
+Type: EDIH
+Website: https://itp-prizren.com/
+Active Sectors: Agricultural biotechnology and food biotechnology (high involvement), Automotive (high involvement), Community-Led Local Development (very high involvement), Cultural and creative economy (very high involvement), Education (very high involvement), Environment (high involvement), Health care (high involvement), Smart City (high involvement), Telecommunications (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Public sector innovation (high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement), Vocational training (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Cloud Services (very high involvement), Communication network (very high involvement), Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Mobility (very high involvement), New technologies for Audio-Visual sector - Media (very high involvement), Robotics (high involvement), Software Architectures (very high involvement), Virtual Reality (high involvement)
+Tags: Country:Kosovo; Sector:Agricultural biotechnology and food biotechnology; Sector:Automotive; Sector:Community-Led Local Development; Sector:Cultural and creative economy; Sector:Education; Sector:Environment; Sector:Health care; Sector:Smart City; Sector:Telecommunications; Service:Ecosystem building; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Communication network; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Mobility; Technology:New technologies for Audio-Visual sector - Media; Technology:Robotics; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: DIGI2Health
+Title: DIGI2Health
+Country: Czechia
+Description: DIGI2Health is a collaborative project established to address the need for systemic changes in healthcare both within and outside the Czech Republic. It also aims to provide technical and knowledge support for innovations in healthcare. Its core founding members are Palacký University Olomouc, Faculty Hospital Olomouc and Olomouc Region Innovation Center. Recently, the project was relocated to a separate facility because we firmly believe that a crucial aspect of innovation is in-person interaction and ideation. This new facility, Envelopa Hub, now serves as the home not only for project partners but also for innovative companies and student organizations. It provides a dedicated co-working space and experimental laboratories that align with the mission and vision of the project. The project follows the structure of digital innovation hubs defined by the European Commission and is listed in the DIH catalogue. In addition to the main partners of the Digi2Health innovation hub described in detail above, it is worth noting that the hub heavily relies on its other members and collaborating partners. These entities provide us with insights and access, including but not limited to private healthcare, such as Agel - a leading private healthcare provider in Central Europe (https://eu.agel.cz/index.html), and specialized organizations like the Alliance for Telemedicine (https://www.atdz.cz/poslani-a-cile), which brings together key stakeholders in the fields of telemedicine and the digitalization of health and social services. Laboratory of DIGI2Health can offer to SMEs experimental laboratory for devices used in healthcare. For example simulating patient movement in surgeries through technology Wi-Fi kit for indoor UWB signal monitoring, climate chamber for testing electronic devices or electroimpedancy tomograph with 16 chanells. More information you can find on website: www.digi2health.com.
+Contact Person(s): Jakub Havlín
+Phone: +420 734 236 488
+Email: jakub.havlin@upol.cz
+Location: 17. listopadu 8a, 77900 Olomouc, Czechia
+Type: DIH
+Website: https://digi2health.com/
+Active Sectors: Agricultural biotechnology and food biotechnology (low involvement), Community-Led Local Development (low involvement), Cultural and creative economy (low involvement), Education (very high involvement), Health care (very high involvement), Life sciences (very high involvement), Personal services (moderate involvement), Smart City (low involvement)
+Provided Services: Ecosystem building (very high involvement), Finance (high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Public sector innovation (very high involvement), Regional development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (very high involvement)
+Technological Focus: Communication network (high involvement), Industrial biotechnology (low involvement), optoelectronics (high involvement), Robotics (high involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (high involvement)
+Tags: Country:Czechia; Sector:Agricultural biotechnology and food biotechnology; Sector:Community-Led Local Development; Sector:Cultural and creative economy; Sector:Education; Sector:Health care; Sector:Life sciences; Sector:Personal services; Sector:Smart City; Service:Ecosystem building; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Communication network; Technology:Industrial biotechnology; Technology:optoelectronics; Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling
+------------------------------------------------------------
+EDIH Name: DigiAgriFood
+Title: Digital Transformation and Green Transition of the Agri-Food Value Chain in Central and Northern Greece
+Country: Greece
+Description: The Agri-Food sector is vital for regional GDP and for maintaining employment in Central and Northern Greece. However, it is severely lacking in digital maturity and capacity, competitiveness and access to disruptive technologies. #DigiAgriFood EDIH aims to empower the digital and green transformation of the entire spectrum of the Agri-Food value chain with immediate benefits for citizens, SMEs and public sector. It specializes in Artificial Intelligence technologies, Advanced Digital Skills, High Performance Computing and Digital Transformation and Interoperability and contributes directly to the missions and objectives of the "Digital Europe 2021-2027" program. It will help bring human-centred AI-solutions and unleash the powers of digital technologies to reach Europe’s common climate and environmental goals as set out in the European Green Deal, including being climate neutral by 2050, as well as strengthen the resilience of Europe’s industry and increase its open strategic autonomy. In total, five one-stop-shops and ten antennas/spots are planned to be fully operational covering the whole EDIH’s geographical area to ensure direct interaction with the target groups. #DigiAgriFood EDIH’s key objective is to exploit its complementary expertise at specific stages in the project cycle to achieve full synergy effect between partners. Consortium members apart from senior experts in their field and professors of the highest rank will also contribute with significant scientific infrastructure. The complementarity of the partners’ skills guarantees the balanced distribution of the workload and the establishment of strong cooperation. The management approach guarantees transparency and commitment to all partners and facilitates the successful execution of the project. #DigiAgriFood EDIH will strengthen and maximize the existing innovation ecosystem in all five Regions and has already explored collaborations with other EDIHs across the EU to create effective Corridors.
+Contact Person(s): MARIA MICHALOPOULOU
+Phone: (+30)2541079448
+Email: maria.michalo@gmail.com
+Location: 12 Vasilissis Sofias, 67100 Xanthi, Greece
+Type: EDIH
+Website: Website
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Education (high involvement), Environment (high involvement), Food and beverages (moderate involvement)
+Provided Services: Finance (moderate involvement), Knowledge transfer (moderate involvement), Regional development (high involvement), Smart Specialisation strategies (high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (high involvement)
+Technological Focus: High performance computing (very high involvement), Artificial Intelligence & Decision support (high involvement), Cloud Services (high involvement), Communication network (high involvement), Internet Services & Applications (high involvement), Robotics (high involvement)
+Tags: Country:Greece; Sector:Agricultural biotechnology and food biotechnology; Sector:Education; Sector:Environment; Sector:Food and beverages; Service:Finance; Service:Knowledge transfer; Service:Regional development; Service:Smart Specialisation strategies; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:High performance computing; Technology:Artificial Intelligence & Decision support; Technology:Cloud Services; Technology:Communication network; Technology:Internet Services & Applications; Technology:Robotics
+------------------------------------------------------------
+EDIH Name: DigiCenterNS
+Title: DigiCenterNS
+Country: Finland
+Description: DigiCenterNS supports Pohjois-Savo region companies in their digital transformation journeys by providing services that improve digital skills, foster technology testing and increase networking of companies.
+Our Digital Innovation Hub, DigiCenter North Savo, operates at Pohjois-Savo region and helps local companies, mainly small and medium sized enterprises (SMEs), in their digitalization development problems focusing on the Internet of Things (IoT), Artificial Intelligence (AI), and digital services.
+The focus areas of Pohjois-Savo region are Digitalisation, ICT in Manufacturing and Energy Technology and Digital transformation in Health industry. Companies in the area are struggling with following topics: digitizing the services, understanding business opportunities of digitalisation while creating strategies, digital marketing, and e-commerce, use of online customer service tools and more specific: AI, Internet of Things and robotics, utilizing digital communication channels, learning human behaviour in the context of digitalisation, programming, and information security.
+Services:
+
+Technology & Knowledge Transfer Services aim at enhancing the transfer of digital technologies and digital knowhow in Pohjois-Savo region and increase the digitalization-related networking. These services shall strengthen the local research and innovation capacities.
+R&D&I Services aim at provide Pohjois-Savo region companies with up-to-date information on features, opportunities and limitation of new digital technologies. Additionally, the goal of DigiCenterNS is to identify and build digital innovation platforms that companies may have access by request.
+Funding and Project Preparation Services aim at increasing funding (regional, national, international) applied in Pohjois-Savo region by coaching, supporting and networking companies in the context of digitalization funding
+
+Currently our DigiCenterNS operates with non-profit status and DigiCenterNS coordinators are non-profit organizations.
+Contact Person(s): Happonen Aki
+Phone: 3.58448E+11
+Email: aki.happonen@savonia.fi
+Location: Microkatu 1, kuopio, Kuopio, Finland
+Type: DIH
+Website: https://www.digicenterns.fi/en/home/
+Tags: Country:Finland
+------------------------------------------------------------

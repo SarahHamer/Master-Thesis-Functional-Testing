@@ -1,0 +1,153 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: h4i
+Title: hub4industry
+Country: Poland
+Description: hub4industry (h4i) est.2019 operates in Małopolska Region Kraków (Poland). Focuses on digitalisation of manufacturing SMEs. The Orchestrator, Krakow Technology Park(KPT) is one of the most developed and respected Polish business support organisations. With incubator, accelerator, seed funds, special economic zone, and experience in project management KPT is fit to lead the hub and together with 9 Partn. (+2 Affiliated Partn.) that represent various technology and knowledge areas commits to build not-for -profit DIH that will close the gap of knowledge and experience among SMEs regarding the digitalisation and will introduce and help executing Green Deal goals locally. H4i goal is to offer broad, holistic range of services to become “go to address” for SMEs starting or speeding up digital transformation and sustainable transformation. Technical range starts from DEP priorities: AI, Cybersec, digital skills up to additive manufacturing, smart robotisation, IoT, 5G connectivity. The offer is set up from 19 services i.e. Skills and Training, Test Before Invest, Support in funding areas. They are supported by Communication, Dissemination, Community and Networking actions. Although substantial investments in h4i already have been made in last 3 years, approx. 1,5M euro (public and private) and pilot project was delivered outperforming expectations and KPIs, joining EDIH network by h4i is essential for further development of the hub, increasing the number of services, and building up it’s capacity. Extensive market research was conducted together with regional gov. to design project responding to actual needs and challenges of local SME. Most of the h4i services can be delivered to remote clients, budget is designed to handle the additional costs of interregional cooperation, and h4i already got cooperation forward by connecting to more than 30 EDIH candidates.
+Contact Person(s): Aleksandra BŁASZCZAK
+Phone: +48 690 826 700
+Email: ablaszczak@kpt.krakow.pl
+Location: Ul. Podole 60, 30-394 Krakow, Poland
+Type: EDIH
+Website: https://hub4industry.pl/
+Active Sectors: Automotive (moderate involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement)
+Provided Services: Ecosystem building (very high involvement), SME support (very high involvement), Innovation management (moderate involvement), Knowledge transfer (high involvement), Regional development (very high involvement), Sme Business Development (very high involvement), Technological innovation (very high involvement)
+Technological Focus: Big data (moderate involvement), Cloud Services (high involvement), Cybersecurity (very high involvement), Digital twins (high involvement), Sensors & Vision Processing Systems (high involvement), Internet of Things (very high involvement), Simulation engineering and modelling (high involvement), Laser-based manufacturing and materials processing (high involvement), Communication network (very high involvement), Cyber-physical systems (high involvement), Artificial Intelligence & Decision support (high involvement), Internet Services & Applications (high involvement), Virtual Reality (very high involvement), Robotics (very high involvement)
+Tags: Country:Poland; Sector:Automotive; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Service:Ecosystem building; Service:SME support; Service:Innovation management; Service:Knowledge transfer; Service:Regional development; Service:Sme Business Development; Service:Technological innovation; Technology:Big data; Technology:Cloud Services; Technology:Cybersecurity; Technology:Digital twins; Technology:Sensors & Vision Processing Systems; Technology:Internet of Things; Technology:Simulation engineering and modelling; Technology:Laser-based manufacturing and materials processing; Technology:Communication network; Technology:Cyber-physical systems; Technology:Artificial Intelligence & Decision support; Technology:Internet Services & Applications; Technology:Virtual Reality; Technology:Robotics
+------------------------------------------------------------
+EDIH Name: HD-MOTION
+Title: Hub for the Digital MObility TransformatION
+Country: Italy
+Description: In recent years there have been countless advances in connected and cooperative systems for transport and mobility, which are however outlining a paradox: together with the developments underway, challenging and articulated technological needs are emerging, so much so as to make the goal of sustainable, efficient and safe mobility more and more complex to achieve. Indeed, the availability of the technologies necessary for an interoperable implementation of large-scale solutions is only the beginning of a long journey, which cannot ignore economic, market and competitiveness considerations for the involved industries, SMEs and public administrations. The resolution of this paradox is the main objective of the HD-MOTION Hub (HUB for the Digital Mobility Transformation): the ambition to make a great technological leap forward, giving a rapid acceleration to the development of enabling technological solutions, targeting them on innovation and the digitization of sustainable mobility and transport services. SMEs (especially those involved in technology transfer) will be among the end users of the Hub, together with the Public Administration, its services (for example, Public Transport) and citizens. Through the virtuous collaboration of academia, industry and the entire innovation ecosystem, the result of a growth in the competitive capabilities of companies on the Italian territory will be achieved, bridging the technological deficits of innovation and digitization that today penalize them on the European market and world. Through the creation of networks of companies and innovation hubs in the sectors of vehicle production, digital infrastructures and Digital Transportation Systems, basic training and the development of new skills will be implemented, facilitating entry and relocation on the market of the work. At the same time, and in a virtuous circular manner, significant impacts will be generated on the environment and on the users of mobility services.
+Contact Person(s): Matteo Bandiera
+Phone: 3.93346E+11
+Email: matteo.bandiera@cim40.com
+Location: Corso Settembrini 178, 10135 Torino TO, Italy
+Type: Seal of Excellence
+Active Sectors: Transport & Mobility (very high involvement), Smart City (high involvement), Automotive (moderate involvement), Environment (high involvement), Transport sector (very high involvement)
+Provided Services: Public sector innovation (very high involvement), SME support (very high involvement), Finance (very high involvement), Ecosystem building (very high involvement)
+Technological Focus: Mobility (very high involvement), Artificial Intelligence & Decision support (very high involvement), Internet of Things (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement)
+Tags: Country:Italy; Sector:Transport & Mobility; Sector:Smart City; Sector:Automotive; Sector:Environment; Sector:Transport sector; Service:Public sector innovation; Service:SME support; Service:Finance; Service:Ecosystem building; Technology:Mobility; Technology:Artificial Intelligence & Decision support; Technology:Internet of Things; Technology:Cybersecurity; Technology:High performance computing
+------------------------------------------------------------
+EDIH Name: Health Data Sweden (HDS)
+Title: Health Data Sweden
+Country: Sweden
+Description: Digital health can make healthcare safer and more efficient, and provide high-quality care. For digital health to reach its potential, it is vital that innovators and providers gain from the benefits of health data. EDIH Health Data Sweden (HDS) will support this by providing services that enable SMEs and the public sector to improve health data use, while also improving access to it. With a mature ecosystem of 16 partners active in the field, HDS will contribute to secure digital health services of the future, with focus on health data and high-quality, accessible and sustainable healthcare/welfare services for European citizens. HDS integrates two EDIH candidates (HDS and Health Innovation of Sweden) from Stage 1 of the call into one with a nationwide system of services for SMEs, small mid-caps and the public sector. The aim is to cover the complete value chain in digital health, allowing users to benefit by covering entry-level users and services related to health data as well as more complex development aimed at preparing for future development of the field. HDS is a hub composed of regions, universities, innovation hubs, research institutes, and science parks, all playing a leading role in Swedish and European healthcare: KTH Royal Institute of Technology (KTH, coordinator); Blekinge Digital Health Blue Science Park (BDH); Bron Innovation (BI); Compare/DigitalWell Arena (DWA); EIT Digital (EITD; EIT Health Scandinavian CLC (EITH); Halmstad University/Leap for Life (HU); Karolinska Institutet (KI); Linnaeus University (LNU); Livsmedicin Region Västerbotten (LM); Region Stockholm (RS); Region Kalmar län/ eHealth Arena (eHA); Stockholm University (SU); Stockholm Science City (SSCi); STUNS Life Science (STUNS) and Uppsala University (UU). The goal is to have 1700 Swedish and 200 European SMEs/mid-caps, and 455 Swedish and 95 public-sector organisations utilising our services by end of the 3-year project.
+Contact Person(s): Sebastiaan Meijer
+Phone: +46 8 790 80 71
+Email: smeijer@kth.se
+Location: Brinellvagen 8, 100 44 Stockholm, Sweden
+Type: EDIH
+Website: Website
+Active Sectors: Health care (very high involvement), Life sciences (moderate involvement), Personal services (high involvement), Public administration (moderate involvement)
+Provided Services: Ecosystem building (high involvement), Innovation management (very high involvement), Knowledge transfer (high involvement), Public sector innovation (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Cybersecurity (high involvement), Digital twins (moderate involvement), High performance computing (high involvement), Simulation engineering and modelling (moderate involvement)
+Tags: Country:Sweden; Sector:Health care; Sector:Life sciences; Sector:Personal services; Sector:Public administration; Service:Ecosystem building; Service:Innovation management; Service:Knowledge transfer; Service:Public sector innovation; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cybersecurity; Technology:Digital twins; Technology:High performance computing; Technology:Simulation engineering and modelling
+------------------------------------------------------------
+EDIH Name: HEALTH HUB
+Title: HEALTH HUB - Healthcare & Pharmaceutical Industry Transformation through Artificial Intelligence Digital Services
+Country: Greece
+Description: Sustainable digital societies are key in ensuring the long-term competitiveness of the EU economy. Digital solutions which focus on people and provide innovative opportunities for companies, social and democratic development are needed to secure digital and green transition of the EU. Digital transformation is the only way for healthcare systems to become more citizen-friendly while simultaneously changing their operations, culture, and use of technology. Greece’s digital transformation performance has been improved but remains well below the EU average (ranked 27 out of 28). The majority of companies surveyed (by Foundation and EIT Digital) recognize the importance of digital transformation, as 90.2% have either initiated or intend to activate a digital transformation roadmap immediately. 
+The candidate Health Hub aspires to lead the digital transformation of Greek SMEs, MidCaps, Public Sector Organisations. "Health Hub: Healthcare & Pharmaceutical Industry Transformation through Artificial Intelligence Digital Services" is a candidate EDIH based in Thessaly region. It represents a collaboration of 3 public bodies, 6 universities, 4 research institutions and organizations, 2 technology organizations, 3 healthcare providers and 6 business support organizations. In addition to Thessaly, Health Hub will also have antennas in 6 regions across Greece: Ionian Islands, Aegean, Western Greece, Attica, Central Macedonia and Crete, through which it will deliver digital transformation services to SMEs and public organizations of the health and pharma sector using AI technologies. Health Hub guarantees that health companies and public administration have access to know-how, training, technologies, infrastructure, and laboratories to improve and accelerate their digitalization. Health Hub will reach out to more than 2,000 beneficiaries and support the digital transformation of at least 160 by providing a complete set of services.
+Contact Person(s): Maria Pournari
+Phone: 0030 2410626943
+Email: projects@ied.eu
+Location: Valtetsiou and Tripoleos, 41336 Larissa, Greece
+Type: Seal of Excellence
+Website: https://ied.eu/about/health-hub/
+Active Sectors: Health care (very high involvement), Life sciences (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (high involvement), Knowledge transfer (high involvement), Public sector innovation (high involvement), Regional development (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Communication network (very high involvement), data (moderate involvement), Virtual Reality (moderate involvement)
+Tags: Country:Greece; Sector:Health care; Sector:Life sciences; Service:Ecosystem building; Service:Innovation management; Service:Knowledge transfer; Service:Public sector innovation; Service:Regional development; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Technology:Artificial Intelligence & Decision support; Technology:Communication network; Technology:data; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: Healthwise Digital Innovation Hub
+Title: Healthwise Digital Innovation Hub
+Country: Slovenia
+Description: Technology park Ljubljana started an initiative HealthDay.si in 2014 to accelerate placement of digital innovations into the healthcare system of Slovenia and globally. After 4 years, the HealthDay.si initiative reached its critical mass and began forming as a Digital Innovation Hub with clear goals & vision. Technology Park Ljubljana is non-for-profit organisation and consequently also DIH.Healthday.si is a non-for-profit inititative striving to support digital transformation in a healthcare sector.
+
+HealthDay.si platform aims to assist digital innovations to faster meet the needs of patients as well as demands of health care practitioners for the digital technology supported medical care. HealthDay.si brings together experts from innovative companies, healthcare system providers, healthcare economics and communication experts. New models of collaboration were developed and applied by companies through a range of workshops and coaching methods to bring innovative product ideas faster to healthcare providers and patients. DIH provides high level expertise for better understanding of regulatory procedures on the one hand and to better fill the needs of physicians i.e. health care providers and health economics organisations such as insurance companies on the other. DIH HealthDay.si is a platform developed by Technology park Ljubljana to assist companies with innovative healthcare solutions, for better understanding of healthcare economics, for easier navigation through complex regulatory and certification procedures for medical devices. It supports companies with technical compliance of digital solutions, quality management and provision of financing as well as provides other resources needed for accelerated application of innovative products and services in healthcare. A range of training courses and workshops were developed and delivered for companies by the key national experts to raise competences in areas such as application and registration procedures of the digital health solutions to the national Health Council, medico-economics, certification and technical compliance of digital health solutions, marketing in medicine, quality management and financing innovation in healthcare. The governing body of the DIH HealthDay.si is the council of experts that provides guidelines for the digital innovation hub in healthcare and it provided a Roadmap for innovation in healthcare in 2019. Amongst the stakeholders involved in the DIH HealthDay.si are the national Health Insurance Fund, commercial insurance companies, Ministry of Health, Agency for medicines and medical equipment, Medical Chamber of Slovenia, National Institute for Public Health, Association of Healthcare providers and Medical Ethics Commission.
+
+Long term objective for DIH is to allocate 1% of Slovenia’s annual budget in healthcare for much needed innovation development each year until 2027 and thus better address needs of patients for safe, personalised, reliable and technologically advanced medical treatments and therapies benefiting the wellbeing of society as a whole.
+
+HealthDay.si connects stakeholders to enhance and integrate digitalisation-based products in healthcare systems. It supports cross-clustering and cross sectoral innovation in S4 as well as identifies specific needs for competences development and internationalisation with a focus on health and preventive care. DIH HealthDay.si has ambition to create long term partnerships and networks between complementary organisations from business, government and non-government sectors. DIH HealthDay.si is led by the Ljubljana Technology park and it offers services such as business model development, skills trainings, access to knowledge experts, workshops and matchmaking events, financing, internationalisation and IPR assistance.
+Contact Person(s): Žerovnik Rebeka
+Phone: +386 1 6203401
+Email: rebeka.zerovnik@tp-lj.si
+Location: Tehnološki park 19, Ljubljana, Slovenia
+Type: DIH
+Website: https://digi-si.eu/
+Tags: Country:Slovenia
+------------------------------------------------------------
+EDIH Name: HHFIN
+Title: HealthHub Finland - the future of Healthcare shaped by a Hub of partners facilitating data-driven digital solutions in Finland and Europe
+Country: Finland
+Description: Your partner in digital healthcare solutions
+HealthHub Finland is a one-stop-shop for the development of digital solutions for health and wellbeing, and a gateway to Finnish health and wellbeing data. For SMEs and public sector organisations across the European Union, we offer subsidised or free test-before-invest and innovation services, financing advice, training and skills development. With our tailored service packages created by our industry experts, we enable you to turn your vision into reality.
+We are a national non-profit public-private consortium that brings together experts and resources from Finland’s most prominent health ecosystems in the cities of Turku, Oulu, Tampere, Kuopio and Kajaani and the national Finnish Biobanks – FINBB cooperative.
+Contact Person(s): Henrik Honkanen
+Phone: 3.58103E+11
+Email: henrik.honkanen@businessturku.fi
+Location: Joukahaisenkatu 3a, 20520 Turku, Finland
+Type: EDIH
+Website: Website
+Active Sectors: Health care (very high involvement), Life sciences (high involvement)
+Provided Services: Field trial (high involvement), Finance (moderate involvement), Innovation management (high involvement), Prototyping (very high involvement), Public sector innovation (high involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (very high involvement), Industrial biotechnology (low involvement), Cybersecurity (moderate involvement), High performance computing (very high involvement), Virtual Reality (moderate involvement)
+Tags: Country:Finland; Sector:Health care; Sector:Life sciences; Service:Field trial; Service:Finance; Service:Innovation management; Service:Prototyping; Service:Public sector innovation; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Industrial biotechnology; Technology:Cybersecurity; Technology:High performance computing; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: HPC EDIH HU
+Title: Establishing High Performance Computing European Digital Innovation Hub in Hungary
+Country: Hungary
+Description: High performance computing (HPC) is one of the key issues in the Digital Europe Programme. The project will establish and implement a new HPC focused EDIH in Hungary in order to support SMEs, universities and public bodies to improve their activity, production, RDI processes with the use of the HPC technology. The HPC EDIH will provide them specific, free-of-charge technical consultancy, mentoring, training, test before invest services and testing facilities. The consortium has appropriate partner database, infrastructural background and HPC capacity for the supporting of EDIH activities. The main pillars of the EDIH are:
+
+
+awareness rising (communication) activities and disseminations
+
+
+offering HPC-as-a-Service for SMEs and other organizations
+
+
+providing training, mentoring and consultancy for the partners.
+
+
+The project consortium consists of three members: Governmental Agency for IT Development (KIFÜ) is the project leader, it is the Nr1 governmental organization in Hungary regarding HPC issues with strong infrastructural, professional and legal background. The state-owned Bay Zoltán Nonprofit Ltd. (BZN) and Institute for KTI Hungarian Institute for Transport Sciences and Logistics Non Profit Limited Liability Company are functioning as beneficiaries, they also have got a lot of experiences, well qualified experts, and existing cooperations in the fields of enterprise development, digitalization, research and innovation, technology transfers and transport. The main segmented target groups of the HPC EDIH are: - SMEs in the following sectors: medical research, agriculture, manufacturing industry, ICT, logistics and transport;
+
+
+universities;
+
+
+public bodies.
+
+
+The goals of the HPC EDIH are in line with the EU and Hungarian strategies, policies, the project activities and planned KPIs are synchronized with these goals. The project is ready for launching, it has 5 work packages. The operation of HPC EDIH will have many positive impacts on the Hungarian (and EU) economy and society, synergies will open up in several themes.
+Contact Person(s): Lilla Luksik
+Phone: -7394
+Email: luksik.lilla@kti.hu
+Location: Budapest, Than Károly u. 3-5, 1119, Hungary
+Type: EDIH
+Website: https://www.kti.hu/projects/hpc-edih-eng/
+Active Sectors: Automotive (low involvement), Construction & Assembly (low involvement), Education (high involvement), Electricity (high involvement), Energy (high involvement), fuels and petroleum engineering (low involvement), Environment (moderate involvement), Health care (high involvement), Manufacturing and processing (high involvement), Metal working and industrial production (low involvement), Polymers and plastics (low involvement), Public administration (very high involvement), Smart City (very high involvement), Transport & Mobility (very high involvement), Transport sector (very high involvement)
+Provided Services: Circular economy (very high involvement), Ecosystem building (very high involvement), Field trial (moderate involvement), Innovation management (high involvement), Knowledge transfer (high involvement), Prototyping (very high involvement), Public sector innovation (moderate involvement), Regional development (moderate involvement), Smart Specialisation strategies (high involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (very high involvement), Cloud Services (moderate involvement), High performance computing (very high involvement), Digital twins (high involvement), Location-based applications (low involvement), Logistics (high involvement), Mobility (very high involvement), New technologies for Audio-Visual sector - Media (high involvement), Robotics (high involvement), Sensors & Vision Processing Systems (moderate involvement), Simulation engineering and modelling (very high involvement), Software Architectures (moderate involvement), Virtual Reality (high involvement)
+Tags: Country:Hungary; Sector:Automotive; Sector:Construction & Assembly; Sector:Education; Sector:Electricity; Sector:Energy; Sector:fuels and petroleum engineering; Sector:Environment; Sector:Health care; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:Polymers and plastics; Sector:Public administration; Sector:Smart City; Sector:Transport & Mobility; Sector:Transport sector; Service:Circular economy; Service:Ecosystem building; Service:Field trial; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cloud Services; Technology:High performance computing; Technology:Digital twins; Technology:Location-based applications; Technology:Logistics; Technology:Mobility; Technology:New technologies for Audio-Visual sector - Media; Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: HPC4Poland EDIH
+Title: HPC4Poland European Digital Innovation Hub
+Country: Poland
+Description: The purpose of EDIH HPC4Poland is to increase the competitiveness and innovation of North West Poland (NUTS1) manufacturing companies and public organizations by increasing awareness and availability of advanced digital tools and services based on safe, reliable and efficient High Performance Computing (HPC), including: cloud simulations (PaaS), sensor systems (IoT), AR/VR/MR, collaborative robots, AGV, AMR, additive technologies, AI and Big Data analysis. HPC4Poland EDIH is a feedback matrix and a true node of value and service exchange between research teams, suppliers and recipients of advanced concepts, methods and solutions in the target region and collaborating regions/EDIHs of the EU. Based on the resources and domain knowledge of competence centers (research units) and business partners (tool suppliers), the EDIH implements a comprehensive one-stop-shop digital transformation offer, currently unavailable on the Polish market to the 4 target markets: transportation/automotive, medicine/pharmaceutics, wood/furniture, agriculture/processing.
+Contact Person(s): Cezary Mazurek
+Phone: +48 61 858 20 01
+Email: mazurek@man.poznan.pl
+Location: Noskowskiego 12-14, 61-704 Poznan, Poland
+Type: EDIH
+Website: http://www.hpc4poland.pl/
+Active Sectors: Transport sector (very high involvement), Agricultural biotechnology and food biotechnology (very high involvement), Health care (very high involvement), Paper and wood (very high involvement)
+Provided Services: Prototyping (high involvement), Knowledge transfer (moderate involvement), Sme Business Development (high involvement), SME support (high involvement), Finance (high involvement), Technology transfer (moderate involvement)
+Technological Focus: Robotics (moderate involvement), Internet of Things (moderate involvement), Artificial Intelligence & Decision support (moderate involvement), High performance computing (high involvement), Big data (moderate involvement), Virtual Reality (moderate involvement), Simulation engineering and modelling (high involvement), Digital twins (high involvement), Cloud Services (moderate involvement)
+Tags: Country:Poland; Sector:Transport sector; Sector:Agricultural biotechnology and food biotechnology; Sector:Health care; Sector:Paper and wood; Service:Prototyping; Service:Knowledge transfer; Service:Sme Business Development; Service:SME support; Service:Finance; Service:Technology transfer; Technology:Robotics; Technology:Internet of Things; Technology:Artificial Intelligence & Decision support; Technology:High performance computing; Technology:Big data; Technology:Virtual Reality; Technology:Simulation engineering and modelling; Technology:Digital twins; Technology:Cloud Services
+------------------------------------------------------------

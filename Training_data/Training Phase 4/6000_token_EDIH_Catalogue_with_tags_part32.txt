@@ -1,0 +1,139 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: EIT Digital Sweden
+Title: EIT Digital Sweden
+Country: Sweden
+Description: EIT Digital is a leading European digital innovation and entrepreneurial education organisation driving Europe’s digital transformation.
+EIT Digital delivers breakthrough digital innovations to the market and breeds entrepreneurial talent for economic growth and improved quality of life in Europe. It does this by mobilising a pan-European ecosystem of over 156 top European corporations, SMEs, start-ups, universities and research institutes.
+As a Knowledge and Innovation Community of the European Institute of Innovation and Technology, EIT Digital is focused on entrepreneurship and is at the forefront of integrating education, research and business by bringing together students, researchers, engineers, business developers and entrepreneurs. This is done in our pan-European network of co-location centres in Berlin, Eindhoven, Helsinki, London, Paris, Stockholm, Trento, as well as in Budapest and Madrid. We also have a hub in Silicon Valley.
+EIT Digital invests in strategic areas to accelerate the market uptake of research-based digital technologies focusing on Europe’s strategic, societal challenges: Digital Industry, Digital Cities, Digital Wellbeing, Digital Infrastructure and Digital Finance.
+EIT Digital breeds T-shaped entrepreneurial digital talent focused on innovation through a blended Education Strategy that includes a Master School, Doctoral School and Professional School.
+Contact Person(s): Fooladianpour Yassman
+Phone: +46 72 502 29 92
+Email: north@eitdigital.eu
+Location: Torsgatan 11, Stockholm, Sweden
+Type: DIH
+Website: https://www.eitdigital.eu
+Tags: Country:Sweden
+------------------------------------------------------------
+EDIH Name: Elbfabrik of the Fraunhofer IFF
+Title: Elbfabrik of the Fraunhofer IFF
+Country: Germany
+Description: The mission of the VDTC is to explore and promote the role of human operators in an ever-increasing digitized and automated production and work environment. Following an approach coined as “Digital Engineering and Operation”, the VDTC postulates the consistent and consequent use of digital data throughout the life cycle of a production and/or work system. Being able to fully retain and exploit data from and within all steps in the life cycle, from design, to testing, documentation, factory planning, training, operation to dismantling, offers the opportunity to radically change human machine interaction. The VDTC offers solutions for embedding human operators in a digitized and automated environment by providing assistance systems, which fully benefit from a virtual knowledge base established through the approach of digital engineering and operation.
+Within this mission, the VDTC offers its services to companies of varying sizes from SME and Mid-Caps to large companies and international corporations. The VDTC’s solutions, moreover, provide for different customized approaches addressing companies on different innovation stages, from awareness raising and maturity level identification for newcomers to digitization, to insular solutions and services for starter companies, to full systems solutions for advanced companies.
+Contact Person(s): Blobner Christian
+Phone: +49 391 4090 371
+Email: christian.blobner@iff.fraunhofer.de
+Location: Joseph-von-fraunhofer str., 1, Magdeburg, Germany
+Type: DIH
+Website: https://www.dih-saxony-anhalt.de/
+Tags: Country:Germany
+------------------------------------------------------------
+EDIH Name: ENTIRE
+Title: Intelligent and Secure Trustable Systems enabling Digital Transformation
+Country: Ireland
+Description: The ENTIRE European Digital Innovation Hub is a non-profit initiative focusing on organizations active in the digitalisation of Life Sciences / Healthtech, Agriculture, Energy and Transport sectors, advancing the exploration, exploitation, and investment by Irish SMEs and public authorities in the utilisation of intelligent secure IoT sensors, networks, and software. ENTIRE brings together the strongest innovation experts in digital technologies from across the Southern Region of Ireland. The ENTIRE Digital Innovation Hub’s strategic mission is to offer the innovation expertise of Tyndall in IoT Smart Sensors, Walton Institute in IoT Networks and HPC, MTU in Cybersecurity, UCC in Artificial Intelligence, and Skillnet in SME Digital Skills Onboarding as well as to broker all necessary technical, business, financial, investment and training support services across the value chain. By doing this, the ENTIRE Hub will help companies, in particular SMEs, start-ups, and public authorities to become more competitive by using digital technologies in their business/production processes, products or services. ENTIRE’s region spans nine counties (the six Munster counties as well as Kilkenny, Wexford, and Carlow), supported by 10 Local Authorities. The Southern Region hosts approx. 100,000 SMEs (employing over 295,000 people) and 386 Multinational Enterprises employing over 75,000 people. The ENTIRE central front-office will be located at the Tyndall campus in Cork but the EDIH will have locations in Cork (x3), Tralee, Waterford and Dublin. ENTIRE staff will have access to, and be accommodated, at each site.
+Contact Person(s): Paul Galvin
+Phone: 3.53212E+11
+Email: paul.galvin@tyndall.ie
+Location: Lee Maltings Complex, Dyke Parade, Cork, Co. Cork, Ireland
+Type: Seal of Excellence
+Website: https://entire-edih.ie/
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Health care (very high involvement), Education (very high involvement), Energy (very high involvement), Environment (moderate involvement), Life sciences (very high involvement), Smart City (very high involvement)
+Provided Services: Prototyping (very high involvement), Smart Specialisation strategies (very high involvement), Circular economy (moderate involvement), Ecosystem building (high involvement), Regional development (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), Internet of Things (very high involvement), optoelectronics (very high involvement), Semiconductors and Nanotechnology (very high involvement), Photonics (very high involvement)
+Tags: Country:Ireland; Sector:Agricultural biotechnology and food biotechnology; Sector:Health care; Sector:Education; Sector:Energy; Sector:Environment; Sector:Life sciences; Sector:Smart City; Service:Prototyping; Service:Smart Specialisation strategies; Service:Circular economy; Service:Ecosystem building; Service:Regional development; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:Internet of Things; Technology:optoelectronics; Technology:Semiconductors and Nanotechnology; Technology:Photonics
+------------------------------------------------------------
+EDIH Name: EOSC DIH
+Title: European Open Science Cloud Digital Innovation Hub
+Country: Netherlands
+Description: The EOSC DIH is an international and multi-partner cooperation that supports companies in easily accessing the digital technologies and services offered by the EOSC. It combines 4 main pillars to help companies become more competitive: 1) Pilot design and co-design: where pilots services or products are designed and/or tested; 2) Technical access: HTC, HPC, cloud computing, machine learning, research data, data management services, and several tools and applications; 3) Training and support: technical consultancy, business coaching, funding search; 4) Visibility: inclusion of company solutions in the EOSC Marketplace and exploiting the EOSC networking and ecosystem opportunities. The European Open Science Cloud is envisioned by the European Commission as a supporting landscape to foster open science and open innovation: a network of organisations and infrastructures from various countries and communities that supports the open creation and dissemination of knowledge and scientific data. The EOSC DIH contributes to the impact of the EOSC on the private sector facilitating access to advanced resources with special interest for innovative companies such as startups and spin-offs. The EOSC DIH was created and evolved under the EOSC umbrella (first under the EOSC hub project, later with EOSC Future and EOSC Beyond projects ) being the main industry engagement mechanism for the consumption of ESOC services by the private sector.
+Contact Person(s): Elisa Cauhe
+Phone: 34615303245
+Email: elisa.cauhe@egi.eu
+Location: Science park 140, 1098 XG Amsterdam, Netherlands
+Type: DIH
+Website: https://eosc-dih.eu/
+Active Sectors: Agricultural biotechnology and food biotechnology (high involvement), Cultural and creative economy (low involvement), Energy (very high involvement), Environment (very high involvement), Health care (moderate involvement), Life sciences (high involvement), Manufacturing and processing (low involvement), Public administration (moderate involvement), Real estate (low involvement), Security (moderate involvement), Smart City (moderate involvement), Space (high involvement), Transport & Mobility (high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Knowledge transfer (high involvement), Prototyping (very high involvement), Sme Business Development (very high involvement), SME support (high involvement), Technological innovation (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), BI tools (high involvement), Cloud Services (very high involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), High performance computing (very high involvement), Internet of Things (high involvement), Internet Services & Applications (moderate involvement), Mobility (low involvement), Simulation engineering and modelling (low involvement), Software Architectures (moderate involvement)
+Tags: Country:Netherlands; Sector:Agricultural biotechnology and food biotechnology; Sector:Cultural and creative economy; Sector:Energy; Sector:Environment; Sector:Health care; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Public administration; Sector:Real estate; Sector:Security; Sector:Smart City; Sector:Space; Sector:Transport & Mobility; Service:Ecosystem building; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:BI tools; Technology:Cloud Services; Technology:Cybersecurity; Technology:Digital twins; Technology:High performance computing; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Mobility; Technology:Simulation engineering and modelling; Technology:Software Architectures
+------------------------------------------------------------
+EDIH Name: EPoSS e.V. - European Technology Platform on Smart Systems Integration
+Title: EPoSS e.V. - European Technology Platform on Smart Systems Integration
+Country: Germany
+Description: EPoSS is a non-profit industry-driven membership organisation, defining R&D and innovation needs as well as policy requirements related to Smart Systems Integration (SSI) and integrated Micro- and Nanosystems. EPoSS is contributing to the European Growth strategy, the Digital Single Market strategy, the Digitising European Industry strategy, and the Smart Anything Everywhere Initiative. EPoSS provides a common European approach on Innovative Smart Systems Integration from research to production, covering TRL 2-7, defines priorities for common research and innovation in the future, formulates commonly agreed roadmaps for action, provides a Strategic Research Agenda, mobilises public and private resources, and supports its members in coordinating their joint research efforts and improving communication amongst the members as well as towards the European Commission.
+EPoSS, in its capacity as a European Technology Platform, was set up in 2006, and was operational as an association - but without being a legal entity - until it became EPoSS e.V. in September 2013. EPoSS e.V. is a non-profit association according to German law. Its structure consists of Board, General Assembly, Executive Committee, Working Groups and Office. Below you can find the description of the EPoSS bodies and their main functions.
+Contact Person(s): Office EPoSS
+Phone: +49 30 31 00 78-155
+Email: contact@smart-systems-integration.org
+Location: Steinplatz 1, Berlin, Germany
+Type: DIH
+Website: https://www.smart-systems-integration.org
+Tags: Country:Germany
+------------------------------------------------------------
+EDIH Name: ER2Digit
+Title: Emilia-Romagna Regional Ecosystem of Digital Innovation
+Country: Italy
+Description: ER2Digit is the European Digital Innovation Hub of the Emilia-Romagna region to promote the improvement of public services and the adoption of innovative digital solutions.
+ER2Digit supports the digitalization of small and medium enterprises and public bodies through concrete tools, by providing the knowledge, skills and resources to improve their competitiveness in many sectors: health, construction, culture, tourism, monitoring of the territory and sustainability.
+ER2Digit focuses mainly on artificial intelligence and supercomputing technologies to support the strategic use of data for the enhancement of public services, offering access to top-notch hardware and software infrastructures, while contributing to the assurance of trustworthy data processing. The Hub is built on core competences acquired in 20+ years of innovation policy of the Emilia-Romagna Region, that brought to the creation of an effective innovation ecosystem, made by many public and private actors who invested - and are still investing - in the delivery and adoption of new technologies and innovation across all economic and social sectors. 
+PARTNER
+A public partnership and an ecosystem to support the Hub
+ER2Digit is the result of a partnership consisting of:
+
+ART-ER, which brings its experience in implementing the innovation practices of the Emilia-Romagna region and in coordinating the local ecosystem and the hub itself.
+LEPIDA, the main regional public player that supports the digitalization of the public bodies. It is an operational facility of the Emilia-Romagna Regional Authority for the development of telecommunications infrastructure, enabling services and applications, and a driver of the implementation and dissemination of Digital Agenda topics.
+CINECA, a Consortium composed of 115 Italian universities and public institutions, is the largest computing centre in Italy and one of the main ones worldwide. CINECA hosts and manages LEONARDO, the world’s fourth supercomputer, which provides 20% of Europe’s and 80% of Italy’s computational power.
+
+For its activities, ER2Digit also uses the skills and research and experimentation capabilities of the industrial research Laboratories of the Emilia-Romagna High Technology Network.
+ER2Digit represents an opportunity for digital innovation and for the development of society and the data economy. It is one of the first results of the regional strategy for the creation of the Emilia-Romagna Data Valley.
+ER2Digit freely provides its audience with FIRST Digital, the web platform that gathers news, events, access to financial and networking opportunities focused on digital transformation.
+Contact Person(s): Ugo Mencherini/Lucia Mazzoni
+Phone: +393484771746 (Mazzoni)
+Email: er2digit@art-er.it
+Location: Via Piero Gobetti 101, 40129 Bologna BO, Italy
+Type: EDIH
+Website: Website
+Active Sectors: Construction & Assembly (moderate involvement), Cultural and creative economy (high involvement), Energy (moderate involvement), Health care (moderate involvement), Life sciences (low involvement), Public administration (very high involvement), Transport & Mobility (moderate involvement), Travel and tourism (high involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (high involvement), Finance (moderate involvement), Innovation management (very high involvement), Knowledge transfer (high involvement), Prototyping (low involvement), Public sector innovation (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (low involvement), SME support (high involvement), Technological innovation (high involvement), Technology transfer (high involvement), Vocational training (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), High performance computing (high involvement), Internet of Things (high involvement), Location-based applications (moderate involvement)
+Tags: Country:Italy; Sector:Construction & Assembly; Sector:Cultural and creative economy; Sector:Energy; Sector:Health care; Sector:Life sciences; Sector:Public administration; Sector:Transport & Mobility; Sector:Travel and tourism; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:High performance computing; Technology:Internet of Things; Technology:Location-based applications
+------------------------------------------------------------
+EDIH Name: E-Secure Transactions Cluster - TES
+Title: E-Secure Transactions Cluster - TES
+Country: France
+Description: A cluster that supports digital innovation
+Normandy's Digital Competitive Cluster was created in 2005. Its aim is to become the reference in terms of innovation concerning high digital technology in the fields of Health, Tourism, Administration and Agriculture.
+The mission of TES is to imagine and co-conceive the future ways of using technology in these fields. It identifies the needs and key challenges in order to develop innovation programmes that lead to improvements in terms of use, turnover, employment and region promotion.
+Security and reliability
+Drawing on its network of members and partners, the TES Cluster supports innovative and collaborative projects from the idea stage to product launch. Its priority is the security, interoperability and reliability of its innovations, thus rallying the New Industrial France programme for Data economy, Smart objects and Digital Trust.
+The TES Cluster adapts to its markets, its environment and its members. It reveals technological innovations in fast-growing industries with strong national significance.
+Contact Person(s): Scelles Magali
+Phone: 33231536330
+Email: magali.scelles@pole-tes.com
+Location: 8 rue léopold sédar senghor, Colombelles, France
+Type: DIH
+Website: https://www.pole-tes.com/
+Tags: Country:France
+------------------------------------------------------------
+EDIH Name: EUNITED Digital Hub
+Title: EUNITED Digital Hub
+Country: Ukraine
+Description: EUNITED Digital Hub is a European Digital Innovation Hub (EDIH) led by UNIT.City, Ukraine’s largest innovation park, in partnership with 16 partners: universities, NGOs, and industry leaders. It is not just a service provider — it is an ecosystem builder. EUNITED is a powerful consortium fostering collaboration, innovation, and resilience for SMEs and public institutions supporting the movement towards a stronger, smarter, and globally competitive Ukraine as a part of the European family.
+Contact Person(s): Mykola Kukhtiei
+Phone: 3.80978E+11
+Email: mykola.kukhtiei@unit.city
+Location: str. Dorohozhytska, 3, Kyiv, 04112, Ukraine
+Type: Seal of Excellence
+Website: https://unit.city/
+Active Sectors: Aeronautics (moderate involvement), Agricultural biotechnology and food biotechnology (very high involvement), Automotive (moderate involvement), Community-Led Local Development (high involvement), Construction & Assembly (very high involvement), Consumer products (high involvement), Cultural and creative economy (very high involvement), Defence (high involvement), Education (very high involvement), Electricity (high involvement), Energy (high involvement), fuels and petroleum engineering (high involvement), Environment (high involvement), Financial (high involvement), Food and beverages (high involvement), Health care (high involvement), Legal Aspects (high involvement), Life sciences (high involvement), Manufacturing and processing (very high involvement), Maritime (moderate involvement), Metal working and industrial production (high involvement), Mining and extraction (high involvement), NMP Non-Metallic Materials & basic processes (high involvement), Personal services (high involvement), Polymers and plastics (moderate involvement), Public administration (high involvement), Real estate (high involvement), Regulation (moderate involvement), wholesale or distribution (high involvement), Security (high involvement), Smart City (high involvement), Telecommunications (high involvement), Textiles (moderate involvement), Transport & Mobility (high involvement), Transport sector (high involvement), Travel and tourism (moderate involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (very high involvement), Field trial (high involvement), Finance (high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Public sector innovation (high involvement), Regional development (high involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Vocational training (moderate involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (very high involvement), BI tools (high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), products) (moderate involvement), Cloud Services (high involvement), Communication network (high involvement), Cyber-physical systems (high involvement), Cybersecurity (very high involvement), data (very high involvement), Digital twins (high involvement), Displays (moderate involvement), Gamification (moderate involvement), High performance computing (very high involvement), Human computer interaction (high involvement), Industrial biotechnology (moderate involvement), Internet of Things (very high involvement), Internet Services & Applications (high involvement), Laser-based manufacturing and materials processing (high involvement), Location-based applications (high involvement), Logistics (very high involvement), optoelectronics (high involvement), Mobility (very high involvement), New technologies for Audio-Visual sector - Media (very high involvement), Organic and large area electronics (high involvement), Photonics (high involvement), Quantum Technologies (computing/communication) (very high involvement), Robotics (very high involvement), Semiconductors and Nanotechnology (very high involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (high involvement), Software Architectures (very high involvement), Virtual Reality (very high involvement)
+Tags: Country:Ukraine; Sector:Aeronautics; Sector:Agricultural biotechnology and food biotechnology; Sector:Automotive; Sector:Community-Led Local Development; Sector:Construction & Assembly; Sector:Consumer products; Sector:Cultural and creative economy; Sector:Defence; Sector:Education; Sector:Electricity; Sector:Energy; Sector:fuels and petroleum engineering; Sector:Environment; Sector:Financial; Sector:Food and beverages; Sector:Health care; Sector:Legal Aspects; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Maritime; Sector:Metal working and industrial production; Sector:Mining and extraction; Sector:NMP Non-Metallic Materials & basic processes; Sector:Personal services; Sector:Polymers and plastics; Sector:Public administration; Sector:Real estate; Sector:Regulation; Sector:wholesale or distribution; Sector:Security; Sector:Smart City; Sector:Telecommunications; Sector:Textiles; Sector:Transport & Mobility; Sector:Transport sector; Sector:Travel and tourism; Service:Circular economy; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:BI tools; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:products); Technology:Cloud Services; Technology:Communication network; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:data; Technology:Digital twins; Technology:Displays; Technology:Gamification; Technology:High performance computing; Technology:Human computer interaction; Technology:Industrial biotechnology; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Laser-based manufacturing and materials processing; Technology:Location-based applications; Technology:Logistics; Technology:optoelectronics; Technology:Mobility; Technology:New technologies for Audio-Visual sector - Media; Technology:Organic and large area electronics; Technology:Photonics; Technology:Quantum Technologies (computing/communication); Technology:Robotics; Technology:Semiconductors and Nanotechnology; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------

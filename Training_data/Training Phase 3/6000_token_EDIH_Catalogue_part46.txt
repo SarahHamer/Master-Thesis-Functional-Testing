@@ -1,0 +1,155 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: Smart Secure Cities
+Title: Creating Smart Secure Cities for EU citizens
+Country: Poland
+Description: The Smart Secure Cities Consortium’s aim is to continue its up-to-date activities as a national EDIH with specialization in Smart City/IoT responding to a national need to foster digitalization and introduction of smart technologies, in line with national smart specializations for Poland. There is a great need for fair, cyber-secure, inclusive, resource-efficient, and above all human-centric digitalization of EU citizens’ living environments. However, there is not enough specialized support for the cities to make digitalization successful, especially in CEE. Our EDIH will address those needs working for and with two types of clients: Public Sector Organisations and SMEs. Thanks to its synergy, unique competencies, a well-planned, geographically balanced network of 28 Consortium members coming from different regions of Poland, will be a driver to raise the CEE region and level up with the most innovative regions in Europe. Consortium with its expertise and experience in digitalization will bring education, raise awareness on benefits and tools for a well-conducted digitalization. With its highly innovative, testing infrastructure of cyber-physical Innovation Showroom SMEs, start-ups and PSOs will be able to present and test the most innovative Smart City/IoT technologies. EDIH will support access to financing for the European cutting-edge technologies. It will also foster tight cooperation and networking between PSOs and SMEs in their digitalization to create together sustainable smart cities in the EU. EDIH will also address aims, promote and implement the concept of introduction of smart technologies as tools for sustainable development addressing directly objectives of the European Green Deal and Fit for 55 strategy. Our EDIH will continue to be a driver of the EU-wide network of EDIHs active in the area of digitalization of EU cities and regions involving EU-funded platforms and programs such as EEN, Startup Europe Partnership, Innovation Radar, EIC Accelerator.
+Contact Person(s): Konrad Dziadkowiak
+Phone: +48 605 973 445
+Email: konrad.dziadkowiak@energotel.pl
+Location: Perkuna 47, 04-164 Warszawa, Poland
+Type: EDIH
+Active Sectors: Smart City (very high involvement)
+Provided Services: Public sector innovation (very high involvement), Smart Specialisation strategies (very high involvement), Regional development (high involvement), Ecosystem building (high involvement), SME support (very high involvement), Technological innovation (very high involvement)
+Technological Focus: Internet of Things (very high involvement), Cloud Services (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement)
+------------------------------------------------------------
+EDIH Name: SMART TRANSPORTATION ALLIANCE (STA)
+Title: SMART TRANSPORTATION ALLIANCE (STA)
+Country: Belgium
+Contact Person(s): Papí José F.
+Phone: +32 2 8086050
+Email: j.papi@smart-transportation.org
+Location: Tribes european quarter, avenue marnix 13-17, 1000 Brussels, Belgium
+Type: DIH
+Website: http://www.smart-transportation.org
+------------------------------------------------------------
+EDIH Name: Smart Welding Factory (SWF)
+Title: Smart Welding Factory (SWF)
+Country: Netherlands
+Description: First Time Right, One Piece Flow is the mission of SWF with Welding Automation. The robotic welding process must be automated from A-Z, where the start is the 3D-model and the end is the finished product including certificates. In this Innovation Hub several companies work together to innovate and automate the complete robotic welding process. Where brand independency is a very important issue. The vision of the producing industry is here very important and market development is stimulated in this process. Since 2014 we have been very successful in our approach.
+Contact Person(s): Hofmeijer Ard
+Phone: +31 (0) 74 8525389
+Email: hofmeijer@lac.nl
+Location: Gieterij 200, Hengelo, Netherlands
+Type: DIH
+Website: http://www.smartweldingfactory.com/
+------------------------------------------------------------
+EDIH Name: SmartAttica-AtHeNAI
+Title: Smart Attica DIH, the Attica region - Greek Innovation hub for Artificial Intelligence in Energy and Environment, Supply chain and mobility, Culture and Tourism
+Country: Greece
+Description: Smart Attica aims to constitute the reference AI EDIH of Greece and increase the digital maturity of Greek businesses and local authorities through increased AI uptake. Its thematic focus lies upon 3 financial activity sectors which are critical for the targeted Attica region and the Greek economy. These sectors, Energy and Environment, Supply chain and mobility, as well as Culture and Tourism, are also aligned to establish international and national actions for green, sustainable, inclusive digital growth. The Hub is based on existing clusters and EU-wide initiatives, making it a valuable policy-support instrument towards key EU directions.
+Smart Attica mobilises powerful infrastructures and facilities, from 5G to HPC to the entire Demokritos smart campus, where solutions of all sectors can be deployed, tested and analysed. Smart Attica services (test-before-invest, upskilling, networking and investment support) will seamlessly integrate with the Εnterprise Εurope Νetwork and local business networks. They will also build upon the world-level Hub’s expertise on AI, supported by the HPC & Cybersecurity partnership knowhow, but also horizontally integrate the human-centric, ethics-by-design EU AI vision, and infuse resilience and sustainability considerations across service provision.
+Smart Attica will mobilize an inclusive, collaborative innovation ecosystem bootstrapped through its unique arsenal of 17 partners, which constitute major stakeholders in Greece & EU in AI and bring significant additional knowhow in domains such as HPC, Cybersecurity, advanced digital skills, and domain knowledge across all thematic focus areas. This expertise and the varying roles of the partners guarantees the empowerment of the beneficiaries, offering a full range of services coming from research and academia, private sector entrepreneurship, banking and financing, technology transfer, accelerators, public sector and local society representatives, social change catalyst, national infrastructures.
+Contact Person(s): Periklis Terlixidis
+Phone: +30 2106503465
+Email: periklisterlixidis@ahedd.demokritos.gr
+Location: Neapoleos 27 & End of Patriarchou Grigoriou E, 15341 Agia Paraskevi, Greece
+Type: EDIH
+Website: Website
+Active Sectors: Cultural and creative economy (very high involvement), Energy (very high involvement), Environment (very high involvement), wholesale or distribution (very high involvement), Transport & Mobility (very high involvement), Travel and tourism (very high involvement)
+Provided Services: SME support (very high involvement), Ecosystem building (high involvement), Finance (very high involvement), Innovation management (high involvement), Field trial (very high involvement), Public sector innovation (very high involvement), Sme Business Development (very high involvement), Technological innovation (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement)
+------------------------------------------------------------
+EDIH Name: smartHEALTH
+Title: European Digital Innovation Hub for Smart Health: Precision Medicine and Innovative E-health Services
+Country: Greece
+Description: The European Digital Innovation Hub on Precision Medicine and Innovative E-health Services (smartHEALTH) brings together internationally leading expertise in the areas of Artificial Intelligence, Cybersecurity, and High Performance Computing, to assist digital transformation and foster innovation in digital health. Its flagship service areas are precision medicine, cancer, and public sector digital transformation. smartHEALTH is in alignment with the vision for Europe’s digital transformation by 2030, by supporting the four pillars of Europe’s Digital Compass: i) Skills, ii) Digital transformation of businesses, iii) digitalisation of public services and iv) secure and performance sustainable digital infrastructures, and The Global Action Plan for Healthy Lives and Well-being for All. Based in Crete, it has nodes in 8 of the 13 regions in Greece, that have been strategically selected as they exhibit major economic & entrepreneurial activity in digital health, and the largest part of the public sector. smartHEALTH offers an integrated set of: i) test before invest services to clients from the private and public sectors, ii) advanced digital skills development to the healthcare ecosystem, iii) support to find investments by triggering additional investments of €30M to SMEs and public organizations through public and private sources, and iv) ecosystem building and networking to create new collaborations between industry, academia, research, public sector & civil society. Specialized expertise for digital transformation will be offered in precision medicine, biomedical informatics, diagnostic imaging, telehealth, administrative automation & digitization, integrated healthcare, personalized care delivery, social care and welfare management. Within the wider EDIH network, smartHEALTH fosters collaborations and networking to offer clients access to innovation and outreach beyond the national borders.
+Contact Person(s): Dimitris Plexousakis
+Phone: +30 2810 391637
+Email: dp@ics.forth.gr
+Location: Nik. Plastira 100, 70013 Irakleio, Greece
+Type: EDIH
+Website: https://smarthealth-edih.eu/en/homepag/
+Active Sectors: Health care (very high involvement), Life sciences (very high involvement), Public administration (very high involvement)
+Provided Services: SME support (very high involvement), Knowledge transfer (very high involvement), Sme Business Development (very high involvement), Technological innovation (high involvement), Ecosystem building (high involvement), Technology transfer (very high involvement), Public sector innovation (very high involvement), Finance (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement)
+------------------------------------------------------------
+EDIH Name: SMIH 3D - Smart 3D Industry Hub
+Title: SMIH 3D - Smart 3D Industry Hub
+Country: Croatia
+Description: "SMart Industry Hub – SMIH” is an industrial cluster consisting of over 20 Croatian and Slovenian companies (18 SMEs of which 3 start-ups and 1 research organisation and 1 ecosystem partner) that have very significant expertise in mechanical and electrical engineering, information technology as well as in the so-called fourth-generation industrial revolution. The cluster has existed for 10 years and has operated under the name “3D grupa – klaster 3D tehnologija”. With the development of 3D technologies, there was a need to join forces in order to ensure a more rapid adoption and application of 3D technologies in industry and science.
+The primary mission of HUB is to increase the competitiveness of local and regional industries by promoting the use of concurrent 3D technologies in their business processes and to provide support and know-how in the following areas:
+
+Providing access to 3D technology and enabling companies to test the technology on resolving their problems
+Providing quality and structured 3D industry-related information to regional companies and institutions
+Ensuring support for implementation of 3D technologies in business processes of the regional industry
+Digital transformation
+Business innovation and strategies development
+Prototyping
+Education coupled with mentoring
+Linking regional industry with international partners
+R&D activities
+B&B networking
+
+The overarching goal of SMIH is to enable cooperation of all key stakeholders of the HUB that contribute to strengthening the industrial potential and competitiveness of domestic industry. Through this collaboration we aim to develop investments in new technologies, innovative products with export potential and high added value. The SMIH's founders and members are constantly working on improving the existing infrastructure as well as building a new one.
+At the present moment, SMIH represents a modern technologically advanced "HUB" providing answers to most questions related to the industry in a broader sense.
+SMIH brings together more than 40 external experts in terms of support for research and development activities in 5 areas of industry and science: natural, technical, biomedical, biotechnical, and architecture and construction.
+HUB works passionately on the identification of new products within its ranks, as well as their development and commercialization. It also works on research, development and innovation programs and projects of its members.
+Through our non-profit activities, we strive to share and distribute the valuable knowledge residing within the HUB network through regular free seminars on 3D technologies, dissemination of information and transfer global industry trends to regional business and educational entities. Furthermore, the Cluster promotes assemblies, exhibitions and similar events and arranges visits to professional fairs.
+In order to achieve its goals and to be able to complete set tasks, the HUB established a regional reference centre for 3D technologies, where we gathered a significant amount of various equipment from the field of 3D technologies for use in everyday industry projects, for educational purposes and for raising technology awareness.
+At the same time, SMIH enables young engineers to get acquainted with the equipment and gain realistic work experience.
+SMIH has leveraged its broad experience in the field of 3D technologies, to build a tailor-made educational framework. The entire range of industrial occupations, from machine operators, technicians to engineers is driven in pursuit of new knowledge and skills necessary to respond to the challenges of the modern industry. Within our daily work, we are involved with the most relevant companies from various industry sectors: automotive, aerospace, consumer goods, power generation, transportation, medical and dental. As these companies will benefit the most from finding skilled employees to engage, we are using our network to communicate all benefits of the project and get all stakeholders involved.
+SMIH – in cooperation with academia and “Callidus, Institute for adult education” established the „3D Academy for 3D Technologies” which currently operates in West Balkan region focusing on transferring knowledge and skills required in today’s labour market. The programmes of 3D Academy are accredited by the Ministry of Science, Education and Sports and the German Chambers of Commerce Abroad. The HUB has also established strong connections with regional Universities.
+
+Finally, SMIH offers digital transformation, business innovation and strategies development, prototyping, education, mentoring, and B2B connection, assistance in the acceptance and implementation of cutting-edge technologies and trends, support in corporate innovation management and integration into the tech community.
+Contact Person(s): Secerkadic Amir
+Phone: +385 1 5790 750
+Email: info@3D-grupa.hr
+Location: Industrijska 3, novaki, Sveta nedelja, Croatia
+Type: DIH
+Website: https://3d-grupa.com/
+------------------------------------------------------------
+EDIH Name: SMILE-DIH
+Title: Smart Manufacturing Innovation Lean Excellence centre - Digital Innovation Hub
+Country: Italy
+Description: SMILE-DIH is a non-profit organization founded in Parma in 2018 as a non-profit association (legally recognized in 2022) which carries out networking, matchmaking, intermediation and dissemination activities in favor of all types of economic entities, in particular SMEs, and public Local administrations, with the aim of helping them become more competitive by improving the innovation of products / production processes / services, as well as the organization through new digital technologies. In particular, SMILE-DIH promotes the transformation of digital production and operational processes towards the Industry 4.0 approach and the sustainability of the value chain in general. The main activities are: - Awareness Dissemination (Meeting, Workshop, etc.) - Supporting activities to industrial companies for Industry 4.0-based project implementation - Support access to tax breaks provided by Piano Industria 4.0 / Transizione 4.0 - Supporting activities for assessing digital readiness - Supporting activities to facilitate manufacturing companies access to innovation regional ecosystem - Design and delivery of training initiatives - Coordination activities for implementing I4.0-based factories The vision of SMILE-DIH is the achievement of waste free «Lean and Smart factories», where the digital and the physical words are completely connected, data are always available and performance deviations can be monitored in real time and addressed immediately. In this cyber-physical system, people do not waste their time, but can devote themselves, completely, to high-value stimulating activities, delegating calculations and routine tasks to robots and computers. Indeed, in case of problems, the system promptly informs human experts and suggests possible solutions, which can be simulated, tested and finally assessed. The mission of SMILE-DIH is threefold: - Make it understood the importance of ICT technologies as the key element to carry on, conjointly, product and process innovation; - To support SMEs in their pathway toward an Industry 4.0 status, through the preliminary analysis of internal processes and the selection, implementation, integration and customization of emerging and/or innovating ICT technologies; - To develop a fully integrated «Digitally Enabled Lean Toolkit» for operational excellence and performance optimization, especially in MTO, ATO and ETO SMEs. SMILE-DIH is founded by Unione Parmense degli Industriali and University of Parma, granted by the EU (No EPCC2017 / LGH / MS) through the I4MS program. We are also part of the Italian network of Confindustria DIHs to support technological transfer between public and private research centers (Universities, Competence Centers, ecc.), part of the innovation ecosystem of the Emilia-Romagna Region and, since december 2022, partner in DIHCUBE (Digital Italian Hub for Construction and Built Environment) project, the EDIH co-financed by the European Commission and the Italian government, created to bring innovation to the world of construction and which aims to increase the levels of digitalisation of the sector through services aimed at the entire supply chain.
+Contact Person(s): Cucinotta Annamaria
+Phone: +39 0521 905765
+Email: smile-dih@upi.pr.it
+Location: Strada al ponte caprazucca 6/a, 43121 Parma PR, Italy
+Type: DIH
+Website: https://www.smile-dih.eu/
+Active Sectors: Agricultural biotechnology and food biotechnology (high involvement), Automotive (high involvement), Construction & Assembly (very high involvement), Consumer products (high involvement), Cultural and creative economy (high involvement), Education (very high involvement), Electricity (very high involvement), Energy (very high involvement), fuels and petroleum engineering (high involvement), Environment (very high involvement), Financial (high involvement), Fishery (high involvement), Food and beverages (very high involvement), Health care (very high involvement), Leather (high involvement), Life sciences (high involvement), Manufacturing and processing (very high involvement), Maritime (low involvement), Metal working and industrial production (very high involvement), Mining and extraction (high involvement), NMP Non-Metallic Materials & basic processes (high involvement), Public administration (high involvement), Real estate (high involvement), wholesale or distribution (high involvement), Telecommunications (very high involvement), Textiles (high involvement), Transport sector (very high involvement), Transport sector (very high involvement), Travel and tourism (low involvement), Paper and wood (high involvement), Polymers and plastics (high involvement), Security (very high involvement), Smart City (very high involvement), Space (low involvement), Tobacco (low involvement), Transport & Mobility (high involvement)
+Provided Services: Circular economy (very high involvement), Ecosystem building (very high involvement), Field trial (very high involvement), Finance (high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Public sector innovation (high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), BI tools (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), products) (moderate involvement), Cloud Services (very high involvement), Communication network (very high involvement), Cyber-physical systems (very high involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), Displays (moderate involvement), Gamification (low involvement), High performance computing (very high involvement), Human computer interaction (very high involvement), Industrial biotechnology (moderate involvement), Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Laser-based manufacturing and materials processing (very high involvement), Location-based applications (moderate involvement), Logistics (very high involvement), optoelectronics (very high involvement), Mobility (high involvement), New technologies for Audio-Visual sector - Media (moderate involvement), Virtual Reality (very high involvement), Organic and large area electronics (moderate involvement), Photonics (very high involvement), Quantum Technologies (computing/communication) (very high involvement), Robotics (very high involvement), Semiconductors and Nanotechnology (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very high involvement), Software Architectures (very high involvement)
+------------------------------------------------------------
+EDIH Name: South Bohemian Digi Hub
+Title: South Bohemian Digi Hub
+Country: Czechia
+Description: South Bohemian Digi Hub is a non profit DIHthat aimstosupport processes dealing with gradual digital transformation of regional companies, and simultaneously support for building digital competencies at schools of all grades, and support of follow-upand long-life learning with regards to development of digital skills. South Bohemian Science and Technology Park is a founding member of the DIH together withTechnology Centre in Písek. 
+The DIH offers opportunities for further development for technology services providers, while to demanding subjects (typically SMEs), whose capacities are insufficient to deal with their issues of digitising production and processess, the hub provides complex know-how and tailor-made servicessolvingtheir needs.
+Activities of theDIH are:
+
+Creatingnetwork of service providers - building functional collaborative grouping of various regional subjects, which are able to offer relatively complex services for digital transformation of processes, products and services
+Test before invest - AI, RPA, VR, AR
+Consultancy services on digitisation including fund raising
+Education in digitisation
+Promotion and marketing
+
+South Bohemian Science and Technology Park is 100% owned by the region of South Bohemia dealing with non-profit supportive activities regarded to development of the regional economic, and particularly innovation ecosystem.
+Contact Person(s): Mlčák Mgr. František
+Phone: 4.20384E+11
+Email: reditel@jvtp.cz
+Location: U zimního stadionu 1952/2, České budějovice, Czechia
+Type: DIH
+Website: http://www.jvtp.cz/en/about-us/our-projects/south-bohemian-digi-hub.html
+------------------------------------------------------------
+EDIH Name: Speedhub
+Title: Fondazione Speedhub
+Country: Italy
+Description: Speedhub is a no-profit foundation established in 2017 by Confindustria Verona, the association representing manufacturing and service companies in the territory of Verona counting a total of more than 2.000 companies (96% SME, most represented sectors are logistics, agri-food, and health) and more than 70.000 employees. Our goal is to support companies to become more competitive by improving their processes as well as products and services by means of digital technologies. Our service portfolio consists of several activities starting from awareness to tailor made consultancies to provide technical support for the development of projects. We want to spread innovation culture through our distinctive competences and thanks to a network of experts who facilitate access to high expertise and new technologies starting from the specific sector, the technological readiness and the business model. We believe in our mission: to be a reference to companies for the development of products, business models and innovation processes using digital technologies. Speedhub offers to SMEs advice and support in identifying and accessing European network, funds and resources, and subsidized financial instruments for the development of digital transformation. Some examples are the Regional Innovation Networks (RIR initiative) or the EU networks to which we belong, such as DIH4CPS, Change2Twin, DIH^2(squared) and DIH World Open Calls. Speedhub is part of several networks with different stakeholders, such as Confindustria Italian DIH, iNEST (InterconnectedNord-EstInnovation), and the EDIH regional network (Neural). We also collaborate with institutions, this allows us to rely on their credibility and reputation. Another player in Speedhub’s network are universities. They are involved in our events to present research on specific topics. We are a key partner for universities, with regards to events promotion and in research projects involvement. We support schools by helping them establish partnerships with companies. Keywords: Logistics,
+Contact Person(s): Francesca Milani
+Phone: 3.90458E+11
+Email: f.milani@confindustria.vr.it
+Location: Piazza cittadella 12, 37122 Verona VR, Italy
+Type: DIH
+Website: https://www.fondazionespeedhub.it/en/?Itemid=0
+Active Sectors: Agricultural biotechnology and food biotechnology (moderate involvement), Automotive (moderate involvement), Construction & Assembly (moderate involvement), Environment (low involvement), Food and beverages (very high involvement), Health care (very high involvement), Life sciences (very high involvement), Manufacturing and processing (high involvement), Metal working and industrial production (moderate involvement), wholesale or distribution (low involvement), Textiles (moderate involvement), Paper and wood (low involvement), Polymers and plastics (low involvement), Transport & Mobility (moderate involvement), Legal Aspects (moderate involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (moderate involvement), Finance (high involvement), Innovation management (high involvement), Prototyping (low involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (moderate involvement), SME support (very high involvement), Technological innovation (very high involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (high involvement), Big data (moderate involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Cyber-physical systems (high involvement), Cybersecurity (moderate involvement), Digital twins (very high involvement), Industrial biotechnology (low involvement), Internet of Things (high involvement), Location-based applications (moderate involvement), Logistics (very high involvement), Mobility (low involvement), Virtual Reality (high involvement), Robotics (high involvement), Sensors & Vision Processing Systems (low involvement), Simulation engineering and modelling (low involvement)
+------------------------------------------------------------

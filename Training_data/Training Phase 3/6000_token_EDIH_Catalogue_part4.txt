@@ -1,0 +1,176 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: AIVHY Industry 4.0 Innovation Hub
+Title: AIVHY ltd.
+Country: Malta
+Description: AIVHY brings lasting & achievable innovation through the principles of Industry 4.0 & IIoT. We do this by breaking up innovation into a road map of smaller achievable steps, where each step provides an excellent return against a realistic investment. Our approach addresses innovation holistically and ensures to continuously reduce the barrier for further innovation. We do all this cyber secure and with a real-world approach. AIVHY was involved in April 2023 regional with Malta Enterprise (government) and provided a training in industry 4.0 in a real world. AIVHY brought in June 2023 the University of Malta and Saxion University of Applied Science (Netherlands) together to start cooperation within the EU Erasmus Program. AIVHY is at the moment in contact with MCAST Malta to seek opportunities of colaboration.
+Contact Person(s): Stanley Muller
+Phone: +356 79019275
+Email: stanleymuller@aivhy.com
+Location: Soho the strand, fawwara building, msida road, Gzira GZR1401, Malta
+Type: DIH
+Website: https://aivhy.com/
+Active Sectors: Automotive (high involvement), Education (moderate involvement), fuels and petroleum engineering (low involvement), Food and beverages (high involvement), Manufacturing and processing (very high involvement), Maritime (high involvement), wholesale or distribution (high involvement), Polymers and plastics (high involvement)
+Provided Services: Innovation management (very high involvement), Knowledge transfer (moderate involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement)
+Technological Focus: Cloud Services (moderate involvement), Communication network (very high involvement), Cybersecurity (moderate involvement), Internet of Things (very high involvement), Logistics (high involvement), Software Architectures (very high involvement)
+------------------------------------------------------------
+EDIH Name: Algarve Smart Destination, Digital Innovation Hub
+Title: Algarve Smart Destination, Digital Innovation Hub
+Country: Portugal
+Description: Algarve Smart Destination (ASD), Digital Innovation Hub (DIH) is as an informal network of private and public institutions focalized in digitalization of economy in the territory, mainly in turism sector, led by the Algarve Systems and Technological Partnership Association (Algarve STP), a non for profit association that incorporates the University of Algarve, the National Association of Young Entrepreneurial (ANJE) and three Municipalities of the Algarve region, namely Loulé, Faro, Olhão and a private association of IT companies, Algarve Evolution
+ASD incorporates the Division of Entrepreneurship and Technology Transfer (CRIA) of the University of Algarve, as an experienced entity in assisting SMEs, entrepreneurs and research centers, scouting and fostering research and development, and implementing innovation. Moreover, CRIA manages an early-stage innovation incubator, aiming to foster startups and spinoffs and support the implementation of applied R&D projects by industry partners. Moreover, CRIA integrates an Intellectual Property Rights (IPRs), assisting researchers, entrepreneurs, startups and SME’s in protecting and transfer knowledge to the market. In the scope of the digitization process, the University of Algarve, CRIA plays a relevant role in providing training courses and services to support the transition to the digital economy.
+Altis is a technological company with large expertise in the field of communication and digitalization, especially trough Altice Labs. The company is an important player, at a national and international level, that reinforces the activity of the Algarve Smart Destination HUB, as well as the innovation and networking potential
+Fraunhofer Portugalcontributes significantly with expertise in the digitation process and in applied research with companies.
+The ASD focuses on linking research institutions, industrial and technological centers, industrial associations, incubators, science and technology parks, industrial companies, technology companies, training institutions, and government agencies.
+More specifically, ASD aims to create linkages, namely:
+
+Between technological providers and technological needs of tourism and smart destination and cities;
+Supporting SME’s in the digitalization process;
+Improving the use of the technological solution for problem-solving in tourism and smart destination and cities;
+Attract innovative and technological providers in the territory, mainly for the tourism sector and management for a smart destination using ICT and process digitalization;
+To create a favorable environment for technological development and experimentation;
+Develop IA and deep learning applied in the tourism sectors and in digital marketing applications
+
+Predictive analysis and deep learning to understanding the tourism industry and IoT process automatization to foster an efficient Smart Destination Management are some of the paths to follow
+Contact Person(s): Costa Jessica
+Phone: 351 932 821 316
+Email: ceo@algarvestp.pt
+Location: Universidade do algarve, campus de gambelas, pavilhão b1, Faro, Portugal
+Type: DIH
+Website: http://www.algarvesmartdestination.com
+------------------------------------------------------------
+EDIH Name: Algebra LAB
+Title: Algebra LAB
+Country: Croatia
+Description: Algebra LAB is an innovation/research and education hub, working as a part of the largest private educational institution in Croatia, Algebra University Group. Algebra LAB represents a one-stop relevant experience point for the application of digital technologies in business.
+Our mission is to provide access to best practices, education, use cases, guidelines and support in applying digital technologies and the development of digital skills in order to help clients address their challenges in a business-focused way and with a common service model, offering services that are not readily accessible elsewhere. By leveraging our expertise, we are providing support on all levels of digital maturity, agnostic to technology, across various sectors, with proven ability to predict future skill needs.
+Algebra LAB as DIH is supporting companies in the region and across sectors respectively with expertise in digital technologies they need for their digital projects and digital transformation in several areas:
+
+Data science&advanced analytics including IoT, AI and blockchain,
+Digital marketing,
+Digital art production and
+Cybersecurity.
+
+DIH is providing access to experts in digital technologies as well as use cases and best educational practice, making possible for companies, and especially SMEs, to utilise DIHs resources in order to focus on quality and competitiveness of their services and market presence. Using the 20 years of our educational/research market legacy, Algebra LAB community includes 600+ experts, 15.000+ participants/year, 1.000+ active students and 50+ industry partners.
+Within Algebra LAB, we established an innovation incubator/accelerator and acquired as its basis the oldest Croatian entrepreneurship incubator ZIP (http://zipzg.com/en/). This enabled us to attain access to funding for SMEs, as well as to develop an innovation ecosystem and incubator/mentoring services.
+As a part of our instituional focus on promotion and raising awareness concerning the importance of digital technologies, we are taking roles and partnerships in regional, national and European policy initiatives for industry digitalization.
+Contact Person(s): Mršić Leo
+Phone: +385 1 2222 182
+Email: leo.mrsic@algebra.hr
+Location: Gradiscanska 24, Zagreb, Croatia
+Type: DIH
+Website: https://www.algebra.hr/lab/
+------------------------------------------------------------
+EDIH Name: AM-EDIH
+Title: European Digital Innovation Hub Boosting Additive Manufacturing through Digital Services
+Country: Sweden
+Description: AM-EDIH is a European Digital Innovation Hub providing world-class services for boosting industrialisation of Additive Manufacturing ("AM") through digitalisation and thereby increasing sustainability and competitiveness of European manufacturing industry. The target clients of AM-EDIH, to which digital AM services will be provided, are 1) SMEs and small mid-caps being i) manufacturers, ii) product developers and iii) solution providers for the new value chains connected to the rapid digitalization of industry, among large enterprises and 2) Public healthcare sector and particularly university hospitals where advanced healthcare services are offered using AM. AM-EDIH has its basis in Western Sweden (Region of VästraGötaland, "RVG") where manufacturing industry constitutes almost half of the region's economy and where research and innovation, e.g. at Chalmers University of Technology ("Chalmers") and Research Institutes of Sweden ("RISE"), is heavily focused on digital manufacturing, and specifically so on digital AM. Moreover, the region's University Hospital (Sahlgrenska) is one of Sweden’s largest hospitals and a hub for strong innovation and clinic research activities, also in AM, in close and broad cooperation with academia, industry and patients. AM-EDIH will focus on developing RVG into a world-leading region for digital AM that can inspire and support other regions in Europe to adopt digital AM to increase sustainability and competitiveness. Through the Swedish regional network of 21 Industrial Development Centres it will also reach the target groups nation-wide. For AM-EDIH it will be very important to network with other EDIHs and EEN to reach other European regions and clients and exchange knowledge, competence, and good practises of digitalisation and thereby contribute to the digital transformation of the European manufacturing industry. RVG, being the 11th most innovative region in Europe (2021), has excellent conditions for achieving this.
+Contact Person(s): Lars Nyborg
+Phone: 46317721257
+Email: lars.nyborg@chalmers.se
+Location: Chalmersplatsen 4, 412 96 Goteborg, Sweden
+Type: Seal of Excellence
+Active Sectors: Manufacturing and processing (very high involvement)
+Provided Services: SME support (very high involvement), Knowledge transfer (very high involvement)
+Technological Focus: Additive manufacturing (very high involvement)
+------------------------------------------------------------
+EDIH Name: Andalucía Agrotech Digital Innovation Hub
+Title: Andalucía Agrotech Digital Innovation Hub
+Country: Spain
+Description: The Digital Innovation Hub (DIH) Andalucía Agrotech is an ecosystem created to help companies in the digitisation process of the agri-food sector. This hub gathers the needs of the agri-food sector, technological services provided by ICT companies, the innovation capacity of knowledge agents and public programmes promoted by the public administration to provide support. The DIH Andalucía Agrotech has been designed to be an instrument to speed-up the implementation of digitization in the agri-food value chain and to provide, in the first phase, the necessary training.
+
+The DIH Andalucía Agrotech is a centre of activity to create, anticipate and channel digital innovation in the agri-food sector, that provides the best conditions to enable sector companies achieve business success in the long-term. It is:
+  • an ecosystem. The Hub has to be understood as a connector and facilitator of all the actors involved in agro-technology. It is the place where the experience and know-how of farmers, livestock producers or agro-industrial experts converge with the innovative talent of technological entrepreneurs, all together with the support of the public sector, as well as with partners and stakeholders of technological and agri-food areas.
+  • a one-stop shop. The Hub has to act as a pool of people, resources and tools (financing, talent, processes, methodologies, knowledge, employment, alliances, etc.), that is to say, it has to be the contact point for all the companies, people and actors related to the agri-food sector and to the implementation of digital technologies in this sector.
+  • based on Competence Centres. They offer technological infrastructures, provide access to the latest knowledge, experiences and technologies to support their customers with pilot, test or experimental projects using digital innovations.
+  • a provider of financial or business support to implement innovations.
+  • a platform. It will be a physical and digital platform that will enable the effective collaboration between the actors of the Hub and will make resources available to them according to the working models established.
+  • the first regional contact point. Proximity is key to strengthen the innovation ecosystem.
+  • a regional and international benchmark hub in the field of agro-technology. Bearing in mind the global environment currently existing, the DIH has to have a double scope: on the one hand, it must be centred on the digitization of the agri-food businesses of Andalusia and, on the other hand, it must work to connect them to other businesses at national and European levels; it must promote the cooperation of actors at regional level, but it must also be a point to generate alliances between our regional initiatives and others beyond our regional borders.
+  • a driver of change. Boosting the digitisation of the agri-food sector is a fundamental task, but not an end in itself. It is a powerful way to not only achieve the competitive improvement of the sector but also to obtain positive social and environmental impacts.
+******
+The Digital Innovation Hub (DIH) Andalucía Agrotech is an ecosystem created to help companies in the digitisation process of the agri-food sector with a non-profit character. This hub gathers the needs of the agri-food sector, technological services provided by ICT companies, the innovation capacity of knowledge agents and public programmes promoted by the public administration to provide support. The DIH Andalucía Agrotech has been designed to be an instrument to speed-up the implementation of digitisation in the agri-food value chain and to provide, in the first phase, the necessary training.
+This DIH Andalucía Agrotech is a centre of activity to create, anticipate and channel digital innovation in the agri-food sector, that provides the best conditions to enable sector companies achieve business success in the long-term.
+We can conclude in this respect that this DIH Andalucía Agrotech is a non-profit ecosystem with non-profit aims.
+Contact Person(s): Teva Fernández Manuel
+Phone: 34610540542
+Email: dih.andalucia.agrotech@juntadeandalucia.es
+Location: Tabladilla s/n, Sevilla, Spain
+Type: DIH
+Website: https://www.andaluciaagrotech.com/
+------------------------------------------------------------
+EDIH Name: Ap-EDIH
+Title: Apulian-EDIH
+Country: Italy
+Description: The Apulian EDIH, Ap-EDIH, is the result of the merging of three Italian EDIH proposals designated as eligible at the national level, all insisting on the Apulian territory, namely: (1) Ap-EDIH (Apulian European Digital Innovation Hub), (2) EDIHAS (European Digital Innovation Hub for Aerospace) and (3) MIHUB (Mediterranean Digital Innovation HUB). It aims to establish on the Apulian regional territory, a single EDIH structure with the needed critical mass to support the Apulian SMEs and PAs operating in sectors significantly impacting on competitiveness, recovery and resilience of the territory, such as: Manufacturing, Agro-food, Energy/Climate/Smart Mobility, Health-Care (devices and systems), Blue Economy and Smart City. Ap-EDIH will focus on vertical value chains such as: textile, furniture, precision agriculture and farming, packaging and food industry, contruction&buildings, waste treatment, automotive, industrial automation, Aerospace, Biomedical devices, personalized medicine, Health-care system, and horizontal value chains such as: logistics and urban mobility digital infrastructures, digital services for citizens, digital services for weather forecasting and biodiversity. The Ap-EDIH network wants to offer to its customers integrated packages of AI, CS and HPC test before invest, skills and training, support to find investment and networking services tailored on actual Apulian SMEs and PAs needs. To enhance its effectiveness Ap-EDIH will specifically develop, with the co-financing of some of its key affiliated partners, solid Best Practices to ensure a uniform take in charge of customers all over the network. Joint activities and services with other EU Hub will be pursued by the Ap-EDIH network in order to contribute to reinforce European digital leadership. A collaboration with EDIH INNOVATE proposal from Austria has been already activated.
+Contact Person(s): Luisa Torsi
+Phone: 3.90805E+11
+Email: presidente@medisdih.it
+Location: Via Amendola 172/5 (legal headquarter), 70126 Bari BA, Italy
+Type: Seal of Excellence
+Active Sectors: Aeronautics (very high involvement), Agricultural biotechnology and food biotechnology (very high involvement), Automotive (very high involvement), Construction & Assembly (very low involvement), Consumer products (very low involvement), Education (very high involvement), Electricity (high involvement), Energy (very high involvement), fuels and petroleum engineering (very high involvement), Environment (very high involvement), Food and beverages (very high involvement), Health care (very high involvement), Life sciences (very high involvement), Manufacturing and processing (high involvement), Maritime (low involvement), Metal working and industrial production (very low involvement), Personal services (high involvement), Polymers and plastics (very high involvement), Public administration (moderate involvement), Security (very high involvement), Smart City (very high involvement), Space (very high involvement), Telecommunications (high involvement), Textiles (very low involvement), Transport & Mobility (very high involvement), Transport sector (high involvement)
+Provided Services: Circular economy (very low involvement), Field trial (low involvement), Innovation management (very low involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Public sector innovation (low involvement), Regional development (high involvement), Smart Specialisation strategies (high involvement), SME support (high involvement), Technological innovation (very high involvement), Technology transfer (high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (moderate involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), products) (very high involvement), Cyber-physical systems (high involvement), Cybersecurity (high involvement), Digital twins (moderate involvement), High performance computing (high involvement), Human computer interaction (very low involvement), Industrial biotechnology (very high involvement), optoelectronics (moderate involvement), Mobility (high involvement), Organic and large area electronics (very high involvement), Photonics (moderate involvement), Quantum Technologies (computing/communication) (very high involvement), Robotics (very high involvement), Semiconductors and Nanotechnology (low involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very low involvement)
+------------------------------------------------------------
+EDIH Name: Applied CPS
+Title: EDIH Applied Cyber Physical Systems for manufacturing, construction and automotive sectors
+Country: Austria
+Description: CPS (cyber-physical systems) represent a central part of digitization 4.0. These are systems in which information and software components are connected to mechanical components. data transfer and -exchange as well as the control and management via an Internet infrastructure take place in real time. Mobile and moving devices, devices and machines, including robots, embedded systems and networked objects interact. Around-the-clock availability and exceptional resilience are just two of the numerous advantages. The complexity of such an individual development and networking for companies requires in-depth know-how, which SMEs and start-ups usually lack. This is exactly where the EDIH Applied CPS comes in.
+EDIH-Applied CPS is a network of technology leaders in Austria. Manufacturing, construction and mobility SMEs benefit from 33 tailor-made services for access to cyber-physical systems, in particular to:
+- Sensor technology and embedded systems- Smart systems integration- Digital twinning and data usage- Blockchain and distributed ledger technology
+Contact Person(s): Martin Benedikt
+Phone: +43 316 873 9048
+Email: edih@applied-cps.at
+Location: Inffeldgasse 21a, 8010 Graz, Austria
+Type: EDIH
+Website: https://www.applied-cps.at/
+Active Sectors: Automotive (very high involvement), Construction & Assembly (very high involvement), Energy (high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Real estate (high involvement), Transport & Mobility (very high involvement), Transport sector (very high involvement)
+Provided Services: Knowledge transfer (very high involvement), Prototyping (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Ecosystem building (high involvement), Circular economy (moderate involvement)
+Technological Focus: Digital twins (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Big data (very high involvement), Cloud Services (moderate involvement), Cyber-physical systems (very high involvement), Cybersecurity (moderate involvement), Internet of Things (very high involvement), Human computer interaction (high involvement), Location-based applications (high involvement), Mobility (very high involvement), Sensors & Vision Processing Systems (high involvement), Semiconductors and Nanotechnology (very high involvement), Simulation engineering and modelling (very high involvement)
+------------------------------------------------------------
+EDIH Name: Aragon EDIH
+Title: Aragon European Digital Innovation Hub
+Country: Spain
+Description: Aragon DIH is an instrument created to boost digitalization in Aragon in an effort to improve the competitiveness of its productive system, the development and enhancement of the results of its innovation ecosystem, the achievement of its smart specialisation and sustainability goals, and putting digitalization in the focus of the Aragonese society as a source for growth, social development, and with a strong transformative effect on employment quality. Aragon DIH joins the efforts of three of Aragon’s most relevant institutions, ITA (Coordinator), IAF and UNIZAR, who have been carrying out activities together since 2017 for the digitalisation of the region and its industries thanks to the DIH initiative, and it is also participated by Aragon’s business associations (CEOE and CEPYME), regional ICT cluster (TECNARA) and the regional Chambers of Commerce (CAMARA) that contribute as connecting arms with the industries. Aragon DIH relies on its outstanding technological capabilities in Data (iSpace since 2018), AI and cognitive systems, HPC, manufacturing processes, robotics and logistics, as key drivers for new developments and innovation opportunities. These, together with its close approach to Aragon’s SMEs, big corporations and public institutions (+100 associated partners at present), confer Aragon DIH the elements for an effective impact. Aragon DIH is a solid mature project with an ongoing track record of collaborations in European projects and networks, looking forward to becoming an important contributor to the EDIH Initial Network through its capabilities, expertise and experience.
+Contact Person(s): Pablo Perez
+Phone: 34976010000
+Email: pperez@ita.es
+Location: Maria de luna 8, 50018 Zaragoza Zaragoza, Spain
+Type: EDIH
+Website: https://www.aragonedih.com/
+Active Sectors: Public administration (very high involvement), Manufacturing and processing (very high involvement), Agricultural biotechnology and food biotechnology (very high involvement), Transport sector (very high involvement), Travel and tourism (moderate involvement), Automotive (very high involvement), Community-Led Local Development (moderate involvement), Cultural and creative economy (moderate involvement), Education (very high involvement), Energy (very high involvement), Aeronautics (moderate involvement), Health care (high involvement), Construction & Assembly (high involvement), Environment (moderate involvement), Metal working and industrial production (very high involvement), wholesale or distribution (moderate involvement), Transport & Mobility (very high involvement)
+Provided Services: Technological innovation (very high involvement), Ecosystem building (very high involvement), Technology transfer (very high involvement), Innovation management (very high involvement), Prototyping (very high involvement), Public sector innovation (very high involvement), Smart Specialisation strategies (very high involvement), Knowledge transfer (very high involvement), SME support (very high involvement), Circular economy (high involvement), Sme Business Development (high involvement), Finance (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Cloud Services (very high involvement), High performance computing (very high involvement), Logistics (high involvement), Robotics (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Digital twins (high involvement), Internet of Things (high involvement), Location-based applications (high involvement), Simulation engineering and modelling (high involvement), Mobility (moderate involvement), Software Architectures (moderate involvement), Sensors & Vision Processing Systems (moderate involvement)
+------------------------------------------------------------
+EDIH Name: Arctic Development Environments Cluster
+Title: Arctic Development Environments Cluster
+Country: Finland
+Description: The Arctic Development Environments cluster provides businesses in Finnish Lapland a one-stop-shop access point to the digital technology expertise and services of its member organisations: universities and research organisations in the region. The cluster supports businesses by helping to improve their processes, products and services by means of digitalisation. The cluster is coordinated by the Lapland University of Applied Sciences, based in Kemi-Tornio and Rovaniemi, and its operations are not-for-profit, with a pricing model based on actual costs. Most of the cluster partner organisations are publicly funded and the revenue is allocated back to the units that have operational costs from providing the service. In addition, the cluster offers businesses services related to R&D funding (access to finance).
+The cluster offers companies support at different stages of the product development cycle. The cluster's services include: contract research; test-before-invest; product development; prototyping; business development; access to technological platforms and innovation spaces; funding mapping and matching; and training.
+The cluster includes 50 modern infra, environments and laboratories (TEFs) and more than 750 experts and specialists, spanning almost the whole of Lapland. The cluster is also in the process of developing inter-regional collaboration to widen the spectrum of digitalisation services available through the cluster.
+The digitalisation services of the cluster can be accessed on the Ardico.fi service portal. The service themes are listed at https://ardico.fi/portal#/themes. These themes include e.g. product testing and analysis, IoT, VR/AR, Cloud services and Big data. The services span the whole TRL scale, with a novel test-before-invest service portfolio.
+The portal also provides businesses with tools to e.g. evaluate their level of enterprise digitalisation: https://ardico.fi/portal#/tools
+The cluster's service model:
+
+The company contacts the cluster.
+The cluster produces a requirement specification based on the company's need.
+The business receives a tender specifying the pricing and schedule of the service.
+If the tender is accepted, a service contract is drawn between the company and the cluster. The pricing is based on the actual costs of the service.
+A group of experts is selected and their work is coordinated by the cluster.
+The cluster assists the company with identifying and applying for suitable R&D funding.
+The cluster submits the results to the company.
+
+The service model has been developed through piloting with SMEs. The cluster’s services are further being developed according to customer needs and feedback. The ultimate goal is to support businesses in developing new products and business models and to launch them with the help of high-quality research.
+Further resources for the region’s development will be acquired through international cooperation. Networking with other Digital Innovation Hubs enables cooperation and planning of new project initiatives and consortia.
+Contact Person(s): Pyyny Raimo
+Phone: +358 40 555 8065
+Email: raimo.pyyny@lapinamk.fi
+Location: Tietokatu 1, Kemi, Finland
+Type: DIH
+Website: https://ardico.fi/portal#/go-digital
+------------------------------------------------------------

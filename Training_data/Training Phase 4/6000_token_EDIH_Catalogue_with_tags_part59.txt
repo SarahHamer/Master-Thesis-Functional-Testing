@@ -1,0 +1,247 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: Umbria Digital Innovation Hub
+Title: Umbria Digital Innovation Hub
+Country: Italy
+Description: UDIH is a no profit entity performing networking, matchmaking, brokerage and dissemination activities.
+The aim of UDIH is to help companies to become more competitive by improving their business/production processes as well as products and services by means of digital technology.
+DIH deals with the promotion of digital manufactoring trasformation towards Industrie 4.0 approach and the Value Chain processes overall.
+In particular the main activities are:
+
+
+Awareness Dissemination (Meeting, Workshop, etc.)
+
+
+Supporting activities to industrial companies for Industry 4.0-based project implementation
+
+
+Support access to tax breaks provided by Piano Industria 4.0
+
+
+Supporting activities for assessing digital readiness
+
+
+Supporting activities to facilitate manufacturing companies access to innovation regional ecosystem
+
+
+Design and delivery of training initiatives
+
+
+Coordination activities for implementing I4.0-based factories
+Contact Person(s): Angelini Luca
+Phone: 00393665618426
+Email: angelini@confindustria.umbria.it
+Location: Via palermo, 80/a, Perugia, Italy
+Type: DIH
+Website: http://dih.confindustria.umbria.it
+Tags: Country:Italy
+------------------------------------------------------------
+EDIH Name: VNG NL DIGI HUB
+Title: Dutch Societal Innovation Hub
+Country: Netherlands
+Description: The Dutch Societal Innovation Hub is the hub for strengthening interregional cooperation for a mission-driven approach in the public sector in times of data and digital technology. Together we are working on responsible, people-centered solutions for the societal challenges around climate-neutral cities and regions, healthy soil and biodiversity, and climate adaptation.  
+Systemic change for societal challenges 
+Major social challenges require innovative policy. Challenges such as circularity and housing are so complex that existing organizational silos must be broken down to create the best solutions for society. In the coming years, the public sector faces the task of redefining its way of working and its role in the ecosystem. We see the emergence of data and digital technology as one of the elements that offer opportunities to involve citizens, businesses and social players in the policy process and implementation and to make policy more adaptive, for example through monitoring climate goals or predicting spatial puzzles with digital twins. This is only effective when not only the technology and data are in order, but also people start working together in a new way. Societal innovation is crucial. 
+A mission-driven approach 
+The Dutch Societal Innovation Hub stimulates cooperation between regions in the Netherlands and in the EU focussed on a mission-driven approach in the public sector in times of data and digital technology. Each municipality and province is working on digital innovation projects. We support in bringing successful projects in the public sector to the next level and to create a common ground for innovation across regions. We focus on new ways of working and societal innovation. The hub focuses on three pillars: 
+1. RETHINK: A mission-driven approach and strategy for digital innovation. 
+2. RESHAPE: A shared innovation infrastructure for the public sector 
+3. RECONNECT: Knowledge sharing and collaboration 
+Collaboration in the ecosystem 
+The Dutch Societal Innovation Hub is set up with 2 umbrella organizations IPO and VNG representing all local and regional public actors. DSIH consists, in addition to the national constituency of municipalities and provinces, of five regional public-private ecosystems:    
+- Data and Knowledge Hub Healthy Urban Living  
+- Digicampus  
+- Municipality of Rotterdam  
+- Urban Development Initiative   
+- Brightlands Public Services Lab  
+Each partner is committed to improve sustainable, healthy and safe living in cities and regions. These ecosystems offer building blocks in the form of development locations (living labs), where the public sector can experiment together with industry and knowledge institutions. The DSIH is part of a wider European network of hubs.
+Contact Person(s): Irene Van Hooff
+Phone: 0031634196159
+Email: irene.vanhooff@vng.nl
+Location: Nassaulaan 12, 2514 JS The hague, Netherlands
+Type: EDIH
+Website: https://living-in.eu/solutions/dutch-societal-innovation-hub
+Active Sectors: Public administration (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (very high involvement), Smart Specialisation strategies (high involvement), Innovation management (moderate involvement), Circular economy (moderate involvement)
+Technological Focus: data (very high involvement), Artificial Intelligence & Decision support (very high involvement), Digital twins (very high involvement), Sensors & Vision Processing Systems (low involvement), Cybersecurity (very low involvement)
+Tags: Country:Netherlands; Sector:Public administration; Service:Ecosystem building; Service:Knowledge transfer; Service:Public sector innovation; Service:Smart Specialisation strategies; Service:Innovation management; Service:Circular economy; Technology:data; Technology:Artificial Intelligence & Decision support; Technology:Digital twins; Technology:Sensors & Vision Processing Systems; Technology:Cybersecurity
+------------------------------------------------------------
+EDIH Name: VRVis GmbH
+Title: VRVis GmbH
+Country: Austria
+Description: The internationally recognised VRVis is Austria‘s leading nonprofit research institution in the field of visual computing and is part of the Austrian Flagship Research Competence Program COMET conducted by FFG. Through our expertise in basic research as well as in applied research, we are instrumental in positioning Austria as a leading technological and knowledge-based region in Europe. Internationality is reflected not only in our scientific network, but also in our team, our cooperation partners as well as clients from all over the world.
+As a nonprofit research institute, VRVis sees its main task in building a bridge between science and industry. To achieve this goal, we build a strong interdisciplinary framework of national and international scientists, researchers, government organizations, SMEs and corporations, other nonprofit institutions as well as industry and cultural experts to develop technologies and solutions to benefit our society. VRVis transfers the know-how of top-level visual computing technology to business and industry and other branches of science to optimally leverage all possible potential through state-of-the-art R&D findings, especially by utilizing the large data sets specific to each branch and sector. We publicise our projects and achievements as well as the various uses of visual computing to the general public through active science communication to contribute to public discussion and raise awareness about technological impacts and advantages.
+The core competence of VRVis is the use of the key enabling technologies data analytics and visual computing to combine the strengths of human perception with the processing power of computers to generate information and images from large and complex data. In this, VRVis focuses on the human user making decisions based on tailor-made visualization methods and solutions ("human in the loop"). Artificial intelligence research, on which VRVis is increasingly focusing, will continue this concept.
+Visual Computing is not limited to any industry, so our research projects at VRVis cover a wide range of data types and applications including engine simulation, image analytics, 3D reconstruction, laser range scans, financial data, energy data, hydrodynamic modelling, automatic segmentation of point clouds, and seismic measurements for oil field research - to just name a few. Our research aims to provide means to visualize, analyze and interact with data to translate the inherent information for the human user as an essential basis for decision-making. The key factors are real-time capability, usability as well as quality and accuracy of the resulting methods and applications.
+Visual Computing is a cross-section technology. This means that there is not a fixed industry area for the application of the research results, but rather a large number of markets using the computer graphics tool. Solutions and prototypes are developed by us according to customer-specific requirements and have direct reference to current tasks in industry and economy. The following is a list of the markets in which we operate:
+
+
+Automotive Industries
+
+
+Climate Change Adaption
+
+
+Cultural Heritage
+
+
+Energy sector
+
+
+Industry and manufacturing
+
+
+Infrastructure and traffic solutions
+
+
+Medicine and biotechnology
+
+
+Geology
+
+
+Planetary science
+
+
+Other markets
+
+
+We collaborate with small and big companies as well as local and international enterprises, but support especially SMEs with our know-how and our broad services in R & D. Especially SMEs benefit through the access to the newest key enabling technologies, which we provide thanks to our award-winning in-house research as well as our extensive international network of scientific partners. Through this we offer SMEs and local enterprises the opportunity to gain a decisive technological advantage.
+Competences
+
+
+Artificial intelligence
+
+
+Machine learning, deep learning
+
+
+Biomedical visualization
+
+
+Image data mining and spatial indexing
+
+
+Image data and open research data management
+
+
+Human computer interaction
+
+
+Visual analytics
+
+
+Virtual reality and augmented reality
+
+
+Interactive visualization
+
+
+Geospatial visualization
+
+
+3D reconstruction
+
+
+Additive manufacturing
+
+
+Disaster management and visual decision support
+
+
+Hydrodynamic simulation and modelling
+
+
+Digital twins
+
+
+Software Platforms
+Many years of intensive research have led to a large number of software components that have developed into platforms and now provide an effective basis for many innovative projects. The fields of application range from high-performance visual computing and biomedical visualisation through to data analysis tools and the evaluation of simulation results.The following VRVis software platforms are being used in a number of application-oriented projects:
+
+
+Brain* for management, analysis and visualisation of very large collections of spatial neuroscientific data
+
+
+Aardvark for smart modelling, photogrammetric reconstruction and interactive presentation
+
+
+GEARViewer is a powerful visualisation framework for infrastructure projects
+
+
+PRo3D short for Planetary Robotics 3D Viewer, is an interactive 3D visualization tool allowing planetary scientists to work with high-resolution 3D reconstructions of the Martian surface.
+
+
+Scenarify combines visualisation, simulation, and analysis techniques to assist decision making in the geospatial domain.
+Contact Person(s): Schmied Stefan
+Phone: +43 1 9089892 204
+Email: schmied@vrvis.at
+Location: Donau-city-straße 11, 1220 Wien, Austria
+Type: DIH
+Website: http://www.vrvis.at
+Tags: Country:Austria
+------------------------------------------------------------
+EDIH Name: WalHub
+Title: WalHub, to boost the digital transformation of  manufacturing companies and the adoption of  key technologies - i.e. AI, HPC, Cybersecurity and IoT - in their industrial and supply chain processes
+Country: Belgium
+Description: Lying at the heart of Europe, Wallonia (the French-speaking region of Belgium) economic history is closely linked to the role of industry, with a strong industrial past in machinery manufacturing and metallurgy. Today, manufacturing is still the driving force behind Wallonia's exports and prosperity. Nevertheless, the foundations of the manufacturing industry need to be considerably strengthened in order to increase technological excellence as well as to facilitate the green and digital transition of the region. WalHub, the regional EDIH, will boost the Walloon manufacturing business helping them to tackle challenges linked to customer expectations by accelerating or enhancing their digital maturity, through experimentation of key technologies (e.g. AI, HPC, CS and IoT), training and upskilling workers to meet the market needs, attracting investments, linking them to the Walloon ecosystem to ease implementation of digital technologies in their production processes and supply chain. Finally, WalHub will connect with the network of EDIHs by offering its services to SMEs from other regions across Europe and will actively engage with other EDIHs to respond promptly to the digital needs of Walloon manufacturing businesses. To support Walloon manufacturing business to achieve greater competitiveness and sustainability at regional level, WalHub, brings together a consortium of complementary and experienced partners that will provide a comprehensive set of services aiming at accelerating the green and digital transformation of industrial and supply chain processes. WalHub is led by the industry and technology federation (Agoria) and involve 2 clusters active in Manufacturing and Transport and Logistics (MecaTech and Logistics in Wallonia), 4 research and competence centers (Sirris, Cenaero, Cetic, Multitel) and an economic development partner (IDELUX). In this project, WalHub also benefits from the support of the Walloon Digital Agency (Agence du Numérique).
+Contact Person(s): Emilie Parthoens
+Phone: +32 2 706 78 45
+Email: emilie.parthoens@agoria.be
+Location: A. Reyers 80 diamant building, 1030 Bruxelles, Belgium
+Type: EDIH
+Website: http://www.walhub.be
+Active Sectors: Manufacturing and processing (very high involvement), Agricultural biotechnology and food biotechnology (high involvement), Health care (high involvement), Polymers and plastics (high involvement), Aeronautics (high involvement), Space (high involvement), Paper and wood (high involvement), Construction & Assembly (high involvement)
+Provided Services: Technological innovation (very high involvement), Ecosystem building (very high involvement), Knowledge transfer (high involvement), Prototyping (high involvement), Circular economy (moderate involvement), Finance (moderate involvement)
+Technological Focus: Internet of Things (very high involvement), Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), High performance computing (very high involvement)
+Tags: Country:Belgium; Sector:Manufacturing and processing; Sector:Agricultural biotechnology and food biotechnology; Sector:Health care; Sector:Polymers and plastics; Sector:Aeronautics; Sector:Space; Sector:Paper and wood; Sector:Construction & Assembly; Service:Technological innovation; Service:Ecosystem building; Service:Knowledge transfer; Service:Prototyping; Service:Circular economy; Service:Finance; Technology:Internet of Things; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:High performance computing
+------------------------------------------------------------
+EDIH Name: WAMA EDIH
+Title: WaMa Innovation Hub
+Country: Poland
+Description: WaMa Innovation Hub (WAMA EDIH) operating in Poland provides services in the one-stop-shop model for SMEs in the field of digital transformation. 
+The project responds to the challenges of the Digital Europe Programme, but also to the EU strategies related to sustainable development policy and Green Deal in the context of the specific needs and specialization of both regions. 
+The main goal of the project is to increase the competitiveness of Polish, local companies and to improve the quality of business services by increasing the level of digital transition, taking into account sustainable development and energy efficiency. 
+Objective 1 - stimulating the growth of digital maturity for SMEs especially from the Robotics, EdTech, Smart City, IoT and AgriTech sectors. Through an accurate diagnosis of needs based on the study of digital maturity and twin transition needs, each beneficiary will receive an individual path of cooperation in the field of development and deployment of AI, Cybersecurity, Advanced Digital Skills, Digital Service Infrastructure and HPC. Objective 2 - creating an ecosystem of European digital innovations through cooperation with other EDIHs, Enterprise Europe Network nodes, clusters, organizations supporting innovative entrepreneurship and local authorities, as well as by associating cooperation between companies. Objective 3 - increasing the maturity of the market, increasing the potential of the market and sectors to be innovative through actions improving the level of use of European funds and all available financial instruments. Objectives 4 - raising the awareness of SME sector regarding the twin transition.
+Contact Person(s): Marcin Czyża
+Phone: 48533303890
+Email: marcin@koalicjadlainnowacji.pl
+Location: al. Armii Ludowej 26 lok. B7, 00-609 Warszawa, Poland
+Type: EDIH
+Website: https://koalicjadlainnowacji.pl/wama-edih/
+Active Sectors: Smart City (very high involvement), Education (very high involvement), Environment (very high involvement), Community-Led Local Development (very high involvement), Agricultural biotechnology and food biotechnology (moderate involvement), Cultural and creative economy (very high involvement), Energy (high involvement), Financial (very high involvement), Life sciences (moderate involvement), Personal services (moderate involvement), wholesale or distribution (very high involvement), Manufacturing and processing (very high involvement), Transport & Mobility (high involvement), Telecommunications (moderate involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (very high involvement), Field trial (high involvement), Finance (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (moderate involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement), Vocational training (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cloud Services (moderate involvement), Communication network (moderate involvement), Cybersecurity (very high involvement), Digital twins (moderate involvement), Gamification (high involvement), High performance computing (very high involvement), Human computer interaction (very high involvement), Internet of Things (very high involvement), Internet Services & Applications (very high involvement), Logistics (moderate involvement), Mobility (moderate involvement), New technologies for Audio-Visual sector - Media (very high involvement), Robotics (very high involvement), Simulation engineering and modelling (high involvement), Software Architectures (very high involvement), Virtual Reality (very high involvement)
+Tags: Country:Poland; Sector:Smart City; Sector:Education; Sector:Environment; Sector:Community-Led Local Development; Sector:Agricultural biotechnology and food biotechnology; Sector:Cultural and creative economy; Sector:Energy; Sector:Financial; Sector:Life sciences; Sector:Personal services; Sector:wholesale or distribution; Sector:Manufacturing and processing; Sector:Transport & Mobility; Sector:Telecommunications; Service:Circular economy; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Cloud Services; Technology:Communication network; Technology:Cybersecurity; Technology:Digital twins; Technology:Gamification; Technology:High performance computing; Technology:Human computer interaction; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Logistics; Technology:Mobility; Technology:New technologies for Audio-Visual sector - Media; Technology:Robotics; Technology:Simulation engineering and modelling; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: WeH
+Title: Wallachia eHub
+Country: Romania
+Description: Wallachia eHub´s mission is to become the digital transformation gateway in the region of South Muntenia and Bucharest-Ilfov, Romania, by providing twin transition services and solutions to both the private sector (start-ups, SMEs, mid-caps) and the public sector. We start from a challenging position as our region is classified as “Emerging Innovator” and Romania ranks last in DESI 2021, being also one of the most exposed regions to climate change and environmental degradation. Therefore, green digital technologies should be the focus of our actions at regional level for environmental and societal sustainability and a more resilient region. Our vision is based on our role as a regional catalyst with many collaborations both nationally and internationally. Consortium partners, as well as the other Wallachia eHub members external to the project, have a previous experience of collaboration and strong interaction within the RSM cluster movement. WeHub capitalizes on a relevant infrastructure through its founders, core team and an additional external 70 members from business associations, universities, clusters, public authorities and technological companies. These strong links reflect WeHub’s value proposition to stimulate the digital green innovations in RSM through: fostering a collaborative ecosystem, capitalising on key structures around our EDIH such as clusters, and providing our flagship approach - Integrated Services for Digital Innovation and Transformation. The Consortium brings together 15 partners harmonising each other’s capabilities to provide specialised services in the form of digital and interoperability solutions applying advanced technologies such as AI, Cybersecurity, Robotics, Mobility, Location technologies (GIS) and Building Information Modelling. WeHub will provide a range of high technology services focusing on logistics engineering, precision agriculture, smart city, dual use services, urban planning and training programmes on key digitalisation concepts.
+Contact Person(s): Costin LIANU
+Phone: 0040740521967
+Email: clianu@gmail.com
+Location: Strada Ion Ghica 13, 030045 Bucuresti, Romania
+Type: EDIH
+Website: https://wallachiaehub.ro/
+Tags: Country:Romania
+------------------------------------------------------------
+EDIH Name: West Ukraine EDIH
+Title: West Ukraine EDIH: accelerating digital transformation in West Ukraine region
+Country: Ukraine
+Description: West Ukraine EDIH fosters the development of digital capabilities among innovation-driven SMEs. It provides favorable conditions for the digital transformation of businesses through access to advanced technologies, with a strong focus on AI and digital solutions for both SMEs and public sector organizations, including local authorities and municipalities. The hub actively involves youth in delivering digital services to SMEs and public institutions. By engaging corporations, academia, entrepreneurs, business associations, and other relevant stakeholders, West Ukraine EDIH generates a real business impact on the regional innovation ecosystem. It accelerates the development and adoption of digital innovations by local manufacturers and serves as a valuable source of new technologies for SMEs.
+Contact Person(s): Nazar Podolchak
+Phone: 3.80681E+11
+Email: nazarpodolchak@gmail.com
+Location: 2 Kolessa Street, Lviv, Lviv oblast, 79000, Ukraine
+Type: Seal of Excellence
+Website: https://lvivdih.com/
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Automotive (high involvement), Community-Led Local Development (very high involvement), Cultural and creative economy (high involvement), Defence (very high involvement), Education (very high involvement), Energy (moderate involvement), Environment (high involvement), Financial (moderate involvement), Health care (moderate involvement), Manufacturing and processing (very high involvement), Personal services (moderate involvement), Public administration (very high involvement), wholesale or distribution (high involvement), Smart City (very high involvement), Telecommunications (moderate involvement), Textiles (moderate involvement), Transport & Mobility (moderate involvement), Transport sector (moderate involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (high involvement), Knowledge transfer (high involvement), Prototyping (high involvement), Public sector innovation (very high involvement), Regional development (high involvement), Smart Specialisation strategies (high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (high involvement), Vocational training (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), BI tools (high involvement), Big data (very high involvement), products) (high involvement), Cloud Services (high involvement), Communication network (high involvement), Cybersecurity (very high involvement), Gamification (moderate involvement), Industrial biotechnology (moderate involvement), Internet of Things (very high involvement), Internet Services & Applications (high involvement), Robotics (high involvement), Simulation engineering and modelling (high involvement), Software Architectures (high involvement), Virtual Reality (moderate involvement)
+Tags: Country:Ukraine; Sector:Agricultural biotechnology and food biotechnology; Sector:Automotive; Sector:Community-Led Local Development; Sector:Cultural and creative economy; Sector:Defence; Sector:Education; Sector:Energy; Sector:Environment; Sector:Financial; Sector:Health care; Sector:Manufacturing and processing; Sector:Personal services; Sector:Public administration; Sector:wholesale or distribution; Sector:Smart City; Sector:Telecommunications; Sector:Textiles; Sector:Transport & Mobility; Sector:Transport sector; Service:Ecosystem building; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:BI tools; Technology:Big data; Technology:products); Technology:Cloud Services; Technology:Communication network; Technology:Cybersecurity; Technology:Gamification; Technology:Industrial biotechnology; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Robotics; Technology:Simulation engineering and modelling; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------

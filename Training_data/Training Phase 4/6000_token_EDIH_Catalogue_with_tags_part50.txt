@@ -1,0 +1,159 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: Photonics Bretagne
+Title: Photonics Bretagne
+Country: France
+Description: Photonics Bretagne is a Photonics Innovation Hub located in Lannion (Brittany, France)integrating a cluster supporting innovation in the field of Photonics and its applications and a research and technology organisation (RTO) expert in the development of specialty optical fibers and components. The cluster supports innovation and industrial and technological development of its members (companies, research centers and schools) in order to generate economic growth and create jobs in Photonics, in Brittany. The cluster gathers more than 100 members today. The RTO of Photonics Bretagne develops, provides and sells custom specialty optical fibers and optical components. The RTO also offers services such as scientific studies, technology transfer and consulting in Photonics.
+Contact Person(s): Méchin David
+Phone: 33296485889
+Email: contact@photonics-bretagne.com
+Location: 4 rue louis de broglie, Lannion, France
+Type: DIH
+Website: http://www.photonics-bretagne.com
+Tags: Country:France
+------------------------------------------------------------
+EDIH Name: PIAP HUB
+Title: PIAP HUB
+Country: Poland
+Description: Ever since PIAP’s origins in 1965 it’s role was to introduce new technologies to industry. PIAP acknowledges the low level of digitalisation in Polish manufacturing companies relative to other European countries and wants to facilitate the upcoming boom in this field in the Mazovian Region and in the whole country. Nowadays PIAP helps companies in the region become more competitive by improving their business/production processes as well as products (and services) by means of digital technology. This is being achieved by offered support with expertise and infrastructure, consulting and training services.
+PIAP’s established role of competence centre for robotics, automation and measurements for industrial purposes has been accompanied by a number of services based on the expertise such as technology audits, technology scouting and technology brokering. By runnig a Hub in Warsaw PIAP intends to extend its impact to the SME sector by offering services to companies which currently have a relatively low level of digitisation and which do not have the resources or personnel to address the digitisation challenge.
+
+The hub has access to a number of labs used for scientific and commercial purposes. These are being integrated in processes supporting business in order introduce the one-stop-shop principle. Our goal is to have the capacity to offer companies possibilities to test and experiment with technologies. To support the technology providers and users to carry out an experiment and to test whether the proposed approach would indeed be beneficial for the user. At the same time this experiment can be useful for the provider that has an early customer and can adapt the technology to the needs of a certain class of users.
+
+Technologies developed by PIAP, its partners and clients may take advantage of PIAP’s commercialization good practices offered in the form of supporting service. Upon request they will be subject to commercialization potential evaluation by PIAP special purpose vehicle PIAP-Scientech Sp. z o.o.. The methodology developed in cooperation with an SPV of the Warsaw University of Technology will be applied. If the technologies show potential of commercialization, the process will be launched and the success fee will be distributed among parties involved in commercialization and R&D. Several networks and organizations (National Chamber o Commerce, Polish Institute of Technology, VCs and intermediaries running investment opportunities scans) will be involved in the process. Playing the role core partner in PIAP HUB Fundingbox Accelerator Sp. z o.o. provide access to cascade funding, acceleration andincubation programs and cascade funding distribution.
+The role of the animator of the hub will be not only to offer its expertise and resources but most of all to integrate the potential of the whole ecosystem of public and private labs, technology and service providers. Hundreds of project implemented by PIAP resulted in a great network of partners from all sector. Their potential will add to the background PIAP already has and result in creation of a vibrant hub participating in international networks and national initiatives.
+Contact Person(s): Lipiec Krzysztof
+Phone: +48 22 874 00 18
+Email: krzysztof.lipiec@piap.lukasiewicz.gov.pl
+Location: Aleje jerozolimskie 202, Warsaw, Poland
+Type: DIH
+Website: https://piap.lukasiewicz.gov.pl
+Tags: Country:Poland
+------------------------------------------------------------
+EDIH Name: PICS2
+Title: Puglia Innovation Center for Safety and Security
+Country: Italy
+Description: Puglia Innovation Center for Safety and Security (PICS2) aims to support Public Bodies and small and medium enterprises operating in Industrial Development Areas and in Special Economic Zones, by transferring culture and awareness to ease and speed up the process of digital and green transition and enhance its impact on personnel. To facilitate change to digital, PICS2 will focus on the issues of intelligent integration of data and services, safety (health and welfare of people, environmental protection, prevention and protection from natural disasters) and security (protection of industrial, logistics, customs and energy infrastructure, both in physical and digital terms). Services will be provided in four key areas: Technologies, Business, Ecosystem and Training. A strict collaboration with others national and European EDIH will be established to explore synergies and management options for digital transition.
+Contact Person(s): Patrizia Guida
+Phone: 3.93482E+11
+Email: guida@lum.it
+Location: S.s. 100 km. 18,00, 70010 Casamassima (ba) TA, Italy
+Type: Seal of Excellence
+Active Sectors: Aeronautics (very high involvement), Agricultural biotechnology and food biotechnology (very high involvement), Construction & Assembly (high involvement), Education (very high involvement), Food and beverages (high involvement), wholesale or distribution (high involvement)
+Provided Services: Ecosystem building (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: products) (high involvement), Cybersecurity (very high involvement), Location-based applications (high involvement)
+Tags: Country:Italy; Sector:Aeronautics; Sector:Agricultural biotechnology and food biotechnology; Sector:Construction & Assembly; Sector:Education; Sector:Food and beverages; Sector:wholesale or distribution; Service:Ecosystem building; Service:Technological innovation; Service:Technology transfer; Technology:products); Technology:Cybersecurity; Technology:Location-based applications
+------------------------------------------------------------
+EDIH Name: PID BERGAMO SVILUPPO
+Title: PID BERGAMO SVILUPPO
+Country: Italy
+Description: PID Bergamo Sviluppo is a non-profit organization, established in the second half of 2017 and managed by the Special Agency of the Chamber of Commerce of Bergamo, named Bergamo Sviluppo: https://www.bergamosviluppo.it/sito/sviluppo-e-innovazione/pid-punto-impresa-digitale.html
+In Italy, PIDs and DIHs together with Technology Transfer Centres, Universities and innovation clusters, share the responsibility to provide services for the digitalization of SMEs.
+PID Bergamo Sviluppo is part of the 88 PID distributed in Italy created by the “National Plan Impresa 4.0 2017-2020” implemented in May 2017 by the Italian Ministry of Economic Development (hereinafter MiSE): https://www.puntoimpresadigitale.camcom.it/paginainterna/cosa-sono-punti-impresa-digitale-network-impresa-40
+PID Bergamo Sviluppo is a one stop shop that offers solutions and services to help SMEs with the digitalization process. Our support, as other DIHs, is focused on:
+
+workshops on Industry 4.0 items and on enabling technologies;
+training on the job through experience center based on lean production (labour and service intensive);
+self-analysis to define the digitalization level of the local business companies (SELFI4.0)
+one to one consulting through expert insight, an original approach to creative problem solving and cost-effective delivery (ZOOM4.0)
+economic support through Digital voucher provided by Bergamo Chamber of Commerce.
+
+We are part of Bergamo Sviluppo, recognized by the Lombardy Region as a Research and Technology Transfer Center (RTTC) within the QUESTIO system and by IASP (International Association of Science Parks and Areas of Innovation) as a Science Park since 2013.
+Bergamo Sviluppo’s Science Park is located in Dalmine and for 6 years hosts the Business Incubator (active since 2001). The project aims to develop high growth potential business and supporting, at a local and national level, aspiring entrepreneurs or self-employed who wish to work in the field of innovative services or manufacturing activities. The Business Incubator of Bergamo Sviluppo is the ideal place for the growth of innovative ideas, thedevelopment of new technologies, the creation of stimulating synergies and business opportunities.
+Contact Person(s): Arrigoni Cristiano
+Phone: 00390353888011
+Email: arrigoni@bg.camcom.it
+Location: Via sebastiano zilioli, 2, Bergamo, Italy
+Type: DIH
+Website: https://www.bergamosviluppo.it/sito/sviluppo-e-innovazione/pid-punto-impresa-di…
+Tags: Country:Italy
+------------------------------------------------------------
+EDIH Name: Plan4all
+Title: Plan4all z.s.
+Country: Czechia
+Description: Plan4all, as a Digital Innovation Hub, specializes in integrating open data and implementing advanced technologies for sustainable development planning. Their activities include managing and making diverse datasets accessible, particularly in spatial planning, agriculture, and environmental management. They leverage Geographic Information Systems (GIS), remote sensing, and big data analytics for spatial analysis. Plan4all fosters collaboration by connecting public authorities, private companies, academia, and NGOs, creating a network for knowledge exchange. They emphasize capacity building through training, workshops, and webinars, and engage in research and development, particularly in applying spatial data for planning. Additionally, Plan4all supports policy-making with data-driven insights and advocates for the use of open data and open-source tools, contributing significantly to the open data community. Plan4all's membership in various prestigious organizations highlights its commitment to promoting open data and digital innovation in various sectors. As a member of the Global Open Data for Agriculture and Nutrition (GODAN), Plan4all supports the global effort to make agricultural and nutritionally relevant data available, accessible, and usable for unrestricted use worldwide. Their involvement with the Open Geospatial Consortium (OGC) aligns with their focus on geospatial data and standards, contributing to the development of open standards for geospatial and location-based services. Being a part of the Big Data Value Association (BDVA) allows Plan4all to engage with the broader European Big Data community, focusing on driving innovation and excellence in data-driven technologies. Their membership in the Research Data Alliance (RDA) reflects their commitment to improving data sharing and interoperability, which is crucial for research and innovation. Furthermore, as one of the Participating Organizations of the Group on Earth Observation (GEO), Plan4all actively contributes to global initiatives that leverage Earth observation data for the benefit of society, particularly in areas like environmental monitoring and sustainable development. Through these memberships, Plan4all not only contributes its expertise but also gains valuable insights and collaborations, reinforcing its role as a key player in the digital innovation landscape.
+Contact Person(s): Tomas Mildorf
+Phone: 4.20736E+11
+Email: mildorf@plan4all.eu
+Location: K rybnicku 557, 33012 Horní bříza, Czechia
+Type: DIH
+Website: https://hub.plan4all.eu/
+Active Sectors: Agricultural biotechnology and food biotechnology (very high involvement), Education (high involvement), fuels and petroleum engineering (very low involvement), Environment (high involvement), Life sciences (low involvement), Travel and tourism (moderate involvement), Smart City (low involvement), Space (very high involvement), Transport & Mobility (moderate involvement)
+Provided Services: Ecosystem building (low involvement), Field trial (low involvement), Knowledge transfer (moderate involvement), Prototyping (high involvement), Public sector innovation (moderate involvement), Regional development (high involvement), SME support (high involvement), Technological innovation (very high involvement)
+Technological Focus: Big data (moderate involvement), Blockchain and Distributed Ledger Technology (DLT) (low involvement), Cloud Services (high involvement), Digital twins (very high involvement), Internet of Things (high involvement), Internet Services & Applications (moderate involvement), Location-based applications (very high involvement), Mobility (high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (moderate involvement)
+Tags: Country:Czechia; Sector:Agricultural biotechnology and food biotechnology; Sector:Education; Sector:fuels and petroleum engineering; Sector:Environment; Sector:Life sciences; Sector:Travel and tourism; Sector:Smart City; Sector:Space; Sector:Transport & Mobility; Service:Ecosystem building; Service:Field trial; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:SME support; Service:Technological innovation; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Digital twins; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Location-based applications; Technology:Mobility; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling
+------------------------------------------------------------
+EDIH Name: Pôle EMC2 Competitiveness cluster for innovation in production technologies
+Title: Pôle EMC2 Competitiveness cluster for innovation in production technologies
+Country: France
+Description: EMC2 is a French competitiveness cluster created in 2005 in the framework of a national initiative for industry competitiveness, operating in the Pays de la Loire and Brittany regions on Advanced Manufacturing Technologies.
+The association gathers all the actors of innovation around key markets and technologies to foster the emergence of collaborative projects of R&D. The aim is to reinforce the innovation territorial ecosystem by structuring 4 sectors – aeronautics, naval, ground transportation and energy – in a common and transversal approach: the advanced manufacturing technologies. The vision of the cluster is to promote business development through collaborative innovation, building an innovation path mixing skills, markets and technologies to make innovation R&D projects emerge. EMC2 activities are enhanced by the IRT Jules Verne (Research and Technological Center) created 3 years ago at the initiative of the cluster.
+EMC2 leads a network of 380 members composed of SMEs, Large Entreprises (LEs) such as Airbus, STX Europe, Naval Group, Solvay, Dassault… as well as the Research & Technical Organisations of our territory (Ecole Centrale de Nantes, Université de Nantes, Ecole des Mines de Nantes,...). At the end of 2016, the global budget of R&D reached 1.395 bn € for 230 projects launched, including 523M€ of public funds.
+Contact Person(s): Touzeau Josselyn
+Email: josselyn.touzeau@pole-emc2.fr
+Location: Technocampus composites, chemin du chaffault, 44340 Nantes, France
+Type: DIH
+Website: http://www.pole-emc2.fr/
+Tags: Country:France
+------------------------------------------------------------
+EDIH Name: POLIDIH
+Title: Pollisia digital innovation hub
+Country: Ukraine
+Description: The Polissia Digital Innovation Hub (POLIDIH) is a pioneering initiative that aims to drive digital transformation and sustainable development in the Polissya region of Ukraine. Using advanced geographic information systems (GIS), satellite data analytics, and modern digital technologies, POLIDIH enables enterprises, government agencies, and communities to optimize decision-making, improve resource management, and foster innovation.
+Focusing on supporting key areas such as small and medium-sized businesses, ecology, industry, agriculture, forestry, public administration, and local self-government, POLIDIH provides customized solutions that address pressing regional challenges. The hub’s comprehensive services range from GIS-based spatial analysis and environmental monitoring to capacity-building programs and funding support, ensuring a holistic approach to digital progress.
+As a cornerstone of regional innovation, POLIDIH bridges the gap between local needs and global expertise, creating a robust ecosystem for collaboration, knowledge sharing, and sustainable growth.
+Contact Person(s): Tetiana Fedoniuk (international cooperation) Vita Buhaychuck (intra-ukrainian cooperation)
+Phone: +380686775995 (international cooperation) +38067390 55 70 (intra-ukrainian cooperation)
+Email: polidih.ukraine@gmail.com
+Location: Polissia National University, Staryy blvd., 7, Zhytomyr, Zhytomyrs'ka oblast, 10008, Ukraine
+Type: EDIH
+Website: http://polidih.com.ua/
+Active Sectors: Community-Led Local Development (very high involvement), Education (very high involvement), Environment (very high involvement), Manufacturing and processing (very high involvement), Public administration (very high involvement), Travel and tourism (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Vocational training (very high involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (high involvement), Digital twins (very high involvement), Big data (very high involvement), Communication network (very high involvement), data (very high involvement), Gamification (high involvement), Internet of Things (very high involvement)
+Tags: Country:Ukraine; Sector:Community-Led Local Development; Sector:Education; Sector:Environment; Sector:Manufacturing and processing; Sector:Public administration; Sector:Travel and tourism; Service:Ecosystem building; Service:Field trial; Service:Knowledge transfer; Service:Public sector innovation; Service:Regional development; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Service:Vocational training; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Digital twins; Technology:Big data; Technology:Communication network; Technology:data; Technology:Gamification; Technology:Internet of Things
+------------------------------------------------------------
+EDIH Name: POLYTRONICS
+Title: Innovation Hub for Smart Polymers and Digital Technologies
+Country: France
+Description: Polytronics is dedicated to supporting SMEs in their digital transition, in respect of Artificial Intelligence (AI), with a focus on the polymer industry: plastics, textiles, elastomers & rubbers, composites. Indeed, these industries are often traditional and conservative (notably in the textile sector with quite often production machines lacking mere sensors) yet suffer from the lack of data exploitation even though their manufacturing lines may be equipped with sensors. Polytronics aims to help companies in the polymers industry in their digital maturity by leveraging the use of Artificial Intelligence (AI) based on exploitable data from their products and manufacturing processes. Polytronics gathers 7 specialists in AI, robotics, data management and exploitation, 3 partners specialised in sensors integration, 2 partners specialised in mechatronics to support proofs of concept in industry, 5 technical centers specialised in targeted polymer sectors, and 2 innovation clusters. Experts in polymers will support AI experts in understanding and adapting the needs and pain point of the SMEs in the polymer industry. Therefore, SMEs will benefit from the crossed expertise to facilitate the implementation of AI in their business, without negative disruption of their business. Polytronics dedicate 70% of its budget, 3.3M€ over 3 years to the provision of services to SMEs. Besides this core activity, Polytronics partners will merge and update its website and two key platform, a marketplace and a knowledge management platform, to implement a web portal which will be the one-stop-shop for SMEs, therefore facilitating their access and user journey. This web portal will allow notably gathering data and indicators to feed the DTA with the digital maturity evolution of the polymer sector targeted by Polytronics. Finally, clustering activities, communication and dissemination will allow implicating Polytronics in the whole EDIH network.
+Contact Person(s): Adèle Seguin
+Phone: +33 (0)642140234
+Email: polytronics@polymeris.fr
+Location: 180 rue pierre et marie curie maison des entreprises, 01115 Bellignat, France
+Type: EDIH
+Website: https://polytronics.eu/
+Active Sectors: Manufacturing and processing (very high involvement), Polymers and plastics (very high involvement), Textiles (very high involvement), NMP Non-Metallic Materials & basic processes (high involvement)
+Provided Services: Circular economy (high involvement), Prototyping (very high involvement), Ecosystem building (very high involvement), SME support (very high involvement), Technological innovation (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Additive manufacturing (high involvement), products) (high involvement), Laser-based manufacturing and materials processing (high involvement), Sensors & Vision Processing Systems (moderate involvement)
+Tags: Country:France; Sector:Manufacturing and processing; Sector:Polymers and plastics; Sector:Textiles; Sector:NMP Non-Metallic Materials & basic processes; Service:Circular economy; Service:Prototyping; Service:Ecosystem building; Service:SME support; Service:Technological innovation; Technology:Artificial Intelligence & Decision support; Technology:Additive manufacturing; Technology:products); Technology:Laser-based manufacturing and materials processing; Technology:Sensors & Vision Processing Systems
+------------------------------------------------------------
+EDIH Name: pro_digital
+Title: pro_digital EDIH
+Country: Germany
+Description: What are the goal and target groups of pro_digital?
+The main goal of pro_digital is to become a one-stop agency for "twin digital and green transformation" in the Brandenburg region. More digitalisation, more sustainability, less resource consumption and CO2 emissions.
+In the coming months and years, pro_digital will support start-ups, SMEs and midcaps (in short: SMEs) and governmental organisations (public administrations, in short: GOs for Governmental Organisations) in this transformation: higher digital maturity for a more resilient, sustainable, circular, regenerative and green economic growth. pro_digital thus also contributes to the successful structural transformation of Brandenburg. 
+What does pro_digital offer?
+pro_digital offers knowledge, practical know-how and access to various digital technologies to support businesses and public administrations to increase their performance and competitiveness.
+pro_digital will provide a portfolio of offers for the target groups in the areas of:
+
+Training and information
+Testing environments to test technologies in real contexts 
+Information on public and private funding for digital transformation
+Contact Person(s): Tobias Pradel
+Phone: +49 3375 508 673
+Email: tobias.pradel@th-wildau.de
+Location: Hochschulring 1, 15745 Wildau, Germany
+Type: EDIH
+Website: https://edihprodigital.eu/en
+Active Sectors: Construction & Assembly (high involvement), Education (high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Public administration (high involvement)
+Provided Services: Innovation management (high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Public sector innovation (moderate involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (very high involvement), Digital twins (low involvement), High performance computing (low involvement), Internet of Things (high involvement), Location-based applications (moderate involvement), Robotics (very high involvement), Virtual Reality (very high involvement), Sensors & Vision Processing Systems (high involvement), Cybersecurity (high involvement)
+Tags: Country:Germany; Sector:Construction & Assembly; Sector:Education; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:Public administration; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Digital twins; Technology:High performance computing; Technology:Internet of Things; Technology:Location-based applications; Technology:Robotics; Technology:Virtual Reality; Technology:Sensors & Vision Processing Systems; Technology:Cybersecurity
+------------------------------------------------------------

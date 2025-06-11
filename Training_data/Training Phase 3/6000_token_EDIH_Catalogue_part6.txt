@@ -1,0 +1,170 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: BIBA- Bremer Institut für Produktion und Logistik GmbH
+Title: BIBA- Bremer Institut für Produktion und Logistik GmbH
+Country: Germany
+Description: „BIBA - Bremer Institut für Produktion und Logistik“ is a research institute focused on engineering science. It was founded in July 1981 as one of the first affiliated institutes of the University of Bremen and counts as one of the largest research facilities in the federal state of Bremen. It consists of two divisions, “Intelligent Production and Logistics Systems”, headed by Prof. Dr.-Ing. Michael Freitag and “ICT applications for Production”, headed by Prof. Dr.-Ing. Klaus-Dieter Thoben. Based on distinct fundamental research BIBA carries out applied and contract research, both on national and international level, in the areas of production and logistics for relevant industries like logistics management, automotive, aviation and wind energy. Furthermore BIBA is involved in an Collaborative Research Center of the German Research Foundation and the University of Bremen, as well as the Bremen Research Cluster for Dynamics in Logistics (LogDynamics) and the International Graduate School for Dynamics in Logistics. With the LogDynamics Lab, the institute operates a demonstration and application center for innovative mobile technologies in logistics.
+Contact Person(s): Thoben Klaus-Dieter
+Phone: +49 421 218 50006
+Email: er@biba.uni-bremen.de
+Location: Hochschulring 20, Bremen, Germany
+Type: DIH
+Website: http://www.biba.uni-bremen.de/
+------------------------------------------------------------
+EDIH Name: BioNanoNet Forschungsgesellschaft mbH (BNN)
+Title: BioNanoNet Forschungsgesellschaft mbH (BNN)
+Country: Austria
+Description: Network services, safety strategies for industry, project development, support for research
+BioNanoNet is an Austrian scientific network that specializes in Key Enabling Technologies (KETs) on national and international level, with a strong focus on bio- and nanotechnologies.
+BioNanoNet has the clear aim of supporting innovative interdisciplinary research by forming cooperative networks and synergistic collaborations, with special emphasis on nanotoxicology, health, safety & (nano)medicine and sensor technologies.
+The BioNanoNet Forschungsgesellschaft mbH is European key player in the field of nanosafety, specialised in developing nano-safety-by-design strategies together with researchers and industry, and coordinates the national technology platforms NanoMedicine-Austria and SusChem-AT.
+Additionally, the BioNanoNet GmbH supports national and international research projects in coordination, management, dissemination and communication.
+Contact Person(s): Falk Andreas
+Phone: 4.36992E+12
+Email: andreas.falk@bnn.at
+Location: Kaiser-josef-platz 9, 8010 Graz, Austria
+Type: DIH
+Website: http://www.bnn.at
+------------------------------------------------------------
+EDIH Name: BioSense Institute - Institute for research and development of information technology in biosystems
+Title: BioSense Institute - Institute for research and development of information technology in biosystems
+Country: Serbia
+Description: BioSense Institute (Institute for Research and Development of Information Technology in Biosystems) is a leading Serbian Digital Innovation Hub focused on bringing together various stakeholders from industry, the field of research, entrepreneurial community and the general public.As such, BioSense acts as a non-profit one-stop-shop, supporting primarily SMEs within their digital transformation process while connecting research, entrepreneurship, science and digital solutions.
+As research and technology are at its core, DIH offers:
+
+Business support
+ecosystem networking,
+dissemination activities,
+matchmaking,
+equipment and testing,
+state-of-the-art lab facilities,
+training,
+support in finding investment.
+
+In order to achieve its mission of digitalizing agriculture in Serbia, DIH is also providing equipment and educational content on digital innovations and its potentials to agricultural high schools.
+As DIH ecosystem in Serbia and the region is still in the early stages, BioSense works towards fulfilling its mission of bringing digital solutions to the broad farm-to-fork value chain. This is achieved by using its strong technical talent, its scientific excellence; and its understanding of the market. Innovations supported by BioSense are explored among farmers, advisory services, entrepreneurs, high schools, university graduates and professors.The lean multi-actor approach allows for innovation to be deeply knitted into various parts of society while allowing our stakeholders to contribute to the way we innovate by giving us valuable feedback and needs for further advancement.
+The activities and accomplishments of BioSense DIH have been recognized both in Serbia and internationally. Over the past five years,&BioSense has been involved in some of the largest DIH based projects such as, IoF2020, SAHs, agROBOfood and DIATOMIC. Our DIH is also part of the Smart anything anywhere initiative, supporting SMEs with access to funding and expertise.
+In addition, the Institute works with large multi-national corporate stakeholders from industries such as computer software, gaming and insurance, national bodies such as the Ministry of Agriculture, Forestry and Water Economy and the Cabinet of the Prime Minister as well as with citizens, farmers, educational institutions, other DIHs, policymakers, etc.Through these projects and activities, BioSense has not only contributed to digitizing the Serbian society but has also made a Europe-wide impact and continues to work on pioneering technologies and solutions.
+Contact Person(s): Milica Trajković
+Phone: +381 64 38 40 462
+Email: trajkovic@biosense.rs
+Location: Dr Zorana Đinđića 1, 21000 Novi Sad, Serbia
+Type: DIH
+Website: http://biosense.rs/
+------------------------------------------------------------
+EDIH Name: BIREX plus plus
+Title: HPC & Big Data Processing for a more digital and sustainable Manufacturing
+Country: Italy
+Description: Based on complementarity of roles, a unique specialization on HPC & Big Data Processing for Sustainable Digital Manufacturing and a critical mass of capacity, BIREX++ merges together 15 Italian Champions to provide EU SMEs a full set of innovation and support services to support their twin transition into a more digital and sustainable business world. The Partnerships comprises: Highly-specialized Technologies and Service Providers with a unique critical mass of capability and skills: BIREX, CINECA, University of Bologna, National Inter-University Consortium for Information Technology, ATOS and TIM; Industry Federation and their DIHs with unique access to SME and connection with National Network: Confindustria Emilia-Romagna Ricerca, CNA Emilia-Romagna, PICO (DIH Lega-Coop); International Organization highly specialized in Networking and Ecosystem Management: EIT Manufacturing South, International Foundation Big Data and Artificial Intelligence for Human Develop; Champions in access to Finance and Capitals: Intesa Sanpaolo and Warrant Hub. As a support gateway for industry digitization towards advanced digital technologies, the proposed HUB is built to coordinate key actors on the Italian territory to let them work together in support to the SMEs providing a full set of integrated services, mainly: test-before-invest, training and skills, networking and access to ecosystems, support to find investments. To this end, BIREX++ aims to: (1) coordinate unique technological infrastructures and digital skills on HPC, Big Data and Cloud Computing, Applied-AI and 4.0 enabling technologies; (2) strengthen the capability to engage Manufacturing SMEs in a transformation journey to trigger additional investments; (3) deliver financial advisory services to access finance and capital; (4) establish a full set of networking opportunities and contribute to build a working initial EDIH Network.
+Contact Person(s): Danilo Mascolo
+Phone: 3358107380
+Email: danilo.mascolo@bi-rex.it
+Location: Via Paolo Nanni costa 14, 40133 Bologna BO, Italy
+Type: Seal of Excellence
+Active Sectors: Manufacturing and processing (very high involvement), Smart City (high involvement), Telecommunications (high involvement), Consumer products (very high involvement), Health care (high involvement), Space (high involvement), Textiles (high involvement), Transport & Mobility (high involvement)
+Provided Services: Field trial (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Circular economy (high involvement), Ecosystem building (high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Cloud Services (high involvement), Cybersecurity (high involvement), Digital twins (very high involvement), High performance computing (very high involvement), Internet of Things (very high involvement), Laser-based manufacturing and materials processing (very high involvement), Robotics (very high involvement), Virtual Reality (very high involvement)
+------------------------------------------------------------
+EDIH Name: BITF
+Title: Business Technology Incubator of Technical Faculties Belgrade
+Country: Serbia
+Description: The Business Technology Incubator of Technical Faculties Belgrade (BITF) is Serbia’s first and leading business technology incubator that provides comprehensive support to young, educated people in developing innovative ideas and starting their own businesses (more than 120 start-up companies supported). For more than a decade, BITF has maintained close links with young innovators and students and through numerous activities and trainings encourages the development of new startup teams, the commercialization of innovation and R&D results, as well as the creation of new hi-tech SMEs. Founded by four technology faculties of the University of Belgrade, the Municipality of Palilula and the Democratic Transition Initiative, today BITF is a part of Science Technology Park Belgrade (STP Belgrade) in charge for supporting startups at the early stages of development (Incubation Program).
+We participated in the development of the Stratap Ecosystem Strategy of the Republic of Serbia for the period 2021-2025.We participate in the implementation of the StarTech program organized by NALED, which is aimed at financing the digital transformation of MSMEs.As DIH, we are partners in the DIH4AI Cognition-driven predictive  maintenance of Solar power plants project financed by European Commissionwithin the Horizon 2020 Project entitled ‘DIH4AI AI on-demand platform for regional interoperable DIHs Network’.
+Contact Person(s): Jovana Vasic
+Phone: 3.81649E+11
+Email: jovana@bitf.rs
+Location: Veljka Dugosevica 54, 11000 Belgrade, Serbia
+Type: DIH
+Website: https://ntpark.rs/en/incubator/
+Active Sectors: Agricultural biotechnology and food biotechnology (moderate involvement), Automotive (moderate involvement), Community-Led Local Development (moderate involvement), Construction & Assembly (high involvement), Consumer products (high involvement), Education (moderate involvement), Electricity (high involvement), Environment (high involvement), Financial (very high involvement), Health care (high involvement), Manufacturing and processing (high involvement), Personal services (high involvement), wholesale or distribution (high involvement), Telecommunications (high involvement), Smart City (high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Regional development (very high involvement), Smart Specialisation strategies (high involvement), Technological innovation (high involvement), Technology transfer (moderate involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (high involvement), Big data (high involvement), BI tools (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Communication network (high involvement), Displays (high involvement), Gamification (high involvement), Internet of Things (high involvement), Internet Services & Applications (high involvement), Laser-based manufacturing and materials processing (high involvement), Logistics (high involvement), Virtual Reality (high involvement), Robotics (high involvement), Software Architectures (high involvement)
+------------------------------------------------------------
+EDIH Name: BOOST Robotic EastNL
+Title: EDIH BOOST Robotics East Netherlands
+Country: Netherlands
+Description: The East-Netherlands’ economy is predominantly a lively network of SMEs of which many struggle with digital transformation. The EDIH is key to make these SMEs ready for the future digital and green economy and to embed them more prominently in European value chains. EDIH BOOST ROBOTICS EASTNL focuses on Robotics & Sensing in the region’s key sectors Manufacturing, Agrifood and Health. Main objectives are: • To make 350 SMEs in these sectors future proof by increasing their digital maturity with the EDIH’s services • To raise awareness for digital transformation of 1500 SMEs with the EDIH’s services The EDIH will connect, focus and scale the existing ecosystem. It is rooted in DIH BOOST Smart Industry (est. 2016) and builds on fieldlabs, skillslabs and DIH (networks) in the region (DIH-HERO, DIH-RIMA, DIH agROBOfood). Our consortium of 17 partners is dedicated to (1) provide excellent Robotics & Sensing facilities and expertise to SMEs across the EU, (2) connect SMEs, expertise and regional facilities to Europe, and (3) build capacity on digitalisation in the innovation ecosystem. The EDIH will offer new services to SMEs: • Communication and dissemination services to raise the awareness for digital transformation and to collaborate with other Dutch EDIHs; • Digitalisation brokerage to proactively approach SMEs, help them identify digitalisation needs and guide them to the right services of the EDIH or the EU EDIH network; • Test before invest services to open-up test facilities and expertise on i.e. industrial robotics, digital twins, healthcare & agrifood robotics; • Support to find investment for digital transformation to fill gaps in the financial ecosystem; • Skills and Training Modules to improve the ability of professionals to work with digitalisation, robotics and sensing; • International service pilots, networking and match-making services to strengthen SME’s positions in European value chains and to collaborate and create EU corridors between foreign EDIHs.
+Contact Person(s): Bas Ramaker
+Phone: +316 33316337
+Email: b.ramaker@overijssel.nl
+Location: Markt 11, 6811 CG Arnhem, Netherlands
+Type: EDIH
+Website: https://european-digital-innovation-hubs.ec.europa.eu/edih-catalogue/edih-boost…
+Active Sectors: Manufacturing and processing (very high involvement), Food and beverages (very high involvement), Metal working and industrial production (very high involvement), Health care (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Prototyping (very high involvement), SME support (very high involvement), Technology transfer (very high involvement), Knowledge transfer (very high involvement)
+Technological Focus: Robotics (very high involvement), Cyber-physical systems (very high involvement), Sensors & Vision Processing Systems (very high involvement)
+------------------------------------------------------------
+EDIH Name: BRH
+Title: Belgrade Robotics Hub
+Country: Serbia
+Description: ETF, as a formal entity, is an orchestrator of Belgrade Robotics Hub (BRH), an informal organization between key stakeholders in robotics and AI, established as a partnership between the University of Belgrade institutions, partner companies, and organizations. The BRH members are three leading robotics laboratories at the University of Belgrade (ETF Robotics at School of Electrical Engineering, Center for Robotics at Institute Mihajlo Pupin, and Laboratory for Robotics and Artificial Intelligence at Faculty of Mechanical Engineering), partner companies (ABB Serbia, Servoteh, TipTeh, Gimatic and Vision Equipment) and Science Technology Park Belgrade. BRH's mission is to provide companies, students, investors, innovators, policymakers, and the general public with high-quality robotics-related services in education, technology, and business. We aim to make a continuous contribution to robotics innovations, companies’ productivity, and competitiveness, opening new opportunities for young engineers in Serbia and stimulating interaction in the regional robotics community.BRH vision is to be a focal point, initiator, creator and the biggest support of robotics and AI research, education, and applications in Serbia and wider in the region of South-East Europe.
+BRH services:Technical services: joint, pre-competitive R&D, secondment from companiesspecific R&D, technology concept development, proof of conceptand concept validation, prototyping, small series productionrenting equipment, low-rate production, platform technology infrastructure (collaborative robots - Franka Emika, Neura Robotics; industrial robot cells - ABB, DENSO, FANUC; wearable sensors - Delsys; computer vision - Intel, Optitrack). Ecosystem & network: scouting, brokerage, awareness creation, dissemination, ecosystem building, workshops, seminars to share knowledge and experience, organizing (country) visits, roadshowsFind investments: connection to funding sources, investment plans, identification of opportunities, creating consortia, development of proposalsoffice space and space for experimentation and pilot manufacturing.Skills training, education: Specialized courses on ecosystem/technology/business, strategy development on topic education.- At national level, ETF representatives (as well as other BRH representatives) is involved at expert level in all relevant public bodies including Ministry of Science, Technological Development and Innovations; Ministry of Education; Ministry of Information and Telecommunications;- At the international level, ETF representatives are involved at the European Commission as Programme Committee Members in Cluster 4: Digital, Industry, and Space, as well as large sectoral pan-European DIH networks in agile production (DIH2) and healthcare (DIH-HERO) that provides inputs for EU robotics as one of the largest public-private-partnership in Europe.
+Contact Person(s): Kosta Jovanović
+Phone: 3.81642E+11
+Email: kostaj@etf.rs
+Location: Bulevar kralja Aleksandra 73, 11000 Belgrade, Serbia
+Type: DIH
+Website: http://robot.etf.rs/index.php/brh-services/
+Active Sectors: Automotive (high involvement), Education (very high involvement), Food and beverages (moderate involvement), Health care (very high involvement), Manufacturing and processing (very high involvement), Metal working and industrial production (high involvement), Smart City (moderate involvement)
+Provided Services: Circular economy (moderate involvement), Ecosystem building (very high involvement), Finance (high involvement), Knowledge transfer (high involvement), Prototyping (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (high involvement), Vocational training (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Cloud Services (moderate involvement), Cyber-physical systems (very high involvement), Cybersecurity (moderate involvement), Human computer interaction (high involvement), Internet of Things (high involvement), Virtual Reality (moderate involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (high involvement), Simulation engineering and modelling (high involvement)
+------------------------------------------------------------
+EDIH Name: Brightlands Smart Services Campus
+Title: Brightlands Smart Services Campus
+Country: Netherlands
+Description: A multi-disciplinairy hub for digital innovation
+The Brightlands Smart Services Campus (BSSC) is anon-profitinstitute consisting of researchers and educators, innovative entrepreneurs, students,visionary investors and companies leading the field in smart services. Weofferthe latest R&D and knowledge infrastructures, on-campus education, science-oriented business support and business development services. At the campus we combinea scientific and business ecosystem with labs that merge innovation and expertise—all in a single strategic location.This is a place where tomorrow’s jobs are created now, talents are developed, pioneers feel at home and companies can grow. All without borders.
+The campus is home to innovationlabs for data analyses and data visualization. We offereasy access to IT experts, students andtrainees,multiple innovation programs and many other opportunities for SMEsexplore and implement digital innovations.
+Contact Person(s): Custers Pieter
+Phone: 31615086429
+Email: pieter.custers@brightlands.com
+Location: Smedestraat 2, Heerlen, Netherlands
+Type: DIH
+Website: https://brightlands.com/en/brightlands-smart-services-campus/brightlands-smart-…
+------------------------------------------------------------
+EDIH Name: Bulgarian Innovation and Technology Hub - DigiTecH 4.0
+Title: Bulgarian Innovation and Technology Hub - DigiTecH 4.0
+Country: Bulgaria
+Description: The main objective of Bulgarian Innovation and Technology Hub - Bulgarian DigiTecH 4.0. is to support digital transformation in automotive, mechatronics and ICT sectors in Bulgaria by facilitation the collaboration among industry stakeholders, technology experts, investors, state administration and academia.
+The DigiTech 4.0 has sectorial specialization – it is focused to digitize automotive, mechatronics and ICT sectors using disruptive technologies, new business models and innovative infrastructure.
+DigiTech 4.0 addresses the challenges that Bulgarian industrial companies face, for example: availability of modern intelligent machines, remote maintenance and support, intelligent control over logistic links and networks, digital marketing and sales, availability of qualified staff and effective system for talent management.
+Based upon the companies’ challenges, DigiTech 4.0 will provide SMEs the following services: assessment of readiness for digitization, developing and validation of new solutions, introduction in physical cyber security matters, access to funding and investor readiness services, building innovation capacity through enriching human capital.
+Contact Person(s): Statev Peter
+Phone: 3594899744
+Email: office@ictalent.org
+Location: 133 tsarigradsko shosse blvd., 1784 Sofia, Bulgaria
+Type: DIH
+Website: http://industry4bg.eu/
+------------------------------------------------------------
+EDIH Name: Business Intelligence & Innovation
+Title: Business Intelligence & Innovation
+Country: Austria
+Description: The Business Intelligence & Innovation Hub is a non-profit oriented innovation and support organization (service center) of the Vorarlberg University of Applied Sciences. The Hub is elaborated within the Interreg Central Europe Project “4Steps – Towards the application of Industry 4.0 in SMEs (CE1492) and is a tool to support business, industry, economy, society and government within the region of the Federal State of Vorarlberg in the further development and implementation of the Smart Specialization Strategy “Intelligent Production”.
+In the center of the Business Intelligence & Innovation Hub are to boost research, technology and innovation for a sustainable, competitive and profitable regional development. The Business Intelligence & Innovation Hub is a supportive, inter-organizational and non-profit organization for stakeholders within the region fo the Federal State of Vorarlberg (and beyond). With the support of the Hub, stakeholders cooperate and collaborate (transregionally) to expanse existing R&D focuses and to investigate new R&D areas and priorities.
+Core services assigned to the Business Intelligence & Innovation Hub are about Artificial Intelligence, System/Ecosystem Collaboration, Resilience Engineering, Innovation Research & Disruptive Innovation, Methods & Tools and Co-Creation/Networking. With the Vorarlberg Digital Factory, the DIH on "Business Intelligence & Innovation" offers a laboratory on digital technologies to business and industry. This laboratory is equipped with emergent technologies within the field of advanced manufacturing and acts as regional testbed for organizations.
+Contact Person(s): Maurer Florian
+Phone: +43 5572 792 7128
+Email: florian.maurer@fhv.at
+Location: Hochschulstraße 1, Dornbirn, Austria
+Type: DIH
+Website: https://biih.labs.fhv.at
+------------------------------------------------------------
+EDIH Name: C.R.E.A.T.E. Consorzio di Ricerca per l'Energia, l'Automazione e le Tecnologie dell'Elettromagnetismo
+Title: C.R.E.A.T.E. Consorzio di Ricerca per l'Energia, l'Automazione e le Tecnologie dell'Elettromagnetismo
+Country: Italy
+Description: CREATE Consortium is a no profit research organisation possessing a legal personality; it belongs, according to the Italian law, to the class of Consorzi, where a number of subjects give life to an independent body intended to reach commonly agreed objectives (in the CREATE case, develop, support and stimulate applied research in Electromagnetics).
+CREATE was founded on late 1992 by ABB-Ricerca and the University of Reggio Calabria with the aim of establishing a stable link between industry and university. Afterwards the partnership was integrated with the Università degli studi di Cassino, the Università degli studi di Napoli Federico II, the Seconda Università degli studi di Napoli of and the Ansaldo-Ricerche.
+The financial resources come from the funds given by the partners at the constitution date and to the additional resources Gained directly by the Consortium during its activity.
+The scientific and technical aims are pursued by means of the coordinated effort of experts acting as consultants. In addition the Consortium takes advantage of temporary staff for technical and secretarial support.
+Contact Person(s): Siciliano Bruno
+Phone: 39368605665
+Email: info@create-dih.eu
+Location: Via claudio 21, Napoli, Italy
+Type: DIH
+Website: https://www.create-dih.eu
+------------------------------------------------------------

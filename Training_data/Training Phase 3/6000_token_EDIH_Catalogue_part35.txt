@@ -1,0 +1,169 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: Łukasiewicz Research Network - Institute of Microelectronics and Photonics (IMiF)
+Title: Łukasiewicz Research Network - Institute of Microelectronics and Photonics (IMiF)
+Country: Poland
+Description: Institute of Electron Technology (ITE) is a public, Polish, non-profit research organization, located in Warsaw, Poland,carrying outapplied research and close-to-market innovation(TRL 3 to 8) in microelectronics, photonics and microsystem domain.The mis­sion of the Insti­tute is to con­duct the basic and applied rese­arch in the field of semi­con­duc­tor elec­tro­nics and phy­sics in order to deve­lop and com­mer­cia­lise inno­va­tive micro- and nano­tech­no­lo­gies and their appli­ca­tions in semi­con­duc­tor micro­elec­tro­nics, opto­elec­tro­nics, pho­to­nics and micro­me­cha­nics.
+The Institute is one of the few Polish research institution that develops semiconductor devices and systems using various semiconductor materials (silicon, gallium arsenide, indium phosphide, gallium nitride, silicon carbide). The institute consist of 8 research departments concentrating on AIIIBV photonics (lasers), Silicon detectors, microelectronic components, sensors and MEMS, wide bandgap (e.g. GaN) devices, hybrid (ceramic) technologies, electronic system design, material and device characterization and diagnostics. Three of the departments include also fully equipped technological lines, enabling both scientific research and development of technologies for new devices. Unique facilities and competent staff allow the Institute to create the conditions necessary for the implementation of research results. This task is usually conducted in cooperation with the industry and the scientific community.
+The largest, division of Silicon Microsystem and Nanostructure Technology maintains a research infrastructure with a well-equipped over 1000 sq.m. micro/nanoelectronics clean room. Currently it is the only centre in Poland, where fabrication of fully functional microsystems and IC’s based on CMOS/MEMS technology is performed. In parallel to research, the department undertakes a small scale, pilot production of specialized semiconductor devices for Polish and foreign customers.
+The goal of the research and development activities carried out at the ITE is to provide industry and scientific communities (with special emphasize on the SME’s ) with access to advanced technology of silicon and III/V based and heterogeneous micro- and nano-devices. Thus, scope of the R&D covers broad range of technologies, from silicon photo- and radiation detectors through integrated circuits up to sensor and microsystem (MEMS and MOEMS), lasers and power devices, including integration of different technologies and devices for interdisciplinary applications. Due to the fact, that sensor technologies and sensor networks have been defined as one of the National Smart Specialization, ITE puts a strong emphasize on research in this domain, developing collaboration with national and international multidisciplinary partners, to provide Polish economy with access to advanced sensor technologies required e.g. for IoT applications.
+ITE collaboratewith industrial entities, LE and SMEfocusingon consulting on development and application of tailored microelectronic, nanophotonic and microsystem solutions (including sensors), allowing for digitization of products and their manufacturing. In most cases the service is combined with a joint preparation of national, international or European projects.ITE, acting as a KET Technology Center and Digital Innovation HubsupportsSMEsto go from lab to marketto develop and producenewKETs-based products, helping companies reduce the time-to-market for new innovation ideas:
+
+Dissemination of knowledge on innovative solutions leading to digitization of products and manufacturing; creation of awareness, building of ecosystem;
+Finding partners and elaboration of project proposals;
+Access to technology expertise and facilities for validation;
+Collaborative research
+Demonstration;
+Proof of concept / lab testing
+Prototype development and testing;
+Pilot production and demonstration
+Product validation / certification
+Contact Person(s): Gadomski Sławomir
+Phone: +48 604 053 932
+Email: slawomir.gadomski@imif.lukasiewicz.gov.pl
+Location: Al.lotników 32/46, Warsaw, Poland
+Type: DIH
+Website: https://imif.lukasiewicz.gov.pl/en/
+------------------------------------------------------------
+EDIH Name: LVDH
+Title: Loire Valley Data Hub for Centre-Val de Loire region's digitalisation
+Country: France
+Description: Organised in a consortium, the Loire Valley Data Hub is the one-stop shop in Centre-Val de Loire region to support digital transformation of public administrations & companies. working in key sectors of the Regional Innovation Strategy for Intelligent Specialisation (RIS3) of Centre-Val de Loire.It will support them in exploitation and enhancement of data, through digital technologies (Artificial Intelligence, Cybersecurity and High-Performance Computing). Completely in line with the Regional Innovation Strategy for Intelligent Specialisation (RIS3) of Centre Val de Loire, the project addresses the exploitation and enhancement of data, on the key areas for the region, namely: cosmetics, health, environment, and agri-food. By bringing together regional actors around a common challenge, the EDIH is pooling skills and services to meet the growing needs of companies and public administrations for digital technologies and thus, generate economic, social, and environmental benefits. The aim is to help them implement key technologies in data management (using Artificial Intelligence, High-Performance Computing and Cybersecurity). The support provided will enable these organisations to meet the challenges related to data production, integration, exchange, and exploitation in their respective fields, with a perspective of sustainable development. Indeed, the multiple activities deployed on the territories generate the production of numerous digital data. Digital transformation is a major challenge for the competitiveness of regional SMEs, particularly for the above-mentioned key sectors. Indeed, these companies, as well as the public players, are required to manage various types of resources (environmental, plant or animal, or even human). As a result, the exploitation of the data inherent in the management of these resources makes it possible to respond to strong societal and market needs, which are the preservation of the environment, food and health and well-being.
+Contact Person(s): Melody Maudelonde
+Phone: + 336 67 68 42 38
+Email: melody.maudelonde@devup-centrevaldeloire.fr
+Location: 6, rue du Carbone, 45100 Orléans, France
+Type: EDIH
+Active Sectors: Aeronautics (low involvement), Agricultural biotechnology and food biotechnology (very high involvement), Automotive (very low involvement), Cultural and creative economy (very low involvement), Defence (high involvement), Energy (low involvement), Environment (very high involvement), Food and beverages (moderate involvement), Health care (very high involvement), Life sciences (high involvement), Manufacturing and processing (moderate involvement), Public administration (very high involvement), wholesale or distribution (moderate involvement), Smart City (moderate involvement), Travel and tourism (low involvement)
+Provided Services: Ecosystem building (very high involvement), Finance (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Public sector innovation (very high involvement), Regional development (very high involvement), Smart Specialisation strategies (very high involvement), SME support (very high involvement), Sme Business Development (moderate involvement)
+Technological Focus: data (very high involvement), Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), Digital twins (high involvement), Internet of Things (low involvement), Additive manufacturing (very low involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Gamification (very low involvement), Industrial biotechnology (moderate involvement), Logistics (very low involvement), optoelectronics (very low involvement), Quantum Technologies (computing/communication) (low involvement)
+------------------------------------------------------------
+EDIH Name: Made Different | Digital Wallonia
+Title: Made Different | Digital Wallonia
+Country: Belgium
+Description: The objective of the Made Different | Digital Wallonia is to provide the support needed to companies to transform their activities following the principles of industry 4.0, as promoted by the Region (Marshall Plan 4.0 and Digital Wallonia Strategy). Services offered correspond to the level of digital maturity of the enterprise. They cover awareness activities, diagnosis of digital maturity, definition of a transformation plan and its implementation. They also tackle needs for scale-up, finance and innovation. This initiative is open to all sectors of the industry.
+Contact Person(s): Miclotte Jessica
+Email: info@digitalwallonia.be
+Location: Avenue prince de liege, 133, Jambes, Belgium
+Type: DIH
+Website: https://www.digitalwallonia.be/fr/publications/made-different-digital-wallonia
+------------------------------------------------------------
+EDIH Name: Malaga TechPark (PTA)
+Title: Malaga TechPark (PTA)
+Country: Spain
+Description: MISSION
+Parque Tecnológico de Andalucía (PTA) is a place where national and international companies, entrepreneurs, technology centers and university research groups all come together and generate highly innovative products and services for the global market.
+SCOPE
+Parque Tecnológico de Andalucía (PTA) has been specially designed to house all types of entities dealing with innovation. The PTA has been established as a high standard location for the installation of innovative SMEs and large companies. It is located in a privileged natural environment, equipped with advanced infrastructures and services, in which a perfect balance between large multinational companies, the university and small and innovative companies has been attained.
+Within more than twenty five years, the park has become a point of international reference in terms of science and technology parks where the Information Technologies and Energy sectors dominate, both in Research and Development, and the manufacture of equipment and services, with an innovative and environmentally friendly approach.
+With over 630 businesses, and a number of key agents in the Andalusian Knowledge System, such as the University and its research groups, over 17.000 employees, an area of 186 hectares with an expansion project in progress, the PTA represents the innovation ecosystem in Malaga and it can be considered one of the main focuses for innovation and economic development in Andalucía. PTA represents 20% of the gross domestic product (GDP) and employment of the city of Malaga.
+Some of the companies -among others- that have chosen the PTA for establishing their headquarters in Andalucia are DEKRA, Ericsson, CGI, IBM, Air Liquide, Aertec, ITRS, PWC, OPPLUS, A-Novo, Accenture, Grupo Cardiva, Premo Group, Huawei, Keysight, The Workshop, Indra, Altra Corp., JBP Beniosca, DXC, Ingenia, Oracle, MADES or Tedial.
+Over the past 25 years, the PTA has created an extensive national and international network. Both the International Association of Science Parks and Areas of Innovation (IASP) and the Spanish Association of Science and Technology Parks (APTE) have their headquarters at the PTA.
+The PTA and the University of Malaga (UMA) have joined forces to create an international cooperation model to enable both companies and research groups to work together in global markets.
+SERVICES PROVIDED
+-TRAINING & SKILLS DEVELOPMENT: Promoting the specialized training in order to prepare students and professionals to the specific market needs.
+-ENTREPRENEUR & INCUBATOR SUPPORT: Acceleration programs for innovation companies and mentoring. An entrepreneurial culture and a tradition of ongoing enterprise are fundamental to the sustainability of the business development model that has been created at the PTA; the entrepreneurs that started off in the business incubators and pre-incubators have become, in many cases, much larger companies who continue to carry out their activity at the PTA.
+- INFRASTRUCTURES & GENERAL SERVICES: Telecommunications Networks, Offices, Waste Point, Hotel, Sport centre, Mobility services, education centre, etc…
+-IN THE FIELD OF MATURING OF TECHNOLOGIES: Promoting the entrepreneurship especially among technologists and doctors to enhance the creation of new businesses. Encouraging the installation of national and international companies.
+-SCIENTIFIC-TECHNICAL DISSEMINATION: publishing, dissemination and exchange in any medium of research, educational, cultural and artistic creation work developed by the companies. Promoting as well the dissemination of the business entities installed in PTA activity.
+-HUMAN RESOURCES: Facilitating the labor market participation of students from the University of Málaga (UMA) through the development of professional practices in Technology Park of Andalusia companies, and helping companies in the process of recruiting according profile required by the job vacancy.
+- TECHNOLOGY TRANSFER: Search of partners for RTD projects and supporting companies for the development and production of technologies for specific applications.
+- INTERNATIONALIZATION: Support and advice to companies for their business expansion and internationalization.
+- Support for access to public and private funding. Access to Investment forums.
+- Other: Organization of workshops, innovation meetings, and networking events, creation and promotion of clusters.
+PTA IN FEW WORDS:
+The Technology Park of Andalucía (PTA) is a:
+
+Authentic model of innovation
+Place for international companies
+Location for R&D centers
+Headquarters of innovation networks
+Model of international cooperation
+Model of relation with the University
+Place for the transfer of technologies from/to traditional sectors
+Innovation financing model
+Model of public-private investment
+Model for the creation and development of innovative companies
+Contact Person(s): Gálvez Verdú Clara
+Phone: 34951231300
+Email: cgalvez@pta.es
+Location: Calle maria curie 35, Malaga, Spain
+Type: DIH
+Website: http://www.pta.es/es/
+------------------------------------------------------------
+EDIH Name: Malta-EDIH
+Title: The creation of the Malta-EDIH as part of the network of European Digital Innovation Hubs
+Country: Malta
+Description: The project proposed, led by the Malta Digital Innovation Authority, foresees the setting up of a single EDIH in Malta titled: DiHubMT. In line with the call for proposals for the EDIHs, the DiHubMT aims at providing the complete set of services of an EDIH on an open, transparent and non-discriminatory basis and targeted towards SMEs, small midcaps and public sector organisations. The following are the main services that will be offered at the DiHubMT:
+- Digital Entrepreneurship Support Services to facilitate digital and green transformation with a focus on existing local competencies in the area, namely, Artificial Intelligence (AI), Cybersecurity and High-Performance Computing (HPC). This also foresees the setting up of a Pilot Entrepreneurship Programme (incubator, pre-accelerator and accelerator) and the provision of specialised services in relation to access to finance.
+- Technical ‘Test before Invest’ Support Services via the setting up of a High-Tech Workspace which will feature high-end technologies, namely, AI, Cybersecurity / Information security, HPC, Augmented Reality, Virtual Reality, 3D Printing, Drones and Robotics.
+- Digital Skills and Training Development to drive cross-sector upskilling and reskilling digital skills educational initiatives with a focus on advanced digital skills linked to short-term training courses, an apprenticeship programme and a train-the-trainer programme.
+-I nnovation Ecosystems and Networking to promote the concept of Innovation Communities and facilitate networking and collaboration with the Digital Transformation Accelerator, the European network of EDIHs, and other relevant stakeholders and local actors, to enable the sharing of best practices and specialist knowledge.
+- Digital Innovation Policy and Strategy to support the implementation of policies and bridge the gap between the private sector and the European Commission and Government with the aim of developing evidence-based policy making.
+Contact Person(s): Bernard Montebello
+Phone: 35621828800
+Email: bernard.montebello@mdia.gov.mt
+Location: Twenty20 business centre, triq l-intronjatur, Zone 3, Central Business District, Birkirkara, Mriehel CBD 3050, Malta
+Type: EDIH
+Active Sectors: Community-Led Local Development (very high involvement), Cultural and creative economy (very high involvement), Public administration (very high involvement), Smart City (high involvement), Education (high involvement)
+Provided Services: Ecosystem building (very high involvement), SME support (very high involvement), Technological innovation (very high involvement), Innovation management (very high involvement), Finance (very high involvement)
+Technological Focus: High performance computing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Virtual Reality (very high involvement), Robotics (very high involvement), Internet of Things (very high involvement), Cybersecurity (very high involvement)
+------------------------------------------------------------
+EDIH Name: Manufacturing Innovation Valley
+Title: Manufacturing Innovation Valley
+Country: Lithuania
+Description: Manufacturing Innovation Valley (Manuvalley) is a Digital Innovation Hub based in the capital Vilnius, in Lithuania,. It is the 1st manufacturing Innospace in the Baltic states with the 50’ty of services specifically prepared for manufacturing companies. A platform for small manufacturers, startups, technology developers, and researchers to carry out manufacturing activities, create digital innovations and prototypes, and test their innovative ideas. Offers the ready to use facilities, manufacturing equipment, and expert advice in around 20 different technology areas.
+Contact Person(s): Zubauskienė Jolanta
+Phone: 37067707373
+Email: jolanta.zubkauskiene@manuvalley.tech
+Location: Nalšios g. 11, 08410 Vilnius, Lithuania
+Type: DIH
+Website: https://www.manuvalley.tech/en/
+------------------------------------------------------------
+EDIH Name: MD_Zukunftskultur
+Title: Mittelstand-Digital Zentrum Zukunftskultur
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Zukunftskultur supports small and medium-sized enterprises throughout Germany and across all sectors in the two major transformations of "digitalization" and "sustainable development". Our aim is to empower SMEs to develop a sustainable corporate culture. Key topics here are change, communication and sustainability. Through our events, media formats, practical projects and networking with other companies, we provide SMEs with impetus and know-how. You can find all information on our topics and services on our website: https://www.digitalzentrum-zukunftskultur.de Our center is part of the Mittelstand-Digital initiative of the Federal Ministry of Economics and Climate Protection (BMWK).
+Contact Person(s): Juliane Damian
+Phone: +49 331 / 730404 – 308
+Email: juliane.damian@businessschool-berlin.de
+Location: C/o unicorn workspaces, am neuen markt 9 e-f, 14467 Potsdam, Germany
+Type: DIH
+Website: https://www.digitalzentrum-zukunftskultur.de/
+Active Sectors: Automotive (moderate involvement), Cultural and creative economy (moderate involvement), Education (moderate involvement), Health care (moderate involvement), Personal services (moderate involvement)
+Provided Services: Innovation management (very high involvement), Knowledge transfer (very high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (high involvement), Virtual Reality (very high involvement)
+------------------------------------------------------------
+EDIH Name: MDZ Fokus Mensch
+Title: Mittelstand-Digital Zentrum Fokus Mensch
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Fokus Mensch, which can be translated as a SME Digital Centre with the name "Focus on Humans", supports SMEs in identifying the expectations of their users, consumers and corporate customers, rethinking their own product strategy, finding suitable cooperation partners and trying out and establishing the methods and approaches of human-centred digitalisation in their own company in order to position themselves sustainably. This is done along six main topics: Human-centred innovation and design Fairness and diversity Wellbeing and resilience Digital sovereignty Sustainable transformation Artificial intelligence Our goal is supporting SMEs in human-centred digitalisation. The aim is to sensitise and qualify companies for the potential and procedures of human-centricity. To this end, we offer workshops, practical projects and self-learning opportunities to support companies in implementing human-centred approaches. We also focus on networking companies and sharing experiences in order to accelerate the spread of positive experiences and promote sustainable transformation in SMEs. Fokus Mensch is part of the network "Mittelstand Digital Zentren" which is a national programme in Germany: Mittelstand-Digital offers guidance for small and medium-sized enterprises and the skilled crafts as they embrace the digital transformation, and informs them about the opportunities and challenges of digitisation. The Federal Ministry for Economic Affairs and Climate Action makes it possible for all of these services to be rendered free of charge. Mittelstand-Digital Innovation Hubs are part of the nationwide Mittelstand-Digital network The Hubs in the nationwide network support small and medium-sized enterprises and the skilled crafts throughout Germany on an impartial basis by providing: Expert knowledge, workshops and training sessions, demonstration centers, discussion, networking and information events, practial examples on the topic of digitalization. The AI instructors based at the Hubs also offer special support on all issues relating to the use of artificial intelligence – for beginners through to experienced users. Keywords: Research
+Contact Person(s): Magdalena Laib And Michael Burmester
+Phone: +49 711 8923-3503
+Email: m.laib@digitalzentrum-fokus-mensch.de
+Location: Nobelstr. 10, 70569 Stuttgart, Germany
+Type: DIH
+Website: https://www.digitalzentrum-fokus-mensch.de/
+Active Sectors: Automotive (moderate involvement), Construction & Assembly (high involvement), Consumer products (high involvement), Education (high involvement), Environment (high involvement), Health care (moderate involvement), Manufacturing and processing (moderate involvement), Personal services (moderate involvement), Public administration (high involvement), Transport sector (moderate involvement), Travel and tourism (moderate involvement), Smart City (high involvement), Transport & Mobility (high involvement)
+Provided Services: Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Sme Business Development (high involvement), SME support (moderate involvement), Technological innovation (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Cyber-physical systems (very high involvement), Digital twins (moderate involvement), Displays (high involvement), Gamification (very high involvement), Human computer interaction (very high involvement), Internet of Things (very high involvement), Internet Services & Applications (high involvement), Location-based applications (high involvement), New technologies for Audio-Visual sector - Media (very high involvement), Virtual Reality (high involvement), Robotics (moderate involvement), Sensors & Vision Processing Systems (moderate involvement)
+------------------------------------------------------------
+EDIH Name: MDZ Franken
+Title: Mittelstand-Digital Zentrum Franken
+Country: Germany
+Description: The Mittelstand-Digital Zentrum Franken supports companies in northern Bavaria in designing and implementing digital strategies, tools and workflows for digitalisation and sustainability. A particular focus is placed on the use of artificial intelligence and how digitalisation and sustainable business can be combined in a synergetic way. The programme covers the use of artificial intelligence in a wide range of business domains as well as the topics of energy and resource efficiency and sustainability management. The centre's showrooms in Ansbach and Nuremberg offer workshops, training courses, consultation hours and other formats to encourage exchange. Demonstrators, joint model implementations and a roadshow round off the programme. The centre trains and supports the use of digital tools and workflows for the following applications: - Identifying the potential of artificial intelligence in a wide range of business domains and company sizes - Technical applications of AI, e.g. machine learning, computer vision, quality control and process optimisation - Use of digital assistance systems for knowledge assurance, customer communication and other business applications - Sustainability-oriented risk analyses, sustainability management and reporting as well as supply chain management - Energy balancing and energy management - Improved material efficiency, circular thinking and end-of-life planning Cooperation with third parties is an important factor for the centre. Specific collaborations have been agreed with the following associated partners: IHK Nürnberg für Mittelfranken, IHK-Akademie Mittelfranken, IHK Würzburg-Schweinfurt, Handwerkskammer Mittelfranken, Wirtschaftsförderung Nürnberg, Wirtschaftsförderung Ansbach, Digitales Gründerzentrum ANsWERK, EMN Europäische Metropolregion Nürnberg e. V., Hochschulallianz für den Mittelstand, XR Hub Nürnberg – Virtual Reality, Augmented Reality und Mixed Reality Kontaktnetzwerk, Chemie-Cluster Bayern, Bundesdeutscher Arbeitskreis für Umweltbewusstes Management (B.A.U.M.) e.V., Mittelstand-Digital Zentrum Klima.Neutral.Digital, Regionales Zukunftszentrum Süd Forschungsinstitut Betriebliche Bildung (f-bb) gGmbH The Academy for Artificial Intelligence (AKI), as one of the four partners of the Mittelstand-Digital Zentrum Franken, is a wholly owned subsidiary of the German AI Association and promotes non-profit projects and application-oriented research projects that stand for value-centred development and transparent application of artificial intelligence projects. The goals of AKI is to support science in AI research projects and to strengthen AI awareness among the public. Thanks to the network of the German AI Association, Germany's largest network of AI entrepreneurs and experts, AKI has access to a broad base of experience and contacts. Within the "Mittelstand-Digital Zentrum Franken" project, AKI acts as a transfer partner with the aim of initiating and implementing SMEs in AI projects, promoting collaborative cooperation and providing impetus from the expert network.
+Contact Person(s): Lisa Kirschbaum
+Phone: +49 152 04915872
+Email: lisa.kirschbaum@hs-ansbach.de
+Location: Rettistraße 56, 91522 Ansbach, Germany
+Type: DIH
+Website: https://digitalzentrum-franken.de/
+Active Sectors: Public administration (moderate involvement)
+Provided Services: Circular economy (very high involvement), Ecosystem building (high involvement), Knowledge transfer (very high involvement), Prototyping (high involvement), Regional development (very high involvement), Smart Specialisation strategies (high involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (high involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (very high involvement), products) (moderate involvement), Gamification (high involvement), Human computer interaction (high involvement), Internet of Things (high involvement), Laser-based manufacturing and materials processing (moderate involvement), Virtual Reality (high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (moderate involvement)
+------------------------------------------------------------

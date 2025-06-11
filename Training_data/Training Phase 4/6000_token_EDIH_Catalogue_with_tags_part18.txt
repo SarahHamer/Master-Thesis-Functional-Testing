@@ -1,0 +1,146 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: Digital Innovation Hub Lombardia
+Title: Digital Innovation Hub Lombardia
+Country: Italy
+Description: Promotion of digital manufacturing transformation towards Industrie 4.0 approacch and the Value Chain processes overall. In particular the main activities are:
+
+promotingthe training of qualified human resources (training & education)
+Raising the companies’ awareness on opportunites of I4.0
+Support in the choice and planniing of investments for innovation
+Orientation to the Competence Center I4.0
+Support in accessing to finance (public and private)
+Mentoring to companies
+Interaction and networking with European DIHs
+Trans-sectoral DIHs which suit the characteristics of the Italian industrial system and business culture according to Confindustria system structure
+Contact Person(s): Petrali Pierluigi
+Phone: 00390258370273
+Email: pierluigi.petrali@dihlombardia.com
+Location: Via pantano, 9, Milano, Italy
+Type: DIH
+Website: http://www.dihlombardia.com
+Tags: Country:Italy
+------------------------------------------------------------
+EDIH Name: Digital Innovation Hub Slovenia
+Title: Digital Innovation Hub Slovenia
+Country: Slovenia
+Description: Digital Innovation Hub Slovenia (DIHS) is a national non-profit one-stop-shop dedicated to digital transformation of SME to provide, connect and support knowledge, business and technology expertise, technologies, experimental and pilot environments, best practices, methodologies and other activities necessary to fully enable Slovene industry in building digital competencies, innovation models and processes, support their digital transformation and raise their competitive advantages based on digital. DIHS is a private non-profit institute, founded by Chamber of Commerce and Industry Slovenia and operates with the help of strategic partners: University of Maribor, Tecos, Technology Park Ljubljana, International Institute of Business Analysis Slovenia, Smart Factories Cluster and Wood Industry Cluster. This multi-sector and multi-discipline partnership establishan ecosystem to sustainably support its vision on a short and long term. DIH covers three most important pillars of digital transformation: education, industry (SMEs) and municipalities, and is unique in its comprehensive lifelong learning approach.
+DIHS is located in Ljubljana, Slovenia, but operating on national level with international potential for collaboration.
+The knowledge areas of DIHS are:
+- Competence: Digital competence development.
+- Transformation: Joint development of services to support digital transformation in companies.
+- Innovation and Innovation labs: Promoting open innovation, designing new business models.
+- Prototypes: Experimental and pilot environments.
+- International: Transfer of good practices and collaboration with other DIH in the EU.
+- Support: Provide support to businesses in managing their digital transformation.
+
+DIH Slovenia focuses on 4 main areas:
+1. Setting up and managing the ecosystem
+DIHS strives to support existing networks and serves as an upgraded national platform. DIHS started to analyse and map the needs of our beneficiaries (mainly SMEs) as well as locate what does the current market offer (quantity and quality of supply). Through mentorship DIHS further strengthens and speeds up the process of digitalization within SME, industry, education and local public sector. Through these initial steps we will have the complete overview of tools and data for forecasting the digital profiles of future skills needs. Based on the mentioned, DIHS will prepare recommendations for Academia to encourage new departments for future students, based on needs of digital economy. Next to research activities, DIHS will also focus on active collaboration of all stakeholders for business and digital societal development, but most of all, offer a space for business prototyping and experimenting. 
+
+2. Professional support with digital competence development
+This activity includes creating a catalogue of digital competences, based on the feedback from activities from first section, with noting the DigComp framework. Besides that, DIHS will offer support with creating 4-year long plans to develop digital competences within SME sector and also to mentor SME's in the process of making digital business plans.
+
+3. Extended regional and international collaboration and connectivity
+Cooperating with EU DIH network and individual DIHS, exchanging best-practices within region and internationally. DIHS will further strive to enrolin networks of various EU stakeholders and beyond. All this will be visual through a shared online platform, where everybody will have the right to contribute (share their best-practice, lesson learned, etc.). We will also offer support to business and development partnerships to strengthen collaboration in global value chains of Slovenian industry.
+
+4. Promotional activities and empowerment
+DIHS focuses on promotion and raising awareness on the importance of digital technologies and digital transformation, and in this way, mentorships and partnerships will play the key role for regional, national and European policy initiatives for industry digitalization. By doing so, DIHS is organizing various conferences, promotional events and campaigns, and strive to gain positive media exposure on the topics covered by DIHS. In 2021 DIHS organized over 140 events, all on the topic of digitalization. DIHS’ end goal is to increase the level of business and societal mindset on digitalization, digital transformation and innovation.
+
+Altogether, DIHS has access to over 3000 SMEs in all regions of Slovenia. We also work with other support environments in Slovenia, offering various products and services for digitalization. Besides DIHS activities, DIHS will also try to provide access to funding opportunities for SMEs, and develop innovation ecosystem for participating stakeholders.
+
+Our mission is to accelerate digital transformation in Slovenia in multi-layered view, starting with SME, industry, business and education. DIHS provides access to best practices and create environment for growth of digital skills and understanding on technology benefits. Therefore, DIHS offers customer-oriented approach, where not only facilitating change-process, but also providing support for a higher digital maturity of SMEs and other business players, education sector and municipalities as we consider digital society coherently.
+Contact Person(s): Mohar Bastar Katja
+Phone: +386 40 606710
+Email: katja.mohar-bastar@dihslovenia.si
+Location: Dimičeva 13, Ljubljana, Slovenia
+Type: DIH
+Website: http://dihslovenia.si/
+Tags: Country:Slovenia
+------------------------------------------------------------
+EDIH Name: Digital Silver Economy (DIHDSE)
+Title: Digital Silver Economy (DIHDSE)
+Country: Spain
+Description: The Digital Silver Economy (DIHDSE) seeks to be the "one-stop shop" through which companies and other public or private entities can access the information, services, and facilities they need to successfully address their digital transformation processes aimed at incentivizing services more efficient for the citizenship over 50 years of age. It is a non-profit structure.
+Zamora has a high Silver potential, in addition to the large number of people of age (Zamora is the most aging province in Spain as a whole), also for being an attractive place for its residence as established at the I International Silver Economy Congress held in Zamora in which 40 experts and 700 congressmen participated. On the other hand, the business fabric of the region is highly atomized and in the labor framework action is needed to boost employment and increase average income.
+The DIHDSE, led by the Diputación de Zamora in collaboration with the industry, research and finance organization, will promote Zamora's recognition as a reference province in the specialization of services and industry for the elderly not only in Spain but also internationally and thus strengthen the future socio-economic development of the region.
+Contact Person(s): Sánchez Iglesias Ana Isabel
+Phone: +34 980559300
+Email: ana.sanchez@zamoradipu.es
+Location: Plaza de viriato, s/n, Zamora, Spain
+Type: DIH
+Website: https://www.dihsilvereconomy.com/en
+Tags: Country:Spain
+------------------------------------------------------------
+EDIH Name: Digital Water Innovation Hub (Digital Water)
+Title: Digital Water Innovation Hub (Digital Water)
+Country: Spain
+Description: Development and implementation of new sustainable technologies applied to the management of water as a basic resource of the circular economy. “Digital Water” applies the concepts of sustainability and circular economy to the new technologies, to improve the integral water cycle, which increases the competitive edge of many business sectors while benefitting society as a whole. In addition to the experience and scientific and technological talent of the Eurecat team, the Centre has laboratories and pilot plants, scientific equipment and data processing centres. All of these facilities enable Eurecat to meet the current and future challenges of water. Services: * Fast prototyping * PoC (proves of concepts) * Digitalisation and connectivity * Highly Specialised consulting and training * Systems integration and homogenisation * Objects virtualization * Data Quality, cleansing and Valorisation * Intelligent Maintenance/Asset lifespan and utilisation improvement * Quality/Preservation prediction * Demand Forecasting * Productivity/growth prediction * Resource optimisation * Smart scheduling * Smart Recommenders * Data analytic services (SaaS) * Resource management * Operational management * Processes management * Real time monitoring and control * Advanced reporting: KPIs, dashboards... * Scenario characterisation and analysis
+Contact Person(s): García Virginia
+Phone: +34 93 741 91 00
+Email: info@reimaginetextile.com
+Location: Parc de gardeny, edifici h3, planta baixa, 25003 Lleida Lleida, Spain
+Type: DIH
+Website: https://eurecat.org/en/centres-of-excellence/centre-for-water-management-excell…
+Tags: Country:Spain
+------------------------------------------------------------
+EDIH Name: DIGITALbuilt
+Title: Digital Innovation Hub for the Built Environment
+Country: Portugal
+Description: DIGITALbuilt will provide digital capacitation, transformation, inclusion, digitalization, and financing advice for SMEs and Public Administration (PA) Entities in the construction, mineral resources, and railway sectors. It was designed to contribute to the twin transition of Construction and according with the European Commission strategy for the Digital Europe Programme. DIGITALbuilt is supported by four pillars: competence and skill creation; innovation ecosystem and networking; support to find investment; and providing test before investing services. It will allow, for instance, SMEs to acquire or access technologies across Europe, supporting the digital transition either in SMEs or in PA, to increase Europe’s global competitiveness, or even to minimize the blue-collar labour scarcity. This sectoral approach is by itself innovative as it is focused in providing an applied approach to Artificial Intelligence, High Performance Computing and Cybersecurity, considering their concrete applicability in construction-related challenges. DIGITALbuilt was also designed to provide digital maturity assessments and suggest actions accordingly. These assessments will allow to be more efficient in assuring that the provided services are adapted to the needs of the SMEs or the PA. DIGITALbuilt is led by the Portuguese Construction Cluster together with the Mineral Resources and Railway Clusters that will assure, together, its coordination and the connection to the government and the most relevant networks. Several RTO partners, working closely and respectively with each Cluster will provide the several services that the DIGITALbuilt’s one-stop-shop has to offer. A member of the EEN consortia will provide the connection to a seamless service within local and regional ecosystems and will assume incubation services in coordination with Startup Europe. Two other companies will provide financial and market feasibility studies, support in finding investment and business consulting.
+Contact Person(s): Rita Moura
+Phone: 953461695
+Email: rd@teixeiraduarte.com
+Location: Rua alvares cabral 306, 4050-040 Porto, Portugal
+Type: EDIH
+Tags: Country:Portugal
+------------------------------------------------------------
+EDIH Name: DIGITALIS
+Title: European Digital Innovation Hub on Manufacturing
+Country: Belgium
+Description: The European Digital Innovation Hub DIGITALIS aims to help both traditional SMEs (with the adoption of new digital technologies) and tech savvy SMEs (with building up a competitive advantage in the globalized marketplace). Through our “ecosystem” service we will also bring together both groups of SMEs in order to create a marketplace for digital solutions and let the traditional SMEs learn from their peers. The prime goals are: 1. Increase the uptake of digital technologies on the shopfloor of manufacturing SMEs 2. Increase the level of digital skills on the shopfloor 3. Play an active role in the European network of Digital Innovation Hubs 4. Actively contribute to the European Green Deal goals DIGITALIS thus aims to act as a "one-stop shop" for manufacturing companies that want to digitize their products and processes. Our embedding in the regional as well as the European innovation landscape paves the way to provide the best available service to the SMEs. Although the focus of the EDIH is very clearly on the industry, several concepts, methodologies, and tools may also be relevant to public authorities. Where possible, we will also support these questions The main objectives of DIGITALIS address the core elements of the call for a network of European Digital Innovation Hubs. We will support the digital transformation of EU industrial ecosystems, increase the level of industrial digitalisation, upskill the workforce and reinforce critical digital capacities. DIGITALIS will form the “gateway” to a set of services, technologies and knowledge which are necessary for this digital transition and will play an active role in the European network of EDIHs. We will thus actively support the deployment of digital technologies such as Artificial Intelligence and Cybersecurity (focus of the hub).
+Contact Person(s): Ger VAN DEN KERKHOF
+Phone: 32497438247
+Email: ger.vandenkerkhof@flandersmake.be
+Location: Oude diestersebaan 133, 3920 Lommel, Belgium
+Type: EDIH
+Website: https://digitalis.europeandigitalinnovationhub.com/?page_id=212
+Active Sectors: Manufacturing and processing (very high involvement), Transport & Mobility (low involvement)
+Provided Services: Ecosystem building (high involvement), Field trial (high involvement), Finance (very high involvement), Innovation management (high involvement), Knowledge transfer (moderate involvement), Prototyping (very high involvement), Sme Business Development (moderate involvement), SME support (very high involvement), Technological innovation (moderate involvement), Technology transfer (very high involvement), Vocational training (very high involvement)
+Technological Focus: Additive manufacturing (very low involvement), Artificial Intelligence & Decision support (high involvement), Cyber-physical systems (high involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), High performance computing (very low involvement), Internet of Things (moderate involvement), Location-based applications (high involvement), optoelectronics (very high involvement), Photonics (very high involvement), Semiconductors and Nanotechnology (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (high involvement), Virtual Reality (moderate involvement)
+Tags: Country:Belgium; Sector:Manufacturing and processing; Sector:Transport & Mobility; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:High performance computing; Technology:Internet of Things; Technology:Location-based applications; Technology:optoelectronics; Technology:Photonics; Technology:Semiconductors and Nanotechnology; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: DigitalTech EDIH
+Title: Cybersecurity and digital competencies
+Country: Hungary
+Description: DigitalTech EDIH is the reference Hub in Hungary to support start-ups, SMEs, mid-caps and public sector entities in their digital transformation focusing on key pillars of European priorities. DigitalTech EDIH relies on its ecosystem to address major issues of cybersecurity and digital competencies including blockchain technology, education technology and digital finance. Based on its partner’s expertise DigitalTech EDIH will deliver expertise to its clients through our service catalogue, which covers four components including skills and training, test before invest, innovation ecosystem and networking and support to find investments, along with other business development services and technology-related advisory. DigitalTech EDIH will also have the opportunity to offer its services to the other Hungarian EDIHs, regional EDIHs as well as to the pan-European network of EDIHs, in line with the European Regional Innovation Strategy. DigitalTech EDIH is part of the European Corridor of Cybersecurity EDIHs (ECCE), a network of EDIHs supported by the European Cyber Security Organisation (ECSO) and specifically dedicated to cybersecurity in order to enhance our collective actions. DigitalTech EDIH will act as a catalyst for these ecosystems and will contribute to their digital transformation, thus strengthening its resilience and ensuring its sustainability for Hungary and the region and making contributions to realising the ambitions of building and sustaining a competitive European digital workforce for the Digital Decade and beyond.
+Contact Person(s): Tuan Trinh
+Phone: +36 70 395 7985
+Email: budapest@eitdigital.eu
+Location: Budapest, Bogdanfy utca 10/a., 1117, Hungary
+Type: EDIH
+Active Sectors: Education (very high involvement), Financial (very high involvement), Public administration (high involvement)
+Provided Services: Knowledge transfer (very high involvement), Sme Business Development (very high involvement), Vocational training (very high involvement), Public sector innovation (high involvement)
+Technological Focus: Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Cybersecurity (very high involvement), Cyber-physical systems (very high involvement)
+Tags: Country:Hungary; Sector:Education; Sector:Financial; Sector:Public administration; Service:Knowledge transfer; Service:Sme Business Development; Service:Vocational training; Service:Public sector innovation; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cybersecurity; Technology:Cyber-physical systems
+------------------------------------------------------------
+EDIH Name: Digitalzh
+Title: The European Digital Innovation Hub for the Greater Rotterdam-The Hague Area
+Country: Netherlands
+Description: Digitalzh is the EDIH for the province of Zuid-Holland (NL). Digitalzh focuses on Manufacturing, Port & Maritime Industry and Horticulture. Our technology differentiators are AI for XXL-scale robotics and additive manufacturing, connected systems (IoT, 5G, Quantum) and cybersecurity. The EDIH will inform 1500 SMEs, activate 600 SMEs to work on digitalization, and support 60 SMEs in deployment of such technologies. Our consortium consists of InnovationQuarter, the economic development agency for Zuid-Holland, and TU Delft, who both already play a pivotal role in supporting SMEs. Digitalzh is supported by the Dutch Ministry of Economic Affairs and Climate and the Province of Zuid-Holland. Digitalzh expands on the previous SMITZH program that has reached over 650 SMEs, executed dozens of tests, trained over 1000 people and guided over 100 users to internationalization.We work according to a structured funnel approach. In Stage 1, INFORM, we show digitalization options to SMEs and explain their benefits. Some SMEs enter Stage 2, ACTIVATE, where we evaluate their digital maturity and connect them with standard services. In Stage 3, DEPLOY, we help SMEs with specialized services, testing and training opportunities to take the first steps toward deployment. We provide a fast track where we connect SMEs with regular needs to service providers, and a deep track where we guide groups of SMEs with comparable, advanced needs. We expect to discover which services and advanced technologies are most effective. Lessons learned will be exchanged in the EDIH network. We manage the feedback loop to improve EDIH services and use this to improve regional education and build up human capital in the longer term. As a member of the EDIH network, we plan collaboration with EDIHs in The Netherlands, Germany, Flanders and Spain and European networks such as EEN, S+T+ARTS and Startup Europe.
+Contact Person(s): Tim Franken
+Phone: +31 88 47 47 255
+Email: tim.franken@InnovationQuarter.nl
+Location: Prinses Margrietplantsoen 32, 2595BR Den haag, Netherlands
+Type: EDIH
+Website: https://www.digitalzh.nl
+Active Sectors: Aeronautics (moderate involvement), Manufacturing and processing (very high involvement), Maritime (very high involvement), Space (moderate involvement), Telecommunications (moderate involvement), Agricultural biotechnology and food biotechnology (very high involvement)
+Provided Services: Ecosystem building (very high involvement), Field trial (high involvement), Finance (moderate involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Regional development (moderate involvement), Smart Specialisation strategies (high involvement), SME support (very high involvement), Technological innovation (moderate involvement), Technology transfer (high involvement), Vocational training (very high involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (high involvement), Blockchain and Distributed Ledger Technology (DLT) (low involvement), Communication network (very high involvement), Cyber-physical systems (high involvement), Cybersecurity (very high involvement), Internet of Things (high involvement), Quantum Technologies (computing/communication) (moderate involvement), Robotics (high involvement), Virtual Reality (moderate involvement), Location-based applications (high involvement)
+Tags: Country:Netherlands; Sector:Aeronautics; Sector:Manufacturing and processing; Sector:Maritime; Sector:Space; Sector:Telecommunications; Sector:Agricultural biotechnology and food biotechnology; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Knowledge transfer; Service:Prototyping; Service:Regional development; Service:Smart Specialisation strategies; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Communication network; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Internet of Things; Technology:Quantum Technologies (computing/communication); Technology:Robotics; Technology:Virtual Reality; Technology:Location-based applications
+------------------------------------------------------------

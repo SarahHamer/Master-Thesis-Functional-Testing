@@ -1,0 +1,181 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: HPC5 - High Performance and Cloud Computing Cross-border Competence Consortium
+Title: HPC5 - High Performance and Cloud Computing Cross-border Competence Consortium
+Country: Slovenia
+Description: Our vision is that with the combined efforts of the partners, HPC5 will create the most innovative, creative and powerful network for CloudHPC computing in the Slovenia-Italy region. HPC5 will stimulate, facilitate and sustain a business growth system in technologically oriented vertical niches that will generate employment, improve living standards, fuel innovation, and increase competitiveness.
+Competence Centres: ARCTUR- HPC and Cloud Center, COGITO - Independend Software Solution provider, eXact Lab - HPC consulting specialists, Info.era - Software Specialists, Sontius - Data Centre specialist, Spin - Networking specialist, Vahta - Networking specialist, Xlab - Software specialist
+Activities/Services: Technical support; Infrastructure; Testing; Training and education; Innovation coaching; Network development; Support of new product and start-up development; Ecosystem building and networking; Dissemination and awareness
+Focus on innovation: TRL 9 - actual system proven in operational environment
+Keywords about technology/knowledge: robotics; modelling and simulation; cps; cloud computing; cloud infrastructure; internet of things
+Services
+- Consulting on purcahse of HPC and Cloud infrastructure - we consulted and university in Croatia to purchase the optimal HPC infrastructure - Paralelization of simulation software - For a long term clent we developed OpenFoam simulations to sacle up to more than 600 computing cores - Dissemination of project development and results - Help in organizing the First CloudFlow conference
+Contact Person(s): Pahor Tristan
+Phone: +386 5 3029070
+Email: info@hpc5.eu
+Location: Industrijska cesta 1a, Nova gorica, Slovenia
+Type: DIH
+Website: https://hpc5.eu/eng/
+Tags: Country:Slovenia
+------------------------------------------------------------
+EDIH Name: HSL
+Title: HERITAGE SMARTLAB
+Country: Italy
+Description: The Heritage SmartLab (HSL) proposal is aimed at creating the largest, most structured and qualified European Digital Innovation Hub -based in Basilicata region, with two spokes in Campania and Apulia-, specialised on Cultural Heritage and Cultural and Creative Industries (CH&CCIs), a wide sector of the local economy and society -that is, not by chance, at the core of the three Regional Smart Specialisation Strategies- in which converge great public interest and high innovation and business potential. The EDIH initiative, that is strongly supported by Basilicata Region, through its local development agency Sviluppo Basilicata, and by the Municipality of Matera, that participates in this proposal as associated partner, is aimed at creating a Cultural and Creative district based in the wonderful context of the UNESCO World Heritage Site - Sassi of Matera, with a strong international dimension and approach to the market needs of its public and private customers. The proposal leverages on two important initiatives promoted in Basilicata region: the House of Emerging Technology (HET), the main technological infrastructure the City of Matera has made available to the project for designing, prototyping and testing of new products, and the Talent’s Academy promoted by Basilicata Region, based on the Apple Academy of Naples model: an advanced and multidisciplinary training platform, that thanks to the synergies with HSL, will be further specialised on the application of Artificial Intelligence (AI), High Performing Computing (HPC) and Cybersecurity (CS) to CH&CCIs, with the goal to attract talents, upskill and reskill personnel, create a new generation of professional with strong and up–to–date digital competences. The Hub of Matera, with the 2 spokes in Naples and Bari, will represent an innovation triangle in the sector of CH&CCIs, rooted in Southern Italy, active in the European and Mediterranean context and strongly interconnected with the global innovation ecosystem.
+Contact Person(s): Raffaele Vitulli
+Phone: 00393286651179
+Email: edih@basilicatacreativa.it
+Location: Via San Rocco, 1, 75100 Matera MT, Italy
+Type: EDIH
+Website: http://www.heritagesmartlab.it
+Active Sectors: Cultural and creative economy (very high involvement), Community-Led Local Development (high involvement), Travel and tourism (very high involvement), Education (moderate involvement), Smart City (high involvement), Personal services (moderate involvement), Smart City (moderate involvement), Telecommunications (moderate involvement)
+Provided Services: Prototyping (very high involvement), Knowledge transfer (very high involvement), Technology transfer (high involvement), Vocational training (high involvement), Public sector innovation (high involvement), Finance (moderate involvement), Sme Business Development (moderate involvement)
+Technological Focus: Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (high involvement), Cloud Services (high involvement), Communication network (very high involvement), Cybersecurity (high involvement), Gamification (very high involvement), Digital twins (very high involvement), Displays (high involvement), Internet of Things (very high involvement), Virtual Reality (very high involvement), Internet Services & Applications (very high involvement), Robotics (moderate involvement), Software Architectures (high involvement), Sensors & Vision Processing Systems (high involvement), Artificial Intelligence & Decision support (very high involvement)
+Tags: Country:Italy; Sector:Cultural and creative economy; Sector:Community-Led Local Development; Sector:Travel and tourism; Sector:Education; Sector:Smart City; Sector:Personal services; Sector:Smart City; Sector:Telecommunications; Service:Prototyping; Service:Knowledge transfer; Service:Technology transfer; Service:Vocational training; Service:Public sector innovation; Service:Finance; Service:Sme Business Development; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Communication network; Technology:Cybersecurity; Technology:Gamification; Technology:Digital twins; Technology:Displays; Technology:Internet of Things; Technology:Virtual Reality; Technology:Internet Services & Applications; Technology:Robotics; Technology:Software Architectures; Technology:Sensors & Vision Processing Systems; Technology:Artificial Intelligence & Decision support
+------------------------------------------------------------
+EDIH Name: hub.in Bjelovar
+Title: hub.in Bjelovar
+Country: Croatia
+Description: hub.in Bjelovar is non-profit digital innovation centre located in Bjelovar (Croatia), acting as a centre for digital transformation of industry (agriculture, manufacture, IT, REW) and development of skills (STEM and business) for area of Continental Croatia. hub.in Bjelovar is built around four core functions: clients, technologies, development and innovation. A hub.in Bjelovar is a support facility that helps companies to become more competitive by:
+improving their business/production processes as well as products and services by means of digital technology
+hub.in Bjelovar will help customers address their challenges in a business focused way and with a common service model, offering services that would not be readily accessible elsewhere. The services available through hub.in Bjelovar enable any business to access the latest knowledge, expertise and technology for testing and experimenting with digital innovations relevant to its products, processes or business models:
+
+technical advise and mentoring
+access to funding opportunities
+access to laboratories and equipment
+promotion of iot technologies
+development of innovation projects
+training
+
+hub.in Bjelovar will also provide connections with investors, facilitate access to financing for digital transformations, help connect users and suppliers of digital innovations across the value chain, and foster synergies between digital and other key enabling technologies. Thus, hub.in Bjelovar will play a huge role in developing economy and use of physical and/or virtual space for networking and organisational development to support individuals, organisations, businesses and projects on a short or long term basis to: facilitate collaboration, networking and skills development.; reach out and collaborate with research and development centres, institutions; creative and non creative industries; communicate and engage with a wider audience and build global; digital opportunities; champion and celebrate emerging talent; push boundaries by taking risks towards innovation.
+In 2018, hub.in Bjelovar was selected by the European Commission for participating in the "Smart Factories in New EU Member States" project. Since the first day of work, the stakeholders in the hub.in Bjelovar are working to expand the network of formal and informal members / associates: SMEs in agriculture, manufacturing, IT, development agencies, BSO, NGOs, universities. Transfer of practical knowledge, technologies and people aims for preparing all of stakeholders for digital, technological, working-skills transformation.
+The mission of the DIH is to enable and support new talents for present technological challenges and prepare them for shaping the technological future. Our top priority is to make sure our clients have a plan tailored to their specific business and individual needs that addresses their unique goals and circumstances now and in the future. We are starting to develop a much more thriving ecosystem through development of skills and knowledge for children and youth and including them into possibilities with new technologies.
+Contact Person(s): Vukmanic Dajana
+Phone: 00385989234385
+Email: direktor@tpbj.hr
+Location: Eugen kvaternik square 6, 43000 Bjelovar, Croatia
+Type: DIH
+Website: https://www.hubinbjelovar.com/
+Tags: Country:Croatia
+------------------------------------------------------------
+EDIH Name: HUB4.0MANUVAL
+Title: Hub 4.0 of Manufacturing Sectors in  Valencian Region
+Country: Spain
+Description: HUB4MANUVAL is a Digital Innovation Hub that will stimulate the uptake of Robotics,CPS/IoT and Artificial Intelligence (AI)by Valencian manufacturing SMEs and MidCaps. The HUB will support manufacturing companies in order to be more competitive, prioritizing SMEs in the manufacturing sectors of relevance at Regional Level, but conecting also with relevant big players, as they can atract others in relevant sectors. The mission of HUB4MANUVAL is to be a reference one-stop shop Digital Innovation Hub (DIH) for manufacturing companies requiring innovation solutions in the field of robotics and ICT, bridging the gap between research and industry. The Hub will play the role of centralising and facilitating the use of these technologies to the Valencian manufacturing ecosystem and will provide SME´s and stakeholders with facilities where they will be able to access Robotics, AI and CPS/IoT resources. It will follow a collaborative model by bringing together the main value chain actors and promoting collaborative R&I. The technologies used will be demonstrated to be complementary, showing that industry can be empowered when both are combined. The hub’s unique combination of partners and stakeholders will effectively allow HUB4MANUVAL to establish itself as an Industry 4.0 one-stop-shop for local manufacturing companies. By providing a gateway to specialist platforms and infrastructures, the DIH will be able to help companies assess their digital needs, find or develop optimal solutions for those needs and secure the necessary funding to implement those digital transformation solutions. HUB4.0MANUVAL is part of InnDIH EDIH Industry 5.0 CoP
+Contact Person(s): Francisco Blanes
+Phone: +34 609 53 13 99
+Email: pblanes@ai2.upv.es
+Location: Universitat politécnica de valencia. instituto universitario de automática e informática industrial, 46022 Valencia Valencia, Spain
+Type: DIH
+Website: https://hub4manuval.es/en/
+Active Sectors: Aeronautics (high involvement), Agricultural biotechnology and food biotechnology (high involvement), Automotive (moderate involvement), Education (very high involvement), Energy (high involvement), Food and beverages (moderate involvement), Health care (high involvement), Manufacturing and processing (very high involvement), Transport sector (high involvement)
+Provided Services: Knowledge transfer (very high involvement), Prototyping (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Cyber-physical systems (very high involvement), Digital twins (high involvement), Internet of Things (very high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (very high involvement), Software Architectures (high involvement)
+Tags: Country:Spain; Sector:Aeronautics; Sector:Agricultural biotechnology and food biotechnology; Sector:Automotive; Sector:Education; Sector:Energy; Sector:Food and beverages; Sector:Health care; Sector:Manufacturing and processing; Sector:Transport sector; Service:Knowledge transfer; Service:Prototyping; Service:Technological innovation; Service:Technology transfer; Technology:Cyber-physical systems; Technology:Digital twins; Technology:Internet of Things; Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Software Architectures
+------------------------------------------------------------
+EDIH Name: i.ku - Innovationsplattform Kufstein / Innovation Hub Kufstein, Tyrol
+Title: i.ku - Innovationsplattform Kufstein / Innovation Hub Kufstein, Tyrol
+Country: Austria
+Description: The digitalization of (business) processes and digital technologies impact economies and society and, in consequence, our life and work in unprecedented ways. In order to maintain the attractiveness of the business location, the Kufstein chamber of commerce initiated together with the Kufstein University of Applied Sciences the Innovation Hub “i.ku – Innovationsplattform Kufstein“. Partners from the regional economic ecosystem and additional organisations have expressed heightened interest in the project, which is co-financed by LEADER funds.
+i.ku - Innovation Hub Kufstein provides formats in a variety of shapes such as meetups for topical discussions between scientific & corporate experts, innovation challenges for students & researchers, dialogues with partners from the regional economy and children’s summer camps. In close collaboration with the Kufstein University of Applied Sciences, i.ku assists with the matching of corporate and academic ideas as a complementary precursor for R&D project proposal development.
+i.ku - Innovation Hub Kufstein thus provides numerous offers for different stakeholders in the (supra-)regional educational and organizational landscape with focus on the augmentation of technology awareness and the heightening of the capacity for technology absorption.
+Contact Person(s): Steiner Karina
+Phone: +43 5372 71819 1
+Email: Karin.Steiner@fh-kufstein.ac.at
+Location: Andreas hofer-straße 7, Kufstein, Austria
+Type: DIH
+Website: https://www.iku.tirol/
+Tags: Country:Austria
+------------------------------------------------------------
+EDIH Name: i4CAMHUB
+Title: Innovation for Competitiveness and Advance Manufacturing
+Country: Spain
+Description: i4CAMHUB has been an EDIH since 2017, is a part of DIHNET, has signed agreements with other EDIH to provide services together, and yet there is still place to grow and become more of a reference in the region, in its main fields of work which are the sectors of agrifood and metal manufacturing, and AI as technology (in a second level, also cybersecurity, HPC, AR/VR, human-machine interaction and others).
+To do this, this project is focused on developing and establishing relevant activities-services, mainly for SMEs, scaleups, startups, entrepreneurs, but also for the general population.
+The first set of activities include three work packages: 2, 4 and 5, focused respectively on: 
+- TEST BEFORE INVEST solutions that allow entities or entrepreneurs to investigate how relevant technological solutions would fit their current lines of work or new lines they want to develop without having to make the investment beforehand;S
+- Facilitating FUNDING FOR DIGITALIZATION or to TO START-UP BUSINESSES OR LINES OF WORK; 
+- NETWORKING SOLUTION, facilitating spaces from where to work or events to get to know possible partners interested in applying the solutions developed by users, in getting together to develop new ones or who can provide them with technology they are needing.
+The second one (WP3) is focused on training: 
+- Different COURSES, WEBINARS, INFO-DAYS and WORKSHOPS will be offered to diverse target groups including active population, students, unemployed people and people in risk of social exclusion with the intention of improving their chances to get relevant employments and improve their general situation.
+The fact that Castilla La Mancha includes large areas of rural space scarcely populated is taken into account and I4CAMHUB intends to facilitate access to these resources also in those areas. I4CAMHUB also has a relevant intent to actively engage with other EDIHs to maximise its reach and improve the general position of Castilla La Mancha in the general European scope.
+Contact Person(s): Cristina Conejo
+Phone: +34 621 29 68 10
+Email: cristina.conejo@itecam.com
+Location: Ctra Pedro Munoz km1 PC. 51, 13700 TOMELLOSO Ciudad Real, Spain
+Type: EDIH
+Website: https://www.i4camhub.com/es/home
+Active Sectors: Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Energy (high involvement), fuels and petroleum engineering (high involvement), Food and beverages (high involvement), wholesale or distribution (high involvement), Smart City (high involvement), Environment (moderate involvement), Construction & Assembly (moderate involvement), NMP Non-Metallic Materials & basic processes (moderate involvement), Community-Led Local Development (moderate involvement), Automotive (low involvement), Transport & Mobility (low involvement), Consumer products (low involvement), Telecommunications (low involvement), Transport sector (low involvement), Defence (very low involvement), Polymers and plastics (very low involvement), Textiles (very low involvement), Aeronautics (very low involvement), Agricultural biotechnology and food biotechnology (very low involvement), Space (very low involvement), Personal services (very low involvement), Travel and tourism (very low involvement)
+Provided Services: Prototyping (very high involvement), Technological innovation (high involvement), Technology transfer (moderate involvement), Regional development (moderate involvement), Innovation management (low involvement), Knowledge transfer (low involvement), Smart Specialisation strategies (low involvement), Sme Business Development (low involvement), SME support (low involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Simulation engineering and modelling (very high involvement), Virtual Reality (very high involvement), Robotics (very high involvement), Digital twins (very high involvement), Sensors & Vision Processing Systems (high involvement), Location-based applications (very high involvement), Internet of Things (high involvement), Cybersecurity (high involvement), Logistics (high involvement), Additive manufacturing (moderate involvement), Laser-based manufacturing and materials processing (moderate involvement), Cloud Services (low involvement), High performance computing (very low involvement), Quantum Technologies (computing/communication) (very low involvement)
+Tags: Country:Spain; Sector:Manufacturing and processing; Sector:Metal working and industrial production; Sector:Energy; Sector:fuels and petroleum engineering; Sector:Food and beverages; Sector:wholesale or distribution; Sector:Smart City; Sector:Environment; Sector:Construction & Assembly; Sector:NMP Non-Metallic Materials & basic processes; Sector:Community-Led Local Development; Sector:Automotive; Sector:Transport & Mobility; Sector:Consumer products; Sector:Telecommunications; Sector:Transport sector; Sector:Defence; Sector:Polymers and plastics; Sector:Textiles; Sector:Aeronautics; Sector:Agricultural biotechnology and food biotechnology; Sector:Space; Sector:Personal services; Sector:Travel and tourism; Service:Prototyping; Service:Technological innovation; Service:Technology transfer; Service:Regional development; Service:Innovation management; Service:Knowledge transfer; Service:Smart Specialisation strategies; Service:Sme Business Development; Service:SME support; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Simulation engineering and modelling; Technology:Virtual Reality; Technology:Robotics; Technology:Digital twins; Technology:Sensors & Vision Processing Systems; Technology:Location-based applications; Technology:Internet of Things; Technology:Cybersecurity; Technology:Logistics; Technology:Additive manufacturing; Technology:Laser-based manufacturing and materials processing; Technology:Cloud Services; Technology:High performance computing; Technology:Quantum Technologies (computing/communication)
+------------------------------------------------------------
+EDIH Name: ICD
+Title: Innovation Cluster Drachten
+Country: Netherlands
+Description: We are a group of 23 high-tech companies in Northern Netherlands (4600 FTE) that work together on solutions for future challenges at the cutting edge of technology. We call this the Big 5 of high-tech: metal 3D printing, remote sensoring and big data, robotics, visual intelligence and renewable propulsion. We use the latest technology and, if needed, we develop it ourselves. Our R&D departments (1300 FTE) work together in a unique way and, instead of competing with each other, support and reinforce each other. Every year, we create more than 50 innovative products worldwide. These products contribute to society problems. We are connected to 6SDG's (sustainable development goals) Our collaboration is called Innovatiecluster Drachten and is centrally located in the smart factory region of North-West Europe. We partnered in the Smart Industry Hub Northern Netherlands and the Dutch National Fieldlabs organization. We will be involved in the European Digital Innovation Hub and are an I space label Bronze at the BDVA Partnerships with FME, Metaalunie, Rijksuniversiteit Groningen, NOM and Holland High Tech. Interreg project with HochSchule EmdenLeer
+Contact Person(s): Joost Krebbekx
+Phone: 31655364856
+Email: jgk@berenschot.com
+Location: Oliemolenstraat 5 drachten (philips site), 9203 ZN Drachten, Netherlands
+Type: DIH
+Website: https://www.icdrachten.nl/
+Active Sectors: Aeronautics (low involvement), Automotive (low involvement), Consumer products (high involvement), Electricity (moderate involvement), Health care (very high involvement), Life sciences (very high involvement), Manufacturing and processing (very high involvement), Maritime (moderate involvement), Space (moderate involvement), Transport & Mobility (high involvement)
+Provided Services: Ecosystem building (very high involvement), Finance (high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Regional development (very high involvement), Smart Specialisation strategies (moderate involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Cloud Services (moderate involvement), Cyber-physical systems (very high involvement), Cybersecurity (moderate involvement), High performance computing (high involvement), Human computer interaction (very high involvement), Internet of Things (very high involvement), Laser-based manufacturing and materials processing (moderate involvement), optoelectronics (high involvement), Mobility (moderate involvement), Virtual Reality (very high involvement), Photonics (high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very high involvement)
+Tags: Country:Netherlands; Sector:Aeronautics; Sector:Automotive; Sector:Consumer products; Sector:Electricity; Sector:Health care; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Maritime; Sector:Space; Sector:Transport & Mobility; Service:Ecosystem building; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Regional development; Service:Smart Specialisation strategies; Service:Technological innovation; Service:Technology transfer; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cloud Services; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:High performance computing; Technology:Human computer interaction; Technology:Internet of Things; Technology:Laser-based manufacturing and materials processing; Technology:optoelectronics; Technology:Mobility; Technology:Virtual Reality; Technology:Photonics; Technology:Robotics; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling
+------------------------------------------------------------
+EDIH Name: ICT4Manuf
+Title: ICT4Manuf
+Country: France
+Description: The ICT4Manuf DIH is coordinated by a no profit organisation performing research, networking, matchmaking and dissemination activities. The aim of the DIH is to support both IT and Industrial partners.
+
+For IT software providers and integrators, the DIH provides support in Information Systems Architecture, IT systems interoperability and Data and Process engineering.
+For Industrial companies, the DIH promotes the digital manufacturing transformation towards Industry 4.0 approach, the Value Chain processes and the circular economy methodologies.
+
+The ICT4Manuf DIH provides the following tailored supports for Auvergne-Rhône-Alpes enterprises:
+
+Innovation Coaching
+Business Incubation of innovative ideas
+Enterprise Architecture
+Business & Functional Engineering
+Knowledge Engineering
+Requirement Engineering
+Technological and Technical Support
+Infrastructure Sharing
+Testing
+Training
+Access to User
+Brokerage Platform
+
+The seven competencies areas of the DIH allow it to be an expert on wide enterprise engineering activities:
+
+Information system agility
+AI & Cyber-Physical System
+Big data & digital preservation
+PLM for new product development
+Supply chain & manufacturing systems, design & optimization
+Traceability, LCA & risk management
+Cooperative education & continuous training
+
+Some of the supported digital transformations:
+
+Appropriation of new technologies in line with the business needs of the company
+Evolution of the functional scope of an information system
+Improvement / optimizationof business processes
+Modelling, analysisandimprovement of operational processes
+
+Our modern infrastructures allow us to innovate constantly and to propose tailored solutions to our partners.
+Contact Person(s): Moalla Karin
+Phone: 0.99115708
+Email: Nejib.Moalla@univ-lyon2.fr
+Location: Iut lumière lyon 2, 160 boulevard de l'université, Bron, France
+Type: DIH
+Website: http://ict4manuf.eu/
+Tags: Country:France
+------------------------------------------------------------

@@ -1,0 +1,209 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: i4CAMHUB
+Title: Innovation for Competitiveness and Advance Manufacturing
+Country: Spain
+Description: i4CAMHUB has been an EDIH since 2017, is a part of DIHNET, has signed agreements with other EDIH to provide services together, and yet there is still place to grow and become more of a reference in the region, in its main fields of work which are the sectors of agrifood and metal manufacturing, and AI as technology (in a second level, also cybersecurity, HPC, AR/VR, human-machine interaction and others).
+To do this, this project is focused on developing and establishing relevant activities-services, mainly for SMEs, scaleups, startups, entrepreneurs, but also for the general population.
+The first set of activities include three work packages: 2, 4 and 5, focused respectively on: 
+- TEST BEFORE INVEST solutions that allow entities or entrepreneurs to investigate how relevant technological solutions would fit their current lines of work or new lines they want to develop without having to make the investment beforehand;S
+- Facilitating FUNDING FOR DIGITALIZATION or to TO START-UP BUSINESSES OR LINES OF WORK; 
+- NETWORKING SOLUTION, facilitating spaces from where to work or events to get to know possible partners interested in applying the solutions developed by users, in getting together to develop new ones or who can provide them with technology they are needing.
+The second one (WP3) is focused on training: 
+- Different COURSES, WEBINARS, INFO-DAYS and WORKSHOPS will be offered to diverse target groups including active population, students, unemployed people and people in risk of social exclusion with the intention of improving their chances to get relevant employments and improve their general situation.
+The fact that Castilla La Mancha includes large areas of rural space scarcely populated is taken into account and I4CAMHUB intends to facilitate access to these resources also in those areas. I4CAMHUB also has a relevant intent to actively engage with other EDIHs to maximise its reach and improve the general position of Castilla La Mancha in the general European scope.
+Contact Person(s): Cristina Conejo
+Phone: +34 621 29 68 10
+Email: cristina.conejo@itecam.com
+Location: Ctra Pedro Munoz km1 PC. 51, 13700 TOMELLOSO Ciudad Real, Spain
+Type: EDIH
+Website: https://www.i4camhub.com/es/home
+Active Sectors: Manufacturing and processing (very high involvement), Metal working and industrial production (very high involvement), Energy (high involvement), fuels and petroleum engineering (high involvement), Food and beverages (high involvement), wholesale or distribution (high involvement), Smart City (high involvement), Environment (moderate involvement), Construction & Assembly (moderate involvement), NMP Non-Metallic Materials & basic processes (moderate involvement), Community-Led Local Development (moderate involvement), Automotive (low involvement), Transport & Mobility (low involvement), Consumer products (low involvement), Telecommunications (low involvement), Transport sector (low involvement), Defence (very low involvement), Polymers and plastics (very low involvement), Textiles (very low involvement), Aeronautics (very low involvement), Agricultural biotechnology and food biotechnology (very low involvement), Space (very low involvement), Personal services (very low involvement), Travel and tourism (very low involvement)
+Provided Services: Prototyping (very high involvement), Technological innovation (high involvement), Technology transfer (moderate involvement), Regional development (moderate involvement), Innovation management (low involvement), Knowledge transfer (low involvement), Smart Specialisation strategies (low involvement), Sme Business Development (low involvement), SME support (low involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Simulation engineering and modelling (very high involvement), Virtual Reality (very high involvement), Robotics (very high involvement), Digital twins (very high involvement), Sensors & Vision Processing Systems (high involvement), Location-based applications (very high involvement), Internet of Things (high involvement), Cybersecurity (high involvement), Logistics (high involvement), Additive manufacturing (moderate involvement), Laser-based manufacturing and materials processing (moderate involvement), Cloud Services (low involvement), High performance computing (very low involvement), Quantum Technologies (computing/communication) (very low involvement)
+------------------------------------------------------------
+EDIH Name: ICD
+Title: Innovation Cluster Drachten
+Country: Netherlands
+Description: We are a group of 23 high-tech companies in Northern Netherlands (4600 FTE) that work together on solutions for future challenges at the cutting edge of technology. We call this the Big 5 of high-tech: metal 3D printing, remote sensoring and big data, robotics, visual intelligence and renewable propulsion. We use the latest technology and, if needed, we develop it ourselves. Our R&D departments (1300 FTE) work together in a unique way and, instead of competing with each other, support and reinforce each other. Every year, we create more than 50 innovative products worldwide. These products contribute to society problems. We are connected to 6SDG's (sustainable development goals) Our collaboration is called Innovatiecluster Drachten and is centrally located in the smart factory region of North-West Europe. We partnered in the Smart Industry Hub Northern Netherlands and the Dutch National Fieldlabs organization. We will be involved in the European Digital Innovation Hub and are an I space label Bronze at the BDVA Partnerships with FME, Metaalunie, Rijksuniversiteit Groningen, NOM and Holland High Tech. Interreg project with HochSchule EmdenLeer
+Contact Person(s): Joost Krebbekx
+Phone: 31655364856
+Email: jgk@berenschot.com
+Location: Oliemolenstraat 5 drachten (philips site), 9203 ZN Drachten, Netherlands
+Type: DIH
+Website: https://www.icdrachten.nl/
+Active Sectors: Aeronautics (low involvement), Automotive (low involvement), Consumer products (high involvement), Electricity (moderate involvement), Health care (very high involvement), Life sciences (very high involvement), Manufacturing and processing (very high involvement), Maritime (moderate involvement), Space (moderate involvement), Transport & Mobility (high involvement)
+Provided Services: Ecosystem building (very high involvement), Finance (high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement), Regional development (very high involvement), Smart Specialisation strategies (moderate involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Cloud Services (moderate involvement), Cyber-physical systems (very high involvement), Cybersecurity (moderate involvement), High performance computing (high involvement), Human computer interaction (very high involvement), Internet of Things (very high involvement), Laser-based manufacturing and materials processing (moderate involvement), optoelectronics (high involvement), Mobility (moderate involvement), Virtual Reality (very high involvement), Photonics (high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very high involvement)
+------------------------------------------------------------
+EDIH Name: ICT4Manuf
+Title: ICT4Manuf
+Country: France
+Description: The ICT4Manuf DIH is coordinated by a no profit organisation performing research, networking, matchmaking and dissemination activities. The aim of the DIH is to support both IT and Industrial partners.
+
+For IT software providers and integrators, the DIH provides support in Information Systems Architecture, IT systems interoperability and Data and Process engineering.
+For Industrial companies, the DIH promotes the digital manufacturing transformation towards Industry 4.0 approach, the Value Chain processes and the circular economy methodologies.
+
+The ICT4Manuf DIH provides the following tailored supports for Auvergne-Rhône-Alpes enterprises:
+
+Innovation Coaching
+Business Incubation of innovative ideas
+Enterprise Architecture
+Business & Functional Engineering
+Knowledge Engineering
+Requirement Engineering
+Technological and Technical Support
+Infrastructure Sharing
+Testing
+Training
+Access to User
+Brokerage Platform
+
+The seven competencies areas of the DIH allow it to be an expert on wide enterprise engineering activities:
+
+Information system agility
+AI & Cyber-Physical System
+Big data & digital preservation
+PLM for new product development
+Supply chain & manufacturing systems, design & optimization
+Traceability, LCA & risk management
+Cooperative education & continuous training
+
+Some of the supported digital transformations:
+
+Appropriation of new technologies in line with the business needs of the company
+Evolution of the functional scope of an information system
+Improvement / optimizationof business processes
+Modelling, analysisandimprovement of operational processes
+
+Our modern infrastructures allow us to innovate constantly and to propose tailored solutions to our partners.
+Contact Person(s): Moalla Karin
+Phone: 0.99115708
+Email: Nejib.Moalla@univ-lyon2.fr
+Location: Iut lumière lyon 2, 160 boulevard de l'université, Bron, France
+Type: DIH
+Website: http://ict4manuf.eu/
+------------------------------------------------------------
+EDIH Name: ICUK DIH
+Title: ICUK Digital Innovation HUB
+Country: Czechia
+Description: Digital Innovation HUB (DIH) operates as a part of Ústí Region Innovation Centre (ICUK). ICUK is a non-profit organisation, founded by Ústí Region Local Authority, University of Jan Evangelista Purkyně in Ústí nad Labem and Regional Chamber of Commerce of the Ústí Region,supports science, research and business environment in the Ústí Region. ICUK DIH is involved in popularization, realization and research activities related to particular areas like Industry 4.0, SmartCity and Internet of Things, and provides complex know-how and tailor-made services solving needs of clients. The main aim of ICUK DIHis to provide services and necessary specific support to startups and SMEs in the area of digitalisation of manufacturing: Transfer of technical knowledge, networking - connecting experts from universities as wellwith companies (SMEs, start ups). Coaching and mentoring programme- combinating varioustools: webinars, regional workshops, on-site training, coaching and mentoring sessions. Grantconsultancy - helping to find suitable financial resources, eg. innovation or assistance vouchers, national or ESI funds. Assistance with the processing of grant applications. Technical assistance (expert advisory) - consisting of: Current state analysis, company needs analysis Setting clear objectives for digitalisation and providing a full understanding of what the end goal looks like Defining necessary skills (human resources needs) Own company to other companies comparison (konvergency of IT and operational technologies, innovative environment, partnership ecosystem, customer relationships and level of IoT experience) Technical readiness assessment Human resources within company readiness assessment Establishing the business model advice - economic perspective (ROI) Determining which devices, technologies and systems to connect Cybersecurity issues (risk management, which data stored, where, how) Strategy implementation KPIs measurement and evaluation ICUK DIH activities are fully complementary to: ICUK PLATINN program, whichis a coaching program for the growth of business and innovation performance of technologically orientedSMEs from the Ústí Region. This program is based onindividual leadership by top experts. Startup GO program, which is providing incubation support to startups. Client basic characteristics: SMEs "Future" oriented companies with ambitions to innovate and grow (chemical and glass industry, energetics, mobility/automotive) insufficient resources for own professional capacities residency in Ústí region 2+ years on the market 10-250 employees Technological oriented start ups(chemical and glass industry, energetics, mobility/automotive) insufficient resources for own professional capacities residency in Ústí region
+Contact Person(s): Wedlich Jan
+Phone: +420 724 985 266
+Email: wedlich@icuk.cz
+Location: Velká hradební 2800/54, 40001 Ústí nad labem, Czechia
+Type: DIH
+Website: https://www.icuk.cz
+------------------------------------------------------------
+EDIH Name: Idele
+Title: Institut de l'Elevage
+Country: France
+Description: The French Livestock Institute (acronymIDELE) is the French national technical reference and normative body in livestock farming systems. It is a non-profit, non-governmental organization featuring management bylivestock farmer’s federations and trade unions. Its activities encompass applied research, technical assistance, advisory services and technology transfer in cattle, sheep, goats and horses husbandry sciences. It employs 300 people and its yearly turnover is in the range of M€ 24-26. The main research topics are genetic evaluation, population management and selection, phenotyping and data collection, management of observatories of breeds, animal husbandry techniques and environment including fodder and pastoralism, quality of animal products, animal health and welfare, precision livestock farming, farm economics, value chain economics, farm workmanship and social approaches, methods and tools for references and advisory services. Based on its strong expertise on the livestock sector in France and EU, Idele plays a central role for the digital transformation of the whole ruminant value chain, by: Catching end-user needs. All Idele activities are livestock stakeholders driven. Idele is constantly in relation with all actors of the value chain and organises regular focus groups and surveys to catch and prioritise farmers and stakeholders needs. Thus, Idele is able to provide support to SMEs with their digital orientation. Prototyping digital solutions. To address the needs of end-users, Idele is also able to set prototypes or to detail prototype specifications for SMEs. Test and validation. Thanks to its experimental farms, Idele supports SMEs in the testing and validation of their digital solutions in real environment. Demonstration. Thanks to its national and EU networks, Idele participates to the demonstration phase of digital solutions through field implementation in different environments (different rearing systems, different breeds, different pedoclimatic conditions, …). This step is critical and essential to tailor digital solutions to the reality of the field and to facilitate SMEs digital transformation. Extension and communication. Idele act as a booster for the extension and communication of adapted digital solutions for the livestock sectors, thanks to the on-field demonstration, training, open days, shows, social media, website, video channel… Those, Idele plays a central role to accelerate the digital transformation of the ruminant sector. Since 2017, Idele has been mandated in France by all livestock farmers organisations (grouped into the Confédération Nationale de l’Elevage) to act as a hub and an activator to boost the digital transformation of the livestock sector (Sm@rt Elevage program funded by CNE). Since 2017, Idele has been mandated in France by all livestock farmers organisations (grouped into the Confédération Nationale de l’Elevage) to act as a hub and an activator to boost the digital transformation of the livestock sector (Sm@rt Elevage program funded by CNE). Keywords: Livestock
+Contact Person(s): Jean-Marc Gautier
+Phone: 33607137893
+Email: jean-marc.gautier@idele.fr
+Location: 149 rue de bercy, 75000 Paris, France
+Type: DIH
+Website: https://idele.fr/
+Provided Services: Field trial (very high involvement), Knowledge transfer (very high involvement), Prototyping (moderate involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Big data (high involvement), Internet of Things (high involvement), Photonics (high involvement)
+------------------------------------------------------------
+EDIH Name: IFARLAB
+Title: Intelligent Factory and Robotics Laboratory
+Country: Türkiye
+Description: Intelligent Factory and Robotics Laboratory (IFARLAB) support tools for boosting business competitiveness through the use of digital technologies to improve business or production processes, products and services. IFARLAB is also a one-stop-shop for testing before investment.  The mission is to increase the competitiveness of companies by bringing together in an ecosystem.
+IFARLAB services including but not limited to:
+
+Research and Development: the IFARLAB provides brokerage with the right institute within CISAR and Eskisehir Osmangazi University or other institutions within the hub for research and development.
+Prototyping: Through various well-equipped workshops within the hub, the IFARLAB helps to bring ideas to life.
+Facilities: The IFARLAB can arrange for facilities such as specialized equipment or labs.
+Testing and Certification: Partners within the hub can offer realistic factory simulation facilities. Besides, support is also given for ethical and legal aspects that available.
+Finance: Information on funding opportunity. Help on building consortia for projects and on designing of concepts.
+Contact Person(s): Ahmet Yazıcı
+Phone: +90 (222) 239 3750 - 7007
+Email: ayazici@ogu.edu.tr
+Location: Eskisehir Osmangazi Universitesi, Büyükdere Mah, 26040 Odunpazarı, Eskisehir Turkiye, Türkiye
+Type: DIH
+Website: https://ifarlab.ogu.edu.tr/
+Active Sectors: Education (very high involvement), Manufacturing and processing (high involvement), Energy (high involvement), Transport & Mobility (high involvement)
+Provided Services: Ecosystem building (high involvement), SME support (high involvement), Knowledge transfer (high involvement), Prototyping (high involvement), Vocational training (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Logistics (very high involvement), Robotics (high involvement), Internet of Things (high involvement), Digital twins (moderate involvement)
+------------------------------------------------------------
+EDIH Name: IMECH
+Title: Consorzio Intellimech
+Country: Italy
+Description: Consorzio Intellimech is a private non-profit research consortium founded in Bergamo in 2007 to fill the gap between the research and the industrial sector, promoting the collaboration of companies of different sizes and from various industrial domains. The consortium currently involves more than 50 high-tech enterprises, making it one of the most important Italian private initiatives in this field. Intellimech's research activity is primarily focused on the Smart Factory field, which includes advanced electronics, Data Analytics, AI, ICT, Augmented/Virtual Reality, robotics and human-robot interaction. Intellimech manages applied R&D and interdisciplinary experimental activities into pre-competitive technological platforms and prototype production for innovative infra-sectorial applications to serve the partners. Moreover, Intellimech has experience implementing products and services relying on the outcomes from shared research activities and concretized through vertical projects tailored for specific partners. Intellimech is active at a national and international level as a member of associations. Italian associations: (i) one of the founders of Associazione Fabbrica Intelligente Lombardia (AFIL, more than 150 associates); (ii) member of Cluster tecnologico nazionale Fabbrica Intelligente (CFI, more than 300 associates). European associations: (i) full member of Big Data Value Association (BDVA, more than 230 members); (ii) member of the Digital Factory Alliance (DFA, 7 members and 12 lighthouse factories); (iii) associate member of FIWARE (more than 140 members); (iv) network partner of EIT Manufacturing (more than 130 partners). Keywords: Robotics, AR/VR
+Contact Person(s): Alissa Zaccaria
+Phone: 3.90351E+11
+Email: alissa.zaccaria@intellimech.it
+Location: Via stezzano, 87, 24126 Bergamo BG, Italy
+Type: DIH
+Website: https://www.intellimech.it/en/
+Active Sectors: Education (high involvement), Manufacturing and processing (very high involvement)
+Provided Services: Ecosystem building (high involvement), Field trial (very high involvement), Innovation management (moderate involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), SME support (low involvement), Technological innovation (moderate involvement), Technology transfer (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Digital twins (moderate involvement), Human computer interaction (high involvement), Internet of Things (moderate involvement), Logistics (low involvement), Virtual Reality (very high involvement), Robotics (very high involvement), Sensors & Vision Processing Systems (low involvement), Simulation engineering and modelling (moderate involvement), Software Architectures (very high involvement), Simulation engineering and modelling (high involvement)
+------------------------------------------------------------
+EDIH Name: I-NEST
+Title: Italian National hub Enabling and Enhancing networked applications & Services for digitally Transforming SMEs and Public Administrations
+Country: Italy
+Description: I-NEST (Italian National hub Enabling and enhancing networked applications and Services for digitally Transforming Small-Medium Enterprises and Public Administrations) provides a transversal, multi-sector digitalization support for connected businesses, administrations and other digital innovation hubs, exploiting fixed and mobile network infrastructures and cloud-native, intelligent, high-performance, secure services. The hub operates with a national coverage, thanks to a network of points-of-presence and demo-centers implemented at the 88 offices of the Italian Chambers of Commerce and in 5 National Research Laboratories of CNIT, a consortium of 38 Italian Universities. The hub is specialized in emerging intelligent and secure communication and computing infrastructures, exploiting 5G as a powerful innovation platform. These infrastructures can enable innovative applications in multiple fields, improve efficiency and sustainability of supply chains and industrial ecosystems, and create new opportunities for SMEs and PAs. The hub services are designed for addressing the knowledge, capability, demand-supply and financial gaps of stakeholders working in non-ICT vertical domains. Technology awareness will be built by presenting concrete 5G economical scenarios and use cases, showcasing innovative artificial intelligence applications and analysing cybersecurity threats. Training programs and consultancy services will exploit the hub testing facilities and prototyping platforms, including a high-performance-computing platform for process simulation. Multiple players will be encouraged to share tools and interact on these facilities for creating conditions for collaboration, circularity, and open innovation. Support will be provided not only for identifying and applying for funding opportunities, including the current National Plan for Resilience and Recovery, but also for effectively and efficiently utilizing the granted funds.
+Contact Person(s): Nicola BLEFARI MELAZZI
+Phone: +39 06 7259 7501
+Email: blefari@uniroma2.it
+Location: Viale g. p. usberti 181a, 43124 Parma PR, Italy
+Type: EDIH
+Website: https://inest-digital.eu/
+Active Sectors: Public administration (very high involvement), Telecommunications (very high involvement), Security (high involvement)
+Provided Services: Prototyping (high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Finance (high involvement), Ecosystem building (high involvement), Knowledge transfer (very high involvement)
+Technological Focus: Cybersecurity (very high involvement), Artificial Intelligence & Decision support (very high involvement), Digital twins (high involvement), Communication network (very high involvement), Internet of Things (very high involvement)
+------------------------------------------------------------
+EDIH Name: INFAB HUB
+Title: INFAB HUB
+Country: Spain
+Description: The INFAB HUB has as its priority objectives the promotion and development of innovation in the business fabric in order to achieve a higher level of competitiveness and the promotion of an appropriate legal framework for the development of this industry and its promotion within and outside the autonomous region. In the same way, it works actively to achieve common objectives in the field of innovative industrial activity, particularly in the development of projects that contribute to the creation, accumulation and dissemination of knowledge; in the improvement of productivity through greater innovation and process optimization among the activities of its members; in innovation, through joint research; and in the promotion of visibility, the strategic importance of industrial activity. HUB focuses on the digitalization of industry and related services for more efficient manufacturing processes. To achieve this, the HUB makes use of technologies such as blockchain, digital twin, internet of things, machine learning and also one of the key disruptive technologies in industry: Artificial Intelligence (AI), framed within the European Strategy for Artificial Intelligence (AI), as well as the Spanish Strategy for R&D&I in Artificial Intelligence, where the national priorities regarding Artificial Intelligence for the Spanish Strategy for Science, Technology and Innovation (EECTI) 2021-2028 are stated. Therefore, INFABHUB offers its expertise in the field to other companies to carry out a knowledge transfer to them, providing them with critical digital skills in order to achieve better productive manufacturing processes.
+Contact Person(s): Maria Campos
+Phone: +34986 41 07 27
+Email: info@infabhub.eu
+Location: Avenida del doctor corbal 51, 36207 Vigo Pontevedra, Spain
+Type: Seal of Excellence
+Website: https://infabhub.eu/
+Active Sectors: Aeronautics (very high involvement), Automotive (very high involvement), Space (very high involvement), Textiles (very high involvement), Maritime (very high involvement), Transport sector (very high involvement)
+Provided Services: Technology transfer (very high involvement), Ecosystem building (very high involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Regional development (very high involvement), Technological innovation (very high involvement), SME support (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Cloud Services (high involvement), Digital twins (very high involvement), Cybersecurity (very high involvement), Internet of Things (very high involvement), Virtual Reality (high involvement)
+------------------------------------------------------------
+EDIH Name: InfoDesignHub
+Title: InfoDesignHub
+Country: Croatia
+Description: The mission of InfoDesignHubis to enable regional development by promoting and embedding digital technologies into SMEs and public sector organizations.
+Local city development agency InovaDR is the founder of InfoDesignHub and responsible for its operation. It is funded by city government and has a non-profit aim, i.e. all its income is used for futher development of digital ecosystem.
+
+DIH will provide support in different fields and support aproachingdigitalization in a holistic way.
+INFODESIGN HUB will provide a range of basic services to the regional ecosystem ranging from digital skills education, workshops, digital infrastructure, and mentoring. Along these basic services DIH will focus on design services in various stages of digital transformation of organizations and product and service development.
+List of indicative services:
+
+Ecosystem building, scouting, brokerage, networking
+Visioning and Strategy Development for Businesses
+Collaborative Researchs
+Concept validation and prototyping
+Testing and validation
+Pre-competitive series production
+Digital Maturity Assessment
+Incubator/accelerator support
+Market intelligence
+Access to Funding and Investor Readiness Services
+Mentoring
+Education and skills development
+
+DIH is forming partnerships with institutions, organizations, and institutions that complement each other in strengthening DIHs aim to become a center of excellence forapplying digital design to industry solutions, products, packaging, urban planning i.e. in supporting sustainable development goals and initiatives.
+Contact Person(s): Glogovac Vana
+Phone: 3.85958E+11
+Email: vanja.glogovac@inovadr.hr
+Location: Trg sv jurja 1, Duga resa, Croatia
+Type: DIH
+Website: http://inovadr.hr
+------------------------------------------------------------

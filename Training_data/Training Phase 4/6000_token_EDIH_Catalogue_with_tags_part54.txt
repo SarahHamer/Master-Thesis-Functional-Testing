@@ -1,0 +1,162 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: SIH
+Title: Smart Islands Hub
+Country: Portugal
+Description: The Smart Islands Hub (SIH) is an important strategic effort, officially supported by the Regional Government to accelerate the Digital and Green transition of the Autonomous Region of Madeira. The consortium unites core organisations from R&D, Innovation and business ecosystem: ARDITI (coordinator), the University of Madeira, Startup Madeira, ACIF, NOVA University of Lisbon, Smart Energy Lab, Cecolab and Uninova. SIH also has the support of strategic stakeholders in the form of public institutions, local service providers and all the Municipalities of Madeira. SIH will provide solutions that will help SMEs, small midcaps and public sector organisations in their digital and green transformation, and promote capacity building and digital inclusion in the population of the Region. Our services will be available for similar regions and small economies that, like ours, are fully committed to sustainable development and quality of life for their citizens. Our position as an outermost region, further away from decision centres, where technology and innovation are more widespread, motivated the creation of a strategy to holistically develop our DIH and offer a more complete set of services for test before invest, skills & training, support to find investment and ecosystem and networking, applied to the areas of Energy, Circular Economy, Environment & Sustainability, Mobility & Logistics, Public Sector, Health & Biotechnology and Commerce & Services. We also cover a wider range of main technologies, from AI and Cybersecurity to Advanced Digital Skills. To reach our goals, we developed a project plan that integrates activities to promote technology transfer from our R&D entities to market innovation with the support of our business organisations, taking full advantage of our competence centres. The results will be shown by advancing the digital maturity of the organisations that benefit from our services, measured by a Digital Maturity Assessment.
+Contact Person(s): Paulo Abreu
+Phone: +351 291721205
+Email: paulo.abreu@arditi.pt
+Location: Caminho da Penteada, Edifício Madeira Tecnopolo, piso 2, 9020-105 Funchal, Portugal
+Type: Seal of Excellence
+Website: https://smartislandshub.eu/index.php/en/
+Active Sectors: Energy (very high involvement), Environment (very high involvement), Health care (high involvement), Transport & Mobility (high involvement), Public administration (moderate involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Knowledge transfer (very high involvement), Sme Business Development (very high involvement), Circular economy (high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Cybersecurity (very high involvement), Human computer interaction (high involvement), Blockchain and Distributed Ledger Technology (DLT) (moderate involvement), Big data (moderate involvement)
+Tags: Country:Portugal; Sector:Energy; Sector:Environment; Sector:Health care; Sector:Transport & Mobility; Sector:Public administration; Service:Ecosystem building; Service:Innovation management; Service:Knowledge transfer; Service:Sme Business Development; Service:Circular economy; Technology:Artificial Intelligence & Decision support; Technology:Cybersecurity; Technology:Human computer interaction; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Big data
+------------------------------------------------------------
+EDIH Name: Silesia Smart Systems
+Title: Silesia Smart Systems
+Country: Poland
+Description: SILESIA SMART SYSTEMS (previously Slaskie Centrum Kompetencji Przemysłu 4.0 - Silesian Competence Centre of Industry 4.0) - platform for cooperation between business support organizations, scientific units and universities, focusing on supporting industrial enterprises in the processes of digital transformation.
+From 2018 we operated under the name of Silesian Competence Centre of Industry 4.0, which was a pilot phase of our activity. We collected the feedback from the market, with special emphasis on SMEs and we decided to expand our initiative and invite further Partners, who will help cover the areas of support services we had not been able to cover within the two-member consortium. This led us to Silesia Smart Systems project, coordinated by Katowice Special Economic Zone.
+Main areas of specialization:
+•Automation and robotics (Computer Integrated Manufacturing),
+•Cyber security,
+•Additive technologies and new materials for 3D printing,
+•One-stop-shop - horizontal „soft measures”, including training and consulting, which prepare companies for the digital transformation process.
+We support industrial companies, which want to undergo the digital transformation, involving the above mentioned technologies, or consider changes to their business model or implementation of smart products involving digital technologies.
+SILESIA SMART SYSTEMS is now a consortium of complementary entities, cooperating with each other, using the synergy of influence, experience and competence. The consortium includes:
+1.Katowicka Specjalna Strefa Ekonomiczna SA (lider)
+2.Agencja Rozwoju Regionalnego SA Bielsko-Biała
+3.Górnośląska Agencja Przedsiębiorczości i Rozwoju Sp. z o.o
+4.FundingBox Accelerator Sp. z o.o.
+5.Sieć Badawcza Łukasiewicz - Instytut Technik Innowacyjnych EMAG
+6.Sieć Badawcza Łukasiewicz - Instytut Spawalnictwa
+7.Sieć Badawcza Łukasiewicz - Instytut Metali Nieżelaznych,
+8.Sieć Badawcza Łukasiewicz - Instytut Metalurgii Żelaza
+9.Politechnika Śląska
+Silesia Smart Systems provides the digital transformation process to SMEs and large enterprises within Silesian Voivodeship and neighbouring regions.
+Silesia Smart Systems delivers services to impact the local ecosystem, technology and business environments. In pursuing its mission, we support digital transformation in industrial enterprises and develop staff competencies in order to reduce production costs, increase productivity, release resources (employees) for tasks of higher value and intensify cooperation with suppliers and customers.
+Our on-going, statutory non-profit activities include: community building, ecosystem learning, awareness creation, project development (identification of opportunities).
+We aspire to become recognizable institution in Central Europe and trusted partner for enterprises, who offers them support at various stages of the digital transformation process through the implementation of dedicated advisory services, training and the development and joint implementation of the projects. Theforegoing will benefit enterprises as they will become more competitive, organisationally more dynamic players within the framework of international value chains.
+Contact Person(s): Zajusz-Wayda Aleksandra
+Phone: 0048 514 035 815
+Email: awayda@ksse.com.pl
+Location: Rybnicka 29, Gliwice, Poland
+Type: DIH
+Website: http://silesiasmartsystems.pl/start-3890?lang_id=11
+Tags: Country:Poland
+------------------------------------------------------------
+EDIH Name: SINTEF
+Title: SINTEF AS
+Country: Norway
+Description: For more than 70 years, SINTEF has developed solutions and innovation for society and customers all over the world. SINTEF is based in Norway and is one of Europe's largest independent research organizations (about 2200 employees) and covers research and innovation in technologies and social sciences. SINTEF is a not-for-profit organization and any financial surplus is invested in scientific equipment, skills, and expertise. SINTEF is made up of 6 research institutes, each dedicated to one of the following thematic topics: Community, Energy Research, Industry, Manufacturing, Ocean and Digital. In addition, SINTEF Holding manages ownership in start-up companies and other enterprises. SINTEF is primarily located in Trondheim (1400 employees) and Oslo (400 employees). We are also in many other locations in Norway (Bergen, Tromsø, Ålesund, Raufoss, Mo i Rana, Porsgrunn, Bergen), as well as in Brussels and Hirtshals (Denmark). SINTEF also operates a research station in Svalbard. SINTEF´s management system is certified (by DNV) to be in accordance with ISO 9001:2015, ISO 14001:2015 and ISO 45001:2018. In 2016, SINTEF carried out 5700 research projects for 4000 customers. Our multidisciplinary approach enables us to create teams with the broad range of expertise our customers and projects often demand. In terms of SINTEF as an EDIH and DIH, we provide services within ecosystem, technology and business to a large range of customers from small companies and start-ups to large industries and public sector organizations. We contribute to supporting industry and public sector partners and customers in all steps to increase capabilities in digitalization; creating awareness and educating on opportunities, securing funding, building collaborations, develop and test solutions, implement results, and supporting growth, up-scaling and internationalization. In the following, we summarize our services. **Ecosystem: SINTEF is part of, and contribute to building an innovation ecosystem with entrepreneurs, business and industry, investors, research organizations and universities, and public authorities. SINTEF contribute to organizing workshops, conferences and other venues to create awareness about AI, data and robotics technology and other aspects (incl. ethical), market opportunities and build a further stronger innovation ecosystem throughout Norway. To this end, we also lead national and EU research and innovation networks within, e.g., inspection and maintenance (RINVE-nettverket), construction (Grønt Anlegg), and more. Moreover, we provide market and technology trends and provide strategy development support. **Technology: SINTEF researches and provides competence, methods and technologies within a range large of areas with AI, data and robotics, including, e.g., autonomous systems, digital twins, digital transformation, explainable AI, standards, benchmarking, big data, machine learning, and more. We develop both generic technologies, as well as methods and technologies specifically designed for specific use cases and market areas including, e.g., search and rescue, renewables, process industry, aquaculture, fisheries, healthcare, transportation, and more. In addition, we have over 100 laboratories, including AI infrastructure, that form the basis for our research and are used in collaboration with our customers. The laboratories include from zero-emission buildings, to ocean basins, nano, CO2, electrical engineering and full-scale aquaculture sites - world-leading laboratories, from ocean space to outer space. More info can be found here: https://www.sintef.no/en/all-laboratories/ **Business and training: The commercialization of our research results is part of SINTEF's role in society. We achieve this by developing and transferring results to our customers, by means of licensing and creating new companies based on technologies developed as part of our research activities. SINTEF has spun-out a number of new companies including Zivid, a company specializing on 3D sensors. A main service from SINTEF is project development where we help companies and the public sector to identify innovation opportunities and corresponding funding opportunities to enable access to finance to realize the innovation potential. Moreover, SINTEF organizes SINTEF-led courses for skills and development (e.g., AI and machine learning), as well as that many of our employees collaborate with universities to educate BSc, MSc and PhD students, and support to supplementary training of the workforce. SINTEF also spins-out companies and thus provides an incubator/accelerator support service. Network and partnerships: SINTEF participates actively in a number of networks and partnerships in Norway and in Europe. We use our involvement to connect and support Norwegian organizations (start-ups, SMEs, large industry, public sector) to European and national initiatives and organizations. SINTEF has an active dialog with the Norwegian government and regional authorities to define strategies for digitizing the industry and public sector. To this end, we also collaborate with large industry organizations such as The Confederation of Norwegian Enterprise (NHO) which is Norway’s largest organization for employers and the leading business lobbyist and Landsorganisasjonen i Norge (labor union), as well as sector-specific industry associates such as Energi Norge (Energy Norway) and Norsk Forening for Vedlikehold (Norwegian Society for Maintenance). SINTEF contributes to strategic research agendas in euRobotics, BDVA and ADRA (AI, data and robotics associations), where the latter, in particular, communicates with the European Commission. To form a basis for our inputs to the research agendas, we coordinate with Norwegian industry and public sector. SINTEF is one of the founders and owners of Digital Norway. Digital Norway is a non-profit organisation established in 2017 by a group of the largest companies in Norway, with public support. The goal is to increase the knowledge and use of digital technology amongst Norwegian companies, with a special emphasis on Small and Medium Enterprises (SMEs). Digital Norway provides courses and training, meeting places, and takes part in the national debate behalf of SMEs and their needs. They also initiate and lead large collaborative projects in data sharing to further accelerate the digitalisation of the Norwegian business community. Digital Norway is the coordinator of NEMONOOR, a Norwegian EDIH, and a national hub for artificial intelligence. SINTEF is a partner in NEMONOOR, delivering services to Norwegian business. SINTEF Digital hosts a yearly conference "Digtal Future". A meeting place for policy makers business and researcher to share knowledge and tools to lead the way in the digital and green transformation.
+Contact Person(s): Aksel A. Transeth
+Phone: +47 40 00 51 00
+Email: aksel.a.transeth@sintef.no
+Location: Sintef, strindvegen 4, 7034 Trondheim, Norway
+Type: DIH
+Website: https://www.sintef.no/en/explore-our-services/
+Active Sectors: Aeronautics (moderate involvement), Agricultural biotechnology and food biotechnology (high involvement), Automotive (moderate involvement), Community-Led Local Development (moderate involvement), Construction & Assembly (high involvement), Consumer products (moderate involvement), Defence (very high involvement), Education (high involvement), Electricity (high involvement), Energy (very high involvement), fuels and petroleum engineering (very high involvement), Environment (moderate involvement), Financial (moderate involvement), Fishery (very high involvement), Food and beverages (high involvement), Health care (very high involvement), Life sciences (moderate involvement), Manufacturing and processing (very high involvement), Maritime (very high involvement), Metal working and industrial production (high involvement), Mining and extraction (low involvement), Personal services (moderate involvement), Public administration (moderate involvement), Telecommunications (very high involvement), Textiles (moderate involvement), Transport sector (high involvement), Travel and tourism (moderate involvement), Nuclear (low involvement), Paper and wood (moderate involvement), Polymers and plastics (moderate involvement), Security (high involvement), Smart City (very high involvement), Space (high involvement), Transport & Mobility (high involvement), Legal Aspects (moderate involvement), Regulation (moderate involvement)
+Provided Services: Circular economy (high involvement), Ecosystem building (high involvement), Field trial (high involvement), Finance (moderate involvement), Innovation management (high involvement), Knowledge transfer (high involvement), Prototyping (very high involvement), Public sector innovation (moderate involvement), Regional development (moderate involvement), Sme Business Development (very high involvement), SME support (very high involvement), Technological innovation (high involvement), Technology transfer (high involvement), Vocational training (moderate involvement)
+Technological Focus: Additive manufacturing (high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Blockchain and Distributed Ledger Technology (DLT) (low involvement), products) (moderate involvement), Cloud Services (moderate involvement), Communication network (high involvement), Cyber-physical systems (high involvement), Cybersecurity (high involvement), Digital twins (high involvement), Gamification (moderate involvement), High performance computing (moderate involvement), Human computer interaction (high involvement), Internet of Things (high involvement), Internet Services & Applications (moderate involvement), Logistics (high involvement), optoelectronics (high involvement), Mobility (high involvement), Virtual Reality (high involvement), Quantum Technologies (computing/communication) (low involvement), Robotics (very high involvement), Semiconductors and Nanotechnology (high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very high involvement), Software Architectures (high involvement)
+Tags: Country:Norway; Sector:Aeronautics; Sector:Agricultural biotechnology and food biotechnology; Sector:Automotive; Sector:Community-Led Local Development; Sector:Construction & Assembly; Sector:Consumer products; Sector:Defence; Sector:Education; Sector:Electricity; Sector:Energy; Sector:fuels and petroleum engineering; Sector:Environment; Sector:Financial; Sector:Fishery; Sector:Food and beverages; Sector:Health care; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Maritime; Sector:Metal working and industrial production; Sector:Mining and extraction; Sector:Personal services; Sector:Public administration; Sector:Telecommunications; Sector:Textiles; Sector:Transport sector; Sector:Travel and tourism; Sector:Nuclear; Sector:Paper and wood; Sector:Polymers and plastics; Sector:Security; Sector:Smart City; Sector:Space; Sector:Transport & Mobility; Sector:Legal Aspects; Sector:Regulation; Service:Circular economy; Service:Ecosystem building; Service:Field trial; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Regional development; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:products); Technology:Cloud Services; Technology:Communication network; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Gamification; Technology:High performance computing; Technology:Human computer interaction; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Logistics; Technology:optoelectronics; Technology:Mobility; Technology:Virtual Reality; Technology:Quantum Technologies (computing/communication); Technology:Robotics; Technology:Semiconductors and Nanotechnology; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Software Architectures
+------------------------------------------------------------
+EDIH Name: SIRRIS HET COLLECTIEF CENTRUM VAN DE TECHNOLOGISCHE INDUSTRIE
+Title: SIRRIS HET COLLECTIEF CENTRUM VAN DE TECHNOLOGISCHE INDUSTRIE
+Country: Belgium
+Contact Person(s): Denayer Benjamin
+Email: benjamin.denayer@sirris.be
+Location: Boulevard auguste reyers 80 diamant building, 1000 Bruxelles, Belgium
+Type: DIH
+Website: https://www.sirris.be
+Tags: Country:Belgium
+------------------------------------------------------------
+EDIH Name: Sirris Hub - Additive Manufacturing Integrated Factory
+Title: Sirris Hub - Additive Manufacturing Integrated Factory
+Country: Belgium
+Description: Additive manufacturing (AM) – or commonly referred to as 3D printing – of metallic mechanical components has become a reality. No longer is 3D printing restricted to the domain of plastics and prototyping. Production of fully functional mechanical components is state-of-the-art. However, additive technology does not yet reach the level of precision (dimensional accuracy, surface finish, etc.) required of such components. Post processing steps, like precision milling operations, are necessary but offer great challenges since printed components often have irregular free-form shapes and thus are not easy to set references, clamp, automate, handle, etc. The DIH addresses the need of the local industry for practical and advanced knowledge on how to integrate the state-of-the-art additive manufacturing, post machining technology, quality control and flexible automation. The DIH is based on the continuous development and exploration of an application lab. The lab will become fully operational in November 2017 and will contain a 3D metal powder bed printer, a five axis precision milling machine, 2 coordinate measuring machines, a femto second laser texturing machine and smart automation solutions. The services of the DIH are: • Industrial feasibility studies • Research projects for industry • Sensibilisation and inspiration for new technologies • Training, Master Classes • Making the bridge between new technologies and industry
+Contact Person(s): Ten Haaf Peter
+Phone: +32 498 91 93 54
+Email: peter.tenhaaf@sirris.be
+Location: Wetenschapspark 9, Diepenbeek, Belgium
+Type: DIH
+Website: https://www.sirris.be/
+Tags: Country:Belgium
+------------------------------------------------------------
+EDIH Name: Sirris Hub Mechatronics and Digitising Manufacturing
+Title: Sirris Hub Mechatronics and Digitising Manufacturing
+Country: Belgium
+Description: The DIH addresses the need of the local industry for practical and advanced knowledge about mechatronics and digitizing manufacturing. The DIH started its activities in 2015. The scope of the initiative is introducing new and digital technologies into products and processes.
+The themes for mechatronics are:
+
+Mechatronical product development
+Smart connected products
+Mechatronical integration in production
+Ecomechatronics
+
+The themes for digitizing manufacturing are:
+
+Dealing with complexity
+First time right production
+Enabling fast response in production
+Support the operator
+Making the shop floor transparent
+
+The services of the DIH are:
+
+Industrial feasibility studies
+Research projects for industry
+Sensibilisation and inspiration for new technologies
+Training, Master Classes
+Making the bridge between new technologies and industry
+
+The DIH is linked to the Flemish and Wallonian regional Industry 4.0 policy and linked to Factories of the Future http://www.madedifferent.be/to digitise the industry;
+Contact Person(s): Verlinden Bart
+Phone: +32 498 91 93 07
+Email: Bart.Verlinden@sirris.be
+Location: Celestijnenlaan 300c, 3001 Leuven, Belgium
+Type: DIH
+Website: https://www.sirris.be/
+Tags: Country:Belgium
+------------------------------------------------------------
+EDIH Name: SKAI-eDIH
+Title: Slovak Artificial Intelligence Digital Innovation Hub
+Country: Slovakia
+Description: The Slovak AI Digital Innovation Hub - SKAI-eDIH - is a nation-wide ecosystem coordinated by the Kempelen Institute of Intelligent Technologies in close collaboration with the Centre of Operations of the Slovak Academy of Sciences, Slovak Alliance for Innovation Economy and CIVITTA Slovakia. The hub has a clear focus on artificial intelligence fully aligned with Slovakia’s national strategy in this regard, 2030 Digital Transformation Strategy for Slovakia. SKAI-eDIH is dedicated to 3 main goals:
+
+promotion of digital technologies related to artificial intelligence in all its aspects,
+supporting the SMEs in access to private and EU funding necessary for adoption of all digital technologies, focusing specifically on SMEs in the regions, and
+development of digital innovation ecosystem.
+
+These companies can benefit from the application of advanced AI tools, Anomaly Detection, Deep Neural Networks, Ethic in AI assessment & regulation, Low Resource NLP, Machine Learning with Limited Data, etc. Using the unique testing infrastructure devoted to accelerated testing environment, companies and public organizations are enabled to increase competitiveness and efficiency through optimization and automation of production processes, cloud services, predictive analytics, anomaly detection, text classification, malfunction prediction, disinformation detection or disease detection from multimodal data.
+In terms of digital maturity, SKAI-eDIH supports both digital adopters and digital natives, systematically trying to mobilise Slovak companies in the regions to become AI adopters, engaging AI adopters to become AI natives and supporting AI natives with delivery and scaling up of transformative technologies.
+Contact Person(s): Matej Maderič
+Phone: +421 914 703 088
+Email: matej.madeirc@kinit.sk
+Location: Bottova 7939/2A, 811 09 Bratislava, Slovakia
+Type: EDIH
+Website: https://www.hopero.sk/
+Active Sectors: Consumer products (high involvement), Cultural and creative economy (very high involvement), Education (high involvement), Electricity (high involvement), Energy (high involvement), Environment (moderate involvement), Financial (high involvement), Health care (moderate involvement), Life sciences (moderate involvement), Manufacturing and processing (low involvement), Personal services (high involvement), Public administration (high involvement), wholesale or distribution (high involvement), Security (moderate involvement), Smart City (high involvement), Telecommunications (low involvement), Transport & Mobility (moderate involvement), Transport sector (moderate involvement)
+Provided Services: Circular economy (moderate involvement), Ecosystem building (very high involvement), Finance (very high involvement), Field trial (very high involvement), Innovation management (moderate involvement), Knowledge transfer (very high involvement), Prototyping (very high involvement), Public sector innovation (moderate involvement), Sme Business Development (moderate involvement), SME support (very high involvement), Technological innovation (moderate involvement), Technology transfer (very high involvement), Vocational training (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement), Big data (high involvement), Cloud Services (moderate involvement), Digital twins (moderate involvement), Gamification (very low involvement), High performance computing (very high involvement), Internet Services & Applications (high involvement), Mobility (moderate involvement), Simulation engineering and modelling (very high involvement), Software Architectures (moderate involvement)
+Tags: Country:Slovakia; Sector:Consumer products; Sector:Cultural and creative economy; Sector:Education; Sector:Electricity; Sector:Energy; Sector:Environment; Sector:Financial; Sector:Health care; Sector:Life sciences; Sector:Manufacturing and processing; Sector:Personal services; Sector:Public administration; Sector:wholesale or distribution; Sector:Security; Sector:Smart City; Sector:Telecommunications; Sector:Transport & Mobility; Sector:Transport sector; Service:Circular economy; Service:Ecosystem building; Service:Finance; Service:Field trial; Service:Innovation management; Service:Knowledge transfer; Service:Prototyping; Service:Public sector innovation; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Cloud Services; Technology:Digital twins; Technology:Gamification; Technology:High performance computing; Technology:Internet Services & Applications; Technology:Mobility; Technology:Simulation engineering and modelling; Technology:Software Architectures
+------------------------------------------------------------
+EDIH Name: Smart Data Innovation Lab
+Title: Smart Data Innovation Lab
+Country: Germany
+Description: The Smart Data Innovation Lab (SDIL) offers big data researchers unique access to a large variety of big data and in-memory technologies. Industry and science collaborate closely to find hidden value in big data and generate smart data. Projects focus on the strategic research areas of Industry 4.0, Energy, Smart Cities and personalized Medicine
+Contact Person(s): Beigl Michael
+Phone: 4.97216E+12
+Email: Michael.beigl@kit.edu
+Location: Kaiserstraße, 12, Karlsruhe, Germany
+Type: DIH
+Website: http://www.sdil.de/en/
+Tags: Country:Germany
+------------------------------------------------------------

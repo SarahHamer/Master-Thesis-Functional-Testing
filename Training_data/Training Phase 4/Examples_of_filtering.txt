@@ -1,0 +1,17 @@
+Question: Which EDIHs are in Montenegro, North Macedonia, or Serbia and specialized in public sector innovation and cloud services?
+Answer: EDIHs that match all these criteria are CIPS, DigitMak, INNOFEIT EDIH, S4AI_HUB, and MontEDIH.
+
+Question: What EDIHs focus on circular economy, BI tools, and fishery?
+Answer: EDIHs that match all these criteria are AgrInnovate EDIH in Türkiye, SMILE-DIH in Italy, EDIH West Marmara in Türkiye, and DIH ONEX in Bosnia and Herzegovina.
+
+Question: Which hubs from Czechia and Ukraine focus on smart specialization strategies, semiconductors and nanotechnology, and smart cities?
+Answer: EDIHs that match all these criteria are EDIH NEB in Czechia, EUNITED Digital Hub, EDIH Kyiv HiTech, and ZP EDIH.
+
+Question: Which EDIH in Luxembourg does field trials?
+Answer: L-DIH is in Luxembourg and does field trials.
+
+Question: Is there an EDIH in Albania that does vocational training and focuses on big data?
+Answer: Yes, AI4DigiT and DiVA match all of these criteria.
+
+Question: Which EDIH in Estonia does prototyping in additive manufacturing in the automotive industry?
+Answer: There is no EDIH in Estonia that fulfills all of these criteria.

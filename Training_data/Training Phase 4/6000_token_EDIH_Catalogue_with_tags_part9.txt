@@ -1,0 +1,157 @@
+NOTE:
+The 'Type' field indicates whether the EDIH has received a 'Seal of Excellence', is an EDIH, or a DIH.
+- 'EDIH' means the hub is part of the funded European Digital Innovation Hub network. It is co-funded by the European Commission and Member States/Associated Countries.
+- 'Seal of Excellence' means the hub was evaluated positively in a European competitive call but is funded exclusively by national or regional resources.
+- 'DIH' means digital innovation hubs with similar activities to EDIHs but not connected to the network.
+------------------------------------------------------------
+
+EDIH Name: CATCH atMIND
+Title: advanCed digitAl TeChnology Hub for the Life Sciences at MIND
+Country: Italy
+Description: The CATCH atMIND SoE project for an European Digital Innovation Hub in the digital health domain relies on the experience of top academic and industrial partners in Italy's healthcare industry core, the Region of Lombardy. It is based on the notion that building the digital health ecosystem of the future is a journey whose starting point is data. CATCH atMIND delivers a portfolio of services based on bio-data secure collection and in silico analytics via AI-ML models, providing novel insight and generating business value for the Italian and European healthcare ecosystems. 
+It supplies, in a realistic though virtualized context, digital services that support product and service innovation in the whole healthcare business ecosystem. CATCH atMIND test-before-invest services span the entire healthcare domain, supporting experiential training and business development across the ecosystem and facilitating access to funding for new entrepreneurial initiatives. 
+Through its business development and access to funding services, CATCH atMIND helps existing companies to grow and increase the success rate of innovative entrepreneurial initiatives in digital health but also to explore new business model and access funding at local and European level. The adoption of the CATCH atMIND service portfolio will spread sound practices for secure biodata management and for the deployment of AI-ML in the pharma and healthcare sectors, profoundly transforming healthcare innovation as well as its operational model and user/patient experience. 
+CATCH atMIND will be an active part of the European network of healthcare hubs, as a founding member of a corridor bringing together like-minded innovation hubs from all Europe.
+Contact Person(s): Fulvio FRATI
+Phone: +39 02503 16381
+Email: fulvio.frati@unimi.it
+Location: Via Festa del Perdono 7, 20122 Milano MI, Italy
+Type: Seal of Excellence
+Active Sectors: Education (high involvement), Financial (high involvement), Health care (very high involvement), Life sciences (very high involvement), Public administration (high involvement)
+Provided Services: Ecosystem building (very high involvement), Innovation management (very high involvement), Prototyping (high involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (high involvement), Cloud Services (moderate involvement), Cyber-physical systems (moderate involvement), Cybersecurity (high involvement), Digital twins (high involvement), Simulation engineering and modelling (high involvement), Industrial biotechnology (moderate involvement)
+Tags: Country:Italy; Sector:Education; Sector:Financial; Sector:Health care; Sector:Life sciences; Sector:Public administration; Service:Ecosystem building; Service:Innovation management; Service:Prototyping; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Technology:Artificial Intelligence & Decision support; Technology:Cloud Services; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:Simulation engineering and modelling; Technology:Industrial biotechnology
+------------------------------------------------------------
+EDIH Name: CD-EDIH
+Title: Smart specialisation on advanced digitalisation technologies through Central Denmark European Digital Innovation Hub
+Country: Denmark
+Description: TechCircle is based in Central Denmark designed to support SMEs to innovate and develop their companies and products and is a strong alliance between stakeholders within business development, researchers, and public sectors. The aim is also to overcome the sustainability challenges and the environmental impact of their manufacturing, production, and consumption value chains. This will lead to a significant technological boost, leveraging Circular Economy approaches: use of data, data analytics, handling of big data and analysis and production of new data, to ultimately achieve economic impacts, such as more efficient processes, reduced risk, improved durability of products, new products and services, improved energy and resource efficiency, improved revenues and other.
+TechCircle is a collaboration between 10 partners within the Danish business innovation eco-system. The hub is based on the strengths and focus of the Central Denmark region including, but not limited to, a focus on agriculture and the food industry, manufacturing, digital technologies etc. The Hub's aim is to promote and accelerate advanced digital capacities and technologies, ultimately contributing to the region's path to sustainability and implementing smart city and circular economy initiatives in its broadest sense.
+Business Hub Central Denmark coordinates TechCircle/CD-EDIH and supports over 5000 companies annually in central Denmark. They offer impartial guidance, facilitate networking opportunities, and provide co-financing options across various business domains including strategy, sales, marketing, funding, digital transformation, and green initiatives. Their mission is to foster growth, innovation, and sustainable development for companies and entrepreneurs.
+Aarhus University are pioneering automated verification, big data analysis, machine intelligence, cybersecurity, and more. Their interdisciplinary approach ensures a comprehensive understanding of the digital landscape, and they are dedicated researchers collaborate across departments to shape the future of technology and business development.
+The Alexandra Institute assists companies and organizations in applying world-class IT research in practical settings. Their R&D specialists cover disciplines such as CyberSecurity, Artificial Intelligence (AI), Data analysis, Augmented Reality, IoT, Visual Computing, and more.
+CLEAN concentrates on data and digital solutions that support and enable innovative sustainable solutions within water and resources. Their key domains include sustainable groundwater use, reducing leakages (non-revenue water), resource recovery from wastewater, mitigating overflow, sustainable materials, circular and sustainable systems (such as take-back solutions and material reuse, including plastics), emission detection, carbon capture and utilization (CCUS), biodiversity, etc.
+DigitalLead is the Danish cluster for digitalization and innovation, where businesses, research institutions, and public authorities collaborate to drive innovation. Their focus is on cutting-edge Horizon projects and partnerships related to digitalization.
+FORCE Technology concentrates on digital and sustainable solutions, including designing products with long lifetimes, assessing and optimizing factory sustainability, condition monitoring, implementing take-back systems, and documenting sustainability.
+Food & Bio Cluster Denmark accelerates innovation and sustainable development in food and bioresources. They achieve this through inspiration, networking, collaborations, and business development in partnership with knowledge institutions, investors, and public authorities.
+We Build Denmark strategically partners in the building and construction industry to transform infrastructure with digital and sustainable innovation.
+MADE emphasizes Smart and Sustainable manufacturing, digitalization, and automation, including Industry 4.0 technologies and Industry 5.0 perspectives across shop floors and value chains. They aim to increase knowledge exchange, establish collaboration agreements, and participate in project proposals across Europe.
+The City of Aarhus is committed to leading smart city initiatives and is interested in developing and testing new innovative and emerging technologies such as AI, IoT, and data spaces in urban environments.
+Contact Person(s): Lars Mønsted Nielsen
+Phone: +45 21892500
+Email: lmn@erhvervshusmidtjylland.dk
+Location: Abogade 15, 8200 Aarhus n, Denmark
+Type: EDIH
+Website: Website
+Active Sectors: Agricultural biotechnology and food biotechnology (high involvement), Education (very high involvement), Environment (high involvement), Manufacturing and processing (very high involvement), Smart City (high involvement)
+Provided Services: Circular economy (high involvement), Field trial (low involvement), Sme Business Development (very high involvement), SME support (very high involvement), Finance (high involvement), Innovation management (moderate involvement), Knowledge transfer (very high involvement), Public sector innovation (high involvement), Regional development (moderate involvement), Technological innovation (moderate involvement)
+Technological Focus: data (very high involvement), Artificial Intelligence & Decision support (very high involvement), Big data (very high involvement), Blockchain and Distributed Ledger Technology (DLT) (very high involvement), Cloud Services (very high involvement), Communication network (very high involvement), Cyber-physical systems (very high involvement), Cybersecurity (very high involvement), Digital twins (very high involvement), High performance computing (high involvement), Human computer interaction (high involvement), Internet of Things (very high involvement), Internet Services & Applications (moderate involvement), Location-based applications (high involvement), optoelectronics (very high involvement), Quantum Technologies (computing/communication) (high involvement), Robotics (high involvement), Semiconductors and Nanotechnology (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (very high involvement), Software Architectures (very high involvement), Virtual Reality (moderate involvement)
+Tags: Country:Denmark; Sector:Agricultural biotechnology and food biotechnology; Sector:Education; Sector:Environment; Sector:Manufacturing and processing; Sector:Smart City; Service:Circular economy; Service:Field trial; Service:Sme Business Development; Service:SME support; Service:Finance; Service:Innovation management; Service:Knowledge transfer; Service:Public sector innovation; Service:Regional development; Service:Technological innovation; Technology:data; Technology:Artificial Intelligence & Decision support; Technology:Big data; Technology:Blockchain and Distributed Ledger Technology (DLT); Technology:Cloud Services; Technology:Communication network; Technology:Cyber-physical systems; Technology:Cybersecurity; Technology:Digital twins; Technology:High performance computing; Technology:Human computer interaction; Technology:Internet of Things; Technology:Internet Services & Applications; Technology:Location-based applications; Technology:optoelectronics; Technology:Quantum Technologies (computing/communication); Technology:Robotics; Technology:Semiconductors and Nanotechnology; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling; Technology:Software Architectures; Technology:Virtual Reality
+------------------------------------------------------------
+EDIH Name: CeADAR
+Title: CeADAR Ireland’s AI EDIH
+Country: Ireland
+Description: Since 2013, CeADAR has been Ireland’s National Technology Centre for AI, delivering AI services and supports to an ecosystem of over 1200 clients (SMEs, mid-caps, public sector), via 300+ collaborative projects across four Pillars: Test-before-Invest, Skills and Training, Support to find Investment, and Ecosystem & Networking. CeADAR is a leading DIH in AI; it holds BDVA/DAIRO Gold i-Space accreditation, contributes to international, national and EU Expert Groups in AI, and is a key actor in major DIH projects e.g. EUHubs4Data and DIH-World. CeADAR has strong links with AI DIHs across Europe and looks forward to more collaboration. EDIH selection would enable: · More Test-before-Invest (TBI) services to more clients · Cross-EDIH TBI partnership and contributions to DTA · TBI using DEP TEFs, Data Spaces and AI-on-demand · Transition from ad-hoc AI training to a comprehensive AI Academy, offering a range of excellent skills and training to meet industry needs · Collaboration with NovaUCD in new Supports to Find Investment that prepare clients for investment by Venture Capital, support access to national and EU funds, and stimulate in-ecosystem investment · Expansion of our Ecosystem across Europe · Partnerships with SME and business networks, to act as conduits to the EDIH and to offer EDIH services to members CeADAR as an EDIH will contribute to policy, including Europe Fit for the Digital Age, the Digital Compass, and the Green Deal. Full use will be made of EEN, Startup Europe, The EIC, Digital Europe TEFs, Data Spaces and AI-on-demand, as well the DTA and the EDIH network. CeADAR is ‘ready to go’ – core services are already active, mature governance and legal frameworks are in place since 2013, and we have excellent networks. EDIH nomination will increase our already-impressive KPIs, including number of clients, amounts of investment triggered and collaborations with other EDIHs.
+Contact Person(s): laura.plunkett@ucd.ie
+Phone: 3.53869E+11
+Email: laura.plunkett@ucd.ie
+Location: Block 9/10 NexusUCD, Dublin, Co. Dublin, D04 V2N9, Ireland
+Type: EDIH
+Website: http://ceadar.ie
+Active Sectors: Construction & Assembly (high involvement), Agricultural biotechnology and food biotechnology (high involvement), Consumer products (high involvement), Cultural and creative economy (high involvement), Defence (high involvement), Energy (high involvement), Transport & Mobility (high involvement), Transport sector (high involvement), Mining and extraction (high involvement), Education (high involvement), Financial (high involvement), Health care (high involvement), Life sciences (high involvement), Defence (high involvement), Environment (high involvement), Manufacturing and processing (high involvement), Smart City (high involvement), Space (high involvement)
+Provided Services: Prototyping (very high involvement), Innovation management (very high involvement), Public sector innovation (very high involvement), Smart Specialisation strategies (very high involvement), SME support (very high involvement), Technology transfer (very high involvement), Sme Business Development (very high involvement)
+Technological Focus: Artificial Intelligence & Decision support (very high involvement)
+Tags: Country:Ireland; Sector:Construction & Assembly; Sector:Agricultural biotechnology and food biotechnology; Sector:Consumer products; Sector:Cultural and creative economy; Sector:Defence; Sector:Energy; Sector:Transport & Mobility; Sector:Transport sector; Sector:Mining and extraction; Sector:Education; Sector:Financial; Sector:Health care; Sector:Life sciences; Sector:Defence; Sector:Environment; Sector:Manufacturing and processing; Sector:Smart City; Sector:Space; Service:Prototyping; Service:Innovation management; Service:Public sector innovation; Service:Smart Specialisation strategies; Service:SME support; Service:Technology transfer; Service:Sme Business Development; Technology:Artificial Intelligence & Decision support
+------------------------------------------------------------
+EDIH Name: CeADAR: Ireland's Centre for Applied AI
+Title: CeADAR: Ireland's Centre for Applied AI
+Country: Ireland
+Description: CeADAR is a not-for-profit one-stop shop for innovation, applied R&D and translational R&D in all aspects of AI, Machine Learning and Data Analytics
+CeADAR provides proofs of concept, market-ready solutions, support to find funding and investment, training programmes, ecosystem networking in Ireland and Europe, and access to our powerful in-house computing resources.
+The Centre has an extensive catalogue of technology demonstrators, IP and AItechnology reviews, which are all immediately available for evaluation by members.
+The Centre is also the focal point of a thriving data analytics ecosystem delivering seminars, conferences, and members’ networking events throughout the year.
+Contact Person(s): Ricardo Simon Carbajo
+Phone: 00 353 87 2656132
+Email: ricardo.simoncarbajo@ucd.ie
+Location: Nexusucd, belfield office park, block 9/10, Dublin, Ireland
+Type: DIH
+Website: https://www.ceadar.ie/
+Tags: Country:Ireland
+------------------------------------------------------------
+EDIH Name: CEFRIEL SOCIETA CONSORTILE A RESPONSABILITA LIMITATA
+Title: CEFRIEL SOCIETA CONSORTILE A RESPONSABILITA LIMITATA
+Country: Italy
+Description: Cefriel is a no-profit center, based in Milan, with offices in New York, and London.CEFRIEL shareholders include Universities (Politecnico di Milano, Università Degli Studi di Milano, Università Degli Studi di Milano-Bicocca, Università Degli Studi dell’ Insubria), Public Administration (Lombardy Region), and leading multinational companies in ICT, Media sectors, and Energy.
+Since its inception in 1988, Cefriel mission has been to help SMEs and companies grow by exploiting digital technologies to create or reinvent their processes, products, and services, strengthen existing ties between the academic and business worlds through a multidisciplinary approach that innovates products and services with ICT and Design. Thanks to its distinctive operative model, CEFRIEL creates innovative solutions based on customer requirements and integrating the most recent scientific research results, the best technologies available on the market, the emerging standards, and the reality of business processes.
+As a Center of Excellence, CEFRIEL is able to merge technical and design skills with business and process expertise, thus supporting companies throughout the entire innovation cycle, from idea generation to product/service development. Thanks to its distinctive operative model, CEFRIEL creates innovative solutions based on customer requirements and integrating the most recent scientific research results, the best technologies available on the market, the emerging standards and the reality of business processes.
+Multidisciplinary skills, from creativity to the execution of complex innovation projects, recommend CEFRIEL as a unique partner able to develop a wide range of forefront solutions that integrate hardware, software and the most advanced multimedia communication technologies, often mixing the expertise of its many “vertical” practices and leveraging its proprietary methodologies to speed-up value delivery, such as Agile Project Management, Visual “Mock-upping” and Fast Prototyping.
+CEFRIEL competencies span all areas of ICT expertise, from microelectronics to the most advanced user experience models. Moreover, CEFRIEL know-how covers the development of innovative services and solutions, particularly for Industry 4.0, Internet of Things, Mobile & Wearable & AR/VR, AI, ML, Big Data & Analytics, Cloud Computing, API Economy & Distributed Architecture, Information Security, addressing both technical and project management issues.
+With a human capital of around 140 highly qualified professionals and the contribution of academic professors and researchers, CEFRIEL is a reference body of knowledge in Europe. CEFRIEL experts are highly qualified people with different levels of seniority and multiple academic degrees (post-degree master, MBA, Ph.D.).
+Project activities are carried out using instrumental labs equipped with state-of-the-art tools. In this proactive environment, creative concepts and ideas rapidly lead to mock-ups and prototypes. In the smart manufacturing context, Cefriel activities focus on bringing digital innovation to companies and manufacturing plants.Cefriel does more than 100 projects every year,totally paid by companies, in Italy and worldwide, to support companies and SMEsin their digitalisation path.
+ Cefriel is a member of POLIHUB, the start-up ACCELERATOR OF Politecnico DI Milano (https://www.polihub.it/);
+ Cefriel is a member of EIT Digital, and it hosts the Milan Node, with a co-working space;
+ From December 2018, Cefriel is the Italian national hub of IDSA (Industrial Data Space Association, https://www.internationaldataspaces.org), supporting the creation of secure exchange and easy linking of data in business ecosystems based on standards and joint governance models;
+ From 2016, Cefriel is also SUPPORTING MEMBER of The Italian Technology Cluster “Intelligent Factories” http://www.fabbricaintelligente.it/;
+ Cefriel is a member of MADE (Italian Competence Center led by Politecnico di Milano);
+ Cefriel is a member of MEDITECH (Italian Competence Center led by Università Federico II di Napoli e Salerno);
+Cefrielis a national certified "Center for industry 4,0 Technology Transfer Center" by MISE. As Technology Transfer Center 4.0 (CTT 4.0), Cefriel carries out training and consultancy activities, as well as the provision of technology transfer services to companies in the areas of operation identified by the Ministry of Economic Development
+Contact Person(s): Scandelli Nadia
+Email: nadia.scandelli@cefriel.com
+Location: Viale sarca 226, Milano, Italy
+Type: DIH
+Website: https://www.cefriel.com/
+Tags: Country:Italy
+------------------------------------------------------------
+EDIH Name: Center Digitisation District Böblingen (ZD.BB)
+Title: Center Digitisation District Böblingen (ZD.BB)
+Country: Germany
+Description: The Center Digitisation District Böblingen (ZD.BB) is the central consulting and transfer office for all companies, especially for SMEs with a geographical focus in the district of Böblingen.The ZD.BB does not pursue commercial goals and is a non-profit organisation.
+Core goals are:
+
+Create transparency regarding digital technologies and their application
+Transfer of current research results in SMEs
+Methodologically supported development of digital business models
+Development of further education concepts and curricula
+Building expertise in SMEs to shape the digital transformation
+
+
+The activities of the ZD.BB to support local SMEs include:
+
+Consultation on digitalisation and access to the expertise on digital technologies in universities, technology partners and research institutions
+Development and risk-free testing of new business models
+Agile development and testing of minimum viable products (MVP) and prototypes in the pre-competitive phase.
+Support for the qualification of digitalisation specialists
+Incubation and consulting of start-ups
+Networking of relevant actors and stakeholders
+
+
+The ZD.BB's portfolio of services for this purpose is based on the following offerings:
+
+Consultation on digitalisation matters, placement ofexperts, support in the founding of innovative companies
+Assessment of the digital maturity and identification of SMEs'potentials
+Development of digital business models by providing moderated workshops with digital experts
+Access to innovation labs at the Böblingen and Herrenberg sites (creative and open spaces)
+Qualification offers within the scope of trainings and events in the field of digitalisation
+Contact Person(s): Hoffmann Claus
+Phone: +49 7031 3048102
+Email: info@zd-bb.de
+Location: Danziger straße 6, Böblingen, Germany
+Type: DIH
+Website: https://www.zd-bb.de
+Tags: Country:Germany
+------------------------------------------------------------
+EDIH Name: CentralUkrainianEDIH
+Title: CentralUkrainianEDIH - Innovations, energy efficiency and digital transformation for the development of sustainable and industrial regions of central Ukraine
+Country: Ukraine
+Description: Our CentralUkrainianEDIH was created to fulfill the goals of the Digital Europe Programme and will contribute to the implementation of the strategic goals set out in the National Economic Strategy until 2030. The main objective of the CentralUkrainianEDIH is to stimulate digital and green transformation, innovation and energy efficiency for the development of sustainable industrial regions of central regions of Ukraine. To achieve this goal, we have established the CentralUkrainianEDIH, which consists of Institute of Physics of the National Academy of Sciences of Ukraine, Dnipro University of Technology, National University "Yuri Kondratyuk Poltava Polytechnic", Ukrainian Chamber of Commerce and Industry, Ukrainian Automotive and Mobility Cluster, IT Dnipro Community and two associated partners – Ministry of Energy of Ukraine and COMPARUS UA. We aim to facilitate and support the digital and innovative development of these regions in the use of: high-performance computing; artificial intelligence; cyber security; high-level digital skills that will help local private, especially SMEs, and public sectors realize their digital and green transformation.
+Contact Person(s): Olena Fesenko
+Phone: 3.80674E+11
+Email: fesenko.olena@gmail.com
+Location: Prospect Nauky 46,, Kyiv, 03028, Ukraine
+Type: EDIH
+Website: https://www.ukraine-edih.com/
+Active Sectors: Automotive (very high involvement), Education (very high involvement), Energy (high involvement), fuels and petroleum engineering (high involvement), Financial (high involvement), Legal Aspects (high involvement), Manufacturing and processing (very high involvement), Personal services (high involvement), Smart City (very high involvement), Transport & Mobility (very high involvement)
+Provided Services: Knowledge transfer (very high involvement), Public sector innovation (very high involvement), Regional development (very high involvement), Sme Business Development (high involvement), SME support (very high involvement), Technological innovation (very high involvement), Technology transfer (very high involvement), Vocational training (very high involvement)
+Technological Focus: Additive manufacturing (very high involvement), Artificial Intelligence & Decision support (high involvement), Communication network (very high involvement), Digital twins (very high involvement), Laser-based manufacturing and materials processing (very high involvement), optoelectronics (very high involvement), Photonics (very high involvement), Quantum Technologies (computing/communication) (very high involvement), Semiconductors and Nanotechnology (very high involvement), Sensors & Vision Processing Systems (very high involvement), Simulation engineering and modelling (high involvement)
+Tags: Country:Ukraine; Sector:Automotive; Sector:Education; Sector:Energy; Sector:fuels and petroleum engineering; Sector:Financial; Sector:Legal Aspects; Sector:Manufacturing and processing; Sector:Personal services; Sector:Smart City; Sector:Transport & Mobility; Service:Knowledge transfer; Service:Public sector innovation; Service:Regional development; Service:Sme Business Development; Service:SME support; Service:Technological innovation; Service:Technology transfer; Service:Vocational training; Technology:Additive manufacturing; Technology:Artificial Intelligence & Decision support; Technology:Communication network; Technology:Digital twins; Technology:Laser-based manufacturing and materials processing; Technology:optoelectronics; Technology:Photonics; Technology:Quantum Technologies (computing/communication); Technology:Semiconductors and Nanotechnology; Technology:Sensors & Vision Processing Systems; Technology:Simulation engineering and modelling
+------------------------------------------------------------
