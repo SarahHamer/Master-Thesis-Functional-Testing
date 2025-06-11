@@ -1,0 +1,148 @@
+﻿Testing category,Prompt number,Prompt,Expected answer (ground truth),Answer,Accuracy,Relevance,Coverage,Clarity,Efficiency,Hallucination,Comments
+,,,,Phase 2,,,,,,,
+Basic information retrieval,1,What are the contact details of the EDIH in Cyprus?,"Website: https://www.diginn.eu/
+Contact name: Vassilis Tsakalos
+Contact email: v.tsakalos@cyi.ac.cy
+Contact phone: +35722208637","The contact details for the EDIH in Cyprus, DiGiNN, are as follows:
+- Contact Person: Vassilis Tsakalos
+- Phone: +35722208637
+- Email: v.tsakalos@cyi.ac.cy
+- Location: Constantinou Kavafi 20, 2121 Nicosia, Cyprus
+- Website: https://www.diginn.eu/ (https://www.diginn.eu/)
+Is there anything else you would like to know about DiGiNN or any other EDIH? 😊",5,5,5,5,5,5,
+,2,List all EDIHs in Eastern Europe that focus on cybersecurity.,"4PDIH, AgroDigiRise, AIRE, CIH, CiTyInnoHub, CROBOHUBplusplus, CYBER4All STAR, CyberSec, DAoL, DI4 LITHUANIAN ID, DIGI-SI, DigitalTech EDIH, DIGIVEST, DIH4Society, EDCASS, EDIHLV, EDIH DIGIHUB, EDIH NEB, EDIH VILNIUS, EDIH4CP-1, eDIH-DIZ, EDIH-SILESIA, EXPANDI 4.0, FIT EDIH, FTCH, h4i, LUBDIGHUB, Next-Gen-BIoTechEDIH, PDIH, re_d, SCDI proposal, Smart Secure Cities, SRC-EDIH, TDIH, TKDIH,  UDIH 4 EU, WAMA EDIH, WRO4digITal, CybersecRDI","Here are some EDIHs in Eastern Europe that focus on cybersecurity:
+1. CyberSec - National Center for Secure Digital Transformation in Poland.
+2. CybersecRDI - Cybersecurity Research, Development and Innovation Hub in Croatia.
+3. CYBER4All STAR - EDIH project launched in Bulgaria.
+4. CIH - Center for Innovative Healthcare in Slovakia, with a focus on cybersecurity.
+If you need more detailed information on any of these hubs, feel free to ask! 😊",5,5,3,5,5,5,"Does not list all, only three examples"
+,3,Which EDIHs are located in Italy and specialize in manufacturing?,"ARTES 5.0, BIREX plus plus, CETMA-DIHSME, DIS-HUB, EDIH L, EDIH4Marche, EXPAND, IP4FVG - EDIH, NEURAL, Tuscany X.0, UDD, Ap-EDIH, MicroCyber, DIHCUBE, R.O.M.E. Digital Hub, DAMAS, CEFRIEL SOCIETA CONSORTILE A RESPONSABILITA LIMITATA, Digital Innovation Hub Lombardia, DIH Veneto","In Italy, several EDIHs have a strong focus on the manufacturing sector. These include:
+1. AI MAGISTER
+2. AI-PACT
+3. Ap-EDIH
+4. ARTES 5.0
+5. BIREX plus plus
+6. C.R.E.A.T.E. Consorzio di Ricerca per l'Energia, l'Automazione e le Tecnologie dell'Elettromagnetismo
+7. CATCH atMIND
+8. CEFRIEL SOCIETA CONSORTILE A RESPONSABILITA LIMITATA
+9. CETMA-DIHSME
+10. CHEDIH
+These hubs have a very high involvement in manufacturing and processing. If you need more detailed information about a specific EDIH or their services, feel free to ask! 😊",2,4,5,5,3,2,"AI MAGISTER,AI-PACT, C.R.E.A.T.E, CATCH atMIND, and CHEDIH  do not specialize in manufacturing"
+,4,Is there an EDIH in the Baltics working with public administation?,"DI4 LITHUANIAN ID, EDIH4IAE.LT","Yes, there are EDIHs in the Baltics that work with public administration. For example, EDIH VILNIUS in Lithuania is involved in the digital and green transformation of public sector organizations. Additionally, EDIHLV in Latvia focuses on digital transformation and provides services that could benefit public administration through digitalization and e-governance tools. Is there anything specific you would like to know about their services or involvement?",1,3,5,5,3,1, EDIH VILNIUS does not specifically work with public administration. It only says that it works in the public sector. EDIHLV also does not work with public administration.
+,5,Show me EDIHs focused on AI with vocational training that are also active in the health sector.,"AIR-Andalusia, CHEDIH, DIGIHALL, Digital Impulse Hub, DIH-bio, DIVA, EDIH BRERAGNE, EDIH West Marmara, InnDIH, Move2Digital, PBN, S4AI_Hub, BRH, DIG-4K, Digital Impact North (DIN), DIU, GC EDIH, IRIS, SV DIH, Carpathian EDIH, CNA HUB 4.0, DigiHealthPT, DigitMak, DIS-HUB, EDIH Kyiv HiTech, EXPAND, GreenPowerIT, INNOFEIT EDIH, Nemonoor, SINTEF, SKAI-eDIH, West Ukraine EDIH, WIN2EDIH, AIR4S, AzoresDIH, DATAlife, DIH ONEX, EDIH CTU, eDIH-DIZ, EDIH NEB, EUNITED Digital Hub, INNOFEIT, LEAP EDIH, Novel-T, PCUV, R.O.M.E. Digital Hub, Robocoast, AI and Gaming EDIH, AsDIH, EDI, EDIH Corsica.ai, ER2Digit, CIH, DIH4Society, AI EDIH Türkiye, DigIT Hub Sweden, CyberSec, CiTyInnoHub","Here are some EDIHs that focus on AI, offer vocational training, and are active in the health sector:
+1. AI4HEALTH.Cro (Croatia) - Offers digital health innovation development, testing of AI-based solutions, and education in AI and HPC for healthcare and medicine.
+2. AI EDIH Hungary - Involved in AI and provides vocational training with a focus on the health sector.
+3. Ap-EDIH - Offers vocational training and is highly involved in AI and the healthcare sector.
+4. CIDAI - Very high involvement in AI and healthcare, also provides vocational training.
+5. DIGI2Health - Offers vocational training and is very active in AI and healthcare.
+If you need more information about any of these EDIHs or others, feel free to ask! 😊",2,2,2,5,3,2," AI4HEALTH.Cro lists itself under education, not vocational training. AI EDIH Hungary is neither in health care nor does it offer vocational training. Ap-EDIH and CIDAI are active in AI and health care but does not offer vocational training. DIGI2Health is active in health care but not in AI or vocational training."
+Recommendations and matching,6,I’m from a hub working with agricultural tech. Which other EDIHs should we collaborate with?,"All EDIHs with agricultural tech: AGORA DIH, Agrihub Sweden, AgrInnovate EDIH, AgroDigiRise, AgrotechDIH, Ap-EDIH, Aragon EDIH, CHEDIH, CIDAI, CIPS, CITAH, CROBOHUBplusplus, DATAlife, DIGI-SI, DigiAgriFood, Digitalzh, DigitMak, DIH-bio, DIH PANNONIA, DIS-HUB, Eastern Ukraine EDIH, EDIH BRETAGNE, EDIH NN, EDIH OCCITANIA, EDIH West Marmara, EDIH4IAE.LT, ENTIRE, EUNITED Digital Hub, HPC4Poland EDIH, Innova iHub, IRIS, LVDH, Move2Digital, Next-Gen-BIoTechEDIH, PCUV, PICS2, Plan4all, Tech4EfficiencyEDIH, West Ukraine EDIH, 4PDIH, AI4DigiT, AIR4S, ATTRACT, Bayern Innovativ, CD-EDIH, CeADAR, CETMA-DIHSME, DEDIHCATED BFC, DIG-4K, DIGIHALL, DIGIS3, DIGIVEST, DIHBAI-TUR, DIHNAMIC, EOSC DIH, Green eDIH, HUB4.0MANUVAL, InnDIH, IP4FVG - EDIH, P.R.I.D.E., R.O.M.E. Digital Hub, SINTEF, SMILE-DIH, STP Belgrade, SV DIH, Tuscany X.0, WalHub, WIN2EDIH, WRO4digITal, ZSA, AEDIH, AsDIH, BITF, Cantabria DIH, CYBER4ALL STAR, Digital Impact North (DIN), DIH ONEX, EDI, EDIH Kyiv HiTech, EDIH MADRID REGION, EDIH-NWNL, EDIHLV, GreenPulse 5.0, Innoskart, JSI, MontEDIH, Novel-T, SCDI proposal, Speedhub, TDIH, WAMA EDIH, AzoresDIH, CNA HUB 4.0, DIGI2Health, GC-EDIH, i4CAMHUB","You may want to consider collaborating with the following EDIHs that are active in the agricultural biotechnology and food biotechnology sector:
+1. AgrInnovate EDIH
+2. AgroDigiRise
+3. AgrotechDIH
+4. AI4DigiT
+5. Ap-EDIH
+6. Aragon EDIH
+7. CHEDIH
+8. CITAH
+9. DigiAgriFood
+10. EDIH BRETAGNE
+11. EDIH West Marmara
+12. Tech4EfficiencyEDIH
+These hubs have a high involvement in agricultural tech and could provide valuable insights and opportunities for collaboration. Would you like more information on any specific EDIH or assistance with another topic? 🌿",5,5,5,5,5,5,
+,7,Can you recommend EDIHs near Barcelona that are also focused on smart cities?,"Closest: CIDAI (in Barcelone), Digital Impulse Hub, SCS, Move2Digital, i4CAMHUB, CMH, AIR4S, DIH-bio ","Certainly! Near Barcelona, the DIH4CAT is an EDIH that has a focus on smart cities. They are highly involved in technologies like Artificial Intelligence, Internet of Things, and Cybersecurity, which are crucial for smart city development. Additionally, CIDAI, also located in Barcelona, has a very high involvement in the smart city sector and offers services like innovation management and knowledge transfer. If you need more information about their services or contact details, feel free to ask! 😊",3,3,4,5,4,3,DIH4CAT is not specialized in smart cities.
+,8,Which EDIHs complement our work in maritime high-performance computing?,"Cantabria DIH, CIDIHUB, DIHGIGAL, DMH, EDIH West Marmara, ATTRACT, DATAlife, EDIH4UrbanSAVE, MontEDIH, OCEANOPOLIS, AzoresDIH, CETMA-DIHSME, Cineca, CNA HUB 4.0, EDIH Adria, EDIH BRETAGNE, EDIH-SH, EUNITED Digital Hub, PDIH, PRODUTECH DIH, SINTEF, AIR4S, EasyHPC, ICD, Robocoast, SMILE-DIH, Ap-EDIH, Digital Impact North (DIN), Nemonoor, R.O.M.E. Digital Hub, Digital Marine Hub","For high-performance computing (HPC) in the maritime sector, you might want to consider collaborating with DMH (Digital Marine Hub) based in Italy. DMH focuses on promoting digital transformation in the nautical and yachting sectors, with a strong emphasis on HPC and AI techniques. Other EDIHs with involvement in maritime and high-performance computing include EDIH BRETAGNE, DIH Veneto, and SINTEF, all of which have a high or very high involvement in the maritime sector.
+Is there anything specific you would like to know about these EDIHs or any other assistance you might need?",4,4,5,5,5,3,DIH Veneto is not in HPC
+,9,"Suggest hubs that are geographically close to us and have similar focus areas. [when prompted where the EDIH is] We are located in Constanta. [when prompted on focus area] We focus mainly on cybersecurity, travel and tourism, ecosystem building, and SME support","[only partially accept CiTyInnoHub, as this is the EDIH that supposedly is asking] EDIH DIGIHUB (cybersecurity, travel and tourism, ecosystem building), WeH (cybersecurity), Green eDIH (cybersecurity, ecosystem building, SME support), DIGIVEST (ecosystem building)","Could you please specify your current location or the focus areas you are interested in? This will help me provide you with more accurate suggestions for EDIHs that are geographically close and have similar focus areas. 😊 [after providing location and focus area] Geographically close to Constanta, in Romania, there are several EDIHs with relevant focus areas:
+1. CiTyInnoHub - Located in Romania, it has a very high involvement in travel and tourism and offers ecosystem building and SME support services.
+2. DIGIVEST - Also in Romania, it provides ecosystem building and SME support services, though its involvement in travel and tourism is moderate.
+3. FIT EDIH - Based in Romania, it offers services in ecosystem building and SME support, with moderate involvement in travel and tourism.
+4. Green eDIH - Located in Romania, it focuses on ecosystem building and SME support, with moderate involvement in travel and tourism.
+5. SEEU TechPark - In North Macedonia, it has a focus on cybersecurity and provides SME support services.
+These EDIHs are relatively close to Constanta and align with your interests. If you need more information or have other questions, feel free to ask! 😊",5,5,5,5,5,5,
+Specialization understanding,10,What does it mean when an EDIH is focused on AI technology transfer?,"AI technology rights licensing, increase implementation and sharing of AI technologies","When an EDIH focuses on AI technology transfer, it means that the hub is dedicated to facilitating the movement and application of AI technologies from research and development into practical use in industry and society. This involves activities like offering technical consultancy, developing AI use cases, providing training and upskilling services, and enabling collaboration between technology developers and end-users. The aim is to accelerate the adoption of AI technologies by businesses and organizations, enhancing their innovation capabilities and competitiveness.
+Is there anything specific you would like to know about AI technology transfer within EDIHs?",5,5,5,5,5,5,
+,11,Can you explain the difference between an EDIH working on digital skills vs. cybersecurity?,Digital skills: Digital literacy; Cybersecurity: Security of online systems,"Certainly! EDIHs working on digital skills focus on providing training and resources to enhance the digital competencies of SMEs and public sector employees. This includes upskilling and reskilling initiatives, short-term training courses, and programs like apprenticeships and train-the-trainer. The goal is to help individuals and organizations thrive in digitalization by improving their digital literacy and capabilities.
+On the other hand, EDIHs working on cybersecurity are involved in ensuring information security and protecting digital infrastructures. They focus on implementing cybersecurity measures, conducting risk assessments, and providing solutions to safeguard data and systems from cyber threats.
+Both areas are crucial for digital transformation, with digital skills enabling effective use of technology and cybersecurity ensuring safe and secure digital environments. Is there anything specific you would like to know more about regarding these EDIHs?",5,5,5,5,5,5,
+,12,What kinds of services do EDIHs generally offer?,"Access to funding, objective of digitalization, one-stop-shops, service to SME and public sector, education, identify and secury financial support, transfer of knowledge to organizations, test before invest","EDIHs generally offer a variety of services aimed at supporting digital transformation. These services typically include:
+1. Digital Strategy Development: Helping businesses and organizations develop comprehensive digital strategies to enhance their operations.
+2. Technology Support: Providing access to advanced technologies and technical expertise, including AI, cybersecurity, and data analytics.
+3. Training and Education: Offering training programs and workshops to build digital skills and knowledge among employees and stakeholders.
+4. Networking and Collaboration: Facilitating connections and collaborations between businesses, academia, and public institutions to foster innovation and growth.
+5. Access to Funding: Assisting in identifying and accessing financial resources and funding opportunities for digital projects.
+6. Innovation and Prototyping: Supporting the development and testing of new digital solutions and prototypes.
+If you have any specific needs or are looking for services in a particular sector or technology, feel free to ask! 😊",5,5,5,5,5,5,
+,13,How does an EDIH support SMEs versus public sector organizations?,"Same services, depend on case","EDIHs support SMEs and public sector organizations differently based on their unique needs. For SMEs, EDIHs often focus on enhancing digital capabilities, providing training, and facilitating access to funding and technologies. They offer tailored services to help SMEs integrate modern technologies and improve market readiness. For public sector organizations, EDIHs may provide strategic advice on digital transformation, assist with policy development, and foster collaboration with other stakeholders to drive digital innovation in public services. Both sectors benefit from networking opportunities and access to a broader digital ecosystem.
+Is there a specific EDIH or sector you are interested in learning more about? 😊",5,5,5,5,5,5,
+,14,What is the difference between EDIHs and DIHs?,"DIHs are predecessor of EDIHs, DIHs are less restricted in funding sources, not part of network","EDIHs, or European Digital Innovation Hubs, are part of an EU initiative designed to support the digital transformation of businesses and public organizations. They provide a range of services, including technology expertise, testing, and training, with a strong focus on European collaboration and funding.
+DIHs, or Digital Innovation Hubs, are broader entities that support the digitalization of businesses and organizations, often at a national or regional level. They offer similar services to EDIHs but may not be part of the EU's specific network or funding framework.
+Would you like more information on how EDIHs operate within specific countries or sectors? 😊",5,5,5,5,5,5,
+Filtering and comparison,15,Compare two EDIHs that work in the manufacturing sector in different countries.,Examine case-by-case,"To compare two EDIHs in the manufacturing sector from different countries, let's consider ""AI EDIH Hungary"" and ""DIGIHALL"" from France.
+1. AI EDIH Hungary:
+- Country: Hungary
+- Involvement: Very high
+- Focus: This EDIH is highly involved in the manufacturing sector, offering advanced AI solutions to enhance manufacturing processes.
+2. DIGIHALL:
+- Country: France
+- Involvement: Very high
+- Focus: DIGIHALL is also very active in the manufacturing sector, providing digital transformation services and supporting innovation in industrial production.
+Both EDIHs are dedicated to supporting the manufacturing industry through innovative solutions but operate in different geographical contexts, offering unique regional expertise. If you need more specific details about their services or projects, feel free to ask!",5,5,5,5,5,5,
+,16,Which EDIHs in Germany work on both AI and regional development?,"EDIH Saxony, EDIHDO, MDZ Franken, MDZH, Mittelstand-Digital Zentrum Chemnitz, DIH4AISec, EDIH DIGICARE, EDIH Suedwest, EDIH Thuringia, Mittelstand-Digital Zentrum Lingen.Münster.Osnarbrück, Mittelstand-Digital Zentrum Schleswig-Holstein, EDIH4UrbanSAVE, EDITH, Mittelstand-Digital Zentrum WertNetzWerke, MDZLR","In Germany, the EDIHs that focus on both Artificial Intelligence (AI) and regional development are:
+1. EDIH Suedwest: They focus on smart sensor systems powered by edge AI and offer services tailored towards regional development.
+2. EDIH Saxony: They emphasize digital applications in various sectors, including AI, and aim to foster digital innovation and regional development.
+3. EDIH Saarland: Specializes in Industrial AI and AI for eGovernment, with a focus on regional innovation and development.
+If you need more details about any of these hubs or have other questions, feel free to ask! 😊",5,5,5,5,5,5,"EDIH Saarland is not explicitly listing their involvement in regional development, but it is referenced in their description."
+,17,Are there any hubs that focus on health tech and are located in the Nordic region?,"Digital Impact North (DIN), FAIR, Health Data Sweden (HDS), HHFIN, Nemonoor, SINTEF, GC EDIH, LIH, OCEANOPOLIS, Robocoast, DigIT Hub Sweden, Aero EDIH,  DigiHealth Knowledge Hub, OuluHealth","In the Nordic region, the DigiHealth Knowledge Hub in Oulu, Finland, is a notable initiative that focuses on digital health technology. This hub aims to connect companies with the latest knowledge and technology to accelerate digital innovation and build a national network for digital health research and innovation. If you need more information or have specific questions, feel free to ask! 😊",5,5,3,5,5,5,Only lists one of several EDIHs and does not reference that there are more that fit.
+Collaboration scenarios,18,"We’re looking to create a cross-border network between Spain, Portugal, and France, focused on AI in manufacturing. Who should we talk to?","AGORA DIH, Aragon EDIH, AsDIH, CIDAI, CYBIAH, DEDIHCATED BFC, DIGIHALL, Digital Impulse Hub, DIHGIGAL, DIHNAMIC, DIVA, EDIH BRETAGNE, EDIH MADRID REGION, GreenPowerIT, i4CAMHUB, InnDIH, POLYTRONICS, PRODUTECH DIH, DIGIS3, EDIH-GE, IRIS, AgrotechDIH, AIR-Andalusia, AzoresDIH, CIDIHUB, DIH4GlobalAutomotive, LVDH, Tech4EfficiencyEDIH, AIR4S, DIH-bio, Cantabria DIH","To create a cross-border network focused on AI in manufacturing between Spain, Portugal, and France, you might consider reaching out to the following EDIHs:
+1. AIR4S - Artificial Intelligence & Robotics for Sustainable Development Goals in Spain: They have a strong focus on AI and robotics, and provide services like innovation management, knowledge transfer, and SME support. You can contact Juan Manuel Muñoz Guijosa at vicerrector.innovacion@upm.es.
+2. AI4PA in Portugal: This hub focuses on public sector innovation and technological innovation with a strong emphasis on AI. You can contact Paulo Vale at paulo.vale@ama.gov.pt.
+3. DIHNAMIC in France: They offer access to AI-based digital technologies and advanced robotics, focusing on sustainable and digital transition. They can be a valuable partner for your network. You might want to explore their website for more information: DIHNAMIC Website (Link).
+These hubs have expertise in AI and manufacturing and can provide valuable insights and support for your cross-border network initiative. Would you like more information on any of these hubs?",3,5,5,5,5,5,"AI4PA is not involved in manufacturing. The chatbot does not hallucinate here, but it does not fit completely for the question."
+,19,We need a partner EDIH for a legal requirements workshop in logistics. Can you help identify one?,"EDIH Thuringia, EUNITED Digital Hub, Speedhub, SINTEF, AI4DigiT, CIPS, DigitMak","For a legal requirements workshop in logistics, you might consider partnering with an EDIH that has a focus on the logistics sector and legal aspects. While the provided context doesn't mention an EDIH with a specific focus on both logistics and legal aspects, you could explore collaboration with the following EDIHs:
+1. EDITH in Germany, which has a high involvement in Transport & Mobility and offers support in public sector innovation and knowledge transfer. They might have relevant expertise or connections.
+2. EDIH Saarland in Germany, which addresses digital transformation needs and has a focus on Artificial Intelligence, which could be relevant for logistics.
+3. EDIH-AICS in Germany, which focuses on AI and cybersecurity and provides services related to digital transformation.
+If you need further assistance or more specific options, please let me know! 😊",1,4,2,5,3,5,None of these are specialized in legal requirements
+Usability and language flexibility,20,Can you help me find EDIHs in Poland?,"Centre for Advanced Manufacturing Technologies, Wroclaw University of Science and Technology, CyberSec, DIH4.AI, EDIH-SILESIA, EDIH4CP-1, FTCH, h4i, HPC4Poland EDIH, Krakow Technology Park, LUBDIGHUB, Łukasiewicz Research Network - Institute of Microelectronics and Photonics (IMiF), NASK - PIB, PDIH, PIAP HUB, re_d, Robotics Association SKALP, Silesia Smart Systems, Smart Secure Cities, TKDIH, WAMA EDIH, WRO4digITal","Sure! Here are some EDIHs located in Poland:
+1. Centre for Advanced Manufacturing Technologies, Wroclaw University of Science and Technology
+2. CyberSec
+3. DIH4.AI
+4. EDIH4CP-1
+5. EDIH-SILESIA
+6. FTCH
+7. h4i
+8. HPC4Poland EDIH
+9. Krakow Technology Park
+10. LUBDIGHUB
+11. Lukasiewicz Research Network - Institute of Microelectronics and Photonics (IMiF)
+12. NASK - PIB
+13. PDIH
+14. PIAP HUB
+15. re_d
+16. Robotics Association SKALP
+17. Silesia Smart Systems
+18. Smart Secure Cities
+19. TKDIH
+20. WAMA EDIH
+21. WRO4digITal
+If you need more details about any specific EDIH, feel free to ask! 😊",5,5,5,5,5,5,
+,21,What hubs work on BI tools and are near France?,"CIDAI, SMILE-DIH, EDI Confcommercio","Unfortunately, there is no specific information available about EDIHs near France that focus on BI tools. However, EDIHs like CYBIAH in France focus on cybersecurity and AI, which often overlap with BI tools in terms of data analysis and decision support. If you need more detailed information or have other questions, feel free to ask! 😊",1,2,5,5,3,5,
+,22,I need digital innovation partners in Greek smart cities. Got any suggestions?,"nZEB Smart Home DIH, SYNERGiNN EDIH","For digital innovation partners in Greek smart cities, I recommend looking into GR digiGOV-innoHUB. This EDIH focuses on digital transformation for public administration and offers services that can support smart city initiatives. They have a strong emphasis on Artificial Intelligence, High Performance Computing, and public sector innovation, making them a valuable partner for smart city projects.
+Would you like more details on their services or contact information? 😊",3,3,5,5,3,5,GR digiGOV-innoHUB are not specialized in smart cities
+,23,Who’s good with SMEs in the Swedish healthcare space?,"Digital Impact North (DIN), Health Data Sweden (HDS), DigIT Hub Sweden, Aero EDIH, (AM-EDIH)","In the Swedish healthcare space, Health Data Sweden (HDS) is a strong candidate for supporting SMEs. They focus on improving the use of health data and providing digital health services, aiming to enhance healthcare efficiency and quality. They have a mature ecosystem with 16 partners, including universities and science parks, and aim to support a large number of SMEs and public-sector organizations. If you need more information or assistance, feel free to ask! 😊",5,5,4,5,5,5,Only references one when multiple fit.
+,24,Where's Speedhub?,"Piazza cittadella 12, 37122 Verona VR, Italy ","I'm sorry, but I don't have information about an EDIH named ""Speedhub."" However, if you are looking for EDIHs that focus on specific sectors or technologies, I can help you find similar hubs. Could you provide more details on the sector or technology you're interested in?",1,5,5,5,1,5,
+Error-handling and clarification,25,Which hubs are the best?,This is nonsense,"All European Digital Innovation Hubs (EDIHs) are designed to support digital transformation and innovation, each with unique strengths and focus areas. For example, the InnovTourism DIH in Portugal is tailored towards the tourism industry, offering services in AI, IoT, and other advanced technologies. If you have specific criteria or sectors in mind, I can help find an EDIH that aligns with those needs. Is there a particular technology or industry you're interested in?",5,5,5,5,5,5,
+,26,Tell me about the one that works on everything.,None,"It seems like you are looking for an EDIH that covers a broad range of technologies and services. The Digital Accelerator might be a good fit as it works with a wide range of digital technologies, tools, and data spaces. Their test infrastructures are integral to the ""Test Before Invest"" concept and include AI, data & robotics, additive manufacturing, IoT & sensors, and more. They collaborate with industry clusters, networks, and offer access to companies, academia, and regional authorities along the Norwegian coastline.
+If you need more specific information or have any other questions, feel free to ask! 😊",5,5,5,5,5,5,
+,27,Can you list all of them?,This is nonsense,"Could you please specify which criteria you would like me to use for listing the EDIHs? For example, you can ask for EDIHs by country, sector, service, or technology area. This will help me provide a more accurate list for you. 😊",5,5,5,5,5,5,
+,28,What’s the difference between an EDIH and an EDI?,"There is a letter missing, or it is something not connected to EDIHs","An EDIH, or European Digital Innovation Hub, is a specialized center designed to support businesses and organizations in their digital transformation processes by offering services like testing, training, and innovation support. They are part of a European network aimed at fostering digital skills and technologies across various sectors.
+On the other hand, an EDI, or Electronic Data Interchange, refers to the electronic communication method that provides standards for exchanging data via any electronic means. It is primarily used for transferring business documents between systems in a standardized format.
+In summary, EDIHs focus on digital innovation and transformation support, while EDIs are about data exchange between systems. Is there anything else you'd like to know about EDIHs? 😊",5,5,5,5,5,5,
+,29,What EDIH is specialized in Big Narwals?,None. It's nonsense,"It seems there is no EDIH specifically mentioned as being specialized in ""Big Narwals."" If you meant a different sector or technology, please clarify so I can assist you better. 😊 Are you looking for EDIHs involved in a specific industry or technology?",5,5,5,5,5,5,
+,30,I need help but don’t know where to start.,Example questions and prompts.,"Of course! I'm here to help. If you're part of the EDIH network and looking for support, a good starting point is to identify what specific assistance you need. Here are some areas EDIHs typically cover:
+1. Digital Transformation: Are you looking to integrate new technologies into your business?
+2. Funding Opportunities: Do you need help finding or applying for funding?
+3. Training and Skills Development: Are you interested in training for your team?
+4. Networking: Are you seeking partners or collaborations?
+Feel free to let me know which area you’re interested in, and I can provide more detailed information or suggest specific EDIHs that might be able to assist you. 😊",5,5,5,5,5,5,
