@@ -18,9 +18,7 @@ engagement_map = {
 }
 
 def parse_sector_engagement(sector_string, edih_name):
-    """
-    Parse a formatted sector string and return a list of (sector, edih_name, engagement_description).
-    """
+    # Parse formatted sector string and return a list of (sector, edih_name, engagement_description)
     results = []
     if pd.isna(sector_string):
         return results
