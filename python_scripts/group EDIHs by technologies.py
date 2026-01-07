@@ -18,9 +18,7 @@ engagement_map = {
 }
 
 def parse_technology_engagement(technology_string, edih_name):
-    """
-    Parse a formatted technology string and return a list of (technology, edih_name, engagement_description).
-    """
+    # Parse formatted technology string and return a list of (technology, edih_name, engagement_description)
     results = []
     if pd.isna(technology_string):
         return results
