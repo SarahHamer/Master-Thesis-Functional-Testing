@@ -14,7 +14,7 @@ MAX_TOKENS = 6000
 
 # Helper functions
 def extract_unique_labels(field_series):
-    """Extract unique labels (before ' - ' in the string) from a field."""
+    # Extract unique labels (before ' - ' in the string) from a field
     labels = set()
     for field in field_series.dropna():
         for item in field.split(","):
@@ -71,4 +71,4 @@ for i, chunk in enumerate(chunks, start=1):
     with open(f"{output_base}{i}.txt", "w", encoding="utf-8") as f:
         f.write(chunk)
 
-print(f"✅ Done. {len(chunks)} file(s) written.")
+print(f"Finished. {len(chunks)} file(s) written.")
